@@ -18,6 +18,9 @@ like this:
 
 avconv -i movie.mkv -ss 0:31:10 -t 0:03:36 -c copy LetItGo.mkv
 
+Create a symbolic link "Audio" to a directory containing audio files, or add
+them directly to this directory, to enable the make_video script.
+
 The English file is also a template. Add transcription (and transliteration,
 for languages not using the Latin alphabet) and translation, section by
 section, and that's the file. Keep the per-section headers as they are; the
