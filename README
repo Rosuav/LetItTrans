@@ -8,3 +8,20 @@ various people from around the internet; see the individual files or check
 here for credits. Ideally, I would like contributions to be licensed under a
 Creative Commons attribution/share-alike license (CC-BY-SA 3.0); all my own
 work in this project is so licensed.
+
+"25 languages.srt" alone is special. It's designed to go with the "Behind the
+Mic" video, https://www.youtube.com/watch?v=BS0T8Cd4UhA - the positions are
+slightly different, as it has an extended introduction. All the rest, though,
+are designed to tie in nicely with the published "complete set" as available
+on iTunes and Amazon etc; you can create a video clip using avconv or ffmpeg
+like this:
+
+avconv -i movie.mkv -ss 0:31:10 -t 0:03:36 -c copy LetItGo.mkv
+
+The English file is also a template. Add transcription (and transliteration,
+for languages not using the Latin alphabet) and translation, section by
+section, and that's the file. Keep the per-section headers as they are; the
+positions should all be correct, and if they're not, they'll need to be fixed
+for all srt files.
+
+Contribute if you can, and enjoy what others have made... and enjoy Frozen. :)
