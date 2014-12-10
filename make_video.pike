@@ -21,7 +21,7 @@ int main(int argc,array(string) argv)
 	nextarg: foreach (argv[1..],string fn)
 	{
 		sscanf(lower_case(utf8_to_string(fn)),"%s - %s.srt",string lang,string tit);
-		foreach (dir,string f) if (has_value(lower_case(f),lang) || has_value(lower_case(f),tit))
+		foreach (dir,string f) if (has_value(lower_case(f),lang))
 		{
 			write("Creating: %O\n",lang);
 			Process.create_process(({"avconv",
@@ -33,6 +33,7 @@ int main(int argc,array(string) argv)
 			}))->wait();
 			continue nextarg;
 		}
+		//TODO: Possibly search for the title too - though this can have false positives
 		write("Not found: %s\n",fn);
 	}
 }
