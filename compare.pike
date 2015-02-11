@@ -7,6 +7,7 @@ void nextline(object self,int dir)
 	foreach (srt;int row;array para)
 	{
 		para=String.trim_all_whites(para[pos])/"\n";
+		//Use para[-2] instead of para[2] to show the transliterated form (where available) rather than the original.
 		catch {ef1[row]->set_text(para[2]);};
 		ef2[row]->set_text(para[-1]);
 	}
