@@ -1,5 +1,3 @@
-constant audio_sources="Audio"; //Point this to the directory where you have the audio files eg CD1, CD2 - will search it recursively for files
-
 array(string) allfiles(string path)
 {
 	array(string) files=get_dir(path);
@@ -16,7 +14,7 @@ array(string) allfiles(string path)
 
 int main()
 {
-	array(string) dir=glob("*.mp3",utf8_to_string(allfiles(audio_sources)[*]));
+	array(string) dir=glob("*.mp3",utf8_to_string((allfiles("Audio/CD1")+allfiles("Audio/CD2"))[*]));
 	dir-=glob("*End Credit Version*",dir); //Ignore the Demi versions
 	foreach (get_dir(),string fn) if (has_suffix(fn,".srt"))
 	{
