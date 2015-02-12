@@ -6,7 +6,6 @@ array(string) allfiles(string path)
 int main()
 {
 	array(string) dir=glob("*.mp3",utf8_to_string((allfiles("Audio/CD1")+allfiles("Audio/CD2"))[*]));
-	dir-=glob("*End Credit Version*",dir); //Ignore the Demi versions
 	foreach (get_dir(),string fn) if (has_suffix(fn,".srt"))
 	{
 		sscanf(lower_case(utf8_to_string(fn)),"%s - %s.srt",string lang,string tit);
