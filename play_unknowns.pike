@@ -1,15 +1,6 @@
 array(string) allfiles(string path)
 {
-	array(string) files=get_dir(path);
-	if (!files) return ({ });
-	array(string) ret=({ });
-	foreach (sort(files),string f)
-	{
-		f=combine_path(path,f);
-		if (file_stat(f)->isdir) ret+=allfiles(f);
-		else ret+=({f});
-	}
-	return ret;
+	return combine_path(path,get_dir(path)[*]);
 }
 
 int main()
