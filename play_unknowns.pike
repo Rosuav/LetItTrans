@@ -18,7 +18,6 @@ int main()
 {
 	array(string) dir=glob("*.mp3",utf8_to_string(allfiles(audio_sources)[*]));
 	dir-=glob("*End Credit Version*",dir); //Ignore the Demi versions
-	foreach (({"*Arabic*","*Cantonese*","*Hebrew*","*Japanese*"}),string oldformat) dir-=glob(oldformat,dir); //Hack: Ignore the ones that I have in an alternate format
 	foreach (get_dir(),string fn) if (has_suffix(fn,".srt"))
 	{
 		sscanf(lower_case(utf8_to_string(fn)),"%s - %s.srt",string lang,string tit);
