@@ -25,6 +25,7 @@ int main(int argc,array(string) argv)
 		{
 			write("Creating: %O\n",lang);
 			Process.create_process(({"avconv",
+				//"-itsoffset","0.250",
 				"-i","LetItGo.mkv",
 				"-i",string_to_utf8(f),
 				"-i",fn,
