@@ -25,12 +25,12 @@ int main(int argc,array(string) argv)
 				//If you now examine "[["+parseme+"]]", it should be a JSON array of two-element arrays
 				//where the first is the English backtranslation and the second is the original text,
 				//for each section. We just want the first part.
-				array parts=String.trim_all_whites(array_sscanf((parseme/"],[")[*],"%O,%*O")[*][0][*]);
+				array parts=array_sscanf((parseme/"],[")[*],"%O,%*O")[*][0];
 				//GTrans sometimes returns final punctuation after a space. Trim out the space.
 				mapping punct=([]); foreach (",.!:"/1,string ch) punct[" "+ch]=ch;
 				parts=replace(parts[*],punct);
 				foreach (parts;int i;string p) if (sizeof(p)>2 && p[-2]==' ' && (<',','.','!',':'>)[p[-1]]) parts[i]=p[..<2]+p[<0..];
-				string trans=parts*" ";
+				string trans=parts*"";
 				input[i]+=({"["+trans+"]"}); //Note that this is done even if the translation fails, and will prevent it being redone.
 				write("Translated:\n%{%s\n%}\n",string_to_utf8(input[i][*]));
 				sleep(1); //Voluntarily rate-limit our usage
