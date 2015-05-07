@@ -27,7 +27,7 @@ int main(int argc,array(string) argv)
 				//for each section. We just want the first part.
 				array parts=array_sscanf((parseme/"],[")[*],"%O,%*O")[*][0];
 				//GTrans sometimes returns final punctuation after a space. Trim out the space.
-				mapping punct=([]); foreach (",.!:?"/1,string ch) punct[" "+ch]=ch;
+				mapping punct=([]); foreach (",.!:?'\""/1,string ch) punct[" "+ch]=ch;
 				parts=replace(parts[*],punct);
 				foreach (parts;int i;string p) if (sizeof(p)>2 && p[-2]==' ' && (<',','.','!',':'>)[p[-1]]) parts[i]=p[..<2]+p[<0..];
 				string trans=parts*"";
