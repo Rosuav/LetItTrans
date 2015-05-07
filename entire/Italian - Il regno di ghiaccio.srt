@@ -801,7 +801,7 @@ I miei occhi non vedono l'ora d'ammirare la regina e la principessa.
 00:12:42,520 --> 00:12:44,679
 I bet they are absolutely lovely.
 Scommetto che sono molto carine.
-[I bet you are very pretty.]
+[I bet they are very pretty.]
 
 00:12:44,680 --> 00:12:46,882
 I bet they are beautiful.
@@ -810,45 +810,73 @@ Io scommetto che sono bellissime.
 
 00:12:51,600 --> 00:12:53,519
 Princess Anna?
+Principessa Anna?
+[Princess Anna?]
 
 00:12:53,520 --> 00:12:55,802
 Huh? Yeah?
+Sì?
+[Yes?]
 
 00:12:56,480 --> 00:12:57,879
 Sorry to wake you, ma'am.
+Perdonate se vi ho svegliata, Altezza.
+[Forgive me if I woke you up, Highness.]
 
 00:12:57,880 --> 00:12:59,719
 No, no, no, you didn't.
+No, no per niente.
+[No, no not at all.]
 
 00:12:59,720 --> 00:13:01,490
 I've been up for hours.
+Sono sveglia da ore.
+[I'm awake, for hours.]
 
 00:13:05,760 --> 00:13:07,166
 Who is it?
+Chi è?
+[Who is it?]
 
 00:13:07,200 --> 00:13:08,879
 Still me, ma'am.
+Sono sempre io, Altezza.
+[Still me, Highness.]
 
 00:13:08,880 --> 00:13:11,759
 The gates will open soon. Time to get ready.
+Presto le porte saranno aperte. Dovete prepararvi.
+[Soon the doors will be open. You must get ready.]
 
 00:13:11,760 --> 00:13:13,839
 Of course.
+Ma certo.
+[Of course.]
 
 00:13:13,840 --> 00:13:15,079
 Ready for what?
+Prepararmi per cosa?
+[Get ready for what?]
 
 00:13:15,080 --> 00:13:17,639
 Your sister's coronation, ma'am.
+L'incoronazione di vostra sorella, Altezza.
+[The coronation of your sister, Highness.]
 
 00:13:17,640 --> 00:13:20,161
 My sister's corneration.
+"La cronazione" di mia sorella.
+[The "cronazione" of my sister.]
 
 00:13:22,720 --> 00:13:24,919
 It's Coronation Day!
+Il giorno dell'incoronazione!
+[The day of the coronation!]
 
 00:13:27,040 --> 00:13:29,163
 It's Coronation Day!
+Il giorno dell'incoronazione!
+[The day of the coronation!]
 
 00:13:30,200 --> 00:13:31,399
 The window is open!
