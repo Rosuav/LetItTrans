@@ -1200,36 +1200,56 @@ Hey!
 
 00:17:08,120 --> 00:17:09,651
 I'm so sorry. Are you hurt?
+Sono desolato, ti sei fatta male?
+[I'm sorry, did you hurt yourself?]
 
 00:17:10,360 --> 00:17:11,959
 Hey.
+Ciao.
+[Hello.]
 
 00:17:11,960 --> 00:17:13,959
 Uh... No, no, I'm okay.
+No, tutto bene.
+[No, all right.]
 
 00:17:13,960 --> 00:17:15,159
 Are you sure?
+Sicura?
+[You sure?]
 
 00:17:15,160 --> 00:17:17,919
 Yeah. I just wasn't looking where I was going.
+Sì, ero sovrappensiero.
+[Yes, I was lost in thought.]
 
 00:17:17,920 --> 00:17:20,202
 But I'm great, actually.
+Ma sto bene, davvero.
+[But I'm fine, really.]
 
 00:17:20,480 --> 00:17:22,489
 Oh... Thank goodness.
+Grazie al cielo.
+[Thank Heaven.]
 
 00:17:26,040 --> 00:17:27,399
 Oh! Uh...
 
 00:17:27,400 --> 00:17:29,329
 Prince Hans of the Southern Isles.
+Principe Hans delle Isole del Sud.
+[Prince Hans of Southern Islands.]
 
 00:17:29,640 --> 00:17:31,649
 Princess Anna of Arendelle.
+Principessa Anna di Arendelle.
+[Princess Anne of Arendelle.]
 
 00:17:31,680 --> 00:17:33,119
 "Princess"? My Lady.
+"Principessa"? Milady.
+["Princess"? Milady.]
 
 00:17:33,120 --> 00:17:34,526
 Oh!
@@ -1242,66 +1262,108 @@ Um... Whew.
 
 00:17:37,880 --> 00:17:39,279
 Hi. Again.
+Ciao. Di nuovo.
+[Hello. Again.]
 
 00:17:39,280 --> 00:17:41,209
 Oh, boy!
+Oh, perbacco!
+[Oh my!]
 
 00:17:41,760 --> 00:17:43,039
 This is awkward.
+Imbarazzante.
+[Embarrassing.]
 
 00:17:43,040 --> 00:17:44,719
 Not "You're awkward", but just because we're...
+No, non tu, ma solo perché siamo...
+[No, not you, but only because we...]
 
 00:17:44,720 --> 00:17:47,241
 I'm awkward, you're gorgeous. Wait, what?
+Io sono imbarazzante, tu sei bellissimo. Aspetta, che?
+[I'm awkward, you're beautiful. Wait, what?]
 
 00:17:47,360 --> 00:17:48,519
 I'd like to formally apologize
+Mi scuso per aver urtato
+[I apologize for hitting]
 
 00:17:48,520 --> 00:17:50,927
 for hitting the princess of Arendelle with my horse.
+la principessa di Arendelle.
+[the princess of Arendelle.]
 
 00:17:51,560 --> 00:17:53,199
 And for every moment after.
+E per tutto il resto.
+[And for everything else.]
 
 00:17:53,200 --> 00:17:54,799
 No! No, no. It's fine.
+No, fa niente.
+[No, that's okay.]
 
 00:17:54,800 --> 00:17:56,119
 I'm not that princess.
+Io non sono così.
+[I'm not so.]
 
 00:17:56,120 --> 00:17:57,879
 I mean, if you had hit my sister Elsa,
+Se avessi urtato mia sorella Elsa,
+[If I hit my sister Elsa,]
 
 00:17:57,880 --> 00:17:59,719
 it would be... Yeesh!
+sarebbe stato un...
+[It would be a...]
 
 00:17:59,720 --> 00:18:01,279
 Because, you know...
+Perché, sai...
+[Because, you know...]
 
 00:18:01,280 --> 00:18:02,679
 Hello.
+Ciao.
+[Hello.]
 
 00:18:02,680 --> 00:18:04,484
 But, lucky you,
+Ma per tua fortuna...
+[But lucky for you...]
 
 00:18:04,640 --> 00:18:06,444
 It's just me.
+sono solo io.
+[I'm just me.]
 
 00:18:06,840 --> 00:18:08,087
 "Just" you?
+"Solo" tu?
+["Only you?]
 
 00:18:15,520 --> 00:18:17,245
 The bells. The coronation.
+Le campane, l'incoronazione.
+[The bells, the coronation.]
 
 00:18:17,280 --> 00:18:19,359
 I better go.
+Meglio che vada.
+[I better go.]
 
 00:18:19,360 --> 00:18:22,131
 I have to go. I better go. Uh...
+Devo andare. Meglio che vada.
+[I have to go. I better go.]
 
 00:18:22,520 --> 00:18:23,801
 Bye!
+Addio.
+[Goodbye.]
 
 00:18:25,520 --> 00:18:27,324
 Oh, no. Oh!
