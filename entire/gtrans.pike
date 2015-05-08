@@ -21,7 +21,7 @@ int main(int argc,array(string) argv)
 					(["User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36"])
 				);
 				//Hacky means of parsing it out. VERY hacky.
-				sscanf(result,"[[[%s]]",string parseme); if (!parseme) parseme="";
+				sscanf(utf8_to_string(result),"[[[%s]]",string parseme); if (!parseme) parseme="";
 				//If you now examine "[["+parseme+"]]", it should be a JSON array of two-element arrays
 				//where the first is the English backtranslation and the second is the original text,
 				//for each section. We just want the first part.
