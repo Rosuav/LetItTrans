@@ -1065,38 +1065,38 @@ Un'opportunità.
 
 00:15:43,960 --> 00:15:45,969
 <i>Don't let them in</i>
-# Non dire mai
-# Never tell...
+<i>Non dire mai</i>
+<i>Never tell...</i>
 
 00:15:46,200 --> 00:15:48,402
 <i>Don't let them see</i>
-# La verità.
-# ... the truth.
+<i>La verità.</i>
+<i>... the truth.</i>
 
 00:15:48,680 --> 00:15:51,930
 <i>Be the good girl you always have to be</i>
-# Se sei brava, nessuno lo saprà.
-# If you're a good girl, nobody will know.
+<i>Se sei brava, nessuno lo saprà.</i>
+<i>If you're a good girl, nobody will know.</i>
 
 00:15:53,760 --> 00:15:57,251
 <i>Conceal, don't feel</i>
-# Celare, domare
-# Conceal, quell
+<i>Celare, domare</i>
+<i>Conceal, quell</i>
 
 00:15:57,400 --> 00:15:59,443
 <i>Put on a show</i>
-# Perché io so
-# Because I know...
+<i>Perché io so</i>
+<i>Because I know...</i>
 
 00:15:59,840 --> 00:16:03,891
 <i>Make one wrong move and everyone will know</i>
-# Che è un segreto e lo proteggerò.
-# ... it's a secret and I'll protect it.
+<i>Che è un segreto e lo proteggerò.</i>
+<i>... it's a secret and I'll protect it.</i>
 
 00:16:05,080 --> 00:16:07,719
 <i>But it's only for today</i>
-# Proprio oggi, tuttavia
-# Just today, though,
+<i>Proprio oggi, tuttavia</i>
+<i>Just today, though,</i>
 
 00:16:06,680 --> 00:16:09,249
 It's only for today
@@ -1105,8 +1105,8 @@ Today, however,
 
 00:16:07,720 --> 00:16:10,685
 <i>It's agony to wait</i>
-# L'attesa è un'agonia.
-# Waiting is agony.
+<i>L'attesa è un'agonia.</i>
+<i>Waiting is agony.</i>
 
 00:16:09,250 --> 00:16:10,685
 It's agony to wait
@@ -1115,13 +1115,13 @@ Waiting is agony!
 
 00:16:10,840 --> 00:16:13,691
 <i>Tell the guards to open up</i>
-# Ma ormai lo show avrà
-# But now the show will
+<i>Ma ormai lo show avrà</i>
+<i>But now the show will</i>
 
 00:16:14,200 --> 00:16:18,928
 <i>The gate</i>
-# Il via!
-# Start!
+<i>Il via!</i>
+<i>Start!</i>
 
 00:16:16,680 --> 00:16:18,928
 The gate
@@ -1135,8 +1135,8 @@ Today, for the first time
 
 00:16:22,240 --> 00:16:27,409
 <i>Don't let them in, don't let them see</i>
-# Non dire mai la verità.
-# Never tell the truth.
+<i>Non dire mai la verità.</i>
+<i>Never tell the truth.</i>
 
 00:16:23,600 --> 00:16:27,439
 I'm getting what I'm dreaming of
@@ -1145,8 +1145,8 @@ Life might change
 
 00:16:27,440 --> 00:16:33,079
 <i>Be the good girl you always have to be</i>
-# Se sei brava, nessuno lo saprà.
-# If you're a good girl, nobody will know.
+<i>Se sei brava, nessuno lo saprà.</i>
+<i>If you're a good girl, nobody will know.</i>
 
 00:16:29,840 --> 00:16:34,399
 A chance to change my lonely world
@@ -1155,8 +1155,8 @@ Till now I've been alone, but...
 
 00:16:33,080 --> 00:16:34,399
 <i>Conceal</i>
-# Celare
-# Conceal
+<i>Celare</i>
+<i>Conceal</i>
 
 00:16:34,400 --> 00:16:39,799
 A chance to find true love
@@ -1165,8 +1165,8 @@ Da oggi, chi lo sa.
 
 00:16:37,720 --> 00:16:41,959
 <i>Conceal, don't feel, don't let them know</i>
-# Dovrai soffrire, ancora un po'.
-# You'll have to suffer a little
+<i>Dovrai soffrire, ancora un po'.</i>
+<i>You'll have to suffer a little</i>
 
 00:16:39,800 --> 00:16:41,959
 I know it all ends tomorrow
