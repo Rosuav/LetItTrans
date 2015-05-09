@@ -6,7 +6,7 @@ int main(int argc,array(string) argv)
 		//language="auto"; //Or use "Detect Language" mode. Probably not a good idea for short clips.
 		array(array(string)) input=(String.trim_all_whites(utf8_to_string(Stdio.read_file(fn)))/"\n\n")[*]/"\n";
 		int engonly=0,trans=0,gtrans=0;
-		int changed=0;
+		int changed=0,ital=0;
 		foreach (input;int i;array(string) para) switch (sizeof(para))
 		{
 			case 2: engonly++; break; //English text only - nothing to do (but keep stats)
@@ -37,13 +37,23 @@ int main(int argc,array(string) argv)
 				changed++;
 				break;
 			}
-			case 4: if (para[3][0]=='[') gtrans++; else trans++; break; //Has subs and trans; keep stats separately based on GTrans or not
+			case 4:
+			{
+				if (para[3][0]=='[') gtrans++; else trans++; //Has subs and trans; keep stats separately based on GTrans or not
+				//Check to see if the English is italicized. If it is, make sure the other lines are too.
+				if (has_prefix(para[1],"<i>"))
+				{
+					for (int i=2;i<4;++i) if (!has_prefix(para[i],"<i>")) {para[i]="<i>"+para[i]+"</i>"; ital++;}
+				}
+				break;
+			}
 			default: write("Unknown para len %d on para %d\n",sizeof(para),i); //Probably broken input
 		}
 		write("English-only: %d\nWith subs and GTrans: %d\nWith subs and proper trans: %d\n",engonly,gtrans,trans);
-		if (changed)
+		if (changed || ital)
 		{
-			write("%d new GTranslations made.\n",changed);
+			if (changed) write("%d new GTranslations made.\n",changed);
+			if (ital) write("%d italicizations made.\n",ital);
 			Stdio.write_file(fn,string_to_utf8(input[*]*"\n"*"\n\n"+"\n"));
 		}
 	}
