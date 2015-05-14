@@ -3273,7 +3273,7 @@ Ah, sì? Qual è il suo cognome?
 00:41:18,960 --> 00:41:21,559
 "Of the Southern Isles."
 "Delle Isole del Sud."
-[" Islands of the South."]
+["Islands of the South."]
 
 00:41:21,560 --> 00:41:22,999
 What's his favorite food? - Sandwiches.
