@@ -227,8 +227,8 @@ Guarda questo!
 
 00:04:46,720 --> 00:04:49,839
 Hi, I'm Olaf, and I like warm hugs.
-Ciao, lo sono Olaf, e amo i caldi abbracci.
-[Hello, I am Olaf, and I love the warm hugs.]
+Ciao, io sono Olaf, e amo i caldi abbracci.
+[Hello, I'm Olaf, and I love the warm hugs.]
 
 00:04:49,840 --> 00:04:51,644
 I love you, Olaf!
