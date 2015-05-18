@@ -4759,157 +4759,257 @@ Voglio solo proteggerti.
 00:55:42,760 --> 00:55:45,611
 You don't have to protect me. I'm not afraid.
 Non devi proteggermi, io non ho paura.
-[You do not have to protect me, I'm not afraid.]
+You don't have to protect me, I'm not afraid.
 
 00:55:46,160 --> 00:55:48,283
 Please don't shut me out again.
+Non escludermi di nuovo dalla tua vita.
+Don't cut me off from your life again.
 
 00:55:48,440 --> 00:55:50,519
 Please don't slam the door
+Dai, non dirmi no
+Come on, don't tell me no
 
 00:55:50,520 --> 00:55:54,599
 You don't have to keep your distance anymore
+Non dovrai scappare adesso che lo so
+You won't have to run away now that I know
 
 00:55:54,600 --> 00:55:57,610
 'Cause for the first time in forever
+Posso aiutarti per davvero
+I can really help you
 
 00:55:57,800 --> 00:55:59,799
 I finally understand
+Tu fidati di me
+Just trust me
 
 00:55:59,800 --> 00:56:02,159
 For the first time in forever
+Tutto quello che volevo
+All I wanted
 
 00:56:02,160 --> 00:56:04,439
 We can fix this hand in hand
+Era stare accanto a te
+Was to stay by you
 
 00:56:04,440 --> 00:56:06,608
 We can head down this mountain together.
+Insieme risolveremo tutto
+We'll settle everything together
 
 00:56:06,680 --> 00:56:09,639
 You don't have to live in fear
+E vedrai, sarà così
+And you'll see, that's how it's going to be
 
 00:56:09,640 --> 00:56:13,561
 'Cause for the first time in forever
+Tutto è diverso perché adesso
+Everything is different because now
 
 00:56:13,640 --> 00:56:16,919
 I will be right here
+Hai un'amica qui.
+You've got a friend here.
 
 00:56:16,920 --> 00:56:18,199
 <i>Anna.</i>
+<i>Anna...</i>
+<i>Anna...</i>
 
 00:56:18,200 --> 00:56:20,119
 <i>Please go back home</i>
+<i>Mi domandi troppo,</i>
+<i>You're asking too much of me,</i>
 
 00:56:20,120 --> 00:56:21,890
 <i>Your life awaits</i>
+<i>dai retta a me</i>
+<i>listen to me</i>
 
 00:56:22,760 --> 00:56:26,239
 <i>Go enjoy the sun, and open up the gates</i>
+<i>Non c'è nulla qua per una coma te</i>
+<i>There's nothing here for someone like you</i>
 
 00:56:26,240 --> 00:56:27,350
 Yeah, but...
+Sì, ma...
+Yes, but...
 
 00:56:26,970 --> 00:56:27,719
 <i>I know.</i>
+<i>Lo so</i>
+<i>I know</i>
 
 00:56:27,720 --> 00:56:32,050
 <i>You mean well, but leave me be</i>
+<i>Tu pensi che mi aiuterai</i>
+<i>You think you're going to help me</i>
 
 00:56:32,120 --> 00:56:33,559
 <i>Yes, I'm alone</i>
+<i>Ma senza me...</i>
+<i>But without me...</i>
 
 00:56:33,560 --> 00:56:36,519
 <i>But I'm alone and free</i>
+<i>... problemi non ne avrai</i>
+<i>... you'll have no problems</i>
 
 00:56:36,520 --> 00:56:41,282
 <i>Just stay away and you'll be safe from me</i>
+<i>E non dovrai più preoccuparti ormai</i>
+<i>And you won't need to worry any more</i>
 
 00:56:42,320 --> 00:56:43,521
 Actually, we're not
+Sai, non è così
+Well, this isn't the way it is
 
 00:56:43,680 --> 00:56:44,950
 <i>What do you mean, you're not?</i>
+<i>Come non è così?</i>
+<i>What do you mean, this isn't the way it is?</i>
 
 00:56:44,760 --> 00:56:46,450
 I get the feeling you don't know
+Non puoi saperlo neanche tu
+Not even you can know it
 
 00:56:46,320 --> 00:56:47,681
 <i>What do I not know?</i>
+<i>Parla, forza, su!</i>
+<i>Speak out, come on!</i>
 
 00:56:48,000 --> 00:56:51,399
 Arendelle's in deep, deep, deep
+Lì la neve è sempre, sempre, sempre, sempre
+The snow is getting always, always, always, always...
 
 00:56:51,400 --> 00:56:53,682
 deep snow
+... di più
+... more
 
 00:56:53,840 --> 00:56:55,041
+<i>What?</i>
+<i>Cosa?</i>
 <i>What?</i>
 
 00:56:55,320 --> 00:56:59,002
 You kind of set off an eternal winter everywhere.
+Hai portato un inverno perenne... ovunque
+You've brought a perpetual winter... everywhere
 
 00:56:59,200 --> 00:57:00,359
+<i>Everywhere?</i>
+<i>Ovunque?</i>
 <i>Everywhere?</i>
 
 00:57:00,360 --> 00:57:02,279
 Well, it's okay, you can just unfreeze it.
+Ma non fa niente, puoi sciogliere tutto
+But it doesn't matter, you can thaw everything out
 
 00:57:02,280 --> 00:57:04,528
 <i>No, I can't. I don't know how.</i>
+<i>No, non posso. Non so come fare!</i>
+<i>No, I can't. I don't know how!</i>
 
 00:57:04,560 --> 00:57:07,081
+Sure you can. I know you can.
+Certo che puoi. Io so che puoi.
 Sure you can. I know you can.
 
 00:57:07,200 --> 00:57:12,401
 'Cause for the first time in forever
+Avrò la forza per restare
+I'll have the strength to stay
 
 00:57:09,450 --> 00:57:15,519
 <i>Oh, I'm such a fool! I can't be free!</i>
+<i>Non avrò mai la libertà!</i>
+<i>I'll never have my freedom!</i>
 
 00:57:12,650 --> 00:57:17,950
 You don't have to be afraid
+Non dovrai scappare, sai
+You won't have to run away, you know
 
 00:57:15,920 --> 00:57:18,839
 <i>No escape from the storm inside of me</i>
+<i>Sono in trappola e nulla cambierà</i>
+<i>I'm trapped and nothing will change</i>
 
 00:57:18,040 --> 00:57:21,839
 We can work this out together
+Sul mio aiuto puoi contare
+You can rely on my help
 
 00:57:20,840 --> 00:57:22,819
 <i>I can't control the curse!</i>
+<i>Che faccio d'ora io poi?</i>
+<i>What shall I do from now on?</i>
 
 00:57:22,720 --> 00:57:26,639
 We'll reverse the storm you've made
+Non sei più da sola ormai
+You're no longer alone
 
 00:57:26,040 --> 00:57:29,219
 <i>Anna, please you'll only make it worse!</i>
+<i>Anna, vuoi salvarmi ma non puoi!</i>
+<i>Anna, you want to save me but you can't!</i>
 
 00:57:29,120 --> 00:57:31,019
 Don't panic!
+Tranquilla
+Don't worry
 
 00:57:29,820 --> 00:57:31,319
 <i>There's so much fear!</i>
+<i>È colpa mia!</i>
+<i>It's my fault!</i>
 
 00:57:31,020 --> 00:57:33,919
 We'll make the sun shine bright
+Vedrai, funzionerà
+You'll see, it's going to work
 
 00:57:32,820 --> 00:57:35,319
 <i>You're not safe here!</i>
+<i>Non c'è altra via!</i>
+<i>There's no other way!</i>
 
 00:57:34,320 --> 00:57:37,119
 We can face this thing together
+Se le forze uniremo
+If we join our forces
 
 00:57:35,840 --> 00:57:38,119
+<i>No!</i>
+<i>No!</i>
 <i>No!</i>
 
 00:57:37,120 --> 00:57:39,279
 We can change this winter weather
+So che noi ci riusciremo
+I know we can make it
 
 00:57:39,280 --> 00:57:42,768
 And everything will be all right
+E la bufera passerà
+And the storm will blow over
 
 00:57:43,320 --> 00:57:45,761
 <i>I can't!</i>
+<i>Vai via!</i>
+<i>Begone!</i>
 
 00:57:53,240 --> 00:57:54,441
 Anna!
