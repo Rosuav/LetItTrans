@@ -5317,27 +5317,43 @@ Olaf!
 
 01:01:05,320 --> 01:01:07,999
 I can't feel my legs! I can't feel my legs!
+Non mi sento più le gambe!
+[I do not feel my legs!]
 
 01:01:09,680 --> 01:01:11,559
 Those are my legs.
+Quelle sono le mie gambe.
+[Those are my legs.]
 
 01:01:11,560 --> 01:01:13,079
 Oooh. Hey, do me a favor, grab my butt.
+Mi acchiappi le chiappe?
+[I catch me your ass?]
 
 01:01:13,080 --> 01:01:15,169
 Oh. That feels better.
+Va meglio!
+[It goes better!]
 
 01:01:15,400 --> 01:01:17,921
 Hey, Sven! He found us.
+Sven! Ci ha trovati!
+[Sven! He found us!]
 
 01:01:18,240 --> 01:01:20,159
 Who's my cute little reindeer?
+La mia rennetta dolce!
+[My rennetta sweet!]
 
 01:01:20,160 --> 01:01:22,279
 Don't talk to him like that.
+Non parlargli così!
+[Do not talk like that!]
 
 01:01:22,280 --> 01:01:24,164
 You're tickling me.
+Che solletico!
+[That tickles!]
 
 01:01:25,000 --> 01:01:26,281
 Here.
@@ -5347,30 +5363,48 @@ Whoa!
 
 01:01:27,600 --> 01:01:28,799
 Are you okay?
+Tutto bene?
+[All right?]
 
 01:01:28,800 --> 01:01:30,365
 Thank you.
+Grazie.
+[Thank you.]
 
 01:01:31,200 --> 01:01:32,526
 How's your head? - Ah! Ooh!
+Come va la testa?
+[How's your head?]
 
 01:01:34,120 --> 01:01:35,439
 It's fine. Uh...
+Va bene.
+[All right.]
 
 01:01:35,440 --> 01:01:37,119
 Uh, I'm good. I've got a thick skull.
+Tranquillo. Ho il cranio tosto.
+[Quiet. I have the skull soon.]
 
 01:01:37,120 --> 01:01:39,129
 I don't have a skull.
+Io non ho il cranio.
+[I do not have the skull.]
 
 01:01:39,720 --> 01:01:40,921
 Or bones.
+Né le ossa.
+[Neither the bones.]
 
 01:01:41,120 --> 01:01:43,641
 So, uh... So, now what?
+E ora... che si fa?
+[And now... what?]
 
 01:01:43,960 --> 01:01:45,799
 Now what?
+Che si fa?
+[What do you do?]
 
 01:01:45,800 --> 01:01:47,199
 Now what?
@@ -5380,78 +5414,128 @@ Oh...
 
 01:01:48,600 --> 01:01:50,040
 What am I gonna do?
+Che faccio io?
+[What do I do?]
 
 01:01:50,440 --> 01:01:51,839
 She threw me out.
+Mi ha cacciata via.
+[He was thrown out.]
 
 01:01:51,840 --> 01:01:54,199
 I can't go back to Arendelle with the weather like this.
+Non torno ad Arendelle con questo tempaccio.
+[I get back to Arendelle in this weather.]
 
 01:01:54,200 --> 01:01:55,279
 And then there's your ice business.
+E c'è il tuo commercio di ghiaccio.
+[And there's your trade ice.]
 
 01:01:55,280 --> 01:01:58,006
 Hey, hey. Don't worry about my ice business.
+???
+[???]
 
 01:01:58,920 --> 01:02:00,259
 Worry about your hair!
+Pensa ai tuoi capelli.
+[Think about your hair.]
 
 01:02:00,260 --> 01:02:02,639
 What? I just fell off a cliff. You should see your hair.
+Che? Sono caduta da una rupe. Dovresti vedere i tuoi. 
+[What? I fell off a cliff. You should see your.]
 
 01:02:02,640 --> 01:02:04,359
 No, yours is turning white.
+No, i tuoi diventano bianchi.
+[No, you become white.]
 
 01:02:04,360 --> 01:02:07,279
 White? It's... What?
+Bianchi? È... Che?
+[Bianchi? Is That?]
 
 01:02:07,280 --> 01:02:09,482
 It's because she struck you, isn't it?
+È perché ti ha colpita, vero?
+[It's because he struck you, right?]
 
 01:02:09,840 --> 01:02:11,690
 Does it look bad?
+Mi invecchiano?
+[I get older?]
 
 01:02:12,520 --> 01:02:14,039
 No. - You hesitated.
+No. - Hai esitato.
+[No. - You hesitated.]
 
 01:02:14,040 --> 01:02:15,287
 No, I didn't.
+Non è vero.
+[It's not true.]
 
 01:02:15,440 --> 01:02:17,559
 Anna, you need help, okay? Come on.
+Anna, ti serve aiuto. Andiamo.
+[Anna, you need help. Come on.]
 
 01:02:17,560 --> 01:02:19,250
 Okay! Where are we going?
+Dove andiamo?
+[Where are we going?]
 
 01:02:19,320 --> 01:02:20,359
 To see my friends.
+Dai miei amici.
+[From my friends.]
 
 01:02:20,360 --> 01:02:21,679
 The love experts?
+Gli esperti in amore?
+[Experts in love?]
 
 01:02:21,680 --> 01:02:23,530
 Love experts?
+Esperti in amore?
+[Experts in love?]
 
 01:02:23,800 --> 01:02:26,159
 And don't worry, they'll be able to fix this.
+E tranquilla. ???
+[And quiet. ???]
 
 01:02:26,160 --> 01:02:28,010
 How do you know?
+Come lo sai?
+[How do you know that?]
 
 01:02:28,680 --> 01:02:30,723
 Because I've seen them do it before.
+Gliel'ho già visto fare volta.
+[I've already seen it done once.]
 
 01:02:31,760 --> 01:02:34,159
 I like to consider myself a love expert.
+Amo considerarmi un esperto in amore.
+[I love to consider myself an expert in love.]
 
 01:02:38,720 --> 01:02:40,570
 Get it together.
+Cerca di dominarti.
+[Tries to dominate you.]
 
 01:02:41,000 --> 01:02:42,559
 Control it.
+Controllati.
+[Controlled.]
 
 01:02:42,560 --> 01:02:44,364
 Don't feel. Don't feel.
+Niente ???
+[Nothing???]
 
 01:02:44,720 --> 01:02:46,490
 Don't feel.
@@ -5461,12 +5545,18 @@ Don't feel!
 
 01:03:02,840 --> 01:03:05,407
 Look, Sven, the sky's awake.
+Sven, il cielo è sveglio.
+[Sven, the sky is awake.]
 
 01:03:08,480 --> 01:03:10,569
 Are you cold? - A little.
+Hai freddo? - Un pochino.
+[Are you cold? - A little.]
 
 01:03:13,040 --> 01:03:14,959
 Uh... Wait. Come here.
+Aspetta. Vieni qui.
+[Wait. Come here.]
 
 01:03:14,960 --> 01:03:16,241
 Huh?
@@ -5476,99 +5566,159 @@ Ooh.
 
 01:03:19,440 --> 01:03:22,919
 So, uh, about my friends. Well...
+I miei amici...
+[My friends...]
 
 01:03:22,920 --> 01:03:24,359
 I say "friends"...
+Dico "amici"...
+[I say "friends"...]
 
 01:03:24,360 --> 01:03:26,399
 They're more like family.
+ma sono la mia famiglia.
+[but they are my family.]
 
 01:03:26,400 --> 01:03:29,399
 Anyway, when I was a kid, it was just me and Sven.
+Da piccolo eravamo soli, Sven e io.
+[As a child we were alone, Sven and me.]
 
 01:03:29,400 --> 01:03:31,489
 Until they, you know, kinda took us in.
+Finché non ci hanno presi con loro.
+[Until they have taken with them.]
 
 01:03:31,800 --> 01:03:33,365
 They did?
+Davvero?
+[Really?]
 
 01:03:33,560 --> 01:03:34,679
 Yeah. I don't want to scare you.
+Sì! Non voglio spaventarti.
+[Yes! I do not want to scare you.]
 
 01:03:34,680 --> 01:03:39,119
 They can be a little inappropriate and loud.
+A volte sono sfacciati e chiassosi.
+[Sometimes they are brash and boisterous.]
 
 01:03:39,120 --> 01:03:40,685
 Very loud.
+Molto chiassosi.
+[Very noisy.]
 
 01:03:40,720 --> 01:03:42,679
 They are also stubborn at times,
+Sono anche testardi, talvolta.
+[They are also stubborn, sometimes.]
 
 01:03:42,680 --> 01:03:43,959
 and a little overbearing.
+E prepotenti.
+[And bullies.]
 
 01:03:43,960 --> 01:03:46,759
 And heavy. Really, really, heavy.
+E pesanti. Molto, molto pesanti.
+[And heavy. Very, very heavy.]
 
 01:03:46,760 --> 01:03:49,119
 But you'll get it. They mean well.
+Ma li capirai. Sono buoni.
+[But you will understand. They are good.]
 
 01:03:49,120 --> 01:03:51,448
 Kristoff, they sound wonderful.
 
 01:03:53,360 --> 01:03:54,971
 Okay, then.
+Bene, allora.
+[Well then.]
 
 01:03:55,560 --> 01:03:57,489
 Meet my family.
+Ti presento i miei.
+[Meet the Parents.]
 
 01:03:58,200 --> 01:03:59,401
 Hey, guys.
+Ciao, ragazzi.
+[Hello guys.]
 
 01:03:59,760 --> 01:04:01,450
 They're rocks.
+Sono rocce.
+[They are rocks.]
 
 01:04:01,520 --> 01:04:03,799
 You are a sight for sore eyes.
+Siete una gioia per gli occhi.
+[You are a joy to behold.]
 
 01:04:03,800 --> 01:04:06,731
 He's crazy. - Hey look, ???'s back from vacation!
+È completamente pazzo.
+[It's completely crazy.]
 
 01:04:07,160 --> 01:04:09,488
 Rocko's looking sharp, as usual.
+Rocko, elegante, come sempre.
+[Rocko, elegant, as always.]
 
 01:04:09,560 --> 01:04:11,919
 Clay, whoa... I don't even recognize you.
+Clay, non ti riconoscevo.
+[Clay, did not recognize you.]
 
 01:04:11,920 --> 01:04:13,039
 You lost so much weight.
+Hai perso peso.
+[You lost weight.]
 
 01:04:13,040 --> 01:04:15,999
 I'll distract him while you run.
+Io lo distraggo tu scappa.
+[I distracted you run.]
 
 01:04:16,000 --> 01:04:18,123
 Hi, Sven's family!
+Ciao famiglia di Sven!
+[Hello family of Sven!]
 
 01:04:18,200 --> 01:04:20,801
 It's nice to meet you.
+Piacere!
+[Pleasure!]
 
 01:04:20,960 --> 01:04:23,439
 Because I love you, Anna, I insist you run.
+Per il tuo bene Anna, insisto: scappa!
+[For your sake Anna, I insist: run!]
 
 01:04:23,440 --> 01:04:27,531
 I understand you're love experts. Ooh!
+Si vede che siete esperti in amore.
+[You see that you are experienced in love.]
 
 01:04:27,800 --> 01:04:29,490
 Why aren't you running?
+Perché non scappi?
+[Why do not you run away?]
 
 01:04:29,600 --> 01:04:30,799
 Uh...
 
 01:04:30,800 --> 01:04:33,287
 Okay. Well, I'm gonna go.
+Certo. Io andrei...
+[Sure. I would go...]
 
 01:04:33,480 --> 01:04:35,444
 No, no, no. Anna, wait.
+No, Anna, aspetta.
+[No, Anna, waiting.]
 
 01:04:37,720 --> 01:04:39,490
 Kristoff!
@@ -5578,84 +5728,132 @@ Whoa!
 
 01:04:41,760 --> 01:04:43,166
 Hey!
+Ciao!
+[Hello!]
 
 01:04:44,000 --> 01:04:45,559
 Kristoff's home!
+Kristoff è tornato!
+[Kristoff is back!]
 
 01:04:46,720 --> 01:04:49,839
 Kristoff's here! Kristoff's home!
 
 01:04:49,840 --> 01:04:52,319
 Wait, "Kristoff"?
+Aspetta. Kristoff?
+[Wait. Kristoff?]
 
 01:04:52,320 --> 01:04:53,799
 Ah, let me look at you.
+Fatti vedere.
+[Show yourself.]
 
 01:04:53,800 --> 01:04:55,479
 Take off your clothes, I wash them.
+Togli i vestiti, te li lavo.
+[Take off your clothes, you wash them.]
 
 01:04:55,480 --> 01:04:57,364
 No! No, I'm going to keep my clothes on.
+No, i vestiti me li tengo.
+[No, the clothes I keep them.]
 
 01:04:57,400 --> 01:04:58,799
 Look, it's great to see you all,
+È bello vedervi,
+[It's nice to see you,]
 
 01:04:58,800 --> 01:05:00,039
 but where's Granpabbie?
+ma dov'è Granpapà?
+[but where Granpapà?]
 
 01:05:00,040 --> 01:05:01,159
 He's napping.
 
 01:05:01,160 --> 01:05:02,959
 But look, I grew a mushroom.
+Mi è cresciuto un fungo.
+[I grew a fungus.]
 
 01:05:02,960 --> 01:05:04,559
 I earned my fire crystal.
+Ho avuto il cristallo di fuoco.
+[I had a glass of fire.]
 
 01:05:04,560 --> 01:05:06,000
 I passed a kidney stone.
+Ho espulso un calcolo.
+[I expelled a calculation.]
 
 01:05:06,040 --> 01:05:07,319
 Kristoff, pick me up.
+Prendimi Kristoff.
+[Take Kristoff.]
 
 01:05:07,320 --> 01:05:08,599
 You're getting big.
+-Sei cresciuto!
+[-You Are grown!]
 
 01:05:08,600 --> 01:05:09,881
 Good for you.
+Bravo!
+[Good Boy!]
 
 01:05:10,320 --> 01:05:12,568
 Trolls. They're trolls!
+Troll! Sono troll!
+[Troll! Are trolls!]
 
 01:05:15,240 --> 01:05:17,124
 He's brought a girl!
+Ha portato una donna!
+[He brought a woman!]
 
 01:05:17,480 --> 01:05:18,886
 A girl!
+Una donna!
+[A woman!]
 
 01:05:19,080 --> 01:05:20,759
 Is that a real girl?
 
 01:05:20,760 --> 01:05:22,879
 She's like a little cupcake.
+Sembra un cupcake!
+[It looks like a cupcake!]
 
 01:05:22,880 --> 01:05:23,959
 What's going on?
+Che succede?
+[What happens?]
 
 01:05:23,960 --> 01:05:25,286
 I've learned to just roll with it.
+Io li lascio fare.
+[I let them do.]
 
 01:05:25,320 --> 01:05:27,879
 Let me see. Bright eyes, working nose,
+Occhi brillanti, naso libero...
+[Shining eyes, nose free...]
 
 01:05:27,880 --> 01:05:29,411
 strong teeth!
+dentatura forte.
+[teeth strong.]
 
 01:05:29,480 --> 01:05:32,279
 Yes, yes. She'll do nicely for our Kristoff.
+Sì. Andrà bene per il nostro Kristoff.
+[Yes. Will it fit our Kristoff.]
 
 01:05:32,280 --> 01:05:33,519
 Wait, wait, wait. Oh, um, no.
+Aspetta. No.
+[Wait. No.]
 
 01:05:33,520 --> 01:05:34,919
 You've got the wrong idea.
@@ -5665,6 +5863,8 @@ No. That's not why I brought her here.
 
 01:05:36,080 --> 01:05:37,959
 Right. We're not... I'm not...
+Sì. Noi non siamo... non sono...
+[Yes. We are not... we are not...]
 
 01:05:37,960 --> 01:05:40,159
 What's the issue, dear?
