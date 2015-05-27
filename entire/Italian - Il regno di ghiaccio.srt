@@ -6368,48 +6368,74 @@ A chi è questo Hans?
 
 01:09:45,560 --> 01:09:47,489
 We are here to find Princess Anna.
+Siamo qui per la principessa Anna.
+[We are here to Princess Anne.]
 
 01:09:47,760 --> 01:09:51,442
 Be on guard, but no harm is to come to the queen.
+State in guardia, ma nessuno tocchi la regina.
+[Be on guard, but nobody touches the queen.]
 
 01:09:52,640 --> 01:09:53,879
 Do you understand?
+Sono stato è chiaro?
+[I was clear?]
 
 01:09:53,880 --> 01:09:55,880
 Yes, Your Grace.
 
 01:10:16,960 --> 01:10:18,491
 The queen.
+La regina.
+[Queen.]
 
 01:10:23,400 --> 01:10:25,568
 Go, go! Come on!
+Via, via! Andiamo!
+[Away! Come on!]
 
 01:10:28,640 --> 01:10:29,887
 There!
 
 01:10:33,320 --> 01:10:34,567
 Up there!
+Lassù!
+[Up there!]
 
 01:10:34,680 --> 01:10:36,325
 Come on!
+Andiamo!
+[Come on!]
 
 01:10:37,800 --> 01:10:39,081
 We got her.
+Eccola!
+[Here it is!]
 
 01:10:39,480 --> 01:10:40,920
 No. Please.
+No, vi prego.
+[No, please.]
 
 01:10:44,840 --> 01:10:46,530
 Go around. Toss it.
+Dall'altra parte. Prendi.
+[On the other side. Get.]
 
 01:10:47,480 --> 01:10:48,886
 Stay away!
+State lontani!
+[Stay away!]
 
 01:10:49,000 --> 01:10:50,326
 Look out!
+Attenzione!
+[Attention!]
 
 01:10:51,120 --> 01:10:52,839
 Fire! Fire!
+Fuoco! Fuoco!
+[Fire! Fire!]
 
 01:10:52,840 --> 01:10:54,246
 Get her!
@@ -6419,6 +6445,8 @@ Ah!
 
 01:11:01,600 --> 01:11:02,926
 Come on!
+Andiamo!
+[Come on!]
 
 01:11:12,760 --> 01:11:14,007
 Grab his arm.
@@ -6434,9 +6462,13 @@ Whoa!
 
 01:11:50,600 --> 01:11:51,847
 Queen Elsa!
+Regina Elsa!
+[Queen Elsa!]
 
 01:11:52,320 --> 01:11:54,761
 Don't be the monster they fear you are.
+Non siate il mostro che tutti temono.
+[Do not be the monster that everyone fears.]
 
 01:12:42,520 --> 01:12:44,927
 Oh, no. What have... What have I done?
