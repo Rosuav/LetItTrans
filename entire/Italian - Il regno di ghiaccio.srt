@@ -7018,6 +7018,8 @@ Presto!
 
 01:19:52,680 --> 01:19:53,881
 Help.
+Aiuto.
+[Help.]
 
 01:19:58,880 --> 01:20:00,525
 Anna!
@@ -7030,123 +7032,199 @@ Olaf?
 
 01:20:16,280 --> 01:20:18,482
 Olaf. Get away from there.
+Olaf. Va via da là.
+[Olaf. Go away from there.]
 
 01:20:18,880 --> 01:20:20,161
 Wow!
 
 01:20:20,520 --> 01:20:22,919
 So, this is heat.
+È questo il caldo.
+[This is hot.]
 
 01:20:22,920 --> 01:20:24,439
 I love it.
+Lo amo.
+[I love.]
 
 01:20:24,440 --> 01:20:26,210
 Ooh! But don't touch it.
+Ma non si tocca!
+[But do not touch!]
 
 01:20:34,320 --> 01:20:37,444
 So, where's Hans? What happened to your kiss?
+??? Hans? Com'è andato il vostro bacio?
+[??? Hans? How was your kiss?]
 
 01:20:37,760 --> 01:20:41,806
 I was wrong about him. It wasn't true love.
+Mi sbagliavo su di lui. Non era vero amore.
+[I was wrong about him. It was not true love.]
 
 01:20:42,080 --> 01:20:43,725
 But we ran all the way here.
+Ma siamo venuti di corsa fin qui.
+[But we came to race here.]
 
 01:20:43,760 --> 01:20:47,239
 Please, Olaf, you can't stay here. You'll melt.
+Ti prego Olaf, non puoi restare. Ti sciogli.
+[Please Olaf, you can not stay. You melt.]
 
 01:20:47,240 --> 01:20:48,359
 I am not leaving here until
+Non me ne vado...
+[I do not go...]
 
 01:20:48,360 --> 01:20:51,131
 we find some other act of true love to save you.
+finché non troviamo un atto di vero amore che ti salvati.
+[until we find an act of true love that you saved.]
 
 01:20:51,360 --> 01:20:53,369
 Do you happen to have any ideas?
+Tu hai in mente qualcosa?
+[You have something in mind?]
 
 01:20:53,560 --> 01:20:55,410
 I don't even know what love is.
+Non so neanche cosa sia l'amore.
+[I do not know what love is.]
 
 01:20:55,600 --> 01:20:57,484
 That's okay, I do.
+Fa niente. ???
+[Never mind. ???]
 
 01:20:57,720 --> 01:20:59,285
 Love is
+L'amore è...
+[Love is...]
 
 01:21:00,080 --> 01:21:02,647
 putting someone else's needs before yours.
+mettere il bene di un altro prima del tuo.
+[put the good of another before your.]
 
 01:21:03,120 --> 01:21:07,211
 Like, you know, how Kristoff brought you back here to Hans and left you forever.
+Come Kristoff che ti ha portata da Hans e a rinunciato a te per sempre.
+[As Kristoff that took you from Hans and given to you forever.]
 
 01:21:09,280 --> 01:21:12,529
 Kristoff loves me?
+Kristoff mi ama?
+[Kristoff loves me?]
 
 01:21:13,880 --> 01:21:17,607
 Wow, you really don't know anything about love, do you?
+Ma allora non sai proprio niente dell'amore, vero?
+[But then you do not know nothing about love, right?]
 
 01:21:18,120 --> 01:21:19,924
 Olaf, you're melting.
+Olaf, ti stai sciogliendo.
+[Olaf, you're melting.]
 
 01:21:20,040 --> 01:21:22,402
 Some people are worth melting for.
 
 01:21:27,440 --> 01:21:29,642
 Just maybe not right this second.
+Ma forse non è il momento adatto.
+[But maybe it's not the right time.]
 
 01:21:31,800 --> 01:21:33,286
 Don't worry, I've got it.
+Tranquilla, ci penso io.
+[Quiet, I got it.]
 
 01:21:35,800 --> 01:21:37,923
 We're gonna get through... Oh, wait.
+Passeremo attraverso il... Un momento.
+[We will pass through the... A moment.]
 
 01:21:38,000 --> 01:21:39,690
 Hang on, I'm getting something.
+Vedo qualcosa.
+[I see something.]
 
 01:21:40,600 --> 01:21:43,159
 It's Kristoff and Sven!
+Sono Kristoff e Sven!
+[Kristoff and are Sven!]
 
 01:21:43,160 --> 01:21:44,566
 They're coming back this way.
+Stanno tornando qui.
+[They're coming back here.]
 
 01:21:45,000 --> 01:21:46,361
 They... They are?
+Davvero?
+[Really?]
 
 01:21:46,480 --> 01:21:49,160
 Wow! He's really moving fast.
+Si avvicina come il vento.
+[It approaches like the wind.]
 
 01:21:49,280 --> 01:21:50,639
 I guess I was wrong.
+Forse mi sbagliavo.
+[Maybe I was wrong.]
 
 01:21:50,640 --> 01:21:53,207
 I guess Kristoff doesn't love you enough to leave you behind.
+Kristoff non ti ama al punto da rinunciare a te sempre.
+[Kristoff does not love you enough to give you up forever.]
 
 01:21:53,840 --> 01:21:55,839
 Help me up, Olaf. Please.
+Aiutami, Olaf. Per favore.
+[Help me, Olaf. Please.]
 
 01:21:55,840 --> 01:21:58,999
 No, no, no! You need to stay by the fire and keep warm.
+No, no, no! Devi restare accanto al fuoco, al caldo.
+[No no no! You have to stay by the fire to warm.]
 
 01:21:59,000 --> 01:22:00,759
 I need to get to Kristoff.
+Devo andare da Kristoff.
+[I must go to Kristoff.]
 
 01:22:00,760 --> 01:22:02,041
 Why?
+Perché?
+[Why?]
 
 01:22:02,160 --> 01:22:04,959
 Oh, I know why!
+Oh, io so il perché!
+[Oh, I know why!]
 
 01:22:04,960 --> 01:22:07,159
 There's your act of true love right there!
+Ecco il tuo atto di vero amore è là!
+[Here's your act of true love is there!]
 
 01:22:07,160 --> 01:22:11,159
 Riding across the fjords like a valiant, pungent reindeer king!
+Galoppa lungo il fiordo il valoroso e puzzolente Re delle renne!
+[Gallops along the fjord the valiant King and smelly reindeer!]
 
 01:22:11,160 --> 01:22:12,646
 Come on!
+Andiamo!
+[Come on!]
 
 01:22:14,920 --> 01:22:16,519
 Look out!
+Attenta!
+[Careful!]
 
 01:22:16,520 --> 01:22:17,960
 Oh!
