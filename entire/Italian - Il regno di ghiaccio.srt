@@ -6472,66 +6472,106 @@ Non siate il mostro che tutti temono.
 
 01:12:42,520 --> 01:12:44,927
 Oh, no. What have... What have I done?
+Oh, no. Che cosa ho fatto?
+[Oh no. What have I done?]
 
 01:12:51,880 --> 01:12:53,491
 Why did you bring me here?
+Perché mi hai portata qui?
+[Why did you bring me here?]
 
 01:12:53,760 --> 01:12:55,439
 I couldn't just let them kill you.
+Non potevo farvi uccidere.
+[I could not kill you.]
 
 01:12:55,440 --> 01:12:58,769
 But I'm a danger to Arendelle. Get Anna.
+Ma io sono un pericolo per Arendelle. Va' da Anna.
+[But I'm a danger to Arendelle. Goes' from Anna.]
 
 01:12:59,120 --> 01:13:01,199
 Anna has not returned.
+Anna non è tornata.
+[Anna has not returned.]
 
 01:13:02,800 --> 01:13:05,048
 If you would just stop the winter.
+Maestà, ??? l'inverno.
+[Majesty,??? winter.]
 
 01:13:05,200 --> 01:13:07,846
 Bring back summer, please.
+Riportate l'estate. Vi prego.
+[Given the summer. Please.]
 
 01:13:08,920 --> 01:13:10,645
 Don't you see?
+Non vedi?
+[Do not you see?]
 
 01:13:10,840 --> 01:13:12,280
 I can't.
+Non posso.
+[I can not.]
 
 01:13:15,680 --> 01:13:18,281
 You have to tell them to let me go.
+Digli di lasciarmi andare.
+[Tell him to let me go.]
 
 01:13:19,880 --> 01:13:21,889
 I will do what I can.
+Farò il possibile.
+[I will do my best.]
 
 01:13:45,680 --> 01:13:46,999
 Just hang in there.
+Resisti.
+[Hold on.]
 
 01:13:47,000 --> 01:13:48,361
 Come on, buddy, faster!
+Forza, Sven, più veloce!
+[Strength, Sven, faster!]
 
 01:13:54,200 --> 01:13:55,359
 Oh, boy!
+Oh, mammina.
+[Oh, Mommy.]
 
 01:13:55,360 --> 01:13:57,562
 Whoa! I'll meet you guys at the castle!
+Ci vediamo al castello!
+[See you at the castle!]
 
 01:13:57,680 --> 01:13:58,999
 Stay out of sight, Olaf.
+Sta' nascosto, Olaf.
+[Is' hidden, Olaf.]
 
 01:13:59,000 --> 01:14:00,725
 I will!
+Sarà fatto!
+[It will be done!]
 
 01:14:01,560 --> 01:14:04,161
 Hello! - It's alive!
 
 01:14:13,160 --> 01:14:14,725
 It's Princess Anna!
+È la principessa Anna.
+[Is Princess Anne.]
 
 01:14:22,880 --> 01:14:24,969
 Are you gonna be okay?
+Tu, starai bene?
+[You, you'll be fine?]
 
 01:14:26,880 --> 01:14:28,679
 Don't worry about me.
+Non pensare a me.
+[Do not think about me.]
 
 01:14:28,680 --> 01:14:30,519
 Anna!
@@ -6541,15 +6581,21 @@ You had us worried sick. My Lady.
 
 01:14:32,440 --> 01:14:35,439
 Get her warm. And find Prince Hans, immediately.
+Tenete al caldo. E trovate il principe Hans, subito.
+[Keep warm. And find Prince Hans, immediately.]
 
 01:14:35,440 --> 01:14:37,051
 We will. Thank you.
+Lo faremo. Grazie.
+[We will do it. Thank you.]
 
 01:14:37,120 --> 01:14:38,731
 Make sure she's safe.
 
 01:14:39,040 --> 01:14:40,679
 Oh, you poor girl, you're freezing.
+Povera piccola, siete gelata.
+[Poor child, you are frozen.]
 
 01:14:40,680 --> 01:14:44,089
 Oh, let's get you inside now and get you warm.
@@ -6559,45 +6605,71 @@ I'm going back out to look for Princess Anna.
 
 01:14:59,400 --> 01:15:01,250
 You cannot risk going out there again.
+Non potete rischiare.
+[You can not risk it.]
 
 01:15:01,440 --> 01:15:02,599
 If anything happens to her...
+Se le accadesse qualcosa...
+[If something happened...]
 
 01:15:02,600 --> 01:15:04,564
 If anything happens to the princess,
+Se accade qualcosa alla Principessa...
+[If something happens to the Princess...]
 
 01:15:04,720 --> 01:15:07,127
 you are all Arendelle has left.
+ad Arendelle non rimarrete che voi.
+[to Arendelle that you will not be.]
 
 01:15:08,720 --> 01:15:10,519
 He's in here.
+Principe è qui.
+[Prince is here.]
 
 01:15:10,520 --> 01:15:11,639
 Prince Hans.
+Principe Hans.
+[Prince Hans.]
 
 01:15:11,640 --> 01:15:13,079
 Anna.
 
 01:15:13,080 --> 01:15:14,199
 You're so cold.
+Sei ghiacciata.
+[Six iced.]
 
 01:15:14,200 --> 01:15:15,439
 Hans, you have to kiss me. - What?
+Hans devi baciarmi. - Che cosa?
+[Hans have to kiss me. - What?]
 
 01:15:15,440 --> 01:15:17,159
 Now! Now! - Slow down.
+Subito, subito!
+[Immediately, immediately!]
 
 01:15:17,160 --> 01:15:19,089
 We'll give you two some privacy.
+Vi lasciamo soli un momento.
+[We leave you just a moment.]
 
 01:15:19,760 --> 01:15:21,039
 What happened out there?
+Cosa è successo?
+[What happened?]
 
 01:15:21,040 --> 01:15:23,129
 Elsa struck me with her powers.
+Elsa mi ha colpita con i suoi poteri.
+[Elsa hit me with his powers.]
 
 01:15:23,160 --> 01:15:24,679
 You said she'd never hurt you.
+Dicevi che non ti avrebbe fatto nulla.
+[You said you would not have done anything.]
 
 01:15:24,680 --> 01:15:25,759
 I was wrong.
@@ -6607,12 +6679,18 @@ Anna.
 
 01:15:29,920 --> 01:15:31,690
 She froze my heart,
+Mi ha gelato il cuore.
+[I froze my heart.]
 
 01:15:31,720 --> 01:15:34,366
 and only an act of true love can save me.
+Solo un atto di vero amore può salvarmi.
+[Only an act of true love can save me.]
 
 01:15:35,920 --> 01:15:37,804
 A true love's kiss.
+Il bacio del vero amore!
+[The kiss of true love!]
 
 01:15:47,720 --> 01:15:49,160
 Oh, Anna.
