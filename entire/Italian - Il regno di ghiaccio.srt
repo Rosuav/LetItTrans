@@ -7379,6 +7379,8 @@ No, no!
 
 01:26:41,880 --> 01:26:43,445
 Please, no.
+Ti prego, no.
+[Please, no.]
 
 01:26:51,920 --> 01:26:53,201
 Anna?
@@ -7391,42 +7393,64 @@ Oh, Elsa.
 
 01:27:39,920 --> 01:27:42,407
 You sacrificed yourself for me?
+Volevi sacrificarti per me?
+[Did you want to sacrifice yourself for me?]
 
 01:27:43,960 --> 01:27:45,519
 I love you.
+Io ti voglio bene.
+[I love you.]
 
 01:27:45,520 --> 01:27:50,442
 "An act of true love will thaw a frozen heart."
+"Un atto di vero amore scioglierà un cuore di ghiaccio!"
+[" An act of true love will melt a heart of ice!"]
 
 01:27:51,840 --> 01:27:53,690
 "Love will thaw."
+"L'amore scioglierà."
+["Love will melt."]
 
 01:27:54,880 --> 01:27:57,439
 Love. Of course.
+L'amore. Ma certo!
+[Love. Of course!]
 
 01:27:57,440 --> 01:27:58,721
 Elsa?
 
 01:27:59,160 --> 01:28:00,441
 Love!
+L'amore!
+[Love!]
 
 01:28:47,080 --> 01:28:48,691
 I knew you could do it.
+Ce l'hai fatta, lo sapevo!
+[You did it, I knew it!]
 
 01:28:48,920 --> 01:28:52,442
 Hands down, this is the best day of my life.
+Occhio, eh? Perché è il più bel giorno della mia vita.
+[Eye, eh? Why is the happiest day of my life.]
 
 01:28:52,800 --> 01:28:54,759
 And, quite possibly, the last.
+E molto probabilmente l'ultimo!
+[And most likely the last!]
 
 01:28:54,760 --> 01:28:57,281
 Oh, Olaf! Hang on, little guy.
+Olaf! Resisti, piccolo.
+[Olaf! Hold on, baby.]
 
 01:28:57,560 --> 01:28:59,250
 Oh, Oh, Oh!
 
 01:29:01,160 --> 01:29:04,443
 My own personal flurry!
+La mia nevicata personale.
+[My personal snowfall.]
 
 01:29:08,920 --> 01:29:10,770
 Uh-uh-uh-uh.
@@ -7436,12 +7460,18 @@ Anna?
 
 01:29:14,960 --> 01:29:16,844
 But she froze your heart.
+Ma ti ha gelato il cuore.
+[But it froze my heart.]
 
 01:29:16,920 --> 01:29:19,771
 The only frozen heart around here is yours.
+L'unico cuore gelato, qui, è il tuo.
+[The only frozen heart, here is your.]
 
 01:29:24,760 --> 01:29:26,724
 Wonderful!
+Meraviglioso!
+[Wonderful!]
 
 01:29:39,640 --> 01:29:41,205
 Setting course, sir.
