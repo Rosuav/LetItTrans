@@ -7231,9 +7231,13 @@ Oh!
 
 01:22:24,680 --> 01:22:26,370
 Uh... Back this way.
+Torniamo di là!
+[Let's go back there!]
 
 01:22:27,560 --> 01:22:29,250
 We're trapped.
+Siamo in trappola!
+[We're trapped!]
 
 01:22:41,440 --> 01:22:42,880
 Oh...
@@ -7243,21 +7247,31 @@ Whoa!
 
 01:22:51,440 --> 01:22:53,130
 Slide, Anna!
+Scivola, Anna!
+[Slips, Anna!]
 
 01:23:01,960 --> 01:23:03,571
 We made it!
+Ce l'abbiamo fatta!
+[We did it!]
 
 01:23:04,560 --> 01:23:06,330
 Go, go, go, go, go, go, go!
+Via, via, via, via, via, via, via!
+[Away, away, away, away, away, away, away!]
 
 01:23:18,880 --> 01:23:20,570
 Come on, buddy, faster.
+Forza, Sven, più veloce!
+[Strength, Sven, faster!]
 
 01:23:22,800 --> 01:23:24,411
 Kristoff!
 
 01:23:30,080 --> 01:23:31,645
 Keep going!
+Non fermarti!
+[Do not stop!]
 
 01:23:33,920 --> 01:23:35,485
 Kristoff!
@@ -7279,6 +7293,8 @@ Sven!
 
 01:24:42,320 --> 01:24:43,965
 Good boy.
+??? grande.
+[??? great.]
 
 01:24:55,240 --> 01:24:56,771
 Kristoff.
@@ -7291,33 +7307,51 @@ Anna!
 
 01:25:04,960 --> 01:25:08,369
 Elsa! You can't run from this!
+Elsa! Non puoi sfuggire a questo!
+[Elsa! You can not escape this!]
 
 01:25:10,600 --> 01:25:12,639
 Just take care of my sister.
+??? cura di mia sorella!
+[??? care of my sister!]
 
 01:25:12,640 --> 01:25:14,279
 Your sister?
+Tua sorella?
+[Your sister?]
 
 01:25:14,280 --> 01:25:16,926
 She returned from the mountain weak and cold.
+È tornata dalla montagna debole e fredda.
+[She came back from the mountain cold and weak.]
 
 01:25:17,120 --> 01:25:19,239
 She said that you froze her heart.
+Ha detto che le hai gelato il cuore.
+[You said that you have chilled the heart.]
 
 01:25:19,240 --> 01:25:20,399
 No.
 
 01:25:20,400 --> 01:25:22,648
 I tried to save her, but it was too late.
+Volevo salvarla, ma era troppo tardi.
+[I wanted to save her, but it was too late.]
 
 01:25:23,840 --> 01:25:26,441
 Her skin was ice. Her hair turned white.
+La sua pelle era ghiaccio. I capelli bianchi.
+[Her skin was ice. The white hair.]
 
 01:25:27,800 --> 01:25:29,570
 Your sister is dead.
+Tua sorella è morta.
+[Your sister is dead.]
 
 01:25:30,200 --> 01:25:31,999
 Because of you.
+Per colpa tua.
+[Because of you.]
 
 01:25:32,000 --> 01:25:33,247
 No.
