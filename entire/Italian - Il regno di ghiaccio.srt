@@ -6840,78 +6840,124 @@ Vi prego.
 
 01:17:13,040 --> 01:17:14,999
 It's getting colder by the minute.
+Fa più freddo ???.
+[Colder???.]
 
 01:17:15,000 --> 01:17:18,719
 If we don't do something soon, we'll all freeze to death.
+Se non facciamo qualcosa moriremo assiderati.
+[If we do not do something die frozen to death.]
 
 01:17:18,720 --> 01:17:20,331
 Prince Hans.
+Principe Hans.
+[Prince Hans.]
 
 01:17:20,400 --> 01:17:22,443
 Princess Anna is...
+La principessa Anna è...
+[Princess Anne is...]
 
 01:17:23,120 --> 01:17:24,239
 Dead.
+Morta.
+[Dead.]
 
 01:17:24,240 --> 01:17:25,319
 What?
+Che?
+[What?]
 
 01:17:25,320 --> 01:17:27,010
 What happened to her?
+Che le è successo?
+[What happened?]
 
 01:17:31,680 --> 01:17:33,450
 She was killed...
+È stata uccisa...
+[It was killed...]
 
 01:17:33,720 --> 01:17:35,079
 ... by Queen Elsa.
+... dalla regina Elsa.
+[... By Queen Elsa.]
 
 01:17:35,080 --> 01:17:36,327
 No!
 
 01:17:36,480 --> 01:17:37,681
 Her own sister.
+Dalla sorella.
+[By his sister.]
 
 01:17:38,480 --> 01:17:40,967
 At least we got to say our marriage vows
+Abbiamo pronunciato i voti coniugali...
+[We marital vows...]
 
 01:17:43,000 --> 01:17:45,282
 before she died in my arms.
+prima che spirasse fra le mie braccia.
+[prior to her death in my arms.]
 
 01:17:46,960 --> 01:17:48,730
 There can be no doubt now.
 
 01:17:48,960 --> 01:17:50,399
 Queen Elsa is a monster,
+La regina Elsa è un mostro,
+[Queen Elsa is a monster,]
 
 01:17:50,400 --> 01:17:52,523
 and we are all in grave danger.
+siamo in grave pericolo.
+[we are in grave danger.]
 
 01:17:52,560 --> 01:17:53,921
 Prince Hans,
+Principe Hans,
+[Prince Hans,]
 
 01:17:54,440 --> 01:17:56,483
 Arendelle looks to you.
+Arendelle ??? da voi.
+[Arendelle??? from you.]
 
 01:17:57,960 --> 01:17:59,719
 With a heavy heart,
+Con il cuore infranto...
+[With a broken heart...]
 
 01:17:59,720 --> 01:18:03,891
 I charge Queen Elsa of Arendelle with treason.
+Io accuso la regina Elsa di Arendelle di alto tradimento.
+[I accuse the queen of Elsa Arendelle of high treason.]
 
 01:18:04,720 --> 01:18:06,968
 And sentence her to death.
+E la condanno a morte.
+[And the sentence you to death.]
 
 01:18:19,120 --> 01:18:20,481
 Hurry up!
+Presto!
+[Presto!]
 
 01:18:20,560 --> 01:18:21,639
 She's dangerous.
+È pericolosa.
+[It's dangerous.]
 
 01:18:21,640 --> 01:18:23,001
 Move quickly. Careful!
+Agite in fretta. Con attenzione!
+[Act fast. Carefully!]
 
 01:18:24,560 --> 01:18:26,250
 It won't open! It's frozen shut.
+Non si apre! È bloccata dal ghiaccio.
+[It does not open! It is blocked by ice.]
 
 01:18:26,280 --> 01:18:27,686
 Put your back into it!
@@ -6921,36 +6967,54 @@ Come on! Push!
 
 01:18:55,480 --> 01:18:56,559
 What is it, buddy?
+Che hai, Sven?
+[That you, Sven?]
 
 01:18:56,560 --> 01:18:58,205
 Hey, watch it.
+Ehi, piano!
+[Hey, easy!]
 
 01:18:58,560 --> 01:18:59,761
 What's wrong with you?
+Che così?
+[That so?]
 
 01:19:03,000 --> 01:19:05,282
 I don't understand you when you talk like that.
+Non capisco quando parli così!
+[I do not understand when you talk like that!]
 
 01:19:05,640 --> 01:19:08,079
 Stop it! Put me down!
+Fermo, mettimi giù!
+[Still, put me down!]
 
 01:19:10,320 --> 01:19:11,639
 No, Sven!
 
 01:19:11,640 --> 01:19:13,239
 We're not going back.
+Non torniamo indietro.
+[Do not go back.]
 
 01:19:13,240 --> 01:19:14,930
 She's with her true love.
+Lei è con il suo vero amore.
+[She is with her ​​true love.]
 
 01:19:21,720 --> 01:19:22,921
 What the...
+Che cosa...
+[What...]
 
 01:19:25,640 --> 01:19:26,841
 Anna!
 
 01:19:32,960 --> 01:19:34,685
 Come on! Come on, boy.
+Presto!
+[Presto!]
 
 01:19:52,680 --> 01:19:53,881
 Help.
