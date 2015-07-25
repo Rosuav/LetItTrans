@@ -14,7 +14,7 @@ int main(int argc,array(string) argv)
 			{
 				string result=Protocols.HTTP.get_url_data(
 					//Base URL - I have no idea what all this means, but it does seem to work
-					"https://translate.google.com/translate_a/single?client=t&sl="+language+"&tl=en&hl=en&dt=bd&dt=ex&dt=ld&dt=md&dt=qc&dt=rw&dt=rm&dt=ss&dt=t&dt=at&ie=UTF-8&oe=UTF-8&ssel=3&tsel=3&otf=1&kc=11&tk=519600|625420",
+					"http://translate.google.com/translate_a/single?client=t&sl="+language+"&tl=en&hl=en&dt=bd&dt=ex&dt=ld&dt=md&dt=qc&dt=rw&dt=rm&dt=ss&dt=t&dt=at&ie=UTF-8&oe=UTF-8&ssel=3&tsel=3&otf=1&kc=11&tk=519600|625420",
 					//Text that we want to translate (gets properly encoded)
 					(["q":para[2]]),
 					//And set a UA.
