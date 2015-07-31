@@ -29,8 +29,8 @@ int main(int argc,array(string) argv)
 				//GTrans sometimes returns final punctuation after a space. Trim out the space.
 				mapping punct=([]); foreach (",.!:?'\""/1,string ch) punct[" "+ch]=ch;
 				parts=replace(parts[*],punct);
-				foreach (parts;int i;string p) if (sizeof(p)>2 && p[-2]==' ' && (<',','.','!',':'>)[p[-1]]) parts[i]=p[..<2]+p[<0..];
-				string trans=parts*"";
+				foreach (parts;int i;string p) if (sizeof(p)>2 && p[-2]==' ' && (<',','.','!',':',')'>)[p[-1]]) parts[i]=p[..<2]+p[<0..];
+				string trans=replace(parts*"",(["( ":"("," )":")"])); //Clean up spaces inside parens
 				input[i]+=({"["+trans+"]"}); //Note that this is done even if the translation fails, and will prevent it being redone.
 				write("Translated:\n%{%s\n%}\n",string_to_utf8(input[i][*]));
 				sleep(1); //Voluntarily rate-limit our usage
