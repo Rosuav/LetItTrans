@@ -3050,8 +3050,8 @@ Okej. För tio får du det här, inget mer.
 
 00:37:53,840 --> 00:37:55,079
 Okay, just tell me one thing.
-Okej. Kan du inte bertätta.
-[All right. Can not bertätta.]
+Okej. Kan du inte berätta.
+[All right. Can not tell.]
 
 00:37:55,080 --> 00:37:57,039
 What was happening on the North Mountain?
