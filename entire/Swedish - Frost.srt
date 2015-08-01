@@ -2180,7 +2180,7 @@ No, you may not. And I think you should go.
 00:26:59,280 --> 00:27:00,839
 The party is over. Close the gates.
 Festen är över. Stäng portarna.
-[The party is over. Close the gates.]
+The party is over. Close the gates.
 
 00:27:00,840 --> 00:27:01,919
 Yes, Your Majesty.
@@ -2189,58 +2189,58 @@ Ja, ers majestät.
 
 00:27:01,920 --> 00:27:03,599
 Elsa, no, no! Wait.
-Elsa, nej! Nej, vänta.
-[Elsa, no! No, wait.]
+Elsa! Nej, nej, vänta.
+Elsa! No, no, wait.
 
 00:27:03,600 --> 00:27:04,801
 Give me my glove!
 Ge mig handsken!
-[Give me the glove!]
+Give me the glove!
 
 00:27:04,960 --> 00:27:06,719
 Elsa, please, please.
 Elsa snälla, snälla,
-[Elsa please, please,]
+Elsa please, please,
 
 00:27:06,720 --> 00:27:08,604
 I can't live like this anymore!
 jag kan inte leva så här längre!
-[I can not live like this anymore!]
+I can't live like this anymore!
 
 00:27:10,280 --> 00:27:11,527
 Then leave.
 Ge dig av då.
-[Embark then.]
+Go away then.
 
 00:27:17,040 --> 00:27:18,719
 What did I ever do to you?
 Vad är det jag har gjort för fel egentligen?!
-[What have I done wrong really?!]
+What exactly have I done wrong?
 
 00:27:18,720 --> 00:27:19,919
 Enough, Anna.
 Det räcker nu.
-[It's enough.]
+Enough already.
 
 00:27:19,920 --> 00:27:22,168
 No, why? Why do you shut me out?
 Nej, varför? Varför stänger du mig ute?
-[No why? Why turn me out?]
+No why? Why shut me out?
 
 00:27:22,240 --> 00:27:23,885
 Why do you shut the world out?
 Varför stänger du alla ute?
-[Why close all out?]
+Why do you shut everyone out?
 
 00:27:23,920 --> 00:27:25,724
 What are you so afraid of?
-Vad är det du är så rädd för?!
-[What is it you're so afraid of?!]
+Vad är det du är så rädd för?
+What is it you're so afraid of?
 
 00:27:25,840 --> 00:27:27,690
 I said, enough!
 Jag sa, det räcker!
-[I said, that's enough!]
+I said, enough!
 
 00:27:35,720 --> 00:27:37,206
 Sorcery.
@@ -2250,7 +2250,7 @@ Svartkonst.
 00:27:37,560 --> 00:27:40,286
 I knew there was something dubious going on here.
 Jag visste att det var nåt suspekt som pågick här.
-[I knew there was something suspicious was going on here.]
+I knew there was something suspicious was going on here.
 
 00:27:40,760 --> 00:27:42,246
 Elsa.
