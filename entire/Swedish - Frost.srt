@@ -4254,81 +4254,131 @@ Nån måste berätta det.
 
 00:49:35,560 --> 00:49:38,039
 No, no. You've got the bark facing down.
+Nej, nej. Du har lagt barken fel.
+[No no. You have added the bark wrong.]
 
 00:49:38,040 --> 00:49:39,765
 The bark needs to be face-up.
+Barken måste vändas uppåt.
+[The bark must be turned upwards.]
 
 00:49:39,800 --> 00:49:42,239
 Bark down is drier. - Bark up!
+Barken neråt funkar bättre. - Barken uppåt!
+[The bark down works better. - The bark up!]
 
 00:49:42,240 --> 00:49:43,279
 Bark down! - Papa!
+Bark down! - Pappa!
+[Bark down! - Dad!]
 
 00:49:43,280 --> 00:49:44,999
 Cloak? Does anyone need a cloak?
+Rock? Behöver nån en rock?
+[Rock? Need someone a rock?]
 
 00:49:45,000 --> 00:49:48,199
 Arendelle is indebted to you, Your Highness.
+Arendal står i skuld till er, ers höghet.
+[Arendal is in debt to you, Your Highness.]
 
 00:49:48,200 --> 00:49:49,559
 The castle is open.
+Slottet är öppet.
+[The castle is open.]
 
 00:49:49,560 --> 00:49:52,730
 There is soup and hot gløgg in the Great Hall.
+Det finns soppa och varm glögg i stora salen.
+[There are soup and hot mulled wine in the great hall.]
 
 00:49:52,800 --> 00:49:53,919
 Here, pass these out.
+Här. Dela ut de här.
+[Here. Share these.]
 
 00:49:53,920 --> 00:49:55,479
 Prince Hans!
+Prins Hans!
+[Prince Hans!]
 
 00:49:55,480 --> 00:49:57,999
 Are we expected to just sit here and freeze
+Ska vi bara sitta här och frysa
+[Should we just sit here and freeze]
 
 00:49:58,000 --> 00:50:00,646
 while you give away all of Arendelle's tradable goods?
+medans du ger bort alla Arendals handelsvaror?
+[while you give away all Arendals merchandise?]
 
 00:50:01,000 --> 00:50:02,399
 Princess Anna has given her orders.
+Prinsessan Anna gav sin order.
+[Princess Anna gave his orders.]
 
 00:50:02,400 --> 00:50:04,199
 And that's another thing!
+Det är precis just det!
+[That's exactly right!]
 
 00:50:04,200 --> 00:50:06,799
 Has it dawned on you that your princess may be conspiring
+Har det inte slagit dig att din prinsessa kanske har gaddat ihop
+[Has not it occurred to you that your princess might have been ganged together]
 
 00:50:06,800 --> 00:50:08,119
 with a wicked sorceress
+sig med en ond häxa
+[with an evil witch]
 
 00:50:08,120 --> 00:50:09,199
 to destroy us all?
+som vill förgöra oss?!
+[who want to destroy us?!]
 
 00:50:09,200 --> 00:50:10,970
 Do not question the princess.
+Våga inte säga så om prinsessan.
+[Dare not say that about the Princess.]
 
 00:50:11,080 --> 00:50:12,479
 She left me in charge
+Hon överlät ansvaret till mig
+[She transferred the responsibility to me]
 
 00:50:12,480 --> 00:50:13,799
 and I will not hesitate
+och jag tänker göra allt
+[and I intend to do everything]
 
 00:50:13,800 --> 00:50:15,525
 to protect Arendelle from treason.
+för att skydda Arendal mot förräderi.
+[to protect against Arendal treason.]
 
 00:50:15,640 --> 00:50:17,279
 Treason?
+Förräderi?
+[Treason?]
 
 00:50:22,600 --> 00:50:23,719
 Whoa! Whoa!
 
 00:50:23,720 --> 00:50:25,519
 Whoa, boy. Easy.
+Ta det lugnt.
+[Take it easy.]
 
 00:50:25,520 --> 00:50:26,801
 Easy.
+Så, ja.
+[So, yes.]
 
 00:50:26,840 --> 00:50:28,120
 It's Princess Anna's horse.
+(ALLA BÖRJAR PRATA OROLIGT MED VARANDRA)
+[(Everyone starts talking anxiously WITH EACH OTHER)]
 
 00:50:28,200 --> 00:50:29,925
 So, where is the princess?
@@ -4338,339 +4388,556 @@ Where could she be? - Where is she?
 
 00:50:32,160 --> 00:50:33,805
 Princess Anna is in trouble.
+Prinsessan Anna är i fara.
+[Princess Anna is in danger.]
 
 00:50:34,320 --> 00:50:37,159
 I need volunteers to go with me to find her.
+Jag behöver frivilliga som kan följa med mig och hitta henne.
+[I need volunteers who can come with me and find her.]
 
 00:50:37,160 --> 00:50:38,399
 I'll go. I volunteer.
+Jag följer med. Jag med.
+[I'm going with. Me too.]
 
 00:50:38,400 --> 00:50:40,568
 I volunteer two men, My Lord.
+Jag skickar med två män, ers höghet.
+[I send two men, Your Highness.]
 
 00:50:40,960 --> 00:50:42,491
 Be prepared for anything.
+Var beredda på vad som helst.
+[Be prepared for anything.]
 
 00:50:42,640 --> 00:50:44,842
 And should you encounter the queen,
+Och om ni stöter på drottningen,
+[And if you encounter the Queen,]
 
 00:50:45,320 --> 00:50:47,966
 you are to put an end to this winter.
+ska ni sätta punkt för den här vintern.
+[will you put an end to this winter.]
 
 00:50:48,480 --> 00:50:50,091
 Do you understand?
+Är det förstått?
+[Is that understood?]
 
 00:50:54,320 --> 00:50:57,205
 So, how exactly are you planning to stop this weather?
+Jaha, så hur hade du tänkt få slut på den här kylan egentligen?
+[Okay, so how are you gonna get out of this cold, really?]
 
 00:50:57,640 --> 00:51:00,081
 Oh. I am gonna talk to my sister.
+Åh. Jag ska prata med min syster.
+[Oh. I'll talk with my sister.]
 
 00:51:00,160 --> 00:51:01,479
 That's your plan?
+Är det din plan?
+[Is that your plan?]
 
 00:51:01,480 --> 00:51:04,359
 My ice business is riding on you talking to your sister?
+Så min is-handel hänger på att du ska snacka med din syster?
+[So my ice-commerce depends on you to talk to your sister?]
 
 00:51:04,360 --> 00:51:05,766
 Yep.
+Japp.
+[Yep.]
 
 00:51:06,240 --> 00:51:07,885
 So, you're not at all afraid of her?
+Så du är inte alls rädd för henne?
+[So you are not at all afraid of her?]
 
 00:51:08,120 --> 00:51:09,090
 Why would I be?
+Varför skulle jag det?
+[Why should I?]
 
 00:51:09,160 --> 00:51:14,643
 Yeah. I bet she's the nicest, gentlest, warmest person ever.
+Ja. Hon är säkert den sötaste, vänligaste och varmaste personen i världen.
+[Yes. She's probably the cutest, friendliest and warmest person in the world.]
 
 00:51:15,160 --> 00:51:16,799
 Oh. Look at that.
+Åh. Har man sätt. 
+[Oh. Have you way.]
 
 00:51:16,800 --> 00:51:19,207
 I've been impaled.
+Jag blev visst spetsad.
+[I was certain laced.]
 
 00:51:23,280 --> 00:51:24,527
 What now?
+Vad gör vi nu?
+[What do we do now?]
 
 00:51:25,000 --> 00:51:27,009
 Mmm...
 
 00:51:27,680 --> 00:51:28,799
 It's too steep.
+Det är alldeles för brant.
+[It is far too steep.]
 
 00:51:28,800 --> 00:51:31,319
 I've only got one rope and you don't know how to climb mountains.
+Jag har bara ett rep, och du kan nog inte klättra i berg.
+[I only have a rope, and you probably can not climb the mountain.]
 
 00:51:31,320 --> 00:51:32,679
 Says who?
+Jasså inte?
+[Oh yeah not?]
 
 00:51:32,680 --> 00:51:34,120
 Hmm?
 
 00:51:34,360 --> 00:51:35,561
 What are you doing?
+Vad håller du på med?
+[What are you doing?]
 
 00:51:35,680 --> 00:51:39,646
 I'm going to see my sister.
+Jag...tänker hitta min... syster.
+[I... think... find my sister.]
 
 00:51:39,880 --> 00:51:41,241
 You're gonna kill yourself.
+Du kommer ta livet av dig.
+[You will kill yourself.]
 
 00:51:41,520 --> 00:51:43,839
 I wouldn't put my foot there.
+Jag skulle inte sätta foten där.
+[I would not set foot there.]
 
 00:51:43,840 --> 00:51:45,690
 You're distracting me. - Or there.
+Du distraherar mig. - Eller där.
+[You distract me. - Or where.]
 
 00:51:45,720 --> 00:51:47,639
 How do you know Elsa even wants to see you?
+Tänk om inte Elsa har nån lusst att träffa dig.
+[What if not Elsa someone lusst to meet you.]
 
 00:51:47,640 --> 00:51:49,399
 All right. I'm just blocking you out
+Du, jag ignorerar dig,
+[You, I ignore you,]
 
 00:51:49,400 --> 00:51:52,251
 because I gotta concentrate, here.
+för jag måste faktiskt koncnetrera mig.
+[for I have actually koncnetrera me.]
 
 00:51:52,440 --> 00:51:53,919
 You know, most people who disappear
+Alltså, de flästa som försvinner upp
+[Thus, the Flästa disappearing up]
 
 00:51:53,920 --> 00:51:55,451
 into the mountains want to be alone.
+i bergen vill vara ensamma.
+[in the mountains want to be alone.]
 
 00:51:55,680 --> 00:51:57,882
 Nobody wants to be alone.
+Ingen vill vara ensam,
+[Nobody wants to be alone,]
 
 00:51:58,200 --> 00:51:59,399
 Except maybe you.
+ja, förutom du.
+[yes, except you.]
 
 00:51:59,400 --> 00:52:02,649
 I'm not alone. I have friends, remember?
+Jag är inte ensam. Jag har vänner, minns du det?
+[I'm not alone. I have friends, remember?]
 
 00:52:03,400 --> 00:52:05,364
 You mean, the love experts?
+Du menar kärleksexperterna?
+[You mean love experts?]
 
 00:52:05,520 --> 00:52:07,563
 Yes, the love experts.
+Ja. Kärleksexperterna.
+[Yes. Love experts.]
 
 00:52:07,960 --> 00:52:09,764
 Ah...
 
 00:52:10,320 --> 00:52:12,090
 Please tell me I'm almost there.
+Snälla, säg att jag nästan är där.
+[Please tell me I'm almost there.]
 
 00:52:13,200 --> 00:52:15,519
 Does the air seem a bit thin to you up here?
+Är inte luften lite tunn här uppe?
+[Is not the air a little thin up here?]
 
 00:52:17,040 --> 00:52:18,119
 Hang on.
+Häng kvar.
+[Stick around.]
 
 00:52:18,120 --> 00:52:19,321
 Hey, Sven?
+Du, Sven?
+[You, Sven?]
 
 00:52:19,400 --> 00:52:21,239
 Not sure if this is gonna solve the problem,
+Jag vet inte om det här löser problemet,
+[I do not know if this solves the problem,]
 
 00:52:21,240 --> 00:52:23,279
 but I found a staircase that leads exactly
+men jag har hittat en trappa som leder till precis
+[but I have found a staircase that leads to the right]
 
 00:52:23,280 --> 00:52:24,479
 where you wanted to go.
+det stället ni vill ta er.
+[the place you want to take you.]
 
 00:52:24,480 --> 00:52:26,599
 Ha-ha! Thank goodness. Catch!
+Hurra! Tack och lov. Fånga!
+[Hooray! Thankfully. Catch!]
 
 00:52:28,080 --> 00:52:30,886
 Thanks. That was like a crazy trust exercise.
+Tack. Det där var ju som en galen tillitsövning.
+[Thank you. That was like a mad trust exercise.]
 
 00:52:44,560 --> 00:52:45,759
 Whoa.
+Åh!
+[Oh!]
 
 00:52:45,760 --> 00:52:47,803
 Now, that's ice.
+Det där är is.
+[That's ice.]
 
 00:52:48,600 --> 00:52:49,799
 I might cry.
+Jag börjar gråta.
+[I start to cry.]
 
 00:52:49,800 --> 00:52:52,571
 Go ahead. I won't judge.
+Gör det. Jag säger inget.
+[Do it. I say nothing.]
 
 00:52:59,880 --> 00:53:01,759
 All right, take it easy, boy. Come here.
+Okej, ta det lungt, gubben. Kom hit.
+[Okay, take it easy, old man. Come here.]
 
 00:53:01,760 --> 00:53:03,485
 I got you.
+Jag har dig.
+[I got you.]
 
 00:53:03,920 --> 00:53:06,327
 Okay. You stay right here, buddy.
+Okej. Du får stanna här, kompis.
+[All right. You may stay here, buddy.]
 
 00:53:08,120 --> 00:53:09,606
 Flawless.
+Det är perfekt.
+[It is perfect.]
 
 00:53:14,520 --> 00:53:15,881
 Knock.
+Knacka.
+[Tap.]
 
 00:53:16,600 --> 00:53:18,211
 Just knock.
+Knacka då.
+[Tap then.]
 
 00:53:19,000 --> 00:53:20,770
 Why isn't she knocking?
+Varför knackar hon inte?
+[Why knocking she did not?]
 
 00:53:21,520 --> 00:53:23,165
 Do you think she knows how to knock?
+Hon kanske inte vet hur man gör.
+[She may not know how to do.]
 
 00:53:27,800 --> 00:53:29,959
 Huh. It opened.
+Huh. Den öppnades.
+[Huh. It opened.]
 
 00:53:29,960 --> 00:53:31,446
 That's a first.
+Där ser man.
+[There you see.]
 
 00:53:31,840 --> 00:53:34,519
 Oh. You should probably wait out here.
+Åh. Det är nog bäst att du stannar här ute.
+[Oh. It is probably best that you stay out here.]
 
 00:53:34,520 --> 00:53:36,639
 What? - The last time I introduced her to a guy,
+Va? - Sist jag presenterade en kille för henne
+[What? - Last time I presented a guy for her]
 
 00:53:36,640 --> 00:53:37,999
 she froze everything.
+frös hon allt till is.
+[She froze everything to ice.]
 
 00:53:38,000 --> 00:53:39,919
 But, but... Oh, come on!
+Men, men... Men snälla!
+[But, but... But please!]
 
 00:53:39,920 --> 00:53:42,885
 It's a palace made of ice. Ice is my life!
+Det är ett slott byggt av is. Is är mitt liv!
+[There is a castle built of ice. Ice is my life!]
 
 00:53:42,960 --> 00:53:43,999
 Bye, Sven.
+Hejdå, Sven.
+[Bye, Sven.]
 
 00:53:44,000 --> 00:53:45,770
 You, too, Olaf.
+Du också, Olof.
+[You, too, Olof.]
 
 00:53:46,000 --> 00:53:47,929
 Me? - Just give us a minute.
+Va? - Ge oss en minut bara.
+[What? - Give us a minute only.]
 
 00:53:48,200 --> 00:53:49,526
 Okay.
+Okej.
+[All right.]
 
 00:53:50,600 --> 00:53:52,290
 One, two, three...
+(LUGNT) (RÄKNAR) Ett, två, tre...
+[(CALM) (COUNT) One, two, three...]
 
 00:53:52,840 --> 00:53:54,724
 Four...
+Fyra...
+[Four...]
 
 00:54:00,000 --> 00:54:01,281
 Whoa.
+Wow!
+[Wow!]
+
+00:54:02,00 --> 00:54:05,00
+.
+(ALLMÄN INFORMATION: DET EKAR I SLOTTET)
+[(GENERAL INFORMATION: it echoes in the castle)]
 
 00:54:06,280 --> 00:54:07,561
 Elsa?
 
 00:54:08,320 --> 00:54:10,443
 It's me, Anna.
+Det är jag, Anna.
+[It's me, Anna.]
 
 00:54:14,320 --> 00:54:15,965
 Anna.
 
 00:54:19,480 --> 00:54:23,162
 Whoa. Elsa, you look different.
+Oj, Elsa! Du är ju helt förändrad.
+[Oops, Elsa! You're completely altered.]
 
 00:54:23,520 --> 00:54:25,290
 It's a good different.
+På ett bra sätt.
+[In a good way.]
 
 00:54:25,440 --> 00:54:26,926
 And this place...
+Och det här stället är...
+[And this place is...]
 
 00:54:27,080 --> 00:54:28,566
 It's amazing.
+är fantastiskt.
+[is fantastic.]
 
 00:54:28,680 --> 00:54:29,881
 Thank you.
+Tack så mycket.
+[Thanks so much.]
 
 00:54:29,920 --> 00:54:32,282
 I never knew what I was capable of.
+Jag hade ingen aning om vad jag var kapabel till.
+[I had no idea what I was capable of.]
 
 00:54:32,720 --> 00:54:35,479
 I'm so sorry about what happened. If I'd have known...
+Jag är så ledsen för det som hände. Om jag hade vetat så...
+[I'm so sorry for what happened. If I had known then...]
 
 00:54:35,480 --> 00:54:36,806
 No, no, no. It's okay.
+Nej, nej, nej. Det gör inget.
+[No no no. It does not matter.]
 
 00:54:36,840 --> 00:54:41,090
 You don't have to apologize, but you should probably go.
+Du behöver inte be om ursäkt, men det är nog bäst att du går nu.
+[You do not need to apologize, but it's probably best that you go now.]
 
 00:54:41,760 --> 00:54:42,879
 Please.
+Snälla.
+[Please.]
 
 00:54:42,880 --> 00:54:44,241
 But I just got here.
+Men jag kom ju precis.
+[But I just got here.]
 
 00:54:44,760 --> 00:54:46,564
 You belong down in Arendelle.
+Du hör hemma nere i Arendal.
+[You belong down in Arendal.]
 
 00:54:46,720 --> 00:54:47,879
 So do you.
+Och det gör du också.
+[And so do you.]
 
 00:54:47,880 --> 00:54:50,208
 No, Anna, I belong here.
+Nej, Anna, jag hör hemma här.
+[No, Anna, I belong here.]
 
 00:54:51,040 --> 00:54:52,401
 Alone.
+Ensam.
+[Alone.]
 
 00:54:52,600 --> 00:54:56,850
 Where I can be who I am without hurting anybody.
+Där jag kan vara mig själv utan att skada nån.
+[Where I can be myself without hurting anyone.]
 
 00:54:56,960 --> 00:54:59,083
 Actually, about that...
+Tja, nu när du nämner det så...
+[Well, now that you mention it so...]
 
 00:54:59,520 --> 00:55:01,370
 Sixty! - Wait. What is that?
+Sextio! - Vad var det?
+[Sixty! - What was that?]
 
 00:55:01,880 --> 00:55:04,526
 Hi! I'm Olaf and I like warm hugs!
+Hej! Jag heter Olof, och jag gillar varma kramar!
+[Hey! My name is Olaf, and I like warm hugs!]
 
 00:55:05,120 --> 00:55:06,367
 Olaf?
+Olof?
+[Olof?]
 
 00:55:07,080 --> 00:55:08,281
 You built me.
+Du skapade mig.
+[You created me.]
 
 00:55:08,680 --> 00:55:10,041
 Remember that?
+Minns du inte det?
+[Do not you remember?]
 
 00:55:10,400 --> 00:55:11,647
 And you're alive?
+Och du lever?
+[And you live?]
 
 00:55:12,240 --> 00:55:14,602
 Um... I think so.
+Ja... Öhm... Jag tror det...
+[Yes... um... I think so...]
 
 00:55:15,960 --> 00:55:18,686
 He's just like the one we built as kids.
+Han ser ut som den vi byggde när vi var små.
+[He looks like the one we built when we were little.]
 
 00:55:19,720 --> 00:55:21,046
 Yeah.
+Ja.
+[Yes.]
 
 00:55:21,440 --> 00:55:23,449
 Elsa, we were so close.
+Elsa, vi stod varandra så nära.
+[Elsa, we were so close.]
 
 00:55:23,640 --> 00:55:25,524
 We can be like that again.
+Och det kan vi göra igen.
+[And we can do that again.]
 
 00:55:26,760 --> 00:55:28,480
 Catch me! Slow down!
+(DET EKAR I FLASHBACKEN) UNG ANNA: Fånga mig! - UNG ELSA: Vänta!
+[(It echoes in flashback) YOUNG ANNA: Catch me! - YOUNG ELSA: Wait!]
 
 00:55:31,880 --> 00:55:33,161
 Anna!
 
 00:55:35,720 --> 00:55:36,759
 No.
+Nej.
+[No.]
 
 00:55:36,760 --> 00:55:39,440
 We can't. Goodbye, Anna.
+Det går inte. Farväl, Anna.
+[It's not possible. Goodbye, Anna.]
 
 00:55:39,480 --> 00:55:40,559
 Elsa, wait.
+Elsa, vänta.
+[Elsa, wait.]
 
 00:55:40,560 --> 00:55:42,759
 No, I'm just trying to protect you.
+Nej. Jag försöker bara skydda dig.
+[No. I'm just trying to protect you.]
 
 00:55:42,760 --> 00:55:45,611
 You don't have to protect me. I'm not afraid.
