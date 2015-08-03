@@ -4941,156 +4941,258 @@ Nej. Jag försöker bara skydda dig.
 
 00:55:42,760 --> 00:55:45,611
 You don't have to protect me. I'm not afraid.
+Du behöver inte skydda mig! Jag är inte rädd.
+You don't need to protect me! I'm not afraid.
 
 00:55:46,160 --> 00:55:48,283
 Please don't shut me out again.
+Snälla, stanna! Gå inte
+Please, stay! Don't go!
 
 00:55:48,440 --> 00:55:50,519
 Please don't slam the door
+Stäng inte din dörr
+Don't shut your door
 
 00:55:50,520 --> 00:55:54,599
 You don't have to keep your distance anymore
+Du behöver inte fly igen som förr
+You don't need to run away like before
 
 00:55:54,600 --> 00:55:57,610
 'Cause for the first time in forever
+För nu, för första gången nånsin
+Because now, for the first time ever
 
 00:55:57,800 --> 00:55:59,799
 I finally understand
+Tror jag att jag förstår
+I think I understand
 
 00:55:59,800 --> 00:56:02,159
 For the first time in forever
+Och nu för första gången nånsin
+And now for the first time ever
 
 00:56:02,160 --> 00:56:04,439
 We can fix this hand in hand
+Tillsammans, tror jag det ska gå
+I believe we can do it together
 
 00:56:04,440 --> 00:56:06,608
 We can head down this mountain together.
+Vi kan väl hjälpa varandra!
+We can help each other!
 
 00:56:06,680 --> 00:56:09,639
 You don't have to live in fear
+Du ska inte vara rädd
+You don't have to be afraid
 
 00:56:09,640 --> 00:56:13,561
 'Cause for the first time in forever
+För nu, för första gången nånsin
+Because now, for the first time ever
 
 00:56:13,640 --> 00:56:16,919
 I will be right here
+Finns jag för dig beredd
+I'm right here for you
 
 00:56:16,920 --> 00:56:18,199
+<i>Anna.</i>
+<i>Anna.</i>
 <i>Anna.</i>
 
 00:56:18,200 --> 00:56:20,119
 <i>Please go back home</i>
+<i>snälla, gå hem</i>
+<i>please, go home</i>
 
 00:56:20,120 --> 00:56:21,890
 <i>Your life awaits</i>
+<i>Du har din man</i>
+<i>You have your man</i>
 
 00:56:22,760 --> 00:56:26,239
 <i>Go enjoy the sun, and open up the gates</i>
+<i>Gå och njut av solen och öppna portarna</i>
+<i>Go and enjoy the sun and open the gates</i>
 
 00:56:26,240 --> 00:56:27,350
+Yeah, but...
+Ja, men...
 Yeah, but...
 
 00:56:26,970 --> 00:56:27,719
 <i>I know.</i>
+<i>Jag vet,</i>
+<i>I know,</i>
 
 00:56:27,720 --> 00:56:32,050
 <i>You mean well, but leave me be</i>
+<i>du vill väl. Men jag har min magi</i>
+<i>you mean well. But I have my magic</i>
 
 00:56:32,120 --> 00:56:33,559
 <i>Yes, I'm alone</i>
+<i>Visst, jag är ensam</i>
+<i>Sure, I'm alone</i>
 
 00:56:33,560 --> 00:56:36,519
 <i>But I'm alone and free</i>
+<i>men jag är också fri</i>
+<i>but I'm also free</i>
 
 00:56:36,520 --> 00:56:41,282
 <i>Just stay away and you'll be safe from me</i>
+<i>Så håll dig borta, undvik tragedi</i>
+<i>So stay away, avoid tragedy</i>
 
 00:56:42,320 --> 00:56:43,521
 Actually, we're not
+Det är nog försent
+It's probably too late
 
 00:56:43,680 --> 00:56:44,950
 <i>What do you mean, you're not?</i>
+<i>Vad menar du försent?</i>
+<i>What do you mean, too late?</i>
 
 00:56:44,760 --> 00:56:46,450
 I get the feeling you don't know
+Det verkar som du inte vet
+It seems like you don't know
 
 00:56:46,320 --> 00:56:47,681
 <i>What do I not know?</i>
+<i>Vad är det jag inte vet?</i>
+<i>What is it I don't know?</i>
 
 00:56:48,000 --> 00:56:51,399
 Arendelle's in deep, deep, deep
+Allt är täckt av djup, djup, djup,
+Everything is covered in deep, deep, deep,
 
 00:56:51,400 --> 00:56:53,682
 deep snow
+djup... snö
+deep... snow
 
 00:56:53,840 --> 00:56:55,041
+<i>What?</i>
+<i>Va?</i>
 <i>What?</i>
 
 00:56:55,320 --> 00:56:59,002
 You kind of set off an eternal winter everywhere.
+Du råkade liksom skapa en evig vinter... överallt.
+You accidentally created an eternal winter... everywhere.
 
 00:56:59,200 --> 00:57:00,359
+<i>Everywhere?</i>
+<i>Överallt?</i>
 <i>Everywhere?</i>
 
 00:57:00,360 --> 00:57:02,279
 Well, it's okay, you can just unfreeze it.
+Det gör inget! Du kan väl bara värma upp allt.
+It doesn't matter! You can just warm everything up.
 
 00:57:02,280 --> 00:57:04,528
 <i>No, I can't. I don't know how.</i>
+<i>Nej! Jag tror inte att jag kan det.</i>
+<i>No! I don't think that I can.</i>
 
 00:57:04,560 --> 00:57:07,081
 Sure you can. I know you can.
+Jo, det kan du. Jag vet att du kan!
+Yes, you can. I know you can!
 
 00:57:07,200 --> 00:57:12,401
 'Cause for the first time in forever
+För nu, för första gången nånsin
+Because now, for the first time ever
 
 00:57:09,450 --> 00:57:15,519
 <i>Oh, I'm such a fool! I can't be free!</i>
+<i>Åh, så dum jag var! Blir aldrig fri!</i>
+<i>What a fool I was! Will never be free!</i>
 
 00:57:12,650 --> 00:57:17,950
 You don't have to be afraid
+Tillsammans blir det bra
+Together it will be okay
 
 00:57:15,920 --> 00:57:18,839
 <i>No escape from the storm inside of me</i>
+<i>Från den storm som rasar inuti</i>
+<i>From the storm that rages deep within</i>
 
 00:57:18,040 --> 00:57:21,839
 We can work this out together
+Och för första gången nånsin
+And for the first time ever
 
 00:57:20,840 --> 00:57:22,819
 <i>I can't control the curse!</i>
+<i>Förlorat och förstört!</i>
+<i>Lost and ruined!</i>
 
 00:57:22,720 --> 00:57:26,639
 We'll reverse the storm you've made
+Kuvar vi stormen du och jag
+We'll suppress the storm, you and me
 
 00:57:26,040 --> 00:57:29,219
 <i>Anna, please you'll only make it worse!</i>
+<i>Anna, tror du inte jag försökt?</i>
+<i>Anna, don't you think I tried?</i>
 
 00:57:29,120 --> 00:57:31,019
 Don't panic!
+Lugn bara
+Just calm down
 
 00:57:29,820 --> 00:57:31,319
 <i>There's so much fear!</i>
+<i>Det är allt jag begär</i>
+<i>That's all I ask</i>
 
 00:57:31,020 --> 00:57:33,919
 We'll make the sun shine bright
+Låt kärleken stråla ljus
+When love shines brightly
 
 00:57:32,820 --> 00:57:35,319
 <i>You're not safe here!</i>
+<i>Du är inte trygg här!</i>
+<i>You're not safe here</i>
 
 00:57:34,320 --> 00:57:37,119
 We can face this thing together
+Låt oss lämna dessa trakter
+Let us leave these lands
 
 00:57:35,840 --> 00:57:38,119
 <i>No!</i>
+<i>(LÅNG TON)A-a-a-ah!</i>
+<i>[(long sound) A-a-a-ah]</i>
 
 00:57:37,120 --> 00:57:39,279
 We can change this winter weather
+Vi kan trotsa världens makter
+We can defy the powers of the weather
 
 00:57:39,280 --> 00:57:42,768
 And everything will be all right
+Och allting ska bli bra
+And everything will be alright
 
 00:57:43,320 --> 00:57:45,761
 <i>I can't!</i>
+<i>Låt mig va!</i>
+<i>Leave me alone!</i>
 
 00:57:53,240 --> 00:57:54,441
 Anna!
