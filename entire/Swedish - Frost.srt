@@ -1420,7 +1420,9 @@ Drottning Elsa av Arendal!
 [Queen Elsa Arendal!]
 
 00:19:53,920 --> 00:19:58,924
+.
 (SPELAR LIVLIG MUSIK; GÄSTER PRATAR OCH SKRATTAR)
+[(Playing lively music ; GUESTS talking and laughing)]
 
 00:20:05,920 --> 00:20:08,771
 Queen Elsa of Arendelle.
