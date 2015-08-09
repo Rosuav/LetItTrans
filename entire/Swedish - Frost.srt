@@ -7492,51 +7492,86 @@ Dundrande fram genom fjorden som en tapper, illaluktande renar-kung!
 
 01:22:11,160 --> 01:22:12,646
 Come on!
+Kom igen!
+[Come on!]
 
 01:22:14,920 --> 01:22:16,519
 Look out!
+Se upp!
+[Beware!]
 
 01:22:16,520 --> 01:22:17,960
 Oh!
+Åh!
+[Oh!]
 
 01:22:24,680 --> 01:22:26,370
 Uh... Back this way.
+Öhm... Tillbaks hitåt!
+[Ohm... Way Back!]
 
 01:22:27,560 --> 01:22:29,250
 We're trapped.
+Vi är fast.
+[We firmly.]
+
+01:22:34,00 --> 01:22:36,00
+.
+ALLMÄN INFORMATION: VINDEN VINER JÄTTEMYCKET VARJE GÅNG SOM DE ÄR UTE!
+[GENERAL INFORMATION: wind howls HUGELY each time they are out!]
 
 01:22:41,440 --> 01:22:42,880
 Oh...
+Ååh...
+[Ooh...]
 
 01:22:46,720 --> 01:22:48,410
 Whoa!
 
 01:22:51,440 --> 01:22:53,130
 Slide, Anna!
+Glid ner, Anna!
+[Sliding down, Anna!]
 
 01:23:01,960 --> 01:23:03,571
 We made it!
+Vi klarade det!
+[We made it!]
 
 01:23:04,560 --> 01:23:06,330
 Go, go, go, go, go, go, go!
+Spring, spring, spring, spring, spring, spring, spring!
+[Run, run, run, run, run, run, run!]
 
 01:23:18,880 --> 01:23:20,570
 Come on, buddy, faster.
+Kom igen, kompis, fortare!
+[Come on, buddy, faster!]
 
 01:23:22,800 --> 01:23:24,411
 Kristoff!
+Kristoffer!
+[Christopher!]
 
 01:23:30,080 --> 01:23:31,645
 Keep going!
+Fortsätt bara!
+[Proceed only!]
 
 01:23:33,920 --> 01:23:35,485
 Kristoff!
+Kristoffer!
+[Christopher!]
 
 01:23:46,920 --> 01:23:48,167
 Come on!
+Kom igen!
+[Come on!]
 
 01:24:02,320 --> 01:24:03,567
 No.
+Nej.
+[No.]
 
 01:24:18,640 --> 01:24:19,841
 Whoa!
@@ -7549,72 +7584,122 @@ Sven!
 
 01:24:42,320 --> 01:24:43,965
 Good boy.
+Bra där.
+[Well there.]
 
 01:24:55,240 --> 01:24:56,771
 Kristoff.
+Kristoffer...
+[Kristoffer...]
 
 01:24:57,680 --> 01:24:59,609
 Kristoff...
+Kristoffer...
+[Kristoffer...]
 
 01:25:00,320 --> 01:25:01,601
 Anna!
+(VINDEN VINER SÅ HÖGT ATT DE SKRIKER TILL VARANDRA)
+[(Wind howls so loudly that they shout to each other)]
 
 01:25:04,960 --> 01:25:08,369
 Elsa! You can't run from this!
+Elsa! Du kan inte fly längre!
+[Elsa! You can not escape anymore!]
 
 01:25:10,600 --> 01:25:12,639
 Just take care of my sister.
+Ta bara hand om min syster.
+[Just take care of my sister.]
 
 01:25:12,640 --> 01:25:14,279
 Your sister?
+Din syster?
+[Your sister?]
 
 01:25:14,280 --> 01:25:16,926
 She returned from the mountain weak and cold.
+När hon kom ner från berget var hon svag och kall.
+[When she came down from the mountain, she was weak and cold.]
 
 01:25:17,120 --> 01:25:19,239
 She said that you froze her heart.
+Hon sa att du hade frusit ner hennes hjärta.
+[She said you had frozen into her heart.]
 
 01:25:19,240 --> 01:25:20,399
 No.
+(FÖRTVIVLAT) Nej.
+[(Desperately) No.]
 
 01:25:20,400 --> 01:25:22,648
 I tried to save her, but it was too late.
+Jag försökte rädda henne, men det var för sent.
+[I tried to save her but it was too late.]
 
 01:25:23,840 --> 01:25:26,441
 Her skin was ice. Her hair turned white.
+Huden blev till is, hennes hår blev vitt.
+[The skin was ice, her hair turned white.]
 
 01:25:27,800 --> 01:25:29,570
 Your sister is dead.
+Din syster är död!
+[Your sister is dead!]
 
 01:25:30,200 --> 01:25:31,999
 Because of you.
+På grund av dig.
+[Because of you.]
 
 01:25:32,000 --> 01:25:33,247
 No.
+(FÖRTVIVLAT) (TYST) Nej. (PÅ GRÄNSEN TILL ATT GRÅTA)
+[(Desperately) (SILENT) No. (On the verge of CRY)]
 
 01:25:55,320 --> 01:25:56,521
 Kristoff.
+Kristoffer.
+[Kristoffer.]
 
 01:25:57,760 --> 01:25:59,450
 Anna!
+
+01:26:07,560 --> 01:26:09,085
+.
+(HÖR SVÄRDET DRAS UPP)
+[(HEAR THE SWORD DRAWN UP)]
 
 01:26:11,840 --> 01:26:13,405
 Elsa?
 
 01:26:21,560 --> 01:26:22,807
 No!
+(ROPAR) (EKAR) Nej!
+[(SHOUTING) (ECHOES) No!]
+
+01:26:30,680 --> 01:26:32,489
+.
+(ANNA ANDAS UT LÅNGSAMT)
+[(ANNA exhale slowly)]
 
 01:26:35,120 --> 01:26:36,401
 Anna!
 
 01:26:37,000 --> 01:26:38,850
 Oh. Anna!
+(RÖSTEN DARRAR) Åh. Anna...
+[(VOICE trembling) Oh. Anna...]
 
 01:26:39,520 --> 01:26:41,802
 No, no!
+Nej. Nej!
+[No. No!]
 
 01:26:41,880 --> 01:26:43,445
 Please, no.
+Snälla, nej.
+[Please, no.]
 
 01:26:51,920 --> 01:26:53,201
 Anna?
@@ -7624,207 +7709,335 @@ Anna?
 
 01:27:38,440 --> 01:27:39,880
 Oh, Elsa.
+Åh, Elsa.
+[Oh, Elsa.]
 
 01:27:39,920 --> 01:27:42,407
 You sacrificed yourself for me?
+Du offrade dig själv för min skull!
+[You sacrificed yourself for my sake!]
 
 01:27:43,960 --> 01:27:45,519
 I love you.
+Jag älskar dig.
+[I love you.]
 
 01:27:45,520 --> 01:27:50,442
 "An act of true love will thaw a frozen heart."
+"En äkta kärlekshandling kan tina ett fruset hjärta!"
+["A true act of love can thaw a frozen heart!"]
 
 01:27:51,840 --> 01:27:53,690
 "Love will thaw."
+"Kärlek kan tina"?
+[" Love can thaw"?]
 
 01:27:54,880 --> 01:27:57,439
 Love. Of course.
+Kärlek... Så klart!
+[Love... So of course!]
 
 01:27:57,440 --> 01:27:58,721
 Elsa?
 
 01:27:59,160 --> 01:28:00,441
 Love!
+Kärlek!
+[Love!]
 
 01:28:47,080 --> 01:28:48,691
 I knew you could do it.
+Jag visste att du kunde.
+[I knew you could.]
 
 01:28:48,920 --> 01:28:52,442
 Hands down, this is the best day of my life.
+Helt ärligt, det här är den bästa dagen i mitt liv!
+[Quite honestly, this is the best day of my life!]
 
 01:28:52,800 --> 01:28:54,759
 And, quite possibly, the last.
+Och antadligen den sista...
+[And antadligen the last...]
 
 01:28:54,760 --> 01:28:57,281
 Oh, Olaf! Hang on, little guy.
+Olof! Håll ut lille vän.
+[Olof! Hold on little friend.]
 
 01:28:57,560 --> 01:28:59,250
 Oh, Oh, Oh!
+Åh, åh, åh!
+[Oh, oh, oh!]
 
 01:29:01,160 --> 01:29:04,443
 My own personal flurry!
+Mitt alldeles egna snömoln! (SKRATTAR FÖRTJUST) 
+[My very own cloud of snow! (LAUGHS FOND)]
 
 01:29:08,920 --> 01:29:10,770
 Uh-uh-uh-uh.
+Ah-ah-ah.
+[Ah- ah - ah.]
 
 01:29:13,640 --> 01:29:14,841
 Anna?
 
 01:29:14,960 --> 01:29:16,844
 But she froze your heart.
+Men hon frös ju ner ditt hjärta.
+[But she froze to the bottom your heart.]
 
 01:29:16,920 --> 01:29:19,771
 The only frozen heart around here is yours.
+Den enda som har ett fruset hjärta här, är du!
+[The only one who has a frozen heart here, is you!]
 
 01:29:24,760 --> 01:29:26,724
 Wonderful!
 
 01:29:39,640 --> 01:29:41,205
 Setting course, sir.
+Nu hissar vi seglet!
+[Now we lifts the sail!]
 
 01:29:44,280 --> 01:29:46,839
 I will return this scoundrel to his country.
+Jag ska skicka lymmeln tillbaks till sitt hem.
+[I'll send wretch back to his home.]
 
 01:29:46,840 --> 01:29:50,761
 We shall see what his twelve big brothers think of his behavior.
+Vi får väl se om hans tolv äldre bröder tycker om hans uppförande.
+[We'll see if his twelve older brothers think about his behavior.]
 
 01:29:50,880 --> 01:29:52,479
 Arendelle thanks you, milord.
+Arendal tackar er.
+[Arendal thank you.]
 
 01:29:52,480 --> 01:29:54,319
 This is unacceptable.
+Det här är oacceptabelt.
+[This is unacceptable.]
 
 01:29:54,320 --> 01:29:57,479
 I am a victim of fear. I've been traumatized.
+Jag lider av ångest. Jag har blivit traumatiserad.
+[I suffer from anxiety. I've been traumatized.]
 
 01:29:57,480 --> 01:29:59,364
 Ah! My neck hurts.
+A-aj! Jag har nackspärr.
+[A- ouch! I have Torticollis.]
 
 01:29:59,640 --> 01:30:03,039
 Is there a doctor that I could see?
+Finns det nån läkare som jag kan träffa?
+[Is there a doctor I can see?]
 
 01:30:03,040 --> 01:30:05,439
 And I demand to see the queen!
+Och jag kräver att få tala med drottningen!
+[And I demand to speak to the Queen!]
 
 01:30:05,440 --> 01:30:07,642
 Oh. I have a message from the queen.
+Åh. Jag har ett meddelande från drottningen.
+[Oh. I have a message from the Queen.]
 
 01:30:08,080 --> 01:30:09,919
 "Arendelle will henceforth and forever
+"Arendal kommer härdanefter och för all framtid
+[" Arendal will persist for and forever]
 
 01:30:09,920 --> 01:30:14,045
 "no longer do business of any sort with Weaseltown."
+"avstå all slags handel med Vassleby."
+[" abandon all trade with Vassleby."]
 
 01:30:14,080 --> 01:30:15,239
 "Weselton."
+Vessleby!
+[Vessleby!]
 
 01:30:15,240 --> 01:30:16,799
 It's Weselton!
+Det heter "Vessleby"!
+[It's called" Vessleby"!]
 
 01:30:16,800 --> 01:30:17,919
 Come on, come on, come on!
+Kom! Kom! Kom nu!
+[Come on! Come on! Come now!]
 
 01:30:19,000 --> 01:30:20,399
 Okay, okay, here I come.
+Okej. Okej! Jag kommer!
+[All right. Okay! I'm coming!]
 
 01:30:20,400 --> 01:30:22,489
 Pole! - Whoops! Sorry.
+Stolpe - Oj. Förlåt.
+[Post - Wow. Pardon.]
 
 01:30:22,680 --> 01:30:24,211
 Okay, Okay.
+Okej, okej.
+[OK OK.]
 
 01:30:24,240 --> 01:30:26,044
 Here we are. Oh!
+Vi är här.
+[We are here.]
 
 01:30:28,240 --> 01:30:30,363
 I owe you a sled.
+Jag är ju skylldig dig en släde.
+[I'm skylldig you a sled.]
 
 01:30:33,320 --> 01:30:35,204
 Are you serious? - Yes!
+Menar du allvar? - Ja!
+[Are you serious? - Yes!]
 
 01:30:35,360 --> 01:30:36,999
 And it's the latest model.
+Och det är den senaste modellen.
+[And it's the latest model.]
 
 01:30:37,000 --> 01:30:38,599
 No, I can't accept this.
+Nej. Jag k-kan inte ta emot det.
+[No. I k can not receive it.]
 
 01:30:38,600 --> 01:30:41,565
 You have to. No returns. No exchanges. Queen's orders.
+Det måste du. Ingen retur. Inget byte. Drottningens order.
+[There you need. No return. No replacement. Queen's orders.]
 
 01:30:41,680 --> 01:30:45,521
 She's named you the Official Arendelle Ice Master and Deliverer.
+Hon har utnämnt dig till Arendals officiella ismästare och leverantör.
+[She has appointed you to Arendals official ismästare and supplier.]
 
 01:30:45,640 --> 01:30:47,519
 What? That's not a thing. - Oh, sure it is.
+Va? Såna finns inte. - Jo, det gör det visst. 
+[What? That kind are not. - Well, it makes it certain.]
 
 01:30:47,520 --> 01:30:51,039
 And it even has a cup holder. Do you like it?
+Den har till och med en kopphållare. Tycker du om den?
+[It even has a cup holder. Do you like it?]
 
 01:30:51,040 --> 01:30:53,359
 Like it? I love it!
+Tycker om den?! Jag älskar den!
+[Think about it?! I love it!]
 
 01:30:53,360 --> 01:30:54,439
 Whoa.
 
 01:30:54,440 --> 01:30:56,290
 I could kiss you!
+Jag skulle skulle kunna kyssa dig!
+[I'd could kiss you!]
 
 01:30:57,000 --> 01:30:58,879
 I could. I mean, I'd like to. I'd...
+Skulle jag. Alltså, jag vill det. Jag...
+[Would I. Thus, I want it. I...]
 
 01:30:58,880 --> 01:31:01,079
 May I? We me. I mean, may we?
+Får jag? Du vill? Jag menar: vill du?
+[May I? You want? I mean, would you?]
 
 01:31:01,080 --> 01:31:02,327
 Wait, what?
+Vänta, va?
+[Wait what?]
 
 01:31:03,160 --> 01:31:04,566
 We may.
+Det vill jag.
+[I do.]
 
 01:31:08,440 --> 01:31:09,926
 Summer!
+Sommar!
+[Summer!]
 
 01:31:11,440 --> 01:31:13,799
 Ooh...
+Ååh...
+[Ooh...]
 
 01:31:13,800 --> 01:31:15,879
 Hello.
+Hallå!
+[Hey!]
 
 01:31:32,160 --> 01:31:33,239
 Are you ready?
+Är ni beredda?
+[Are you prepared?]
 
 01:31:38,920 --> 01:31:41,282
 Ice!
 
 01:31:53,480 --> 01:31:55,125
 Swing me.
+Snurra mig!
+[Spin me!]
 
 01:31:55,920 --> 01:31:57,804
 Ooh...
+Oh-o-o-oh...!
+[Oh- o- o- oh...!]
 
 01:31:58,000 --> 01:31:59,759
 I like the open gates.
+Skönt att portarna är öppna.
+[Nice to ports are open.]
 
 01:31:59,760 --> 01:32:02,122
 We are never closing them again.
+Vi ska aldrig stänga dem igen.
+[We should never close them again.]
 
 01:32:04,640 --> 01:32:07,127
 Oh, Elsa, they're beautiful, but you know I don't skate.
+Åh, Elsa, dem är jättefina, men du vet att jag inte kan åka sk...
+[Oh, Elsa, they look fantastic, but you know I can not go w...]
 
 01:32:07,200 --> 01:32:08,731
 Come on! You can do it!
+Kom nu! Du klarar det!
+[Come now! You can do it!]
 
 01:32:08,960 --> 01:32:11,359
 Look out. Reindeer coming through.
+Se upp! Det kommer en ren här!
+[Beware! It will clean this!]
 
 01:32:11,360 --> 01:32:13,119
 I got it, I got it. I don't got it, I don't got it.
+Det går, det går! Det går inte, det går inte!
+[It goes, it goes! You can not, you can not!]
 
 01:32:13,120 --> 01:32:14,199
 Hey, guys!
+Hej, på er!
+[Hello!]
 
 01:32:14,200 --> 01:32:15,519
 That's it, Olaf.
+Så där ja, Olof.
+[That's it, Olof.]
 
 01:32:15,520 --> 01:32:18,839
 Glide and pivot. And glide and pivot.
+Glid och snurr. Och glid och snurr.
+[Glide and spin. And glide and spin.]
