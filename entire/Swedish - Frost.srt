@@ -1279,7 +1279,7 @@ Prinsessan Anna av Arendal.
 00:17:31,680 --> 00:17:33,119
 "Princess"? My Lady.
 "Prinsessa"? Ers höghet.
-[" Princess"? Your Highness.]
+["Princess"? Your Highness.]
 
 00:17:33,120 --> 00:17:34,526
 Oh!
@@ -1527,7 +1527,7 @@ hertigen av Vassleby.
 00:21:07,240 --> 00:21:10,044
 "Weselton"! Duke of Weselton, Your Majesty.
 "Vessleby"! Hertigen av Vessleby, ers majestät.
-[" Vessleby"! The Duke of Vessleby, Your Majesty.]
+["Vessleby"! The Duke of Vessleby, Your Majesty.]
 
 00:21:10,520 --> 00:21:13,679
 As your closest partner in trade it seems only fitting
@@ -3407,7 +3407,7 @@ Jasså? Vad är hans efternamn?
 00:41:18,960 --> 00:41:21,559
 "Of the Southern Isles."
 "Av de Södra Öarna."
-[" Of the Southern Islands."]
+["Of the Southern Islands."]
 
 00:41:21,560 --> 00:41:22,999
 What's his favorite food? - Sandwiches.
@@ -3674,7 +3674,7 @@ It's this way?
 00:44:01,080 --> 00:44:03,199
 "She'll die on her own."
 "Jamen utan hjälp dör hon."
-[" Yes, but without help she dies."]
+["Yes, but without help she dies."]
 
 00:44:03,200 --> 00:44:05,084
 I can live with that. - Here we go.
@@ -3684,7 +3684,7 @@ Jag bryr mig inte. - Här måste det vara.
 00:44:05,120 --> 00:44:08,319
 "But you won't get your new sled if she's dead."
 "Men du får ingen ny släde om hon är död."
-[" But you get no new sled if she is dead."]
+["But you get no new sled if she is dead."]
 
 00:44:08,320 --> 00:44:09,931
 I think, actually, it's up.
@@ -7730,7 +7730,7 @@ Jag älskar dig.
 01:27:51,840 --> 01:27:53,690
 "Love will thaw."
 "Kärlek kan tina"?
-[" Love can thaw"?]
+["Love can thaw"?]
 
 01:27:54,880 --> 01:27:57,439
 Love. Of course.
@@ -7849,12 +7849,12 @@ Oh. I have a message from the queen.
 01:30:08,080 --> 01:30:09,919
 "Arendelle will henceforth and forever
 "Arendal kommer härdanefter och för all framtid
-[" Arendal will persist for and forever]
+["Arendal will persist for and forever]
 
 01:30:09,920 --> 01:30:14,045
 "no longer do business of any sort with Weaseltown."
 "avstå all slags handel med Vassleby."
-[" abandon all trade with Vassleby."]
+["abandon all trade with Vassleby."]
 
 01:30:14,080 --> 01:30:15,239
 "Weselton."
@@ -7864,7 +7864,7 @@ Vessleby!
 01:30:15,240 --> 01:30:16,799
 It's Weselton!
 Det heter "Vessleby"!
-[It's called" Vessleby"!]
+[It's called "Vessleby"!]
 
 01:30:16,800 --> 01:30:17,919
 Come on, come on, come on!
