@@ -853,7 +853,7 @@ KAJ: Ååh. Förlåt att jag väckte er.
 
 00:12:57,880 --> 00:12:59,719
 No, no, no, you didn't.
-Nej, nej, nej, ingen fara. 
+Nej, nej, nej, ingen fara.
 [No, no, no, no danger.]
 
 00:12:59,720 --> 00:13:01,490
@@ -893,7 +893,7 @@ KAJ: Er systers kröning, prinsessan.
 
 00:13:17,640 --> 00:13:20,161
 My sister's corneration.
-Min systers... kröning, ja... 
+Min systers... kröning, ja...
 [My sister... coronation, yes...]
 
 00:13:22,720 --> 00:13:24,919
@@ -1153,7 +1153,7 @@ Feels like an eternity!
 
 00:16:16,680 --> 00:16:18,928
 The gate
-Det är dags! 
+Det är dags!
 It's time!
 
 00:16:18,960 --> 00:16:23,599
@@ -1283,7 +1283,7 @@ Prinsessan Anna av Arendal.
 
 00:17:33,120 --> 00:17:34,526
 Oh!
-Åh! 
+Åh!
 [Oh!]
 
 00:17:34,600 --> 00:17:36,279
@@ -1331,7 +1331,7 @@ för att jag stötte till prinsessan av Arendal med min häst.
 
 00:17:51,560 --> 00:17:53,199
 And for every moment after.
-Och... För allt som hände efter det. 
+Och... För allt som hände efter det.
 [And... For everything that happened after that.]
 
 00:17:53,200 --> 00:17:54,799
@@ -1341,7 +1341,7 @@ Nej! Nej, nej. Det är lugnt.
 
 00:17:54,800 --> 00:17:56,119
 I'm not that princess.
-Alltså, jag är inte en sån prinsessa. 
+Alltså, jag är inte en sån prinsessa.
 [Thus, I am not one of those princess.]
 
 00:17:56,120 --> 00:17:57,879
@@ -2468,7 +2468,7 @@ Anna, nej. Det är alldeles för farligt.
 
 00:30:19,280 --> 00:30:21,130
 Elsa's not dangerous.
-(HÅNSKRATTAR) Elsa är inte farlig. 
+(HÅNSKRATTAR) Elsa är inte farlig.
 [(Scoffs) Elsa is not dangerous.]
 
 00:30:21,400 --> 00:30:23,279
@@ -2912,7 +2912,7 @@ flicka lilla. (DÖRERN ÖPPNAS)
 
 00:36:57,080 --> 00:36:58,479
 You and this fellow.
-Du och han där. 
+Du och han där.
 [You and him there.]
 
 00:36:58,480 --> 00:36:59,519
@@ -3022,7 +3022,7 @@ That's unfortunate.
 
 00:37:40,840 --> 00:37:41,999
 Still forty.
-Priset är fyrtio. 
+Priset är fyrtio.
 [The price is forty.]
 
 00:37:42,000 --> 00:37:44,248
@@ -3496,7 +3496,7 @@ Var tyst nu. - Nej, nej, nej. Nej!
 
 00:41:55,320 --> 00:41:57,090
 I'd like to meet these... - No, I mean it.
-Jag skulle vilja träffa dem där... - Nej, jag menar det. 
+Jag skulle vilja träffa dem där... - Nej, jag menar det.
 [I would like to meet them there... - No, I mean it.]
 
 00:42:09,680 --> 00:42:11,250
@@ -4470,7 +4470,7 @@ Ja. Hon är säkert den sötaste, vänligaste och varmaste personen i världen.
 
 00:51:15,160 --> 00:51:16,799
 Oh. Look at that.
-Åh. Har man sett. 
+Åh. Har man sett.
 [Oh. Have you seen.]
 
 00:51:16,800 --> 00:51:19,207
@@ -7097,7 +7097,7 @@ Please. Please.
 
 01:17:13,040 --> 01:17:14,999
 It's getting colder by the minute.
-Det blir kallare för varje minut som går. 
+Det blir kallare för varje minut som går.
 [It's getting colder every minute that passes.]
 
 01:17:15,000 --> 01:17:18,719
@@ -7217,7 +7217,7 @@ Var snabba. Var försiktiga.
 
 01:18:24,560 --> 01:18:26,250
 It won't open! It's frozen shut.
-Den går inte att öppna! Den har frusit fast. 
+Den går inte att öppna! Den har frusit fast.
 [It will not open! It has frozen solid.]
 
 01:18:26,280 --> 01:18:27,686
@@ -7392,7 +7392,7 @@ Kristoff loves me?
 
 01:21:13,880 --> 01:21:17,607
 Wow, you really don't know anything about love, do you?
-Wow! Alltå du vet ju verkligen ingenting om kärlek, eller hur? 
+Wow! Alltå du vet ju verkligen ingenting om kärlek, eller hur?
 [Wow! Organ, proved you know really nothing about love, right?]
 
 01:21:18,120 --> 01:21:19,924
@@ -7772,7 +7772,7 @@ Oh, Oh, Oh!
 
 01:29:01,160 --> 01:29:04,443
 My own personal flurry!
-Mitt alldeles egna snömoln! (SKRATTAR FÖRTJUST) 
+Mitt alldeles egna snömoln! (SKRATTAR FÖRTJUST)
 [My very own cloud of snow! (LAUGHS FOND)]
 
 01:29:08,920 --> 01:29:10,770
@@ -7923,7 +7923,7 @@ Hon har utnämnt dig till Arendals officiella ismästare och leverantör.
 
 01:30:45,640 --> 01:30:47,519
 What? That's not a thing. - Oh, sure it is.
-Va? Såna finns inte. - Jo, det gör det visst. 
+Va? Såna finns inte. - Jo, det gör det visst.
 [What? That kind are not. - Well, it makes it certain.]
 
 01:30:47,520 --> 01:30:51,039
