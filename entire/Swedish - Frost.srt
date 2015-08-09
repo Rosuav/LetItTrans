@@ -6717,237 +6717,383 @@ Var inte det odjur de tror att ni är!
 
 01:12:42,520 --> 01:12:44,927
 Oh, no. What have... What have I done?
+Åh, nej. Vad... Vad har jag gjort?
+[Oh no. What... What have I done?]
 
 01:12:51,880 --> 01:12:53,491
 Why did you bring me here?
+Varför tog du mig hit?
+[Why did you bring me here?]
 
 01:12:53,760 --> 01:12:55,439
 I couldn't just let them kill you.
+Jag kunde bara inte låta de döda dig.
+[I just could not let the kill you.]
 
 01:12:55,440 --> 01:12:58,769
 But I'm a danger to Arendelle. Get Anna.
+Men jag är en fara för Arendal. Hämta Anna!
+[But I'm a danger to Arendal. Download Anna!]
 
 01:12:59,120 --> 01:13:01,199
 Anna has not returned.
+Anna har inte kommit tillbaka.
+[Anna has not come back.]
 
 01:13:02,800 --> 01:13:05,048
 If you would just stop the winter.
+Kan du inte bara få stopp på vintern?
+[Can not you just stop in the winter?]
 
 01:13:05,200 --> 01:13:07,846
 Bring back summer, please.
+Gör så det blir sommar. Snälla.
+[To do so it will be summer. Please.]
 
 01:13:08,920 --> 01:13:10,645
 Don't you see?
+Du förstår inte.
+[You do not understand.]
 
 01:13:10,840 --> 01:13:12,280
 I can't.
+Jag kan inte.
+[I can not.]
 
 01:13:15,680 --> 01:13:18,281
 You have to tell them to let me go.
+Du måste säga åt de att låta mig gå.
+[You must tell they let me go.]
 
 01:13:19,880 --> 01:13:21,889
 I will do what I can.
+Jag ska göra vad jag kan.
+[I'll do what I can.]
 
 01:13:45,680 --> 01:13:46,999
 Just hang in there.
+Försök hålla ut.
+[Try to hold out.]
 
 01:13:47,000 --> 01:13:48,361
 Come on, buddy, faster!
+Fortare, Sven! Fortare!
+[Faster, Sven! Faster!]
 
 01:13:54,200 --> 01:13:55,359
 Oh, boy!
 
 01:13:55,360 --> 01:13:57,562
 Whoa! I'll meet you guys at the castle!
+Woo-hoo! Vi ses vid slottet.
+[Woo - hoo! See you at the castle.]
 
 01:13:57,680 --> 01:13:58,999
 Stay out of sight, Olaf.
+Bara ingen ser dig, Olof.
+[Only no one sees you, Olaf.]
 
 01:13:59,000 --> 01:14:00,725
 I will!
+Nejdå!
+[No!]
 
 01:14:01,560 --> 01:14:04,161
 Hello! - It's alive!
+Hejsan! - Den lever!
+[Hi there! - It lives!]
 
 01:14:13,160 --> 01:14:14,725
 It's Princess Anna!
+Det är prinsessan Anna!
+[It is Princess Anna!]
 
 01:14:22,880 --> 01:14:24,969
 Are you gonna be okay?
+Hur är det med dig?
+[How are you?]
 
 01:14:26,880 --> 01:14:28,679
 Don't worry about me.
+Oroa dig inte för mig.
+[Do not worry about me.]
 
 01:14:28,680 --> 01:14:30,519
 Anna!
 
 01:14:30,520 --> 01:14:32,439
 You had us worried sick. My Lady.
+Vi har varit så oroliga! Ers höghet.
+[We have been so worried! Your Highness.]
 
 01:14:32,440 --> 01:14:35,439
 Get her warm. And find Prince Hans, immediately.
+Hon måste bli varm. Och hämta prins Hans, med en gång!
+[She must be hot. And fetch Prince Hans, with a time!]
 
 01:14:35,440 --> 01:14:37,051
 We will. Thank you.
+Självklart. Tack.
+[Obvious. Thank you.]
 
 01:14:37,120 --> 01:14:38,731
 Make sure she's safe.
+Ta väl hand om henne.
+[Take good care of her.]
 
 01:14:39,040 --> 01:14:40,679
 Oh, you poor girl, you're freezing.
+Åh, din lilla stackare, du är ju iskall.
+[Oh, you little wretch, you're ice cold.]
 
 01:14:40,680 --> 01:14:44,089
 Oh, let's get you inside now and get you warm.
 
 01:14:57,480 --> 01:14:59,399
 I'm going back out to look for Princess Anna.
+Jag går ut igen och letar efter prinsessan Anna.
+[I go out again and are looking for Princess Anna.]
 
 01:14:59,400 --> 01:15:01,250
 You cannot risk going out there again.
+(FRANSK BRYTNING) Det är för riskabelt att ge sig ut igen.
+[(French accent) It's too risky to go out again.]
 
 01:15:01,440 --> 01:15:02,599
 If anything happens to her...
+Om nåt skulle hända henne...
+[If something would happen to her...]
 
 01:15:02,600 --> 01:15:04,564
 If anything happens to the princess,
+Om något skulle hända prinsessan,
+[If something were to happen to the princess,]
 
 01:15:04,720 --> 01:15:07,127
 you are all Arendelle has left.
+är ni den enda Arendal har.
+[you are the only Arendal.]
 
 01:15:08,720 --> 01:15:10,519
 He's in here.
+Han är här.
+[He's here.]
 
 01:15:10,520 --> 01:15:11,639
 Prince Hans.
+Prins Hans.
+[Prince Hans.]
 
 01:15:11,640 --> 01:15:13,079
 Anna.
 
 01:15:13,080 --> 01:15:14,199
 You're so cold.
+Du är ju iskall.
+[You're ice cold.]
 
 01:15:14,200 --> 01:15:15,439
 Hans, you have to kiss me. - What?
+Hans, du måste kyssa mig! - Va?
+[Hans, you have to kiss me! - What?]
 
 01:15:15,440 --> 01:15:17,159
 Now! Now! - Slow down.
+Nu! Nu! - Ta det lugnt.
+[Now! Now! - Take it easy.]
 
 01:15:17,160 --> 01:15:19,089
 We'll give you two some privacy.
+Ni ska få vara ifred.
+[You should be left alone.]
 
 01:15:19,760 --> 01:15:21,039
 What happened out there?
+Vad hände där ute?
+[What happened out there?]
 
 01:15:21,040 --> 01:15:23,129
 Elsa struck me with her powers.
+Elsa använde sina krafter mot mig.
+[Elsa used their powers against me.]
 
 01:15:23,160 --> 01:15:24,679
 You said she'd never hurt you.
+Men du sa att hon aldrig skulle skada dig.
+[But you said that she would never hurt you.]
 
 01:15:24,680 --> 01:15:25,759
 I was wrong.
+Jag hade fel.
+[I was wrong.]
 
 01:15:25,760 --> 01:15:27,325
 Anna.
 
 01:15:29,920 --> 01:15:31,690
 She froze my heart,
+Hon frös ner mitt hjärta,
+[She froze my heart,]
 
 01:15:31,720 --> 01:15:34,366
 and only an act of true love can save me.
+och bara en äkta kärlekshandling kan rädda mig.
+[and just a genuine act of love can save me.]
 
 01:15:35,920 --> 01:15:37,804
 A true love's kiss.
+En kyss av äkta kärlek...
+[A kiss of true love...]
 
 01:15:47,720 --> 01:15:49,160
 Oh, Anna.
+Åh, Anna...
+[Oh, Anna...]
 
 01:15:50,480 --> 01:15:53,559
 If only there was someone out there who loved you.
+Om det bara fanns någon som älskade dig...
+[If only there was someone who loved you...]
 
 01:15:53,560 --> 01:15:55,000
 What?
+Va?
+[What?]
 
 01:15:58,480 --> 01:16:00,284
 You said you did.
+Du sa att du gjorde det.
+[You said you did it.]
 
 01:16:01,440 --> 01:16:04,199
 As thirteenth in line in my own kingdom,
+Som trettonde sonen i mitt eget kungarike,
+[As the thirteenth son of my own kingdom,]
 
 01:16:04,200 --> 01:16:05,479
 I didn't stand a chance.
+hade jag inte en chans.
+[I did not have a chance.]
 
 01:16:05,480 --> 01:16:09,239
 I knew I would have to marry into the throne somewhere.
+Jag visste att jag var tvungen att gifta mig till en tror nån annan stans.
+[I knew I had to marry a think someone else.]
 
 01:16:09,240 --> 01:16:10,805
 What... What are you talking about?
+Men vad... pratar du om?
+[But... what are you talking about?]
 
 01:16:11,280 --> 01:16:13,767
 As heir, Elsa was preferable, of course.
+Det är klart, som tronarvinge vore ju Elsa bättre,
+[It is clear, as the heir to the throne would surely Elsa better,]
 
 01:16:14,000 --> 01:16:15,839
 But no one was getting anywhere with her.
+men ingen kom ju nån vart med henne.
+[but no one came after anybody anywhere with her.]
 
 01:16:15,840 --> 01:16:16,919
 But you...
+Men du...
+[But you...]
 
 01:16:16,920 --> 01:16:18,439
 You were so desperate for love,
+Du ville så desperat bli älskad,
+[You wanted so desperately to be loved,]
 
 01:16:18,440 --> 01:16:21,371
 you were willing to marry me just like that.
+att du var villig att gifta dig med mig bara så där!
+[that you were willing to marry me just like that!]
 
 01:16:22,800 --> 01:16:24,639
 I figured after we married,
+Jag hade tänkt att efter vi gift oss...
+[I had thought that after we were married...]
 
 01:16:24,640 --> 01:16:26,799
 I would have to stage a little accident for Elsa.
+så skulle Elsa råka ut för en liten olycka.
+[would Elsa experience a little accident.]
 
 01:16:26,800 --> 01:16:29,048
 Hans! No. Stop.
+Hans! Nej. Vänta!
+[His! No. Wait!]
 
 01:16:29,120 --> 01:16:31,159
 But then, she doomed herself,
+Men så gjorde hon bort sig och stack
+[But then she made a fool of himself and thrust]
 
 01:16:31,160 --> 01:16:33,119
 and you were dumb enough to go after her.
+och du var dum nog att ge dig av efter henne.
+[and you were stupid enough to give up after her.]
 
 01:16:33,120 --> 01:16:34,239
 Please.
+Jag ber dig.
+[I beg you.]
 
 01:16:34,240 --> 01:16:36,920
 All that's left now is to kill Elsa,
+(SMÅSKRATTAR ELAKT) Så nu behöver jag bara få bort Elsa,
+[(Chuckles SPITEFULLY) So now I just need to get away Elsa,]
 
 01:16:37,440 --> 01:16:38,971
 and bring back summer.
+och göra så det blir sommar.
+[and to do so it will be summer.]
 
 01:16:39,400 --> 01:16:41,439
 You're no match for Elsa.
+Du har inte en chans mot Elsa!
+[You have no chance against Elsa!]
 
 01:16:41,440 --> 01:16:43,847
 No, you're no match for Elsa.
+Nej, du har ingen chans mot Elsa.
+[No, you have no chance against Elsa.]
 
 01:16:44,480 --> 01:16:45,681
 I, on the other hand,
+Jag, däremot,
+[I, however,]
 
 01:16:46,240 --> 01:16:50,729
 am the hero who is going to save Arendelle from destruction.
+är hjälten som kommer rädda Arendal från förintelse.
+[is the hero who will save the Arendal from annihilation.]
 
 01:16:51,400 --> 01:16:53,011
 You won't get away with this.
+Du kommer aldrig att lyckas.
+[You will never succeed.]
 
 01:16:53,360 --> 01:16:54,607
 Oh...
+Åh...
+[Oh...]
 
 01:16:55,200 --> 01:16:56,811
 I already have.
+Det har jag redan.
+[I have already.]
 
 01:17:02,440 --> 01:17:04,324
 Please, somebody, help.
+(SVAGT) Hallå. Jag behöver hjälp...
+[(LOW) Hey. I need help...]
 
 01:17:08,080 --> 01:17:10,123
 Please. Please.
+(MYCKET SVAGT - NÄSTAN VISKAR) Hjälp. Hjälp...
+[(VERY LOW - ALMOST whispering) Help. Help...]
 
 01:17:13,040 --> 01:17:14,999
 It's getting colder by the minute.
