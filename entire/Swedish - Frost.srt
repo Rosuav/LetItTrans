@@ -1,22 +1,22 @@
 00:00:05,00 --> 00:00:19,00
 .
 (KÖR VOKALISERAR I RYTM)
-[( RUN VOKALISERAR rhythm )]
+[(RUN VOKALISERAR rhythm)]
 
 00:00:20,00 --> 00:00:22,00
 .
 (MER MÄNNISKOR BÖRJAR VOKALISERA)
-[( MORE PEOPLE BEGIN VOCALIZE )]
+[(MORE PEOPLE BEGIN VOCALIZE)]
 
 00:00:23,00 --> 00:01:38,00
 .
 (ALLA VOKALISERAR)
-[( ALL VOKALISERAR )]
+[(ALL VOKALISERAR)]
 
 00:01:40,00 --> 00:01:41,00
 .
 (FOTSTEG)
-[( STEPS )]
+[(STEPS)]
 
 00:01:53,680 --> 00:01:56,639
 Born of cold and winter air
@@ -190,7 +190,7 @@ Anna, gå och lägg dig igen.
 00:03:52,840 --> 00:03:55,008
 I just can't.
 (SUCKAR) Jag kan inte.
-[( Sighs ) I can not.]
+[(Sighs) I can not.]
 
 00:03:55,160 --> 00:03:58,125
 The sky is awake, so I'm awake.
@@ -228,7 +228,7 @@ Oh...
 00:04:27,200 --> 00:04:29,129
 - Ready? - Uh-huh.
 - Beredd? - Uh-huh. (SKRATTAR)
-[- Prepared? - Uh -huh. ( LAUGHS )]
+[- Prepared? - Uh-huh. (LAUGHS)]
 
 00:04:32,240 --> 00:04:34,329
 This is amazing!
@@ -238,7 +238,7 @@ Det är helt otroligt!
 00:04:34,800 --> 00:04:36,689
 .
 (ANNA SKRIKER UPPHETSAT)
-[( ANNA SCREAMS excitedly )]
+[(ANNA SCREAMS excitedly)]
 
 00:04:36,800 --> 00:04:38,411
 Watch this!
@@ -315,7 +315,7 @@ Mamma! Pappa!
 00:05:28,440 --> 00:05:30,404
 No, no...
 (SNYFTAR) Nej, nej...
-[( SOB ) No, no...]
+[(SOB) No, no...]
 
 00:05:35,600 --> 00:05:38,399
 You're okay, Anna. I got you.
@@ -774,12 +774,12 @@ Det är väl inte mitt fel.
 00:12:11,400 --> 00:12:13,319
 What do you want, Sven?
 (SMÅSKRATTAR) Vad vill du ha då, Sven?
-[( Chuckles ) What do you want then, Sven?]
+[(Chuckles) What do you want then, Sven?]
 
 00:12:13,320 --> 00:12:14,639
 "Give me a snack."
 (SOM SVEN) Ge mig nåt gott.
-[( Sven ) Give me something good.]
+[(Sven) Give me something good.]
 
 00:12:14,640 --> 00:12:16,319
 What's the magic word?
@@ -789,7 +789,7 @@ Vad säger man då?
 00:12:16,320 --> 00:12:17,399
 "Please."
 (SOM SVEN) Snälla.
-[( Sven ) Please.]
+[(Sven) Please.]
 
 00:12:17,400 --> 00:12:19,489
 Uh! Uh-uh-uh. Share.
@@ -844,7 +844,7 @@ Prinsessan Anna?
 00:12:53,520 --> 00:12:55,802
 Huh? Yeah?
 Huh? (HARKLAR SIG) (YRVAKEN) Ja?
-[Huh? ( Clears his throat ) ( DAZED ) Yes?]
+[Huh? (Clears his throat) (DAZED) Yes?]
 
 00:12:56,480 --> 00:12:57,879
 Sorry to wake you, ma'am.
@@ -859,7 +859,7 @@ Nej, nej, nej, ingen fara.
 00:12:59,720 --> 00:13:01,490
 I've been up for hours.
 (GÄSPAR OCH PRATAR) Jag har varit vaken i timmar.
-[( Yawning and talking ) I've been awake for hours.]
+[(Yawning and talking) I've been awake for hours.]
 
 00:13:05,760 --> 00:13:07,166
 Who is it?
@@ -1224,7 +1224,7 @@ Is it my lucky day?
 00:17:07,040 --> 00:17:08,119
 Hey!
 (ARGT) Hallå!
-[( CROSS ) Hey!]
+[(CROSS) Hey!]
 
 00:17:08,120 --> 00:17:09,651
 I'm so sorry. Are you hurt?
@@ -1234,7 +1234,7 @@ I'm so sorry. Are you hurt?
 00:17:10,360 --> 00:17:11,959
 Hey.
 (KÄRLEKSFULLT) Hej... (SMÅSKRATTAR NERVÖST)
-[(LOVE FULL ) Hey... ( chuckles NERVOUSLY )]
+[(LOVE FULL) Hey... (chuckles NERVOUSLY)]
 
 00:17:11,960 --> 00:17:13,959
 Uh... No, no, I'm okay.
@@ -1382,7 +1382,7 @@ så är det bara jag.
 00:18:15,520 --> 00:18:17,245
 The bells. The coronation.
 (KYRKKLOCKOR RINGER) Klockorna? Och kröningen!
-[( Church bells ringing) bells? And the coronation!]
+[(Church bells ringing) bells? And the coronation!]
 
 00:18:17,280 --> 00:18:19,359
 I better go.
@@ -1407,7 +1407,7 @@ Oh, no. Oh!
 00:19:09,600 --> 00:19:11,802
 Your Majesty, the gloves.
 (BISKOP HARKLAR SIG) Ers majestät, handskarna.
-[( BISHOP clears his throat ) Your Majesty, gloves.]
+[(BISHOP clears his throat) Your Majesty, gloves.]
 
 00:19:42,480 --> 00:19:45,604
 Queen Elsa of Arendelle.
@@ -1422,7 +1422,7 @@ Drottning Elsa av Arendal!
 00:19:53,920 --> 00:19:58,924
 .
 (SPELAR LIVLIG MUSIK; GÄSTER PRATAR OCH SKRATTAR)
-[(Playing lively music ; GUESTS talking and laughing)]
+[(Playing lively music; GUESTS talking and laughing)]
 
 00:20:05,920 --> 00:20:08,771
 Queen Elsa of Arendelle.
@@ -1582,7 +1582,7 @@ Säg till om du svimmar, så fångar jag dig.
 00:21:34,400 --> 00:21:34,839
 Sorry.
 (FÖR SIG SJÄLV) Förlåt.
-[( FOR ITSELF ) Sorry.]
+[(FOR ITSELF) Sorry.]
 
 00:21:35,840 --> 00:21:37,719
 Like an agile peacock.
@@ -1690,7 +1690,7 @@ Ursäkta mig ett ögonblick.
 00:22:38,320 --> 00:22:40,249
 I'd be honored.
 (OTYDLIGT SAMTAL)
-[( Indistinct call)]
+[(Indistinct call)]
 
 00:22:41,600 --> 00:22:42,881
 Glad I caught you.
