@@ -7097,78 +7097,128 @@ Please. Please.
 
 01:17:13,040 --> 01:17:14,999
 It's getting colder by the minute.
+Det blir kallare för varje minut som går. 
+[It's getting colder every minute that passes.]
 
 01:17:15,000 --> 01:17:18,719
 If we don't do something soon, we'll all freeze to death.
+Om vi inte gör nåt snart, så kommer vi frysa ihjäl.
+[If we do not do something soon, we will freeze to death.]
 
 01:17:18,720 --> 01:17:20,331
 Prince Hans.
+Prins Hans.
+[Prince Hans.]
 
 01:17:20,400 --> 01:17:22,443
 Princess Anna is...
+Prinsessan Anna är...
+[Princess Anna is...]
 
 01:17:23,120 --> 01:17:24,239
 Dead.
+...död.
+[... death.]
 
 01:17:24,240 --> 01:17:25,319
 What?
+Va? - (FRANSMAN PRATAR PÅ FRANSKA)
+[What? - (FRENCH TALKING ON FRENCH)]
 
 01:17:25,320 --> 01:17:27,010
 What happened to her?
+Vad är det som har hänt?
+[What happened?]
 
 01:17:31,680 --> 01:17:33,450
 She was killed...
+Hon blev dödad...
+[She was killed...]
 
 01:17:33,720 --> 01:17:35,079
 ... by Queen Elsa.
+... av drottning Elsa.
+[... By Queen Elsa.]
 
 01:17:35,080 --> 01:17:36,327
 No!
+Nej!
+[No!]
 
 01:17:36,480 --> 01:17:37,681
 Her own sister.
+Av sin egen syster!
+[By his own sister!]
 
 01:17:38,480 --> 01:17:40,967
 At least we got to say our marriage vows
+Vi hann i alla fall säga våra äktenskapslöften...
+[We managed anyway to say our vows...]
 
 01:17:43,000 --> 01:17:45,282
 before she died in my arms.
+... innan hon dog i mina armar.
+[... Before she died in my arms.]
 
 01:17:46,960 --> 01:17:48,730
 There can be no doubt now.
+Nu råder det inga tvivel:
+[Now there is no doubt:]
 
 01:17:48,960 --> 01:17:50,399
 Queen Elsa is a monster,
+Drottning Elsa är ett odjur
+[Queen Elsa is a beast]
 
 01:17:50,400 --> 01:17:52,523
 and we are all in grave danger.
+och vi är alla i stor fara.
+[and we are all in great danger.]
 
 01:17:52,560 --> 01:17:53,921
 Prince Hans,
+Prins Hans,
+[Prince Hans,]
 
 01:17:54,440 --> 01:17:56,483
 Arendelle looks to you.
+nu är ansvaret ditt.
+[Now the responsibility is yours.]
 
 01:17:57,960 --> 01:17:59,719
 With a heavy heart,
+Med ett tungt hjärta,
+[With a heavy heart,]
 
 01:17:59,720 --> 01:18:03,891
 I charge Queen Elsa of Arendelle with treason.
+anklagar jag drottning Elsa av Arendal för förräderi...
+[I accuse the Queen Elsa Arendal for treason...]
 
 01:18:04,720 --> 01:18:06,968
 And sentence her to death.
+... och dömmer henne till döden.
+[... And judging her to death.]
 
 01:18:19,120 --> 01:18:20,481
 Hurry up!
+Skynda er!
+[Hurry up!]
 
 01:18:20,560 --> 01:18:21,639
 She's dangerous.
+Hon är farlig.
+[She is dangerous.]
 
 01:18:21,640 --> 01:18:23,001
 Move quickly. Careful!
+Var snabba. Var försiktiga.
+[Be fast. Be careful.]
 
 01:18:24,560 --> 01:18:26,250
 It won't open! It's frozen shut.
+Den går inte att öppna! Den har frusit fast. 
+[It will not open! It has frozen solid.]
 
 01:18:26,280 --> 01:18:27,686
 Put your back into it!
@@ -7178,162 +7228,267 @@ Come on! Push!
 
 01:18:55,480 --> 01:18:56,559
 What is it, buddy?
+Vad är det, kompis?
+[What is it, buddy?]
 
 01:18:56,560 --> 01:18:58,205
 Hey, watch it.
+Woah, akta.
+[Woah, beware.]
 
 01:18:58,560 --> 01:18:59,761
 What's wrong with you?
+Vad är det med dig?
+[What's with you?]
 
 01:19:03,000 --> 01:19:05,282
 I don't understand you when you talk like that.
+Jag fattar faktiskt ingenting när du snackar så där.
+[I do virtually nothing when you talk like that.]
 
 01:19:05,640 --> 01:19:08,079
 Stop it! Put me down!
+Sluta! Släpp ner mig!
+[Stop! Let me down!]
 
 01:19:10,320 --> 01:19:11,639
 No, Sven!
+Nej, Sven!
+[No, Sven!]
 
 01:19:11,640 --> 01:19:13,239
 We're not going back.
+Vi går inte tillbaka.
+[We do not go back.]
 
 01:19:13,240 --> 01:19:14,930
 She's with her true love.
+Hon är hos den hon älskar.
+[She's with the one she loves.]
+
+01:19:19,280 --> 01:19:20,520
+.
+(SVISCHANDE)
+[(WHIZZ)]
 
 01:19:21,720 --> 01:19:22,921
 What the...
+Men va...?
+[But eh...?]
 
 01:19:25,640 --> 01:19:26,841
 Anna!
 
 01:19:32,960 --> 01:19:34,685
 Come on! Come on, boy.
+Fortare!
+[Faster!]
 
 01:19:52,680 --> 01:19:53,881
 Help.
+Hjälp...
+[Help...]
 
 01:19:58,880 --> 01:20:00,525
 Anna!
 
 01:20:01,240 --> 01:20:02,680
 Oh, no.
+Åh, nej!
+[Oh no!]
 
 01:20:14,720 --> 01:20:16,081
 Olaf?
+Olof?
+[Olof?]
 
 01:20:16,280 --> 01:20:18,482
 Olaf. Get away from there.
+Olof! Gå bort därifrån!
+[Olof! Get away from there!]
 
 01:20:18,880 --> 01:20:20,161
 Wow!
 
 01:20:20,520 --> 01:20:22,919
 So, this is heat.
+Är det så här värme känns?
+[Is this how the heat feels?]
 
 01:20:22,920 --> 01:20:24,439
 I love it.
+Vad härligt.
+[How lovely.]
 
 01:20:24,440 --> 01:20:26,210
 Ooh! But don't touch it.
+Ååh! Men inte röra!
+[Ooh! But do not touch!]
 
 01:20:34,320 --> 01:20:37,444
 So, where's Hans? What happened to your kiss?
+Men, var är Hans? Hur gick det med kyssen?
+[But, where is his? How did the kiss?]
 
 01:20:37,760 --> 01:20:41,806
 I was wrong about him. It wasn't true love.
+Jag hade tydligen fel. Det var inte... äkta kärlek.
+[I was apparently wrong. It was not... true love.]
 
 01:20:42,080 --> 01:20:43,725
 But we ran all the way here.
+Men vi tog ju oss hela vägen hit.
+[But we took after us all the way here.]
 
 01:20:43,760 --> 01:20:47,239
 Please, Olaf, you can't stay here. You'll melt.
+Snälla, Olof, du kan inte stanna här. Du smälter.
+[Please, Olof, you can not stay here. You melt.]
 
 01:20:47,240 --> 01:20:48,359
 I am not leaving here until
+Jag går inte förrän
+[I will not go until]
 
 01:20:48,360 --> 01:20:51,131
 we find some other act of true love to save you.
+vi har hittat en annan äkta kärlekshandling som kan rädda dig.
+[we have found another genuine act of love that can save you.]
 
 01:20:51,360 --> 01:20:53,369
 Do you happen to have any ideas?
+Du råkar inte ha några förslag, va?
+[You will not have any suggestions, huh?]
 
 01:20:53,560 --> 01:20:55,410
 I don't even know what love is.
+Jag vet inte ens vad kärlek är.
+[I do not even know what love is.]
 
 01:20:55,600 --> 01:20:57,484
 That's okay, I do.
+Det gör jag. Hör här:
+[I do. Listen:]
 
 01:20:57,720 --> 01:20:59,285
 Love is
+Kärlek är...
+[Love is...]
 
 01:21:00,080 --> 01:21:02,647
 putting someone else's needs before yours.
+...att sätta nån annans behov före sina egna.
+[... to put someone else's needs before their own.]
 
 01:21:03,120 --> 01:21:07,211
 Like, you know, how Kristoff brought you back here to Hans and left you forever.
+Typ som när Kristoffer tog dig hit till Hans och gav upp dig för alltid.
+[Kind of like when Kristoffer brought you here to Hans and gave up forever.]
 
 01:21:09,280 --> 01:21:12,529
 Kristoff loves me?
+Ålskar... Kristoffer mig?
+[Love... Kristoffer me?]
 
 01:21:13,880 --> 01:21:17,607
 Wow, you really don't know anything about love, do you?
+Wow! Alltå du vet ju verkligen ingenting om kärlek, eller hur? 
+[Wow! Organ, proved you know really nothing about love, right?]
 
 01:21:18,120 --> 01:21:19,924
 Olaf, you're melting.
+Olof, du smälter!
+[Olof, you melt!]
 
 01:21:20,040 --> 01:21:22,402
 Some people are worth melting for.
+Vissa människor är värda att smälta för.
+[Some people are worth melt.]
 
 01:21:27,440 --> 01:21:29,642
 Just maybe not right this second.
+Fast kanske inte precis just nu.
+[Though perhaps not exactly right now.]
 
 01:21:31,800 --> 01:21:33,286
 Don't worry, I've got it.
+Ingen fara. Jag fixar det!
+[Do not worry. I will fix it!]
 
 01:21:35,800 --> 01:21:37,923
 We're gonna get through... Oh, wait.
+Vi ska klara det här... Vänta!
+[We'll get through this... Wait!]
 
 01:21:38,000 --> 01:21:39,690
 Hang on, I'm getting something.
+Ett ögonblick, jag fick syn på nåt.
+[For a moment, I saw something.]
 
 01:21:40,600 --> 01:21:43,159
 It's Kristoff and Sven!
+Det är Kristoffer och Sven!
+[It's Kristoffer and Sven!]
 
 01:21:43,160 --> 01:21:44,566
 They're coming back this way.
+De är på väg tillbaka hit!
+[They are on their way back here!]
 
 01:21:45,000 --> 01:21:46,361
 They... They are?
+Är... Är de?
+[Are... Are they?]
 
 01:21:46,480 --> 01:21:49,160
 Wow! He's really moving fast.
+Oj. Han rör sig verkligen snabbt.
+[Oops. He moves really quickly.]
 
 01:21:49,280 --> 01:21:50,639
 I guess I was wrong.
+Jag hade fel.
+[I was wrong.]
 
 01:21:50,640 --> 01:21:53,207
 I guess Kristoff doesn't love you enough to leave you behind.
+Kristoffers kärlek räckte visst inte för att ge upp dig.
+[Kristoffer's love was enough certainly not to give up.]
 
 01:21:53,840 --> 01:21:55,839
 Help me up, Olaf. Please.
+Hjälp mig upp, Olof. Snälla!
+[Help me up, Olof. Please!]
 
 01:21:55,840 --> 01:21:58,999
 No, no, no! You need to stay by the fire and keep warm.
+Nej, nej, nej, nej, nej! Sitt kvar vid elden och håll dig varm.
+[No, no, no, no, no! Sit by the fire and keep you warm.]
 
 01:21:59,000 --> 01:22:00,759
 I need to get to Kristoff.
+Men jag måste ut till Kristoffer.
+[But I must go out to Christopher.]
 
 01:22:00,760 --> 01:22:02,041
 Why?
+Varför?
+[Why?]
 
 01:22:02,160 --> 01:22:04,959
 Oh, I know why!
+Åh, åh! Nu vet jag!
+[Oh, oh! Now I know!]
 
 01:22:04,960 --> 01:22:07,159
 There's your act of true love right there!
+Där har vi ju kärlekshandlingen!
+[There we have the love act!]
 
 01:22:07,160 --> 01:22:11,159
 Riding across the fjords like a valiant, pungent reindeer king!
+Dundrande fram genom fjorden som en tapper, illaluktande renar-kung!
+[Thundering through the fjord as a valiant, smelly reindeer - King!]
 
 01:22:11,160 --> 01:22:12,646
 Come on!
