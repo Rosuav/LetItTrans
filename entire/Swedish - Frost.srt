@@ -7893,8 +7893,8 @@ Vi är här.
 
 01:30:28,240 --> 01:30:30,363
 I owe you a sled.
-Jag är ju skylldig dig en släde.
-[I'm skylldig you a sled.]
+Jag är ju skyldig dig en släde.
+[I'm owes you a sled.]
 
 01:30:33,320 --> 01:30:35,204
 Are you serious? - Yes!
