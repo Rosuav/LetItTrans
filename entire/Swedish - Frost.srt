@@ -7908,8 +7908,8 @@ Och det är den senaste modellen.
 
 01:30:37,000 --> 01:30:38,599
 No, I can't accept this.
-Nej. Jag k-kan inte ta emot det.
-[No. I k can not receive it.]
+Nej. Jag kan inte ta emot det.
+[No. I can not accept it.]
 
 01:30:38,600 --> 01:30:41,565
 You have to. No returns. No exchanges. Queen's orders.
