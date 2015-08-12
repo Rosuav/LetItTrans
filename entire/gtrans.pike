@@ -2,7 +2,7 @@ int main(int argc,array(string) argv)
 {
 	foreach (argv[1..],string fn)
 	{
-		string language=(["Swedish":"sv"])[(fn/" ")[0]] || lower_case(fn[..1]); //Hack: If the language code is the first two letters, figure it out without the mapping.
+		string language=(["Swedish":"sv","Portuguese":"pt"])[(fn/" ")[0]] || lower_case(fn[..1]); //Hack: If the language code is the first two letters, figure it out without the mapping.
 		//language="auto"; //Or use "Detect Language" mode. Probably not a good idea for short clips.
 		array(array(string)) input=(String.trim_all_whites(utf8_to_string(Stdio.read_file(fn)))/"\n\n")[*]/"\n";
 		int engonly=0,trans=0,gtrans=0;
