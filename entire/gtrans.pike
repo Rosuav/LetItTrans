@@ -7,11 +7,13 @@ int main(int argc,array(string) argv)
 		array(array(string)) input=(String.trim_all_whites(utf8_to_string(Stdio.read_file(fn)))/"\n\n")[*]/"\n";
 		int engonly=0,trans=0,gtrans=0;
 		int changed=0,ital=0;
+		int notrans=0; signal(2,lambda() {notrans=1;});
 		foreach (input;int i;array(string) para) switch (sizeof(para))
 		{
 			case 2: engonly++; break; //English text only - nothing to do (but keep stats)
 			case 3: //This is the interesting case - we have three lines: the header, the English, and the other.
 			{
+				if (notrans) break; //Hit Ctrl-C to abort translation (but keep checking for italicization, just in case)
 				string result=Protocols.HTTP.get_url_data(
 					//Base URL - I have no idea what all this means, but it does seem to work
 					"http://translate.google.com/translate_a/single?client=t&sl="+language+"&tl=en&hl=en&dt=bd&dt=ex&dt=ld&dt=md&dt=qc&dt=rw&dt=rm&dt=ss&dt=t&dt=at&ie=UTF-8&oe=UTF-8&ssel=3&tsel=3&otf=1&kc=11&tk=519600|625420",
