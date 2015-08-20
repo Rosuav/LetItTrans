@@ -13,11 +13,26 @@ void nextline(object self,int dir)
 	}
 }
 
+//Keywords in this list may be used (case insensitively) to collect up some
+//standard sets of languages.
+mapping(string(0..255):array(string)) languages=([
+	"spanish": ({"Castilian Spanish", "Catalan", "Latin American Spanish"}),
+	"cyrillic": ({"Bulgarian", "Russian", "Serbian", "Ukrainian"}),
+	"slavic": ({"Bulgarian", "Russian", "Serbian", "Ukrainian", "Croatian", "Czech", "Slovakian", "Slovenian", "Polish"}),
+	"nonlatin": ({"Bulgarian", "Russian", "Serbian", "Ukrainian", "Greek", "Hebrew", "Arabic", "Korean", "Cantonese", "Japanese", "Taiwanese Mandarin", "Thai"}),
+]);
+
 int main(int argc,array(string) argv)
 {
 	GTK2.setup_gtk();
 	GTK2.Table tb=GTK2.Table(0,0,0);
 	array files=argc>1 ? argv[1..] : sort(glob("*-*.srt",get_dir()));
+	if (array lang=sizeof(files)==1 && languages[lower_case(files[0])])
+	{
+		array(string) allfiles=glob("*-*.srt",get_dir());
+		files=({ });
+		foreach (lang,string l) files+=glob(l+"*",allfiles);
+	}
 	array english=glob("English*",files); files=english+(files-english); //If the English file is in the list, move it to the top
 	ef1=allocate(sizeof(files));
 	ef2=allocate(sizeof(files));
