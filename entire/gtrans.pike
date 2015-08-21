@@ -45,7 +45,7 @@ int main(int argc,array(string) argv)
 			}
 			case 4:
 			{
-				if (para[-1][0]=='[') gtrans++; else trans++; //Has subs and trans; keep stats separately based on GTrans or not
+				if (has_prefix(para[-1],"[") || has_prefix(para[-1],"<i>[")) gtrans++; else trans++; //Has subs and trans; keep stats separately based on GTrans or not
 				//Check to see if the English is italicized. If it is, make sure the other lines are too.
 				if (has_prefix(para[1],"<i>"))
 				{
