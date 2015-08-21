@@ -6599,18 +6599,16 @@ Net.. Čto â nadelala?
 Why did you bring me here?
 Почему я здесь?
 Počemu â zdes’?
-Там они бы вас просто убили.
-Tam oni by vas prosto ubili.
 
 01:12:53,760 --> 01:12:55,439
 I couldn't just let them kill you.
+Там они бы вас просто убили.
+Tam oni by vas prosto ubili.
 
 01:12:55,440 --> 01:12:58,769
 But I'm a danger to Arendelle. Get Anna.
-Но я опасна для Эренделла.
-No â opasna dlâ Èrendella.
-Где Анна.
-Gde Anna.
+Но я опасна для Эренделла. Где Анна.
+No â opasna dlâ Èrendella. Gde Anna.
 
 01:12:59,120 --> 01:13:01,199
 Anna has not returned.
@@ -6629,11 +6627,13 @@ I vernete leto... požalujsta.
 
 01:13:08,920 --> 01:13:10,645
 Don't you see?
-Это не в моих силах. Я не знаю как
-Èto ne v moikh silakh. Â ne znaû kak
+Это не в моих силах.
+Èto ne v moikh silakh.
 
 01:13:10,840 --> 01:13:12,280
 I can't.
+Я не знаю как
+Â ne znaû kak
 
 01:13:15,680 --> 01:13:18,281
 You have to tell them to let me go.
@@ -6647,13 +6647,13 @@ Sdelaû vsё vozmožnoe.
 
 01:13:45,680 --> 01:13:46,999
 Just hang in there.
-- Давай держись.
-- Davaj deržis’.
-- Быстрее, дружище!
-- Bystree, družiŝe!
+Давай держись.
+Davaj deržis’.
 
 01:13:47,000 --> 01:13:48,361
 Come on, buddy, faster!
+Быстрее, дружище!
+Bystree, družiŝe!
 
 01:13:54,200 --> 01:13:55,359
 Oh, boy!
@@ -6675,15 +6675,13 @@ Ladno!
 
 01:14:01,560 --> 01:14:04,161
 Hello! - It's alive!
-- Здрасте.
-- Zdraste.
-- Оно живое
-- Ono živoe
-Это Принцесса Анна!
-Èto Princessa Anna!
+Здрасте. - Оно живое
+Zdraste. - Ono živoe
 
 01:14:13,160 --> 01:14:14,725
 It's Princess Anna!
+Это Принцесса Анна!
+Èto Princessa Anna!
 
 01:14:22,880 --> 01:14:24,969
 Are you gonna be okay?
@@ -6697,18 +6695,18 @@ Obo mne ne bespokojsâ.
 
 01:14:28,680 --> 01:14:30,519
 Anna!
-- Анна! Мы так переживали!
-- Anna! My tak pereživali!
-- Миледи.
-- Miledi.
+Анна!
+Anna!
 
 01:14:30,520 --> 01:14:32,439
 You had us worried sick. My Lady.
-Согрейте её и найдите Принца Ханса, немедленно.
-Sogrejte eё i najdite Princa Khansa, nemedlenno.
+Мы так переживали! Миледи.
+My tak pereživali! Miledi.
 
 01:14:32,440 --> 01:14:35,439
 Get her warm. And find Prince Hans, immediately.
+Согрейте её и найдите Принца Ханса, немедленно.
+Sogrejte eё i najdite Princa Khansa, nemedlenno.
 
 01:14:35,440 --> 01:14:37,051
 We will. Thank you.
@@ -6753,26 +6751,28 @@ U Èrendella ostanetes’ tol’ko vy.
 
 01:15:08,720 --> 01:15:10,519
 He's in here.
-Он здесь. Принц Ханс.
-On zdes’. Princ Khans.
+Он здесь.
+On zdes’.
 
 01:15:10,520 --> 01:15:11,639
 Prince Hans.
+Принц Ханс.
+Princ Khans.
 
 01:15:11,640 --> 01:15:13,079
 Anna.
-Анна. Какая холодная.
-Anna. Kakaâ kholodnaâ.
+Анна.
+Anna.
 
 01:15:13,080 --> 01:15:14,199
 You're so cold.
+Какая холодная.
+Kakaâ kholodnaâ.
 
 01:15:14,200 --> 01:15:15,439
 Hans, you have to kiss me. - What?
-- Ханс, поцелуй меня.
-- Khans, poceluj menâ.
-- Что?
-- Čto?
+Ханс, поцелуй меня. - Что?
+Khans, poceluj menâ. - Čto?
 
 01:15:15,440 --> 01:15:17,159
 Now! Now! - Slow down.
@@ -6798,26 +6798,26 @@ Elsa struck me with her powers.
 You said she'd never hurt you.
 Ты говорила, она тебя не тронет.
 Ty govorila, ona tebâ ne tronet.
-Я ошиблась.
-Â ošiblas’.
 
 01:15:24,680 --> 01:15:25,759
 I was wrong.
+Я ошиблась.
+Â ošiblas’.
 
 01:15:25,760 --> 01:15:27,325
 Anna.
 Анна?
 Anna?
-Моё сердце замерзло и только
-Moё serdce zamerzlo i tol’ko
-знак Истинной Любви спасет меня.
-znak Istinnoj Lûbvi spaset menâ.
 
 01:15:29,920 --> 01:15:31,690
 She froze my heart,
+Моё сердце замерзло и только
+Moё serdce zamerzlo i tol’ko
 
 01:15:31,720 --> 01:15:34,366
 and only an act of true love can save me.
+знак Истинной Любви спасет меня.
+znak Istinnoj Lûbvi spaset menâ.
 
 01:15:35,920 --> 01:15:37,804
 A true love's kiss.
@@ -6838,21 +6838,21 @@ Esli by tebâ eŝё kto-nibud’ lûbil
 What?
 Что?
 Čto?
-А как же ты.
-A kak že ty.
 
 01:15:58,480 --> 01:16:00,284
 You said you did.
+А как же ты.
+A kak že ty.
 
 01:16:01,440 --> 01:16:04,199
 As thirteenth in line in my own kingdom,
 Тринадцатого претендента на трон
 Trinadcatogo pretendenta na tron
-Королём не стать, и я знал
-Korolёm ne stat’, i â znal
 
 01:16:04,200 --> 01:16:05,479
 I didn't stand a chance.
+Королём не стать, и я знал
+Korolёm ne stat’, i â znal
 
 01:16:05,480 --> 01:16:09,239
 I knew I would have to marry into the throne somewhere.
@@ -6866,22 +6866,18 @@ O čem ty govoriš’?
 
 01:16:11,280 --> 01:16:13,767
 As heir, Elsa was preferable, of course.
-Как наследница,
-Kak naslednica,
-больше подошла бы Эльза,
-bol’še podošla by Èl’za,
-Но с ней возникли бы сложности.
-No s nej voznikli by složnosti.
+Как наследница, больше подошла бы Эльза,
+Kak naslednica, bol’še podošla by Èl’za,
 
 01:16:14,000 --> 01:16:15,839
 But no one was getting anywhere with her.
+Но с ней возникли бы сложности.
+No s nej voznikli by složnosti.
 
 01:16:15,840 --> 01:16:16,919
 But you...
-- А с тобой...
-- A s toboj...
-- Ханс?
-- Khans?
+А с тобой...
+A s toboj...
 
 01:16:16,920 --> 01:16:18,439
 You were so desperate for love,
@@ -6915,10 +6911,8 @@ No ona sama postaralas’, a ty
 
 01:16:31,160 --> 01:16:33,119
 and you were dumb enough to go after her.
-По глупости,
-Po gluposti,
-бросилась за ней.
-brosilas’ za nej.
+По глупости, бросилась за ней.
+Po gluposti, brosilas’ za nej.
 
 01:16:33,120 --> 01:16:34,239
 Please.
@@ -6927,18 +6921,18 @@ Požalujsta.
 
 01:16:34,240 --> 01:16:36,920
 All that's left now is to kill Elsa,
-Остается только -
-Ostaetsâ tol’ko -
-убить Эльзу и вернуть лето.
-ubit’ Èl’zu i vernut’ leto.
+Остается только - убить Эльзу
+Ostaetsâ tol’ko - ubit’ Èl’zu
 
 01:16:37,440 --> 01:16:38,971
 and bring back summer.
-Тебе не справиться с Эльзой.
-Tebe ne spravit’sâ s Èl’zoj.
+и вернуть лето.
+i vernut’ leto.
 
 01:16:39,400 --> 01:16:41,439
 You're no match for Elsa.
+Тебе не справиться с Эльзой.
+Tebe ne spravit’sâ s Èl’zoj.
 
 01:16:41,440 --> 01:16:43,847
 No, you're no match for Elsa.
@@ -6962,16 +6956,18 @@ Tebe èto s ruk ne soidet.
 
 01:16:53,360 --> 01:16:54,607
 Oh...
+О,
+O,
 
 01:16:55,200 --> 01:16:56,811
 I already have.
-О, знаешь, уже сошло.
-O, znaeš’, uže sošlo.
-Кто-нибудь, помогите.
-Kto-nibud’, pomogite.
+знаешь, уже сошло.
+znaeš’, uže sošlo.
 
 01:17:02,440 --> 01:17:04,324
 Please, somebody, help.
+Кто-нибудь, помогите.
+Kto-nibud’, pomogite.
 
 01:17:08,080 --> 01:17:10,123
 Please. Please.
@@ -6982,33 +6978,31 @@ Kto-nibud’! Kto-nibud’!
 It's getting colder by the minute.
 С каждой минутой все холоднее
 S každoj minutoj vse kholodnee
-Надо что то делать,
-Nado čto to delat’,
-или мы замерзнем.
-ili my zamerznem.
 
 01:17:15,000 --> 01:17:18,719
 If we don't do something soon, we'll all freeze to death.
+Надо что то делать, или мы замерзнем.
+Nado čto to delat’, ili my zamerznem.
 
 01:17:18,720 --> 01:17:20,331
 Prince Hans.
-- Принц Ханс.
-- Princ Khans.
-- Принцесса Анна...
-- Princessa Anna...
+Принц Ханс.
+Princ Khans.
 
 01:17:20,400 --> 01:17:22,443
 Princess Anna is...
+Принцесса Анна...
+Princessa Anna...
 
 01:17:23,120 --> 01:17:24,239
 Dead.
-- Мертва.
-- Mertva.
-- Что...?
-- Čto...?
+Мертва.
+Mertva.
 
 01:17:24,240 --> 01:17:25,319
 What?
+Что...?
+Čto...?
 
 01:17:25,320 --> 01:17:27,010
 What happened to her?
@@ -7017,26 +7011,28 @@ What happened to her?
 
 01:17:31,680 --> 01:17:33,450
 She was killed...
-Её убила Королева Эльза.
-Eё ubila Koroleva Èl’za.
+Её убила...
+Eё ubila...
 
 01:17:33,720 --> 01:17:35,079
 ... by Queen Elsa.
+Королева Эльза.
+Koroleva Èl’za.
 
 01:17:35,080 --> 01:17:36,327
 No!
+Нет.
+Net.
 
 01:17:36,480 --> 01:17:37,681
 Her own sister.
-Нет. Родная сестра.
-Net. Rodnaâ sestra.
-Мы поклялись быть,
-My poklâlis’ byt’,
-мужем и женой...
-mužem i ženoj...
+Родная сестра.
+Rodnaâ sestra.
 
 01:17:38,480 --> 01:17:40,967
 At least we got to say our marriage vows
+Мы поклялись быть, мужем и женой...
+My poklâlis’ byt’, mužem i ženoj...
 
 01:17:43,000 --> 01:17:45,282
 before she died in my arms.
@@ -7052,19 +7048,21 @@ Teper’ net somnenij.
 Queen Elsa is a monster,
 Что Королева - чудовще и
 Čto Koroleva - čudovŝe i
-мы все здесь в опасности.
-my vse zdes’ v opasnosti.
 
 01:17:50,400 --> 01:17:52,523
 and we are all in grave danger.
+мы все здесь в опасности.
+my vse zdes’ v opasnosti.
 
 01:17:52,560 --> 01:17:53,921
 Prince Hans,
-Принц Ханс, Эренделл ждет вашего слова.
-Princ Khans, Èrendell ždet vašego slova.
+Принц Ханс,
+Princ Khans,
 
 01:17:54,440 --> 01:17:56,483
 Arendelle looks to you.
+Эренделл ждет вашего слова.
+Èrendell ždet vašego slova.
 
 01:17:57,960 --> 01:17:59,719
 With a heavy heart,
@@ -7073,10 +7071,8 @@ S tâželym serdcem
 
 01:17:59,720 --> 01:18:03,891
 I charge Queen Elsa of Arendelle with treason.
-Я обвиняю Королеву Эренделла.
-Â obvinâû Korolevu Èrendella.
-В измене
-V izmene
+Я обвиняю Королеву Эренделла в измене
+Â obvinâû Korolevu Èrendella v izmene
 
 01:18:04,720 --> 01:18:06,968
 And sentence her to death.
@@ -7092,11 +7088,11 @@ Vpered! Bystree!
 She's dangerous.
 Она опасна.
 Ona opasna.
-Быстрее, будьте осторожны!
-Bystree, bud’te ostorožny!
 
 01:18:21,640 --> 01:18:23,001
 Move quickly. Careful!
+Быстрее, будьте осторожны!
+Bystree, bud’te ostorožny!
 
 01:18:24,560 --> 01:18:26,250
 It won't open! It's frozen shut.
@@ -7113,11 +7109,11 @@ Come on! Push!
 What is it, buddy?
 Что дружище?
 Čto družiŝe?
-Эй, потише!
-Èj, potiše!
 
 01:18:56,560 --> 01:18:58,205
 Hey, watch it.
+Эй, потише!
+Èj, potiše!
 
 01:18:58,560 --> 01:18:59,761
 What's wrong with you?
@@ -7126,10 +7122,8 @@ What's wrong with you?
 
 01:19:03,000 --> 01:19:05,282
 I don't understand you when you talk like that.
-Я не понимаю,
-Â ne ponimaû,
-когда ты так со мной разговариваешь.
-kogda ty tak so mnoj razgovarivaeš’.
+Я не понимаю, когда ты так со мной разговариваешь.
+Â ne ponimaû, kogda ty tak so mnoj razgovarivaeš’.
 
 01:19:05,640 --> 01:19:08,079
 Stop it! Put me down!
@@ -7138,16 +7132,18 @@ Stop it! Put me down!
 
 01:19:10,320 --> 01:19:11,639
 No, Sven!
-Нет, Свен! Мы там не нужны!
-Net, Sven! My tam ne nužny!
+Нет, Свен!
+Net, Sven!
 
 01:19:11,640 --> 01:19:13,239
 We're not going back.
-Там её истинная любовь.
-Tam eё istinnaâ lûbov’.
+Мы там не нужны!
+My tam ne nužny!
 
 01:19:13,240 --> 01:19:14,930
 She's with her true love.
+Там её истинная любовь.
+Tam eё istinnaâ lûbov’.
 
 01:19:21,720 --> 01:19:22,921
 What the...
@@ -7158,11 +7154,11 @@ What the...
 Anna!
 Анна!
 Anna!
-Быстрее! Быстрее!
-Bystree! Bystree!
 
 01:19:32,960 --> 01:19:34,685
 Come on! Come on, boy.
+Быстрее! Быстрее!
+Bystree! Bystree!
 
 01:19:52,680 --> 01:19:53,881
 Help.
@@ -7171,35 +7167,41 @@ Spasite.
 
 01:19:58,880 --> 01:20:00,525
 Anna!
-Анна. О нет.
-Anna. O net.
+Анна.
+Anna.
 
 01:20:01,240 --> 01:20:02,680
 Oh, no.
+О нет.
+O net.
 
 01:20:14,720 --> 01:20:16,081
 Olaf?
-Олаф? Олаф. Отойди оттуда.
-Olaf? Olaf. Otojdi ottuda.
+Олаф?
+Olaf?
 
 01:20:16,280 --> 01:20:18,482
 Olaf. Get away from there.
+Олаф. Отойди оттуда.
+Olaf. Otojdi ottuda.
 
 01:20:18,880 --> 01:20:20,161
 Wow!
 
 01:20:20,520 --> 01:20:22,919
 So, this is heat.
-Так значит это огонь. Он мне нравится.
-Tak značit èto ogon’. On mne nravitsâ.
+Так значит это огонь.
+Tak značit èto ogon’.
 
 01:20:22,920 --> 01:20:24,439
 I love it.
-Ой! Он кусается!
-Oj! On kusaetsâ!
+Он мне нравится.
+On mne nravitsâ.
 
 01:20:24,440 --> 01:20:26,210
 Ooh! But don't touch it.
+Ой! Он кусается!
+Oj! On kusaetsâ!
 
 01:20:34,320 --> 01:20:37,444
 So, where's Hans? What happened to your kiss?
@@ -7208,10 +7210,8 @@ Nu, a gde Khans? I gde poceluj?
 
 01:20:37,760 --> 01:20:41,806
 I was wrong about him. It wasn't true love.
-Я ошиблась это не истинная любовь.
-Â ošiblas’ èto ne istinnaâ lûbov’.
-И вообще не любовь.
-I voobŝe ne lûbov’.
+Я ошиблась это не истинная любовь. И вообще не любовь.
+Â ošiblas’ èto ne istinnaâ lûbov’. I voobŝe ne lûbov’.
 
 01:20:42,080 --> 01:20:43,725
 But we ran all the way here.
@@ -7220,22 +7220,18 @@ No my tak mčalis’ sûda?
 
 01:20:43,760 --> 01:20:47,239
 Please, Olaf, you can't stay here. You'll melt.
-Я прошу тебя Олаф, уходи оттсюда,
-Â prošu tebâ Olaf, ukhodi ottsûda,
-ты растаешь!
-ty rastaeš’!
+Я прошу тебя Олаф, уходи оттсюда, ты растаешь!
+Â prošu tebâ Olaf, ukhodi ottsûda, ty rastaeš’!
 
 01:20:47,240 --> 01:20:48,359
 I am not leaving here until
 Я не уйду пока мы не найдем
 Â ne ujdu poka my ne najdem
-спасательный знак любви
-spasatel’nyj znak lûbvi
 
 01:20:48,360 --> 01:20:51,131
 we find some other act of true love to save you.
-Спасательный знак любви.
-Spasatel’nyj znak lûbvi.
+спасательный знак любви.
+spasatel’nyj znak lûbvi.
 
 01:20:51,360 --> 01:20:53,369
 Do you happen to have any ideas?
@@ -7251,11 +7247,11 @@ I don't even know what love is.
 That's okay, I do.
 Не страшно, я знаю.
 Ne strašno, â znaû.
-Любовь это...
-Lûbov’ èto...
 
 01:20:57,720 --> 01:20:59,285
 Love is
+Любовь это...
+Lûbov’ èto...
 
 01:21:00,080 --> 01:21:02,647
 putting someone else's needs before yours.
@@ -7264,10 +7260,8 @@ Kogda č’i to interesy staviš’ vyše svoikh.
 
 01:21:03,120 --> 01:21:07,211
 Like, you know, how Kristoff brought you back here to Hans and left you forever.
-Это как, Кристофф привез тебя сюда
-Èto kak, Kristoff privez tebâ sûda
-К Хансу потеряв тебя навсегда.
-K Khansu poterâv tebâ navsegda.
+Это как, Кристофф привез тебя сюда к Хансу потеряв тебя навсегда.
+Èto kak, Kristoff privez tebâ sûda k Khansu poterâv tebâ navsegda.
 
 01:21:09,280 --> 01:21:12,529
 Kristoff loves me?
@@ -7276,50 +7270,48 @@ Kristoff lûbit menâ?
 
 01:21:13,880 --> 01:21:17,607
 Wow, you really don't know anything about love, do you?
-Ты похоже и вправду
-Ty pokhože i vpravdu
-ничего не знаешь о любви?
-ničego ne znaeš’ o lûbvi?
+Ты похоже и вправду ничего не знаешь о любви?
+Ty pokhože i vpravdu ničego ne znaeš’ o lûbvi?
 
 01:21:18,120 --> 01:21:19,924
 Olaf, you're melting.
 Олаф, ты таешь..
 Olaf, ty taeš’..
-Ради некоторых не жалко растаять.
-Radi nekotorykh ne žalko rastaât’.
 
 01:21:20,040 --> 01:21:22,402
 Some people are worth melting for.
+Ради некоторых не жалко растаять.
+Radi nekotorykh ne žalko rastaât’.
 
 01:21:27,440 --> 01:21:29,642
 Just maybe not right this second.
 Но сейчас, я еще не готов.
 No sejčas, â eŝe ne gotov.
-Не бойся, я закрою!
-Ne bojsâ, â zakroû!
 
 01:21:31,800 --> 01:21:33,286
 Don't worry, I've got it.
+Не бойся, я закрою!
+Ne bojsâ, â zakroû!
 
 01:21:35,800 --> 01:21:37,923
 We're gonna get through... Oh, wait.
 Мы обязательно что нибудь...
 My obâzatel’no čto nibud’...
-Ну-ка постой. Что это там.
-Nu-ka postoj. Čto èto tam.
 
 01:21:38,000 --> 01:21:39,690
 Hang on, I'm getting something.
+Ну-ка постой. Что это там.
+Nu-ka postoj. Čto èto tam.
 
 01:21:40,600 --> 01:21:43,159
 It's Kristoff and Sven!
 Это Кристофф и Свен!
 Èto Kristoff i Sven!
-Летят прямо сюда!
-Letât prâmo sûda!
 
 01:21:43,160 --> 01:21:44,566
 They're coming back this way.
+Летят прямо сюда!
+Letât prâmo sûda!
 
 01:21:45,000 --> 01:21:46,361
 They... They are?
@@ -7330,18 +7322,16 @@ Sûda?
 Wow! He's really moving fast.
 Ух ты, мчятся со всех ног.
 Ukh ty, mčâtsâ so vsekh nog.
-Я был неправ.
-Â byl neprav.
 
 01:21:49,280 --> 01:21:50,639
 I guess I was wrong.
+Я был неправ.
+Â byl neprav.
 
 01:21:50,640 --> 01:21:53,207
 I guess Kristoff doesn't love you enough to leave you behind.
-Кристофф не настолько тебя любит
-Kristoff ne nastol’ko tebâ lûbit
-Чтобы оставить.
-Čtoby ostavit’.
+Кристофф не настолько тебя любит Чтобы оставить.
+Kristoff ne nastol’ko tebâ lûbit Čtoby ostavit’.
 
 01:21:53,840 --> 01:21:55,839
 Help me up, Olaf. Please.
@@ -7350,20 +7340,18 @@ Pomogi mne vstat’, Olaf. Bystrej.
 
 01:21:55,840 --> 01:21:58,999
 No, no, no! You need to stay by the fire and keep warm.
-Ты что, не вставай.
-Ty čto, ne vstavaj.
-Сиди у огня и грейся.
-Sidi u ognâ i grejsâ.
+Ты что, не вставай. Сиди у огня и грейся.
+Ty čto, ne vstavaj. Sidi u ognâ i grejsâ.
 
 01:21:59,000 --> 01:22:00,759
 I need to get to Kristoff.
-- Мне нужно к Кристоффу.
-- Mne nužno k Kristoffu.
-- Зачем?
-- Začem?
+Мне нужно к Кристоффу.
+Mne nužno k Kristoffu.
 
 01:22:00,760 --> 01:22:02,041
 Why?
+Зачем?
+Začem?
 
 01:22:02,160 --> 01:22:04,959
 Oh, I know why!
@@ -7377,15 +7365,13 @@ Vot on, znak Istinnoj Lûbvi.
 
 01:22:07,160 --> 01:22:11,159
 Riding across the fjords like a valiant, pungent reindeer king!
-Мчится вихрем по фьордам наш храбрый
-Mčitsâ vikhrem po f’ordam naš khrabryj
-Немытый Король Оленей! 
-Nemytyj Korol’ Olenej! 
-Вперед же!
-Vpered že!
+Мчится вихрем по фьордам наш храбрый Немытый Король Оленей!
+Mčitsâ vikhrem po f’ordam naš khrabryj Nemytyj Korol’ Olenej!
 
 01:22:11,160 --> 01:22:12,646
 Come on!
+Вперед же!
+Vpered že!
 
 01:22:14,920 --> 01:22:16,519
 Look out!
@@ -7425,11 +7411,11 @@ Polučilos’!
 Go, go, go, go, go, go, go!
 Вперед! Вперед! Вперед!
 Vpered! Vpered! Vpered!
-Быстрее, дружище.
-Bystree, družiŝe.
 
 01:23:18,880 --> 01:23:20,570
 Come on, buddy, faster.
+Быстрее, дружище.
+Bystree, družiŝe.
 
 01:23:22,800 --> 01:23:24,411
 Kristoff!
@@ -7438,12 +7424,12 @@ Kristoff!
 
 01:23:30,080 --> 01:23:31,645
 Keep going!
-Не останавливайся! 
-Ne ostanavlivajsâ! 
-Кристофф!
-Kristoff!
+Не останавливайся!
+Ne ostanavlivajsâ!
 
 01:23:33,920 --> 01:23:35,485
+Kristoff!
+Кристофф!
 Kristoff!
 
 01:23:46,920 --> 01:23:48,167
@@ -7475,68 +7461,66 @@ Kristoff.
 
 01:24:57,680 --> 01:24:59,609
 Kristoff...
-Анна!
-Anna!
 
 01:25:00,320 --> 01:25:01,601
 Anna!
-Эльза.
-Èl’za.
+Анна!
+Anna!
 
 01:25:04,960 --> 01:25:08,369
 Elsa! You can't run from this!
-Ты не сможешь убежать.
-Ty ne smožeš’ ubežat’.
-- Береги мою сестру.
-- Beregi moû sestru.
-- Твоя сестра?
-- Tvoâ sestra?
+Эльза. Ты не сможешь убежать.
+Èl’za. Ty ne smožeš’ ubežat’.
 
 01:25:10,600 --> 01:25:12,639
 Just take care of my sister.
+Береги мою сестру.
+Beregi moû sestru.
 
 01:25:12,640 --> 01:25:14,279
 Your sister?
-Вернулась замерзшая и ослабевшая.
-Vernulas’ zamerzšaâ i oslabevšaâ.
+Твоя сестра?
+Tvoâ sestra?
 
 01:25:14,280 --> 01:25:16,926
 She returned from the mountain weak and cold.
-Ты заморозила её сердце.
-Ty zamorozila eё serdce.
+Вернулась замерзшая и ослабевшая.
+Vernulas’ zamerzšaâ i oslabevšaâ.
 
 01:25:17,120 --> 01:25:19,239
 She said that you froze her heart.
+Ты заморозила её сердце.
+Ty zamorozila eё serdce.
 
 01:25:19,240 --> 01:25:20,399
 No.
 Нет.
 Net.
-Я пытался спасти её, но было поздно.
-Â pytalsâ spasti eё, no bylo pozdno.
 
 01:25:20,400 --> 01:25:22,648
 I tried to save her, but it was too late.
-Ей кожа замерзла. Волосы побелели.
-Ej koža zamerzla. Volosy pobeleli.
+Я пытался спасти её, но было поздно.
+Â pytalsâ spasti eё, no bylo pozdno.
 
 01:25:23,840 --> 01:25:26,441
 Her skin was ice. Her hair turned white.
+Ей кожа замерзла. Волосы побелели.
+Ej koža zamerzla. Volosy pobeleli.
 
 01:25:27,800 --> 01:25:29,570
 Your sister is dead.
 Твоя сестра умерла!
 Tvoâ sestra umerla!
-Из-за тебя!
-Iz-za tebâ!
 
 01:25:30,200 --> 01:25:31,999
 Because of you.
-Нет!
-Net!
+Из-за тебя!
+Iz-za tebâ!
 
 01:25:32,000 --> 01:25:33,247
 No.
+Нет!
+Net!
 
 01:25:55,320 --> 01:25:56,521
 Kristoff.
@@ -7552,11 +7536,11 @@ Anna!
 Elsa?
 Эльза?
 Èl’za?
-Нет!
-Net!
 
 01:26:21,560 --> 01:26:22,807
 No!
+Нет!
+Net!
 
 01:26:35,120 --> 01:26:36,401
 Anna!
@@ -7565,16 +7549,18 @@ Anna!
 
 01:26:37,000 --> 01:26:38,850
 Oh. Anna!
-О, Анна... Нет... Нет... Пожалуйста.
-O, Anna... Net... Net... Požalujsta.
+О, Анна...
+O, Anna...
 
 01:26:39,520 --> 01:26:41,802
 No, no!
+Нет... Нет...
+Net... Net...
 
 01:26:41,880 --> 01:26:43,445
 Please, no.
-Анна.
-Anna.
+Пожалуйста.
+Požalujsta.
 
 01:26:51,920 --> 01:26:53,201
 Anna?
@@ -7585,11 +7571,11 @@ Anna?
 Anna?
 Анна?
 Anna?
-Эльза.
-Èl’za.
 
 01:27:38,440 --> 01:27:39,880
 Oh, Elsa.
+Эльза.
+Èl’za.
 
 01:27:39,920 --> 01:27:42,407
 You sacrificed yourself for me?
@@ -7603,10 +7589,8 @@ I love you.
 
 01:27:45,520 --> 01:27:50,442
 "An act of true love will thaw a frozen heart."
-Вот он знак Истинной Любви
-Vot on znak Istinnoj Lûbvi
-который растопит холод в сердце.
-kotoryj rastopit kholod v serdce.
+Вот он знак Истинной Любви который растопит холод в сердце.
+Vot on znak Istinnoj Lûbvi kotoryj rastopit kholod v serdce.
 
 01:27:51,840 --> 01:27:53,690
 "Love will thaw."
@@ -7620,13 +7604,13 @@ Lûbov’... Konečno!
 
 01:27:57,440 --> 01:27:58,721
 Elsa?
-- Эльза?
-- Èl’za?
-- Любовь.
-- Lûbov’.
+Эльза?
+Èl’za?
 
 01:27:59,160 --> 01:28:00,441
 Love!
+Любовь.
+Lûbov’.
 
 01:28:47,080 --> 01:28:48,691
 I knew you could do it.
@@ -7650,26 +7634,28 @@ O, Olaf. Sejčas, malyš.
 
 01:28:57,560 --> 01:28:59,250
 Oh, Oh, Oh!
-Ой, мое собственное облачко!
-Oj, moe sobstvennoe oblačko!
+Ой!
+Oj!
 
 01:29:01,160 --> 01:29:04,443
 My own personal flurry!
+Мое собственное облачко!
+moe sobstvennoe oblačko!
 
 01:29:08,920 --> 01:29:10,770
 Uh-uh-uh-uh.
 Нет! Нет!
 Net! Net!
-Что?
-Čto?
 
 01:29:13,640 --> 01:29:14,841
 Anna?
-Анна? Но она заморозила твое сердце!
-Anna? No ona zamorozila tvoe serdce!
+Анна?
+Anna?
 
 01:29:14,960 --> 01:29:16,844
 But she froze your heart.
+Но она заморозила твое сердце!
+No ona zamorozila tvoe serdce!
 
 01:29:16,920 --> 01:29:19,771
 The only frozen heart around here is yours.
@@ -7684,15 +7670,13 @@ Setting course, sir.
 
 01:29:44,280 --> 01:29:46,839
 I will return this scoundrel to his country.
-Я верну этого мерзавца в его страну. 
-Â vernu ètogo merzavca v ego stranu. 
+Я верну этого мерзавца в его страну.
+Â vernu ètogo merzavca v ego stranu.
 
 01:29:46,840 --> 01:29:50,761
 We shall see what his twelve big brothers think of his behavior.
-Посмотрим, что скажут 12 братьев
-Posmotrim, čto skažut 12 brat’ev
-О его поведении.
-O ego povedenii.
+Посмотрим, что скажут 12 братьев О его поведении.
+Posmotrim, čto skažut 12 brat’ev O ego povedenii.
 
 01:29:50,880 --> 01:29:52,479
 Arendelle thanks you, milord.
@@ -7703,93 +7687,91 @@ Arendelle thanks you, milord.
 This is unacceptable.
 Это возмутительно!.
 Èto vozmutitel’no!.
-Я был охвачен страхом. 
-Â byl okhvačen strakhom. 
 
 01:29:54,320 --> 01:29:57,479
 I am a victim of fear. I've been traumatized.
-Я пострадал.
-Â postradal.
-Ой! Шею свело.
-Oj! Šeû svelo.
+Я был охвачен страхом. Я пострадал.
+Â byl okhvačen strakhom. Â postradal.
 
 01:29:57,480 --> 01:29:59,364
 Ah! My neck hurts.
+Ой! Шею свело.
+Oj! Šeû svelo.
 
 01:29:59,640 --> 01:30:03,039
 Is there a doctor that I could see?
 Позовите мне доктора? А?
 Pozovite mne doktora? A?
-Нет отведите меня к Королеве!
-Net otvedite menâ k Koroleve!
 
 01:30:03,040 --> 01:30:05,439
 And I demand to see the queen!
-А я, как раз с приказом от Королевы.
-A â, kak raz s prikazom ot Korolevy.
+Нет отведите меня к Королеве!
+Net otvedite menâ k Koroleve!
 
 01:30:05,440 --> 01:30:07,642
 Oh. I have a message from the queen.
-Эренделл отныне впредь прекращает
-Èrendell otnyne vpred’ prekraŝaet
+А я, как раз с приказом от Королевы.
+A â, kak raz s prikazom ot Korolevy.
 
 01:30:08,080 --> 01:30:09,919
 "Arendelle will henceforth and forever
+Эренделл отныне впредь прекращает
+Èrendell otnyne vpred’ prekraŝaet
 
 01:30:09,920 --> 01:30:14,045
 "no longer do business of any sort with Weaseltown."
-Все торговые отношения
-Vse torgovye otnošeniâ
-С Воровскими.
-S Vorovskimi.
+Все торговые отношения С Воровскими.
+Vse torgovye otnošeniâ S Vorovskimi.
 
 01:30:14,080 --> 01:30:15,239
 "Weselton."
-Варавский! Я Варавский!
-Varavskij! Â Varavskij!
+Варавский!
+Varavskij!
 
 01:30:15,240 --> 01:30:16,799
 It's Weselton!
+Я Варавский!
+Â Varavskij!
 
 01:30:16,800 --> 01:30:17,919
 Come on, come on, come on!
-- Идём! Идём!
-- Idёm! Idёm!
-- Ай. Хорошо, хорошо, я иду .
-- Aj. Khorošo, khorošo, â idu .
+Идём! Идём!
+Idёm! Idёm!
 
 01:30:19,000 --> 01:30:20,399
 Okay, okay, here I come.
+Ай. Хорошо, хорошо, я иду.
+Aj. Khorošo, khorošo, â idu.
 
 01:30:20,400 --> 01:30:22,489
 Pole! - Whoops! Sorry.
-- Столб.
-- Stolb.
-- Ой. Прости.
-- Oj. Prosti.
+Столб. - Ой. Прости.
+Stolb. - Oj. Prosti.
 
 01:30:22,680 --> 01:30:24,211
 Okay, Okay.
-Итак. Вот оно.
-Itak. Vot ono.
+Итак.
+Itak.
 
 01:30:24,240 --> 01:30:26,044
 Here we are. Oh!
+Вот оно.
+Vot ono.
 
 01:30:28,240 --> 01:30:30,363
 I owe you a sled.
 Я должна тебе сани!
 Â dolžna tebe sani!
-Ты серьёзно?
-Ty ser’ёzno?
 
 01:30:33,320 --> 01:30:35,204
 Are you serious? - Yes!
-Да. Последняя модель!
-Da. Poslednââ model’!
+Ты серьёзно? - Да!
+Ty ser’ёzno? - Da!
 
 01:30:35,360 --> 01:30:36,999
 And it's the latest model.
+Последняя модель!
+Poslednââ model’!
 
 01:30:37,000 --> 01:30:38,599
 No, I can't accept this.
@@ -7798,31 +7780,23 @@ No, I can't accept this.
 
 01:30:38,600 --> 01:30:41,565
 You have to. No returns. No exchanges. Queen's orders.
-Ты должен. Без возврата. Без обмена.
-Ty dolžen. Bez vozvrata. Bez obmena.
-Приказ Королевы.
-Prikaz Korolevy.
+Ты должен. Без возврата. Без обмена. Приказ Королевы.
+Ty dolžen. Bez vozvrata. Bez obmena. Prikaz Korolevy.
 
 01:30:41,680 --> 01:30:45,521
 She's named you the Official Arendelle Ice Master and Deliverer.
-Вам дарованы титул
-Vam darovany titul
-Почетный Магистр Льда и Ледовоз.
-Početnyj Magistr L’da i Ledovoz.
+Вам дарованы титул Почетный Магистр Льда и Ледовоз.
+Vam darovany titul Početnyj Magistr L’da i Ledovoz.
 
 01:30:45,640 --> 01:30:47,519
 What? That's not a thing. - Oh, sure it is.
-- Что? Таких не бывает.
-- Čto? Takikh ne byvaet.
-- Значит будет.
-- Značit budet.
+Что? Таких не бывает. - Значит будет.
+Čto? Takikh ne byvaet. - Značit budet.
 
 01:30:47,520 --> 01:30:51,039
 And it even has a cup holder. Do you like it?
-Там даже подстаканник есть...
-Tam daže podstakannik est’...
-Не нравится?
-Ne nravitsâ?
+Там даже подстаканник есть... Не нравится?
+Tam daže podstakannik est’... Ne nravitsâ?
 
 01:30:51,040 --> 01:30:53,359
 Like it? I love it!
@@ -7831,11 +7805,11 @@ Ne nravitsâ? Da oni potrâsaûŝie!
 
 01:30:53,360 --> 01:30:54,439
 Whoa.
-Я бы даже поцеловал тебя!
-Â by daže poceloval tebâ!
 
 01:30:54,440 --> 01:30:56,290
 I could kiss you!
+Я бы даже поцеловал тебя!
+Â by daže poceloval tebâ!
 
 01:30:57,000 --> 01:30:58,879
 I could. I mean, I'd like to. I'd...
@@ -7893,13 +7867,11 @@ Khorošo čto otkryli vorota.
 We are never closing them again.
 Больше мы их не закроем.
 Bol’še my ikh ne zakroem.
-О Эльза, они прекрасны...
-O Èl’za, oni prekrasny...
 
 01:32:04,640 --> 01:32:07,127
 Oh, Elsa, they're beautiful, but you know I don't skate.
-Но я не умею катать...
-No â ne umeû katat’...
+О Эльза, они прекрасны, но я не умею катать...
+O Èl’za, oni prekrasny, no â ne umeû katat’...
 
 01:32:07,200 --> 01:32:08,731
 Come on! You can do it!
@@ -7915,20 +7887,18 @@ Ostorožno, olen’ na l’du!
 I got it, I got it. I don't got it, I don't got it.
 Я стою... Я стою... Я падаю.
 Â stoû... Â stoû... Â padaû.
-Приветик!
-Privetik!
 
 01:32:13,120 --> 01:32:14,199
 Hey, guys!
-Ой. Олаф помоги ей
-Oj. Olaf pomogi ej
+Приветик!
+Privetik!
 
 01:32:14,200 --> 01:32:15,519
 That's it, Olaf.
+Ой. Олаф помоги ей
+Oj. Olaf pomogi ej
 
 01:32:15,520 --> 01:32:18,839
 Glide and pivot. And glide and pivot.
-Скользи и кружись!
-Skol’zi i kružis’!
-Скользи и учись!
-Skol’zi i učis’!
+Скользи и кружись! Скользи и учись!
+Skol’zi i kružis’! Skol’zi i učis’!
