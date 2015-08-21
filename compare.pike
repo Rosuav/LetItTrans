@@ -20,6 +20,7 @@ mapping(string(0..255):array(string)) languages=([
 	"cyrillic": ({"Bulgarian", "Russian", "Serbian", "Ukrainian"}),
 	"slavic": ({"Bulgarian", "Russian", "Serbian", "Ukrainian", "Croatian", "Czech", "Slovakian", "Slovenian", "Polish"}),
 	"nonlatin": ({"Bulgarian", "Russian", "Serbian", "Ukrainian", "Greek", "Hebrew", "Arabic", "Korean", "Cantonese", "Japanese", "Taiwanese Mandarin", "Thai"}),
+	"scandinavian": ({"Danish","Finnish","Icelandic","Norwegian","Swedish"}),
 ]);
 
 int main(int argc,array(string) argv)
