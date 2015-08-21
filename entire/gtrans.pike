@@ -45,11 +45,11 @@ int main(int argc,array(string) argv)
 			}
 			case 4:
 			{
-				if (para[3][0]=='[') gtrans++; else trans++; //Has subs and trans; keep stats separately based on GTrans or not
+				if (para[-1][0]=='[') gtrans++; else trans++; //Has subs and trans; keep stats separately based on GTrans or not
 				//Check to see if the English is italicized. If it is, make sure the other lines are too.
 				if (has_prefix(para[1],"<i>"))
 				{
-					for (int i=2;i<4;++i) if (!has_prefix(para[i],"<i>")) {para[i]="<i>"+para[i]+"</i>"; ital++;}
+					for (int i=2;i<sizeof(para);++i) if (!has_prefix(para[i],"<i>")) {para[i]="<i>"+para[i]+"</i>"; ital++;}
 				}
 				break;
 			}
