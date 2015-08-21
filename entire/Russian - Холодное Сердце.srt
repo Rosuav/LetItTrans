@@ -2002,23 +2002,23 @@ Vaše Veličestvo.
 
 00:25:58,520 --> 00:25:59,759
 We would like...
-Мы просим... Мы просим благословить
-My prosim... My prosim blagoslovit’
+Мы просим...
+My prosim...
 
 00:25:59,760 --> 00:26:00,879
 Uh, your blessing...
-Нашу женитьбу!
-Našu ženit’bu!
+Мы просим благословить
+My prosim blagoslovit’
 
 00:26:02,200 --> 00:26:04,004
 Of our marriage.
+Нашу женитьбу!
+Našu ženit’bu!
 
 00:26:04,480 --> 00:26:06,284
 Marriage? - Yes!
-- Женитьбу...?
-- Ženit’bu...?
-- Да.
-- Da.
+Женитьбу...? - Да.
+Ženit’bu...? - Da.
 
 00:26:06,640 --> 00:26:07,839
 I'm sorry, I'm confused.
@@ -2037,10 +2037,8 @@ Za paru dnej, splaniruem ceremoniû.
 
 00:26:12,080 --> 00:26:14,399
 Of course, we'll have soup, roast, and ice cream. And then...
-Потом будет суп
-Potom budet sup
-Жаркое, и мороженое...
-Žarkoe, i moroženoe...
+Потом будет суп, жаркое, и мороженое...
+Potom budet sup, žarkoe, i moroženoe...
 
 00:26:14,400 --> 00:26:15,761
 Wait. Would we live here?
@@ -2049,20 +2047,18 @@ My ved’, budem žit’ zdes’?
 
 00:26:16,000 --> 00:26:17,999
 Here? - Absolutely!
-- Здесь?
-- Zdes’?
-- Ну разумеется!
-- Nu razumeetsâ!
-Анна...
-Anna...
+Здесь? - Ну разумеется!
+Zdes’? - Nu razumeetsâ!
 
 00:26:18,000 --> 00:26:19,079
 Anna!
-О, пригласим твоих двенадцать братьев погостить...
-O, priglasim tvoikh dvenadcat’ brat’ev pogostit’...
+Анна...
+Anna...
 
 00:26:19,080 --> 00:26:20,679
 Oh! We can invite all twelve of your brothers to stay with us.
+О, пригласим твоих двенадцать братьев погостить...
+O, priglasim tvoikh dvenadcat’ brat’ev pogostit’...
 
 00:26:20,680 --> 00:26:21,959
 What? No, no, no.
@@ -2076,10 +2072,8 @@ Konečno komnat mnogo, Nu oni mogut zakhotet’ ...
 
 00:26:23,290 --> 00:26:26,319
 Wait, slow down. No one's brothers are staying here.
-Подожди. Постой.
-Podoždi. Postoj.
-Никаких братьев здесь не будут.
-Nikakikh brat’ev zdes’ ne budut.
+Подожди. Постой. Никаких братьев здесь не будут.
+Podoždi. Postoj. Nikakikh brat’ev zdes’ ne budut.
 
 00:26:26,320 --> 00:26:27,885
 No one is getting married.
@@ -2093,17 +2087,13 @@ To-est’. Kak?
 
 00:26:29,520 --> 00:26:32,564
 May I talk to you, please? Alone.
-Можно с тобой поговорить?
-Možno s toboj pogovorit’?
-Наедине.
-Naedine.
+Можно с тобой поговорить? Наедине.
+Možno s toboj pogovorit’? Naedine.
 
 00:26:33,040 --> 00:26:36,801
 No. Whatever you have to say, you can say to both of us.
-Нет. Все что хочешь сказать
-Net. Vse čto khočeš’ skazat’
-Пожалуйста говори нам обоим.
-Požalujsta govori nam oboim.
+Нет. Все что хочешь сказать Пожалуйста говори нам обоим.
+Net. Vse čto khočeš’ skazat’ Požalujsta govori nam oboim.
 
 00:26:37,400 --> 00:26:40,206
 Fine. You can't marry a man you just met.
@@ -2122,13 +2112,13 @@ Anna, čto ty znaeš’ o lûbvi?
 
 00:26:44,240 --> 00:26:45,359
 More than you.
-Побольше тебя. Ты
-Pobol’še tebâ. Ty
-только умеешь закрываться от людей.
-tol’ko umeeš’ zakryvat’sâ ot lûdej.
+Побольше тебя.
+Pobol’še tebâ.
 
 00:26:45,360 --> 00:26:47,199
 All you know is how to shut people out.
+Ты только умеешь закрываться от людей.
+Ty tol’ko umeeš’ zakryvat’sâ ot lûdej.
 
 00:26:49,240 --> 00:26:52,171
 You asked for my blessing, but my answer is no.
@@ -2152,10 +2142,8 @@ Net, ne pozvolû. I vam lučše ujti.
 
 00:26:59,280 --> 00:27:00,839
 The party is over. Close the gates.
-Вечер окончен.
-Večer okončen.
-Закрыть ворота.
-Zakryt’ vorota.
+Вечер окончен. Закрыть ворота.
+Večer okončen. Zakryt’ vorota.
 
 00:27:00,840 --> 00:27:01,919
 Yes, Your Majesty.
@@ -2176,21 +2164,21 @@ Otdaj perčatku!
 Elsa, please, please.
 Эльза, пожалуйста. Пожалуйста.
 Èl’za, požalujsta. Požalujsta.
-Я не могу больше так жить.
-Â ne mogu bol’še tak žit’.
 
 00:27:06,720 --> 00:27:08,604
 I can't live like this anymore!
+Я не могу больше так жить.
+Â ne mogu bol’še tak žit’.
 
 00:27:10,280 --> 00:27:11,527
 Then leave.
-... Так уходи.
-... Tak ukhodi.
+Так уходи.
+Tak ukhodi.
 
 00:27:17,040 --> 00:27:18,719
 What did I ever do to you?
-... Что я тебе сделала?!
-... Čto â tebe sdelala?!
+Что я тебе сделала?!
+Čto â tebe sdelala?!
 
 00:27:18,720 --> 00:27:19,919
 Enough, Anna.
@@ -2219,13 +2207,13 @@ I said, enough!
 
 00:27:35,720 --> 00:27:37,206
 Sorcery.
-Колдовство. Я знал что...
-Koldovstvo. Â znal čto...
+Колдовство.
+Koldovstvo.
 
 00:27:37,560 --> 00:27:40,286
 I knew there was something dubious going on here.
-Что здесь творится, что-то подозрительное.
-Čto zdes’ tvoritsâ, čto-to podozritel’noe.
+Я знал что что здесь творится, что-то подозрительное.
+Â znal čto čto zdes’ tvoritsâ, čto-to podozritel’noe.
 
 00:27:40,760 --> 00:27:42,246
 Elsa.
@@ -2236,21 +2224,21 @@ Elsa.
 There she is!
 А вот и она.
 A vot i ona.
-Ваше Величество. Да здравствует Королева! Королева Эльза...
-Vaše Veličestvo. Da zdravstvuet Koroleva! Koroleva Èl’za...
 
 00:27:56,080 --> 00:27:58,359
 Yes! It is her!
-Да здравствует Королева Эльза.
-Da zdravstvuet Koroleva Èl’za.
+Ваше Величество.
+Vaše Veličestvo.
 
 00:27:58,360 --> 00:27:59,686
 Queen Elsa.
-Королева .
-Koroleva .
+Да здравствует Королева! Королева Эльза...
+Da zdravstvuet Koroleva! Koroleva Èl’za...
 
 00:28:00,680 --> 00:28:02,450
 Our beautiful queen!
+Да здравствует Королева Эльза.
+Da zdravstvuet Koroleva Èl’za.
 
 00:28:02,600 --> 00:28:04,928
 Your Majesty? Are you all right?
@@ -2261,18 +2249,16 @@ Vaše Veličestvo? Vam ne khorošo?
 No.
 Что?
 Čto?
-Вот она! Держите её!
-Vot ona! Deržite eё!
 
 00:28:16,760 --> 00:28:18,246
 There she is! Stop her!
+Вот она! Держите её!
+Vot ona! Deržite eё!
 
 00:28:18,280 --> 00:28:20,479
 Please, just stay away from me. Stay away.
-Пожалуйста, не подходите ко мне.
-Požalujsta, ne podkhodite ko mne.
-Не подходите!
-Ne podkhodite!
+Пожалуйста, не подходите ко мне. Не подходите!
+Požalujsta, ne podkhodite ko mne. Ne podkhodite!
 
 00:28:23,760 --> 00:28:25,962
 Monster. Monster!
@@ -2283,11 +2269,11 @@ Monster. Monster!
 Elsa!
 Эльза!
 Èl’za!
-Эльза...
-Èl’za...
 
 00:28:41,120 --> 00:28:42,924
 Elsa!
+Эльза...
+Èl’za...
 
 00:28:47,840 --> 00:28:49,280
 Wait, please!
@@ -2301,25 +2287,23 @@ Elsa, stop!
 
 00:29:03,640 --> 00:29:04,999
 Anna!
-- Анна!
-- Anna!
-- Нет.
-- Net.
+Анна!
+Anna!
 
 00:29:05,000 --> 00:29:06,201
 No.
+Нет.
+Net.
 
 00:29:11,840 --> 00:29:13,166
 The fjord.
 Фьорд.
 F’ord.
--Пошел Снег?
--Pošel Sneg?
--Это Снег?
--Èto Sneg?
 
 00:29:32,040 --> 00:29:33,924
 Snow! Snow?
+Пошел Снег? - Это Снег?
+Pošel Sneg? - Èto Sneg?
 
 00:29:34,080 --> 00:29:35,199
 Yes, snow.
@@ -2328,25 +2312,23 @@ Idet sneg!
 
 00:29:35,200 --> 00:29:37,119
 Are you all right? - No.
-- Ты в порядке?
-- Ty v porâdke?
-- Нет.
-- Net.
+Ты в порядке? - Нет.
+Ty v porâdke? - Net.
 
 00:29:37,120 --> 00:29:38,765
 Did you know?
-- Ты знала?
-- Ty znala?
-- Нет.
-- Net.
+Ты знала?
+Ty znala?
 
 00:29:39,240 --> 00:29:40,487
 No.
-Смотрите снег! Это снег!
-Smotrite sneg! Èto sneg!
+Нет.
+Net.
 
 00:29:41,200 --> 00:29:42,839
 Look, it's snowing. It's snowing!
+Смотрите снег! Это снег!
+Smotrite sneg! Èto sneg!
 
 00:29:42,840 --> 00:29:44,559
 The queen has cursed this land!
@@ -2355,25 +2337,23 @@ Koroleva zakoldovala gorod.
 
 00:29:44,560 --> 00:29:46,799
 She must be stopped! You have to go after her.
-Её надо поймать!
-Eё nado pojmat’!
-- Отправляйтесь за ней.
-- Otpravlâjtes’ za nej.
-- Нет, стойте!
-- Net, stojte!
+Её надо поймать! - Отправляйтесь за ней.
+Eё nado pojmat’! - Otpravlâjtes’ za nej.
 
 00:29:46,800 --> 00:29:48,199
 Wait, no!
+Нет, стойте!
+Net, stojte!
 
 00:29:48,200 --> 00:29:50,719
 You! ls there sorcery in you, too?
 Ты! И ты умеешь колдовать?
 Ty! I ty umeeš’ koldovat’?
-И ты чудовище?
-I ty čudoviŝe?
 
 00:29:50,720 --> 00:29:52,359
 Are you a monster, too?
+И ты чудовище?
+I ty čudoviŝe?
 
 00:29:52,360 --> 00:29:55,359
 No, no. I'm completely ordinary.
@@ -2382,8 +2362,8 @@ Net. Net, â soveršenno obyčnaâ.
 
 00:29:55,360 --> 00:29:57,050
 That's right, she is.
-Да, Это обсалютная правда.
-Da, Èto obsalûtnaâ pravda.
+Да, Это абсолютная правда.
+Da, Èto absolûtnaâ pravda.
 
 00:29:57,720 --> 00:29:59,524
 In the best way.
@@ -2402,46 +2382,33 @@ Ona čut’ ne ubila menâ!
 
 00:30:02,800 --> 00:30:04,399
 You slipped on ice. - Her ice.
-- Вы поскользнулись.
-- Vy poskol’znulis’.
-- Из-за неё!
-- Iz-za neё!
+Вы поскользнулись. - Из-за неё!
+Vy poskol’znulis’. - Iz-za neё!
 
 00:30:04,400 --> 00:30:06,841
 It was an accident. She was scared.
-Так получилось.
-Tak polučilos’.
-Она испугалась.
-Ona ispugalas’.
+Так получилось. Она испугалась.
+Tak polučilos’. Ona ispugalas’.
 
 00:30:07,040 --> 00:30:09,891
 She didn't mean it. She didn't mean any of this.
-Она этого не хотела.
-Ona ètogo ne khotela.
-Это всё не её вина...
-Èto vsё ne eё vina...
+Она этого не хотела. Это всё не её вина...
+Ona ètogo ne khotela. Èto vsё ne eё vina...
 
 00:30:10,200 --> 00:30:12,639
 Tonight was my fault. I pushed her.
-Это я виновата.
-Èto â vinovata.
-Я разозлила её.
-Â razozlila eё.
+Это я виновата. Я разозлила её.
+Èto â vinovata. Â razozlila eё.
+
+00:30:12,640 --> 00:30:15,319
+So, I'm the one that needs to go after her.
 И я, должна её разыскать.
 I â, dolžna eё razyskat’.
 
-00:30:12,640 --> 00:30:13,839
-So, I'm the one
-
-00:30:13,840 --> 00:30:15,319
-that needs to go after her.
-- Что? -Да.
-- Čto? -Da.
-- Подайте мою лошадь, пожалуйста.
-- Podajte moû lošad’, požalujsta.
-
 00:30:15,320 --> 00:30:16,619
 Bring me my horse, please.
+Подайте мою лошадь, пожалуйста.
+Podajte moû lošad’, požalujsta.
 
 00:30:16,620 --> 00:30:19,126
 Anna, no. It's too dangerous.
@@ -2455,32 +2422,28 @@ Elsa's not dangerous.
 
 00:30:21,400 --> 00:30:23,279
 I'll bring her back, and I'll make this right.
-Я верну её.
-Â vernu eё.
-Всё будет хорошо.
-Vsё budet khorošo.
+Я верну её. Всё будет хорошо.
+Â vernu eё. Vsё budet khorošo.
 
 00:30:23,280 --> 00:30:24,359
 I'm coming with you.
-- Я еду с тобой.
-- Â edu s toboj.
-- Нет.
-- Net.
+Я еду с тобой.
+Â edu s toboj.
 
 00:30:24,360 --> 00:30:27,769
 No, I need you here to take care of Arendelle.
-Ты нужен здесь, позаботься об Эренделле.
-Ty nužen zdes’, pozabot’sâ ob Èrendelle.
+Нет. Ты нужен здесь, позаботься об Эренделле.
+Net. Ty nužen zdes’, pozabot’sâ ob Èrendelle.
 
 00:30:28,200 --> 00:30:29,765
 On my honor.
 Клянусь честью.
 Klânus’ čest’û.
-Вверяю вас принцу Хансу!
-Vverâû vas princu Khansu!
 
 00:30:31,880 --> 00:30:33,445
 I leave Prince Hans in charge.
+Вверяю вас принцу Хансу!
+Vverâû vas princu Khansu!
 
 00:30:35,400 --> 00:30:37,125
 Are you sure you can trust her?
@@ -2501,61 +2464,38 @@ Ona moâ sestra.
 She would never hurt me.
 Она не может мне навредить.
 Ona ne možet mne navredit’.
-Transcript and translation
-from http://tinyurl.com/kz7ao92
-Sung by Анна Бутурлина (Anna Buturlina)
 
 00:31:22,980 --> 00:31:26,980
 The snow glows white on the mountain tonight,
 Метель укроет склоны горных вершин.
 Metel’ ukroet sklony gornykh veršin.
-The snow glows white on the mountain tonight,
-Метель укроет склоны горных вершин
-Metel’ ukroet sklony gornyh veršin
 The storm blankets tall mountain slopes,
 
 00:31:26,980 --> 00:31:29,980
 not a footprint to be seen
 И белым-бела земля.
 I belym-bela zemlâ.
-not a footprint to be seen
-И белым-бела земля.
-I belym-bela zemlja.
 and the white ground.
 
 00:31:30,480 --> 00:31:33,480
 A kingdom of isolation,
 Безмолвное королевство.
 Bezmolvnoe korolevstvo.
-A kingdom of isolation,
-Безмолвное королевство,
-Bezmolvnoe korolevstvo,
 A silent kingdom,
 
 00:31:33,480 --> 00:31:36,980
 and it looks like I'm the queen
 Королевой стала я
 Korolevoj stala â
-and it looks like I'm the queen
-Королевой стала я.
-Korolevoj stala ja.
 and I have become its Queen.
 
 00:31:37,980 --> 00:31:43,980
 The wind is howling like this swirling storm inside
 А ветер стонет, и на сердце ураган.
 A veter stonet, i na serdce uragan.
-The wind is howling like this swirling storm inside
-А ветер стонет и на сердце ураган.
-A veter stonet i na serdce uragan.
 The wind moans on the hurricane of my heart,
 
 00:31:44,480 --> 00:31:50,980
-Couldn't keep it in, heaven knows I tried
-Мне б его сдержать.
-Mne b ego sderžat’.
-Но я не могла.
-No â ne mogla.
 Couldn't keep it in, heaven knows I tried
 Мне б его сдержать, но я не могла.
 Mne b ego sderžat’, no ja ne mogla.
@@ -2565,24 +2505,15 @@ I was supposed to keep it in, but I could not.
 Don't let them in, don't let them see
 Не открывай, храни секрет.
 Ne otkryvaj, khrani sekret.
-Будь хорошей девочкой для всех.
-Bud’ khorošej devočkoj dlâ vsekh.
-Don't let them in, don't let them see
-Не открывай, храни секрет,
-Ne otkryvaj, hrani sekret,
 Don't open up, keep the secret,
 
 00:31:55,980 --> 00:31:59,480
-Be the good girl you always had to be
-Закрой все чувства на замок.
-Zakroj vse čuvstva na zamok.
 Be the good girl you always had to be
 Будь хорошей девочкой для всех.
 Bud’ horošej devočkoj dlja vseh.
 Be the good girl for everyone
 
 00:31:59,480 --> 00:32:03,980
-Conceal, don't feel, don't let them know
 Conceal, don't feel, don't let them know
 Закрой все чувства на замок,
 Zakroj vse čuvstva na zamok,
@@ -2591,16 +2522,10 @@ Lock up all feelings in the castle,
 00:32:04,980 --> 00:32:07,980
 Well, now they know!
 Но тщетно всё!
-No tŝetno vsё!
-Отпусти и забудь.
-Otpusti i zabud’.
-Well, now they know!
-Но тщетно всё!
 No tŝetno vsë!
 But in vain all!
 
 00:32:08,980 --> 00:32:11,980
-Let it go, let it go!
 Let it go, let it go!
 Отпусти и забудь,
 Otpusti i zabud’,
@@ -2608,19 +2533,11 @@ Let go and forget,
 
 00:32:11,980 --> 00:32:15,980
 Can't hold it back any more!
-Что прошло – уже не вернуть.
-Čto prošlo – uže ne vernut’.
-Can't hold it back any more!
 Что прошло - уже не вернуть.
 Čto prošlo - uže ne vernut’.
 What has happened will not come back
 
 00:32:15,980 --> 00:32:19,480
-Let it go, let it go!
-Отпусти и забудь.
-Otpusti i zabud’.
-Новый день укажет путь.
-Novyj den’ ukažet put’.
 Let it go, let it go!
 Отпусти и забудь,
 Otpusti i zabud’,
@@ -2628,15 +2545,11 @@ Let go and forget,
 
 00:32:19,480 --> 00:32:22,980
 Turn away and slam the door!
-Turn away and slam the door!
 Новый день укажет путь.
 Novyj den’ ukažet put’.
 The new day shows the path
 
 00:32:23,480 --> 00:32:29,480
-I don't care what they're going to say
-Не боюсь ничего уже.
-Ne boûs’ ničego uže.
 I don't care what they're going to say
 Не боюсь ничего уже,
 Ne bojus’ ničego uže,
@@ -2646,15 +2559,9 @@ I'm not scared of anything now
 Let the storm rage on
 Пусть бушует шторм  
 Pust’ bušuet štorm  
-Let the storm rage on
-Пусть бушует шторм -
-Pust’ bušuet štorm -
 Let the storm go on
 
 00:32:33,980 --> 00:32:36,980
-The cold never bothered me anyway.
-Холод всегда мне был по душе…
-Kholod vsegda mne byl po duše…
 The cold never bothered me anyway.
 Холод всегда мне был по душе.
 Holod vsegda mne byl po duše.
@@ -2662,15 +2569,11 @@ I always liked the cold.
 
 00:32:40,980 --> 00:32:43,480
 It's funny how some distance
-А я бегу всё выше, на ледяную гладь.
-A â begu vsё vyše, na ledânuû glad’.
-It's funny how some distance
 А я бегу всё выше,
 A ja begu vsë vyše,
 I will run higher
 
 00:32:43,480 --> 00:32:46,980
-Makes everything seem small
 Makes everything seem small
 На ледяную гладь.
 Na ledjanuju glad’.
@@ -2680,51 +2583,33 @@ On the icy surface
 And the fears that once controlled me
 И страхам дней минувших
 I strakham dnej minuvšikh
-And the fears that once controlled me
-И страхам дней минувших
-I straham dnej minuvših
 And the fears of yesterday
 
 00:32:50,980 --> 00:32:54,980
 Can't get to me at all!
 Меня уж не догнать.
 Menâ už ne dognat’.
-Can't get to me at all!
-Меня уж не догнать.
-Menja už ne dognat’.
 Cannot catch up to me
 
 00:32:55,480 --> 00:32:58,980
 It's time to see what I can do
 Пора узнать, что я могу  
 Pora uznat’, čto â mogu  
-It's time to see what I can do
-Пора узнать, что я могу -
-Pora uznat’, čto ja mogu -
 It's time to know, what I can do
 
 00:32:58,980 --> 00:33:02,480
 To test the limits and break through
 На службу призову пургу.
 Na službu prizovu purgu.
-To test the limits and break through
-На службу призову пургу,
-Na službu prizovu purgu,
 The blizzard is at my service
 
 00:33:02,480 --> 00:33:06,480
 No right, no wrong, no rules for me
 Свободу обрету во льдах.
 Svobodu obretu vo l’dakh.
-No right, no wrong, no rules for me
-Свободу обрету во льдах,
-Svobodu obretu vo l’dah,
 I shall find freedom in the ice
 
 00:33:06,480 --> 00:33:09,480
-I'm free!
-Навсегда!
-Navsegda!
 I'm free!
 Навсегда!
 Navsegda!
@@ -2734,24 +2619,15 @@ Forever!
 Let it go, let it go!
 Отпусти и забудь!
 Otpusti i zabud’!
-Let it go, let it go!
-Отпусти и забудь
-Otpusti i zabud’
 Let go and forget
 
 00:33:13,480 --> 00:33:17,480
 I am one with the wind and sky
 Этот мир из твоих грёз
 Ètot mir iz tvoikh grёz
-Отпусти и забудь!
-Otpusti i zabud’!
-I am one with the wind and sky
-Этот мир из твоих грёз.
-Ètot mir iz tvoih grëz.
 This world is from your dreams
 
 00:33:17,480 --> 00:33:20,980
-Let it go, let it go!
 Let it go, let it go!
 Отпусти и забудь,
 Otpusti i zabud’,
@@ -2761,17 +2637,9 @@ Let go and forget
 You'll never see me cry
 И не будет больше слёз.
 I ne budet bol’še slёz.
-You'll never see me cry
-И не будет больше слёз.
-I ne budet bol’še slëz.
 And there will be no more tears!
 
 00:33:24,980 --> 00:33:31,480
-Here I stand, and here I'll stay,
-Здесь мой дом
-Zdes’ moj dom
-Мой снежный удел.
-Moj snežnyj udel.
 Here I stand, and here I'll stay,
 Здесь мой дом, Мой снежный удел.
 Zdes’ moj dom, Moj snežnyj udel.
@@ -2781,26 +2649,15 @@ Here's my home, My snowy destiny
 Let the storm rage on...
 Пусть бушует шторм...
 Pust’ bušuet štorm...
-Let the storm rage on...
-Пусть бушует шторм...
-Pust’ bušuet štorm...
 Let the storm go on...
 
 00:33:42,480 --> 00:33:48,980
 My power flurries through the air and to the ground
 Искрится воздух и земля от моих чар.
 Iskritsâ vozdukh i zemlâ ot moikh čar.
-My power flurries through the air and to the ground
-Искрится воздух И земля от моих чар.
-Iskritsja vozduh I zemlja ot moih čar.
 The air and the ground sparkle from my spells,
 
 00:33:49,480 --> 00:33:55,980
-My soul is spiralling in frozen fractals all around
-Подвластны мне мороз и лёд,
-Podvlastny mne moroz i lёd,
-Ну что за дивный дар. 
-Nu čto za divnyj dar. 
 My soul is spiralling in frozen fractals all around
 Подвластны мне мороз и лёд, Ну что за дивный дар.
 Podvlastny mne moroz i lëd, Nu čto za divnyj dar.
@@ -2810,99 +2667,71 @@ Subject to my ice and snow, what a wonderful gift!
 And one thought crystallizes like an icy blast
 И вот уже я знаю, как мне дальше быть!
 I vot uže â znaû, kak mne dal’še byt’!
-And one thought crystallizes like an icy blast
-И вот уже я знаю, как мне дальше быть!
-I vot uže ja znaju, kak mne dal’še byt’!
 And I already know, how I am supposed to be!
 
 00:34:03,480 --> 00:34:06,480
 I'm never going back
 Я не вернусь назад
 Â ne vernus’ nazad
-I'm never going back
-Я не вернусь назад,
-Ja ne vernus’ nazad,
 I will not go back,
 
 00:34:06,480 --> 00:34:10,480
 The past is in the past!
 Должна я всё забыть.
 Dolžna â vsё zabyt’.
-The past is in the past!
-Должна я всё забыть.
-Dolžna ja vsë zabyt’.
 I must forget everything!
 
 00:34:11,480 --> 00:34:14,480
 Let it go, let it go!
 Опусти и забудь!
 Opusti i zabud’!
-Let it go, let it go!
-Отпусти и забудь!
-Otpusti i zabud’!
 Let go and forget!
 
 00:34:14,480 --> 00:34:18,480
 And I'll rise like the break of dawn
 И на небо лети зарёй!
 I na nebo leti zarёj!
-And I'll rise like the break of dawn
-И на небо лети зарёй!
-I na nebo leti zarëj!
 And the rays of dawn fly through the sky!
 
 00:34:18,480 --> 00:34:21,980
 Let it go, let it go!
 Отпусти и забудь
 Otpusti i zabud’
-Let it go, let it go!
-Отпусти и забудь,
-Otpusti i zabud’,
 Let go and forget,
 
 00:34:21,980 --> 00:34:25,480
 That perfect girl is gone
 Полярной сияй звездой!
 Polârnoj siâj zvezdoj!
-That perfect girl is gone
-Полярный сияй звездой!
-Poljarnyj sijaj zvezdoj!
 The polar stars shine!
 
 00:34:25,980 --> 00:34:34,480
 Here I stand in the light of day
 Встречу я, первый свой рассвет.
 Vstreču â, pervyj svoj rassvet.
-Here I stand in the light of day
-Встречу я Первый свой рассвет.
-Vstreču ja Pervyj svoj rassvet.
 Meeting I, At his first dawn
 
 00:34:34,480 --> 00:34:39,980
 Let the storm rage on!
 Пусть бушует шторм 
 Pust’ bušuet štorm 
-Let the storm rage on!
-Пусть бушует шторм -
-Pust’ bušuet štorm -
 Let the storm go on!
 
 00:34:39,980 --> 00:34:43,480
 The cold never bothered me anyway.
 Холод всегда мне был по душе.
 Kholod vsegda mne byl po duše.
-The cold never bothered me anyway.
-Холод всегда мне был по душе.
-Holod vsegda mne byl po duše.
 I always liked the cold.
 
 00:34:49,040 --> 00:34:50,651
 Elsa!
-Эльза! Эльза!
-Èl’za! Èl’za!
+Эльза!
+Èl’za!
 
 00:34:51,760 --> 00:34:53,200
 Elsa!
+Эльза!
+Èl’za!
 
 00:34:55,640 --> 00:34:57,604
 Elsa, it's me, Anna,
