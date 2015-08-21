@@ -3,13 +3,15 @@ int main(int argc,array(string) argv)
 	foreach (argv[1..],string fn)
 	{
 		string language=(["Swedish":"sv","Portuguese":"pt"])[(fn/" ")[0]] || lower_case(fn[..1]); //Hack: If the language code is the first two letters, figure it out without the mapping.
+		int has_translit=(<"ru">)[language]; //Those which use transliterations have extra text lines.
 		//language="auto"; //Or use "Detect Language" mode. Probably not a good idea for short clips.
 		array(array(string)) input=(String.trim_all_whites(utf8_to_string(Stdio.read_file(fn)))/"\n\n")[*]/"\n";
 		int engonly=0,trans=0,gtrans=0;
 		int changed=0,ital=0;
 		int notrans=0; signal(2,lambda() {notrans=1;});
-		foreach (input;int i;array(string) para) switch (sizeof(para))
+		foreach (input;int i;array(string) para) switch (sizeof(para)-has_translit)
 		{
+			case 1: //English text only, when we're looking for a transliteration.
 			case 2: engonly++; break; //English text only - nothing to do (but keep stats)
 			case 3: //This is the interesting case - we have three lines: the header, the English, and the other.
 			{
@@ -26,8 +28,10 @@ int main(int argc,array(string) argv)
 				sscanf(utf8_to_string(result),"[[[%s]]",string parseme); if (!parseme) parseme="";
 				//If you now examine "[["+parseme+"]]", it should be a JSON array of two-element arrays
 				//where the first is the English backtranslation and the second is the original text,
-				//for each section. We just want the first part.
-				array parts=array_sscanf((parseme/"],[")[*],"%O,%*O")[*][0];
+				//for each section. We just want the first part. Note that in some cases, the first part
+				//does not begin with a quote. "%O,%*O" misparses this (skipping over empty commas), so
+				//we explicitly filter down to the ones that start with quotes.
+				array parts=array_sscanf(filter(parseme/"],[",has_prefix,"\"")[*],"%O,%*O")[*][0];
 				//GTrans sometimes returns final punctuation after a space. Trim out the space.
 				mapping punct=([]); foreach (",.!:?'\""/1,string ch) punct[" "+ch]=ch;
 				parts=replace(parts[*],punct);
