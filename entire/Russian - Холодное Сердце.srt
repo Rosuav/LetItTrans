@@ -5601,12 +5601,15 @@ Net, vse normal’no.
 
 00:54:36,840 --> 00:54:41,090
 You don't have to apologize, but you should probably go.
-Ты не должна извиняться. И лучше тебе уйти, пожалуйста.
-Ty ne dolžna izvinât’sâ. I lučše tebe ujti, požalujsta.
-[You do not have to apologize. And it is better for you to leave, please.]
+Ты не должна извиняться. И лучше тебе уйти.
+Ty ne dolžna izvinât’sâ. I lučše tebe ujti.
+[You do not have to apologize. And you'd better leave.]
 
 00:54:41,760 --> 00:54:42,879
 Please.
+Пожалуйста.
+Požalujsta.
+[Please.]
 
 00:54:42,880 --> 00:54:44,241
 But I just got here.
