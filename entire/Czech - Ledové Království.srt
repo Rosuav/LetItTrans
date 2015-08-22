@@ -5380,8 +5380,7 @@ Nemohl jsem je nechat tě zabít.
 
 01:12:55,440 --> 01:12:58,769
 But I'm a danger to Arendelle. Get Anna.
-Ale já jsem pro Arendelle nebezpečná.
-Přiveď Annu.
+Ale já jsem pro Arendelle nebezpečná. Přiveď Annu.
 
 01:12:59,120 --> 01:13:01,199
 Anna has not returned.
@@ -5421,10 +5420,10 @@ Svene, přidej!
 
 01:13:54,200 --> 01:13:55,359
 Oh, boy!
+Ty bláho!
 
 01:13:55,360 --> 01:13:57,562
 Whoa! I'll meet you guys at the castle!
-Ty bláho!
 Uvidíme se všichni v zámku!
 
 01:13:57,680 --> 01:13:58,999
@@ -5437,8 +5436,7 @@ Jasný!
 
 01:14:01,560 --> 01:14:04,161
 Hello! - It's alive!
-Nazdar!
-Obluda!
+Nazdar! - Obluda!
 
 01:14:13,160 --> 01:14:14,725
 It's Princess Anna!
@@ -5458,13 +5456,11 @@ Anno!
 
 01:14:30,520 --> 01:14:32,439
 You had us worried sick. My Lady.
-- Měli jsme o vás hrozný strach.
-- Má paní.
+Měli jsme o vás hrozný strach. Má paní.
 
 01:14:32,440 --> 01:14:35,439
 Get her warm. And find Prince Hans, immediately.
-Musí do tepla.
-A najděte prince Hanse. Okamžitě!
+Musí do tepla. A najděte prince Hanse. Okamžitě!
 
 01:14:35,440 --> 01:14:37,051
 We will. Thank you.
@@ -5519,13 +5515,11 @@ Jsi celá zmrzlá.
 
 01:15:14,200 --> 01:15:15,439
 Hans, you have to kiss me. - What?
-- Hansi, musíš mě políbit.
-- Cože?
+Hansi, musíš mě políbit. - Cože?
 
 01:15:15,440 --> 01:15:17,159
 Now! Now! - Slow down.
-- Hned.
-- Nač ten spěch?
+Hned. - Nač ten spěch?
 
 01:15:17,160 --> 01:15:19,089
 We'll give you two some privacy.
@@ -5557,8 +5551,7 @@ Zmrazila mé srdce
 
 01:15:31,720 --> 01:15:34,366
 and only an act of true love can save me.
-a zachránit mě může
-jen opravdová láska.
+a zachránit mě může jen opravdová láska.
 
 01:15:35,920 --> 01:15:37,804
 A true love's kiss.
@@ -5570,8 +5563,7 @@ Anno.
 
 01:15:50,480 --> 01:15:53,559
 If only there was someone out there who loved you.
-Kéž by byl někdo,
-kdo by tě opravdu miloval.
+Kéž by byl někdo, kdo by tě opravdu miloval.
 
 01:15:53,560 --> 01:15:55,000
 What?
@@ -5583,8 +5575,7 @@ You said you did.
 
 01:16:01,440 --> 01:16:04,199
 As thirteenth in line in my own kingdom,
-Jako třináctý následník v pořadí...
-...jsem neměl...
+Jako třináctý následník v pořadí jsem neměl...
 
 01:16:04,200 --> 01:16:05,479
 I didn't stand a chance.
@@ -5592,8 +5583,7 @@ I didn't stand a chance.
 
 01:16:05,480 --> 01:16:09,239
 I knew I would have to marry into the throne somewhere.
-Věděl jsem,
-že se musím někde k trůnu přiženit.
+Věděl jsem, že se musím někde k trůnu přiženit.
 
 01:16:09,240 --> 01:16:10,805
 What... What are you talking about?
@@ -5601,8 +5591,7 @@ O čem to mluvíš?
 
 01:16:11,280 --> 01:16:13,767
 As heir, Elsa was preferable, of course.
-Samozřejmě že by mi
-spíš vyhovovala Elsa,
+Samozřejmě že by mi spíš vyhovovala Elsa,
 
 01:16:14,000 --> 01:16:15,839
 But no one was getting anywhere with her.
@@ -5610,15 +5599,14 @@ jenže na ní si každý vylámal zuby.
 
 01:16:15,840 --> 01:16:16,919
 But you...
+Ale ty...
 
 01:16:16,920 --> 01:16:18,439
 You were so desperate for love,
-- Ale ty...
-- Hansi!
+...jsi tolik toužila po lásce,
 
 01:16:18,440 --> 01:16:21,371
 you were willing to marry me just like that.
-...jsi tolik toužila po lásce,
 že sis mě vzala hned, jenom tak.
 
 01:16:22,800 --> 01:16:24,639
@@ -5639,8 +5627,7 @@ Ale pak se odepsala sama
 
 01:16:31,160 --> 01:16:33,119
 and you were dumb enough to go after her.
-a tys byla tak hloupá,
-že jsi za ní běžela.
+a tys byla tak hloupá, že jsi za ní běžela.
 
 01:16:33,120 --> 01:16:34,239
 Please.
@@ -5668,8 +5655,7 @@ Víš, co teď jsem?
 
 01:16:46,240 --> 01:16:50,729
 am the hero who is going to save Arendelle from destruction.
-Jsem hrdina,
-který zachrání Arendelle před zničením.
+Jsem hrdina, který zachrání Arendelle před zničením.
 
 01:16:51,400 --> 01:16:53,011
 You won't get away with this.
@@ -5696,8 +5682,7 @@ S každou minutou je chladněji.
 
 01:17:15,000 --> 01:17:18,719
 If we don't do something soon, we'll all freeze to death.
-Jestli něco neuděláme,
-všichni tu umrzneme.
+Jestli něco neuděláme, všichni tu umrzneme.
 
 01:17:18,720 --> 01:17:20,331
 Prince Hans.
@@ -5709,14 +5694,14 @@ Princezna Anna...
 
 01:17:23,120 --> 01:17:24,239
 Dead.
+...je mrtvá.
 
 01:17:24,240 --> 01:17:25,319
 What?
-...je mrtvá.
+Cože?
 
 01:17:25,320 --> 01:17:27,010
 What happened to her?
-Cože?
 Co se jí přihodilo?
 
 01:17:31,680 --> 01:17:33,450
@@ -5750,10 +5735,10 @@ Už není pochyb o tom,
 01:17:48,960 --> 01:17:50,399
 Queen Elsa is a monster,
 že královna Elsa je monstrum
-a že jsme ve smrtelném nebezpečí.
 
 01:17:50,400 --> 01:17:52,523
 and we are all in grave danger.
+a že jsme ve smrtelném nebezpečí.
 
 01:17:52,560 --> 01:17:53,921
 Prince Hans,
@@ -5769,8 +5754,7 @@ S těžkým srdcem...
 
 01:17:59,720 --> 01:18:03,891
 I charge Queen Elsa of Arendelle with treason.
-...obviňuji královnu
-Elsu Arendellskou z velezrady.
+...obviňuji královnu Elsu Arendellskou z velezrady.
 
 01:18:04,720 --> 01:18:06,968
 And sentence her to death.
@@ -5782,29 +5766,29 @@ Pospěšte!
 
 01:18:20,560 --> 01:18:21,639
 She's dangerous.
+Je nebezpečná.
 
 01:18:21,640 --> 01:18:23,001
 Move quickly. Careful!
-- Je nebezpečná. Jednejte rychle.
-- Pozor.
+Jednejte rychle. Pozor.
 
 01:18:24,560 --> 01:18:26,250
 It won't open! It's frozen shut.
-- Nejdou otevřít!
-- Jsou přimrzlé.
+Nejdou otevřít!
 
 01:18:26,280 --> 01:18:27,686
 Put your back into it!
+Jsou přimrzlé.
 
 01:18:27,720 --> 01:18:29,279
 Come on! Push!
 
 01:18:55,480 --> 01:18:56,559
 What is it, buddy?
+Copak je, Svene?
 
 01:18:56,560 --> 01:18:58,205
 Hey, watch it.
-Copak je, Svene?
 Pozor!
 
 01:18:58,560 --> 01:18:59,761
@@ -5821,10 +5805,11 @@ Přestaň! Hned mě pusť!
 
 01:19:10,320 --> 01:19:11,639
 No, Sven!
-Ne, Svene! Tam se nevrátíme.
+Ne, Svene!
 
 01:19:11,640 --> 01:19:13,239
 We're not going back.
+Tam se nevrátíme.
 
 01:19:13,240 --> 01:19:14,930
 She's with her true love.
@@ -5891,16 +5876,14 @@ Vždyť jsme za ním běželi.
 
 01:20:43,760 --> 01:20:47,239
 Please, Olaf, you can't stay here. You'll melt.
-Prosím, Olafe,
-tady nemůžeš zůstat. Roztaješ.
+Prosím, Olafe, tady nemůžeš zůstat. Roztaješ.
 
 01:20:47,240 --> 01:20:48,359
 I am not leaving here until
-Neodejdu,
+Neodejdu, dokud nepřijdeme
 
 01:20:48,360 --> 01:20:51,131
 we find some other act of true love to save you.
-dokud nepřijdeme
 na jiný projev pravé lásky.
 
 01:20:51,360 --> 01:20:53,369
@@ -5921,13 +5904,11 @@ Láska je,
 
 01:21:00,080 --> 01:21:02,647
 putting someone else's needs before yours.
-když myslíš na druhého
-víc než na sebe.
+když myslíš na druhého víc než na sebe.
 
 01:21:03,120 --> 01:21:07,211
 Like, you know, how Kristoff brought you back here to Hans and left you forever.
-Jako když tě Kristoff dovezl sem
-za Hansem a pak tě navždy opustil.
+Jako když tě Kristoff dovezl sem za Hansem a pak tě navždy opustil.
 
 01:21:09,280 --> 01:21:12,529
 Kristoff loves me?
@@ -5935,8 +5916,7 @@ Kristoff mě miluje?
 
 01:21:13,880 --> 01:21:17,607
 Wow, you really don't know anything about love, do you?
-Páni. Ty vážně nevíš
-o lásce vůbec nic, že ne?
+Páni. Ty vážně nevíš o lásce vůbec nic, že ne?
 
 01:21:18,120 --> 01:21:19,924
 Olaf, you're melting.
@@ -5984,8 +5964,7 @@ Asi jsem se mýlil.
 
 01:21:50,640 --> 01:21:53,207
 I guess Kristoff doesn't love you enough to leave you behind.
-Kristoff tě asi nemiluje tak,
-aby tě opustil.
+Kristoff tě asi nemiluje tak, aby tě opustil.
 
 01:21:53,840 --> 01:21:55,839
 Help me up, Olaf. Please.
@@ -6013,8 +5992,7 @@ To je ten projev pravé lásky.
 
 01:22:07,160 --> 01:22:11,159
 Riding across the fjords like a valiant, pungent reindeer king!
-Jede za tebou
-na smradlavém sobovi jako rytíř.
+Jede za tebou na smradlavém sobovi jako rytíř.
 
 01:22:11,160 --> 01:22:12,646
 Come on!
@@ -6128,8 +6106,7 @@ Ne.
 
 01:25:20,400 --> 01:25:22,648
 I tried to save her, but it was too late.
-Snažil jsem se ji
-zachránit, ale bylo pozdě.
+Snažil jsem se ji zachránit, ale bylo pozdě.
 
 01:25:23,840 --> 01:25:26,441
 Her skin was ice. Her hair turned white.
@@ -6157,7 +6134,6 @@ Anno!
 
 01:26:11,840 --> 01:26:13,405
 Elsa?
-Elsa?
 
 01:26:21,560 --> 01:26:22,807
 No!
@@ -6169,10 +6145,11 @@ Anno!
 
 01:26:37,000 --> 01:26:38,850
 Oh. Anna!
-Anno... Ne.
+Anno...
 
 01:26:39,520 --> 01:26:41,802
 No, no!
+Ne.
 
 01:26:41,880 --> 01:26:43,445
 Please, no.
@@ -6200,8 +6177,7 @@ Mám tě ráda.
 
 01:27:45,520 --> 01:27:50,442
 "An act of true love will thaw a frozen heart."
-Projev pravé lásky,
-co rozehřál ledové srdce.
+Projev pravé lásky, co rozehřál ledové srdce.
 
 01:27:51,840 --> 01:27:53,690
 "Love will thaw."
@@ -6225,8 +6201,7 @@ Já věděla, že to dokážeš.
 
 01:28:48,920 --> 01:28:52,442
 Hands down, this is the best day of my life.
-Přiznávám, že tohle je
-nejlepší den mého života.
+Přiznávám, že tohle je nejlepší den mého života.
 
 01:28:52,800 --> 01:28:54,759
 And, quite possibly, the last.
@@ -6272,8 +6247,7 @@ Odvezu toho lotra do jeho domoviny.
 
 01:29:46,840 --> 01:29:50,761
 We shall see what his twelve big brothers think of his behavior.
-Uvidíme, co si o jeho chování
-pomyslí jeho dvanáct bratrů.
+Uvidíme, co si o jeho chování pomyslí jeho dvanáct bratrů.
 
 01:29:50,880 --> 01:29:52,479
 Arendelle thanks you, milord.
@@ -6297,11 +6271,11 @@ Potřebuji doktora, jste snad slepí?
 
 01:30:03,040 --> 01:30:05,439
 And I demand to see the queen!
-- Žádám slyšení u královny!
-- Mám pro vás od královny vzkaz.
+Žádám slyšení u královny!
 
 01:30:05,440 --> 01:30:07,642
 Oh. I have a message from the queen.
+Mám pro vás od královny vzkaz.
 
 01:30:08,080 --> 01:30:09,919
 "Arendelle will henceforth and forever
@@ -6309,8 +6283,7 @@ Arendelle tímto navždy ukončuje...
 
 01:30:09,920 --> 01:30:14,045
 "no longer do business of any sort with Weaseltown."
-...veškeré obchodní styky
-s vévodou z Kradákova.
+...veškeré obchodní styky s vévodou z Kradákova.
 
 01:30:14,080 --> 01:30:15,239
 "Weselton."
@@ -6330,8 +6303,7 @@ Dobře. Už běžím.
 
 01:30:20,400 --> 01:30:22,489
 Pole! - Whoops! Sorry.
-- Lampa.
-- Hopla. Pardon.
+Lampa. - Hopla. Pardon.
 
 01:30:22,680 --> 01:30:24,211
 Okay, Okay.
@@ -6347,8 +6319,7 @@ Tvé nové sáně.
 
 01:30:33,320 --> 01:30:35,204
 Are you serious? - Yes!
-- To myslíš vážně?
-- Jo!
+To myslíš vážně? - Jo!
 
 01:30:35,360 --> 01:30:36,999
 And it's the latest model.
@@ -6360,23 +6331,19 @@ To nemůžu přijmout.
 
 01:30:38,600 --> 01:30:41,565
 You have to. No returns. No exchanges. Queen's orders.
-Musíš. Koukej mlčet.
-Ani slovo. Rozkaz královny.
+Musíš. Koukej mlčet. Ani slovo. Rozkaz královny.
 
 01:30:41,680 --> 01:30:45,521
 She's named you the Official Arendelle Ice Master and Deliverer.
-Oficiálně tě jmenovala
-arendellským královským ledařem.
+Oficiálně tě jmenovala arendellským královským ledařem.
 
 01:30:45,640 --> 01:30:47,519
 What? That's not a thing. - Oh, sure it is.
-- Cože? Nic takového není.
-- Jasně že je.
+Cože? Nic takového není. - Jasně že je.
 
 01:30:47,520 --> 01:30:51,039
 And it even has a cup holder. Do you like it?
-Je tam i držáček na kelímky.
-Líbí se ti?
+Je tam i držáček na kelímky. Líbí se ti?
 
 01:30:51,040 --> 01:30:53,359
 Like it? I love it!
@@ -6440,8 +6407,7 @@ Už nikdy je nezavřeme.
 
 01:32:04,640 --> 01:32:07,127
 Oh, Elsa, they're beautiful, but you know I don't skate.
-Elso, jsou krásné,
-ale víš, že neumím bruslit.
+Elso, jsou krásné, ale víš, že neumím bruslit.
 
 01:32:07,200 --> 01:32:08,731
 Come on! You can do it!
@@ -6453,8 +6419,7 @@ Pozor! Místo pro soba.
 
 01:32:11,360 --> 01:32:13,119
 I got it, I got it. I don't got it, I don't got it.
-Jde mi to, jde mi to.
-Nejde mi to, nejde mi to!
+Jde mi to, jde mi to. Nejde mi to, nejde mi to!
 
 01:32:13,120 --> 01:32:14,199
 Hey, guys!
@@ -6467,5 +6432,3 @@ Bezva, Olafe.
 01:32:15,520 --> 01:32:18,839
 Glide and pivot. And glide and pivot.
 Skluz a odraz. Skluz a odraz.
-TITULKY VYROBIL
-FILMPRINT DIGITAL
