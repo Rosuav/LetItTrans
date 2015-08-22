@@ -19,7 +19,7 @@ mapping(string(0..255):array(string)) languages=([
 	"spanish": ({"Castilian Spanish", "Catalan", "Latin American Spanish"}),
 	"cyrillic": ({"Bulgarian", "Russian", "Serbian", "Ukrainian"}),
 	"slavic": ({"Bulgarian", "Russian", "Serbian", "Ukrainian", "Croatian", "Czech", "Slovakian", "Slovenian", "Polish"}),
-	"nonlatin": ({"Bulgarian", "Russian", "Serbian", "Ukrainian", "Greek", "Hebrew", "Arabic", "Korean", "Cantonese", "Japanese", "Taiwanese Mandarin", "Thai"}),
+	"nonlatin": ({"Bulgarian", "Russian", "Serbian", "Ukrainian", "Greek", "Hebrew", "Arabic", "Korean", "Japanese", "Cantonese", "Chinese Mandarin", "Taiwanese Mandarin", "Thai"}),
 	"scandinavian": ({"Danish","Finnish","Icelandic","Norwegian","Swedish"}),
 ]);
 
