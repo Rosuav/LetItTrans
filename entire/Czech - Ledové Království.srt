@@ -2220,8 +2220,7 @@ Elso, to jsem já, Anna.
 
 00:34:57,680 --> 00:35:00,850
 your sister who didn't mean to make you freeze the summer.
-Tvá sestra, která nechtěla,
-abys kvůli ní zmrazila léto.
+Tvá sestra, která nechtěla, abys kvůli ní zmrazila léto.
 
 00:35:00,920 --> 00:35:04,169
 I'm sorry. It's all my fault.
@@ -2230,10 +2229,10 @@ Omlouvám se, je to moje chyba.
 00:35:06,480 --> 00:35:08,079
 Of course, none of it would have happened
 Nic z toho by se nestalo,
-kdyby mi řekla o svém tajemství.
 
 00:35:08,080 --> 00:35:10,044
 if she had just told me her secret.
+kdyby mi řekla o svém tajemství.
 
 00:35:10,680 --> 00:35:12,211
 She's a stinker.
@@ -2264,8 +2263,7 @@ She couldn't have had tropical magic
 
 00:35:34,440 --> 00:35:38,008
 that covered the fjords in white sand and warm...
-Fjordy by zasypal bílý písek
-a hřál by nás teplý...
+Fjordy by zasypal bílý písek a hřál by nás teplý...
 
 00:35:39,640 --> 00:35:41,279
 Fire!
@@ -2277,12 +2275,11 @@ Studí, studí, studí.
 
 00:36:05,250 --> 00:36:08,500
 "Wandering Oaken's Trading Post".
-Obchodní stanice Potulného Oakena.
+"Obchodní stanice Potulného Oakena."
 
 00:36:08,920 --> 00:36:10,724
 Ooh. "And sauna"!
-A SAUNA
-A sauna.
+"A sauna."
 
 00:36:16,080 --> 00:36:17,611
 Hoo-hoo.
@@ -2294,10 +2291,10 @@ Mám letní výprodej.
 00:36:20,280 --> 00:36:22,599
 Half off swimming suits, clogs,
 Dám slevu na plavky, dřeváky
-a opalovací krém vlastní výroby, ja?
 
 00:36:22,600 --> 00:36:25,406
 and a sun balm of my own invention, yah?
+a opalovací krém vlastní výroby, ja?
 
 00:36:26,320 --> 00:36:30,002
 Oh. Great. For now, um, how about boots?
@@ -2321,10 +2318,10 @@ I was just wondering.
 00:36:40,800 --> 00:36:43,048
 Has another young woman...
 Neprošla tudy ještě jiná
-mladá žena, třeba královna...
 
 00:36:43,080 --> 00:36:45,719
 The queen perhaps, I don't know,
+mladá žena, třeba královna...
 
 00:36:45,720 --> 00:36:46,959
 passed through here?
@@ -2332,11 +2329,11 @@ nebo tak něco?
 
 00:36:46,960 --> 00:36:48,439
 Only one crazy enough to be out in this storm
-Jediný šílenec,
-který se toulá v bouři, jste vy.
+Jediný šílenec, který se toulá v bouři,
 
 00:36:48,440 --> 00:36:50,449
 is you, dear.
+jste vy.
 
 00:36:57,080 --> 00:36:58,479
 You and this fellow.
@@ -2426,8 +2423,7 @@ Still forty.
 
 00:37:42,000 --> 00:37:44,248
 But I will throw in a visit to Oaken's sauna.
-Ale přidám vám vstup
-do Oakenovy sauny.
+Ale přidám vám vstup do Oakenovy sauny.
 
 00:37:44,480 --> 00:37:46,409
 Hoo-hoo. Hi, family.
@@ -2498,10 +2494,10 @@ Za to násilí se omlouvám.
 00:38:29,560 --> 00:38:31,250
 I will add a quart of lutefisk,
 Přidám vám pár slanečků
-jako odškodnění.
 
 00:38:31,560 --> 00:38:33,091
 so we have good feelings.
+jako odškodnění.
 
 00:38:33,240 --> 00:38:34,930
 Just the outfit and the boots, yah?
@@ -2520,13 +2516,11 @@ Sven, don't you think that's true?
 
 00:38:53,040 --> 00:38:56,239
 "Yeah, people will beat you and curse you and cheat you"
-Jo, lidi tě bijou a
-proklínaj', šidí.
+Jo, lidi tě bijou a proklínaj', šidí.
 
 00:38:56,240 --> 00:38:58,841
 "Every one of them's bad, except you!"
-Tebe nemyslím,
-dyť tě znám!
+Tebe nemyslím, dyť tě znám!
 
 00:38:58,920 --> 00:39:00,804
 Aw. Thanks, buddy.
@@ -2542,13 +2536,11 @@ V tom, Svene, mám pravdu já!
 
 00:39:08,440 --> 00:39:12,167
 "That's once again true, for all except you!"
-Jo, jenomže ty
-v tom výjimkou jsi!
+Jo, jenomže ty v tom výjimkou jsi!
 
 00:39:12,440 --> 00:39:15,479
 You got me! Let's call it a night.
-No teda!
-Tak snad dobrou noc!
+No teda! Tak snad dobrou noc!
 
 00:39:15,480 --> 00:39:17,409
 "Good night"
@@ -2556,10 +2548,11 @@ Tak snad dobrou noc!
 
 00:39:17,920 --> 00:39:22,125
 Don't let the frostbite
-Pojď, když k nám sen spad', spát.
+Pojď, když k nám sen spad',
 
 00:39:22,160 --> 00:39:24,601
 Bite
+spát.
 
 00:39:25,280 --> 00:39:26,845
 Nice duet.
@@ -2669,23 +2662,19 @@ protože jsem ho ten den zrovna potkala.
 
 00:40:45,120 --> 00:40:46,879
 And she said she wouldn't bless the marriage, and...
-Tak řekla,
-že našemu sňatku nepožehná.
+Tak řekla, že našemu sňatku nepožehná.
 
 00:40:46,880 --> 00:40:50,439
 Wait. You got engaged to someone you just met that day?
-Počkat. Ty ses zasnoubila
-s někým, koho jsi znala sotva den?
+Počkat. Ty ses zasnoubila s někým, koho jsi znala sotva den?
 
 00:40:50,440 --> 00:40:53,759
 Yeah. Anyway, I got mad, and so she got mad,
-Jo. A pak jsem se naštvala
-a ona se taky naštvala,
+Jo. A pak jsem se naštvala a ona se taky naštvala,
 
 00:40:53,760 --> 00:40:55,879
 and then she tried to walk away, and I grabbed her glove...
-chtěla odejít
-a já jí stáhla rukavici...
+chtěla odejít a já jí stáhla rukavici...
 
 00:40:55,880 --> 00:40:57,039
 Hang on!
@@ -2694,10 +2683,10 @@ Počkej.
 00:40:57,040 --> 00:40:58,999
 You mean to tell me you got engaged
 Chceš mi říct, že ses zasnoubila
-s někým, koho jsi znala jen jeden den?
 
 00:40:59,000 --> 00:41:01,679
 to someone you just met that day?
+s někým, koho jsi znala jen jeden den?
 
 00:41:01,680 --> 00:41:03,120
 Yes. Pay attention.
@@ -2709,8 +2698,7 @@ Ona ty rukavice nosila už od malička,
 
 00:41:06,200 --> 00:41:08,639
 so I just thought, maybe she has a thing about dirt.
-tak jsem si říkala,
-že se třeba bojí špíny.
+tak jsem si říkala, že se třeba bojí špíny.
 
 00:41:08,640 --> 00:41:11,684
 Didn't your parents ever warn you about strangers?
@@ -2734,28 +2722,23 @@ Je z Jižních ostrovů.
 
 00:41:21,560 --> 00:41:22,999
 What's his favorite food? - Sandwiches.
-- Jeho oblíbené jídlo?
-- Sendviče.
+Jeho oblíbené jídlo? - Sendviče.
 
 00:41:23,000 --> 00:41:24,399
 Best friend's name? - Probably John.
-- Nejlepší přítel?
-- Pravděpodobně Franz.
+Nejlepší přítel? - Pravděpodobně Franz.
 
 00:41:24,400 --> 00:41:25,519
 Eye color? - Dreamy.
-- Barva očí?
-- Vysněná.
+Barva očí? - Vysněná.
 
 00:41:25,520 --> 00:41:27,079
 Foot size? - Foot size doesn't matter.
-- Velikost nohy?
-- Na velikosti nohy nezáleží.
+Velikost nohy? - Na velikosti nohy nezáleží.
 
 00:41:27,080 --> 00:41:29,919
 Have you had a meal with him yet? What if you hate the way he eats?
-Už jste spolu jedli?
-Co když bude mlaskat?
+Už jste spolu jedli? Co když bude mlaskat?
 
 00:41:29,920 --> 00:41:31,531
 What if you hate the way he picks his nose?
@@ -2795,21 +2778,19 @@ Ne. Ale mám přátele, co jsou.
 
 00:41:49,920 --> 00:41:51,239
 You have friends
-Ty máš přátele, co jsou
-experti na lásku? Tak to ti nebaštím.
+Ty máš přátele,
 
 00:41:51,240 --> 00:41:53,639
 who are love experts? I'm not buying it.
+co jsou experti na lásku? Tak to ti nebaštím.
 
 00:41:53,640 --> 00:41:55,319
 Stop talking. - No, no, no. No, no.
-- Buď zticha.
-- Ne, ne, ne.
+Buď zticha. - Ne, ne, ne.
 
 00:41:55,320 --> 00:41:57,090
 I'd like to meet these... - No, I mean it.
-- Moc ráda bych je potkala...
-- Myslím to vážně.
+Moc ráda bych je potkala... - Myslím to vážně.
 
 00:42:11,960 --> 00:42:13,159
 Sven, go.
@@ -2820,8 +2801,7 @@ Go!
 
 00:42:14,960 --> 00:42:16,479
 What are they? - Wolves.
-- Co je tam?
-- Vlci.
+Co je tam? - Vlci.
 
 00:42:16,480 --> 00:42:17,727
 Wolves?
@@ -2829,8 +2809,7 @@ Vlci?
 
 00:42:20,000 --> 00:42:21,479
 What do we do? - I got this.
-- Co uděláme?
-- Ujedu jim.
+Co uděláme? - Ujedu jim.
 
 00:42:21,480 --> 00:42:23,759
 You just... Don't fall off, and don't get eaten.
@@ -2838,16 +2817,15 @@ Ty nespadni a nenech se sežrat.
 
 00:42:23,760 --> 00:42:24,799
 But I want to help!
+Chci ti pomáhat.
 
 00:42:24,800 --> 00:42:25,919
 No. - Why not?
-- Chci ti pomáhat.
-- Ne!
+Ne! - Proč ne?
 
 00:42:25,920 --> 00:42:26,999
 Because I don't trust your judgment.
-- Proč ne?
-- Protože ti nevěřím.
+Protože ti nevěřím.
 
 00:42:27,000 --> 00:42:28,279
 Excuse me?
@@ -2900,8 +2878,7 @@ Ty mu nemáš co rozkazovat.
 
 00:42:59,280 --> 00:43:00,845
 I do!
-- Hele!
-- Jen já!
+Jen já!
 
 00:43:01,760 --> 00:43:02,879
 Jump, Sven!
@@ -2939,13 +2916,11 @@ Whoa.
 
 00:43:39,200 --> 00:43:42,688
 I'll replace your sled, and everything in it.
-Koupím ti nové sáně
-a vše, co v nich bylo.
+Koupím ti nové sáně a vše, co v nich bylo.
 
 00:43:44,440 --> 00:43:48,281
 And I understand if you don't want to help me anymore.
-A pochopím, když už mi
-nebudeš chtít dál pomáhat.
+A pochopím, když už mi nebudeš chtít dál pomáhat.
 
 00:43:53,720 --> 00:43:56,446
 Of course I don't want to help her anymore. In fact,
@@ -2953,8 +2928,7 @@ Ovšemže už jí nechci pomáhat.
 
 00:43:56,720 --> 00:44:00,039
 this whole thing has ruined me for helping anyone ever again.
-A hlavně po téhle zkušenosti
-už nepomůžu nikdy nikomu.
+A hlavně po téhle zkušenosti už nepomůžu nikdy nikomu.
 
 00:44:00,040 --> 00:44:01,079
 It's this way?
@@ -2966,11 +2940,10 @@ Ale ona sama umře.
 
 00:44:03,200 --> 00:44:05,084
 I can live with that. - Here we go.
-S tím dokážu žít.
+S tím dokážu žít. - Tudy.
 
 00:44:05,120 --> 00:44:08,319
 "But you won't get your new sled if she's dead."
-Tudy.
 Když umře, tak nedostaneš nové sáně.
 
 00:44:08,320 --> 00:44:09,931
@@ -2995,7 +2968,6 @@ Jasně. Klidně se ke mně přidejte.
 
 00:44:29,640 --> 00:44:31,205
 Arendelle.
-Arendelle.
 
 00:44:31,680 --> 00:44:33,928
 It's completely frozen.
@@ -3012,10 +2984,10 @@ Vážně?
 00:44:39,440 --> 00:44:41,119
 Yeah. Now, come on.
 Jo. Tak jdeme.
-Na Severní horu je to tudy?
 
 00:44:41,120 --> 00:44:42,959
 This way to the North Mountain?
+Na Severní horu je to tudy?
 
 00:44:44,240 --> 00:44:45,599
 More like this way.
@@ -3023,8 +2995,7 @@ Já bych řekl spíš tudy.
 
 00:45:18,560 --> 00:45:22,162
 I never knew winter could be so beautiful.
-Netušila jsem,
-že zima může být tak překrásná.
+Netušila jsem, že zima může být tak překrásná.
 
 00:45:23,120 --> 00:45:24,559
 Yeah.
@@ -3044,8 +3015,7 @@ Chtělo by to trochu barvy.
 
 00:45:30,640 --> 00:45:33,999
 I'm thinking maybe some crimson, chartreuse.
-Napadá mě třeba
-karmínová nebo zelenkavá.
+Napadá mě třeba karmínová nebo zelenkavá.
 
 00:45:34,000 --> 00:45:35,645
 How about yellow?
@@ -3065,17 +3035,15 @@ Nemám recht?
 
 00:45:45,080 --> 00:45:46,239
 You're creepy.
-- Čau.
-- Fujtajbl.
+Fujtajbl.
 
 00:45:46,240 --> 00:45:47,639
 I don't want it.
+Já to nechci.
 
 00:45:47,640 --> 00:45:49,079
 Back at you. - Please don't drop me.
-Já to nechci.
-- Nech si to.
-- Neupusťte mě.
+Nech si to. - Neupusťte mě.
 
 00:45:49,080 --> 00:45:50,359
 Come on, it's just a head.
@@ -3109,8 +3077,7 @@ Oh!
 
 00:46:05,760 --> 00:46:07,325
 Thank you. - You're welcome.
-- Děkuju.
-- Nemáš za co.
+Děkuju. - Nemáš za co.
 
 00:46:07,360 --> 00:46:08,399
 Now, I'm perfect.
@@ -3130,8 +3097,7 @@ To bylo moc. Promiň.
 
 00:46:15,760 --> 00:46:17,359
 Head rush! - I was just... Are you okay?
-- To byla šlupka.
-- Jsi v pořádku?
+To byla šlupka. - Jsi v pořádku?
 
 00:46:17,360 --> 00:46:20,879
 Are you kidding me? I am wonderful!
@@ -3143,10 +3109,11 @@ Vždycky jsem toužil po nosu.
 
 00:46:23,040 --> 00:46:24,119
 So cute.
-Je tak mrňavý. Jako růžek jednorožce.
+Je tak mrňavý.
 
 00:46:24,120 --> 00:46:25,879
 It's like a little baby unicorn.
+Jako růžek jednorožce.
 
 00:46:25,880 --> 00:46:26,999
 But... Hey! Whoa!
@@ -3161,10 +3128,10 @@ Takhle se mi líbí ještě víc.
 00:46:30,200 --> 00:46:33,085
 All right, let's start this thing over.
 Dobrá, začneme hezky znovu.
-Ahoj vespolek.
 
 00:46:33,200 --> 00:46:34,239
 Hi, everyone.
+Ahoj vespolek.
 
 00:46:34,240 --> 00:46:35,319
 I'm Olaf.
@@ -3175,7 +3142,6 @@ And I like warm hugs.
 Mám rád vřelá objetí.
 
 00:46:38,080 --> 00:46:39,281
-Olaf?
 Olaf?
 
 00:46:42,480 --> 00:46:44,409
@@ -3195,8 +3161,7 @@ Já jsem Anna.
 
 00:46:50,240 --> 00:46:52,679
 And who's the funky-looking donkey over there?
-Kdo je ten srandovní osel,
-co s tebou jde?
+Kdo je ten srandovní osel, co s tebou jde?
 
 00:46:52,680 --> 00:46:54,239
 That's Sven.
@@ -3211,7 +3176,6 @@ Sven.
 
 00:46:57,240 --> 00:47:00,079
 Oh, they're... Oh. Okay. That makes things easier for me.
-Sven.
 Bezva. Líp si je zapamatuju.
 
 00:47:00,080 --> 00:47:02,760
@@ -3220,26 +3184,22 @@ Chce mi dát pusu na nos.
 
 00:47:02,840 --> 00:47:04,883
 I like you, too.
-- Taky se mi líbíš.
-- Olafe.
+Taky se mi líbíš.
 
 00:47:05,240 --> 00:47:07,522
 Olaf. Did Elsa build you? - Yeah. Why?
-- Tebe postavila Elsa?
-- Jo. Proč?
+Olafe. Tebe postavila Elsa? - Jo. Proč?
 
 00:47:07,640 --> 00:47:08,759
 Do you know where she is? - Yeah. Why?
-- A víš, kde je?
-- Jo. Proč?
+A víš, kde je? - Jo. Proč?
 
 00:47:08,760 --> 00:47:09,919
 Fascinating.
 
 00:47:09,920 --> 00:47:12,681
 Do you think you could show us the way? - Yeah. Why?
-- Mohl bys nás k ní zavést?
-- Jo. Proč?
+Mohl bys nás k ní zavést? - Jo. Proč?
 
 00:47:12,760 --> 00:47:14,119
 How does this work? Ow!
@@ -3251,8 +3211,7 @@ Přestaň, Svene. Snažíme se soustředit.
 
 00:47:16,360 --> 00:47:18,562
 Yeah. Why? - I'll tell you why.
-Jo. Proč?
-Řeknu ti proč.
+Jo. Proč? - Řeknu ti proč.
 
 00:47:18,920 --> 00:47:20,645
 We need Elsa to bring back summer.
@@ -3268,8 +3227,7 @@ Ani nevím proč,
 
 00:47:23,840 --> 00:47:27,599
 but I've always loved the idea of summer
-ale léto mě vždycky
-nesmírně přitahovalo.
+ale léto mě vždycky nesmírně přitahovalo.
 
 00:47:27,600 --> 00:47:31,199
 and sun, and all things hot.
@@ -3281,8 +3239,7 @@ Vážně?
 
 00:47:32,280 --> 00:47:34,839
 I'm guessing you don't have much experience with heat.
-Koukám, že s horkem
-moc zkušeností nemáš.
+Koukám, že s horkem moc zkušeností nemáš.
 
 00:47:34,840 --> 00:47:36,121
 Nope.
@@ -3294,8 +3251,7 @@ Ale někdy zavřu oči
 
 00:47:38,760 --> 00:47:42,806
 and imagine what it would be like when summer does come.
-a představuju si, jaké by to
-bylo, kdyby k nám přišlo léto.
+a představuju si, jaké by to bylo, kdyby k nám přišlo léto.
 
 00:47:45,680 --> 00:47:50,119
 Bees will buzz, kids will blow dandelion fuzz
@@ -3303,8 +3259,7 @@ Chmýříčko na nebe láká sluníčko,
 
 00:47:50,120 --> 00:47:55,087
 And I'll be doing whatever snow does in summer
-a já zas udělám to,
-co sníh dělá v létě!
+a já zas udělám to, co sníh dělá v létě!
 
 00:47:56,480 --> 00:47:58,839
 A drink in my hand
@@ -3316,11 +3271,11 @@ hned šlofíka v horkém písku dám,
 
 00:48:01,240 --> 00:48:03,519
 Probably getting gorgeously tanned
-než se zvednu,
-s naháči zhnědnu v létě!
+než se zvednu, s naháči zhnědnu
 
 00:48:03,520 --> 00:48:05,290
 In summer.
+v létě!
 
 00:48:05,640 --> 00:48:07,879
 I'll finally see a summer breeze
@@ -3332,27 +3287,27 @@ se v tom parnu poděje,
 
 00:48:10,000 --> 00:48:12,279
 And find out what happens to solid water
-a zjistím, jak ledu tu
-úsměv tuhne, když v teple je!
+a zjistím, jak ledu tu úsměv tuhne,
 
 00:48:12,280 --> 00:48:15,211
 When it gets warm
+když v teple je!
 
 00:48:16,920 --> 00:48:18,999
 And I can't wait to see
 Těším se, už teď vím,
-jak své přátele překvapím,
 
 00:48:19,000 --> 00:48:21,043
 What my buddies all think of me
+jak své přátele překvapím,
 
 00:48:21,320 --> 00:48:23,799
 Just imagine how much cooler I'll be
-všechna srdce pro mne
-roztají hned v tom létě!
+všechna srdce pro mne roztají hned
 
 00:48:23,800 --> 00:48:26,207
 In summer!
+v tom létě!
 
 00:48:30,600 --> 00:48:32,679
 The hot and the cold are both so intense
@@ -3364,16 +3319,15 @@ kdyby šly spojit, všem vytřu zrak!
 
 00:48:39,440 --> 00:48:41,679
 Winter's a good time to stay in and cuddle
-V zimě chci doma být,
-hezky to klouže,
+V zimě chci doma být, hezky to klouže,
 
 00:48:41,680 --> 00:48:43,223
 But put me in summer and I'll be a...
-však jen vlítnu do léta,
-je ze mě...
+však jen vlítnu do léta, je ze mě...
 
 00:48:43,520 --> 00:48:44,520
 <i>(puddle?)</i>
+(louže?)
 
 00:48:44,840 --> 00:48:46,599
 Happy snowman!
@@ -3389,34 +3343,31 @@ denně tajně sním,
 
 00:48:50,440 --> 00:48:55,407
 Of relaxing in the summer sun, just letting off steam
-jak mi léto zvedne náladu
-a páru upustím!
+jak mi léto zvedne náladu a páru upustím!
 
 00:48:57,000 --> 00:49:00,285
 Oh, the sky will be blue
-Nebe znám...
-...z modrých snů,
+Nebe znám z modrých snů,
 
 00:49:00,680 --> 00:49:03,724
 And you guys will be there, too
 tak přijeďte, budu tu.
-Budu dělat jen to,
 
 00:49:04,360 --> 00:49:05,679
 When I finally do
+Budu dělat jen to,
 
 00:49:05,680 --> 00:49:09,168
 What frozen things do in summer!
-co dělává sníh
-vždy v létě!
+co dělává sníh vždy v létě!
 
 00:49:09,920 --> 00:49:10,884
 I'm gonna tell him.
-- Já mu to řeknu.
-- Opovaž se.
+Já mu to řeknu.
 
 00:49:10,885 --> 00:49:11,884
 Don't you dare.
+Opovaž se.
 
 00:49:13,040 --> 00:49:16,687
 In summer!
@@ -3452,8 +3403,7 @@ Dolů to líp vyschne.
 
 00:49:42,240 --> 00:49:43,279
 Bark down! - Papa!
-- Nahoru!
-- Dolů!
+Nahoru! - Dolů!
 
 00:49:43,280 --> 00:49:44,999
 Cloak? Does anyone need a cloak?
@@ -3461,8 +3411,7 @@ Pláště! Potřebuje někdo plášť?
 
 00:49:45,000 --> 00:49:48,199
 Arendelle is indebted to you, Your Highness.
-Arendelle je vám zavázán,
-Vaše Veličenstvo.
+Arendelle je vám zavázán, Vaše Veličenstvo.
 
 00:49:48,200 --> 00:49:49,559
 The castle is open.
@@ -3470,8 +3419,7 @@ Brány jsou otevřeny.
 
 00:49:49,560 --> 00:49:52,730
 There is soup and hot gløgg in the Great Hall.
-Je tam polévka
-a v hlavní síni teplý glogg.
+Je tam polévka a v hlavní síni teplý glogg.
 
 00:49:52,800 --> 00:49:53,919
 Here, pass these out.
@@ -3487,8 +3435,7 @@ To tu máme sedět a mrznout,
 
 00:49:58,000 --> 00:50:00,646
 while you give away all of Arendelle's tradable goods?
-zatímco vy rozdáváte zboží,
-co má Arendelle na prodej?
+zatímco vy rozdáváte zboží, co má Arendelle na prodej?
 
 00:50:01,000 --> 00:50:02,399
 Princess Anna has given her orders.
@@ -3500,12 +3447,11 @@ A to je další věc.
 
 00:50:04,200 --> 00:50:06,799
 Has it dawned on you that your princess may be conspiring
-Co když se...
-...ta vaše princeznička
-spikla s tou čarodějnicí
+Co když se ta vaše princeznička
 
 00:50:06,800 --> 00:50:08,119
 with a wicked sorceress
+spikla s tou čarodějnicí
 
 00:50:08,120 --> 00:50:09,199
 to destroy us all?
@@ -3521,11 +3467,11 @@ Pověřila mě vládou.
 
 00:50:12,480 --> 00:50:13,799
 and I will not hesitate
+A já budu chránit
 
 00:50:13,800 --> 00:50:15,525
 to protect Arendelle from treason.
-A já budu chránit Arendelle
-před zradou.
+Arendelle před zradou.
 
 00:50:15,640 --> 00:50:17,279
 Treason?
@@ -3533,10 +3479,10 @@ Před zradou?
 
 00:50:22,600 --> 00:50:23,719
 Whoa! Whoa!
+Prrr!
 
 00:50:23,720 --> 00:50:25,519
 Whoa, boy. Easy.
-Prrr!
 Klid, hochu!
 
 00:50:25,520 --> 00:50:26,801
@@ -3560,8 +3506,7 @@ Princezna Anna má problémy.
 
 00:50:34,320 --> 00:50:37,159
 I need volunteers to go with me to find her.
-Potřebuji dobrovolníky,
-co mi ji pomohou najít.
+Potřebuji dobrovolníky, co mi ji pomohou najít.
 
 00:50:37,160 --> 00:50:38,399
 I'll go. I volunteer.
@@ -3600,8 +3545,7 @@ To je tvůj plán?
 
 00:51:01,480 --> 00:51:04,359
 My ice business is riding on you talking to your sister?
-Moje budoucnost závisí
-na tvém pokecu se sestrou?
+Moje budoucnost závisí na tvém pokecu se sestrou?
 
 00:51:04,360 --> 00:51:05,766
 Yep.
@@ -3617,9 +3561,7 @@ Proč bych měla?
 
 00:51:09,160 --> 00:51:14,643
 Yeah. I bet she's the nicest, gentlest, warmest person ever.
-Jo. Určitě je to...
-...ta nejhodnější, nejlaskavější
-a nejmilejší ženská na světě.
+Jo. Určitě je to ta nejhodnější, nejlaskavější a nejmilejší ženská na světě.
 
 00:51:15,160 --> 00:51:16,799
 Oh. Look at that.
@@ -3642,8 +3584,7 @@ Je to moc strmé.
 
 00:51:28,800 --> 00:51:31,319
 I've only got one rope and you don't know how to climb mountains.
-Mám jen jedno lano,
-a ty po skalách lézt neumíš.
+Mám jen jedno lano, a ty po skalách lézt neumíš.
 
 00:51:31,320 --> 00:51:32,679
 Says who?
@@ -3670,8 +3611,7 @@ Tam bych tu nohu nedával.
 
 00:51:43,840 --> 00:51:45,690
 You're distracting me. - Or there.
-- Rozptyluješ mě.
-- Ani tam.
+Rozptyluješ mě. - Ani tam.
 
 00:51:45,720 --> 00:51:47,639
 How do you know Elsa even wants to see you?
@@ -3680,18 +3620,18 @@ Jak víš, že se s tebou bude bavit?
 00:51:47,640 --> 00:51:49,399
 All right. I'm just blocking you out
 Vypínám vnímání,
-protože se musím soustředit.
 
 00:51:49,400 --> 00:51:52,251
 because I gotta concentrate, here.
+protože se musím soustředit.
 
 00:51:52,440 --> 00:51:53,919
 You know, most people who disappear
 Lidé se většinou uchylují
-do hor, když chtějí být sami.
 
 00:51:53,920 --> 00:51:55,451
 into the mountains want to be alone.
+do hor, když chtějí být sami.
 
 00:51:55,680 --> 00:51:57,882
 Nobody wants to be alone.
@@ -3703,8 +3643,7 @@ Možná kromě tebe.
 
 00:51:59,400 --> 00:52:02,649
 I'm not alone. I have friends, remember?
-Já nejsem sám.
-Mám přátele, vzpomínáš?
+Já nejsem sám. Mám přátele, vzpomínáš?
 
 00:52:03,400 --> 00:52:05,364
 You mean, the love experts?
@@ -3727,10 +3666,10 @@ Není tady nahoře nějak řidší vzduch?
 
 00:52:17,040 --> 00:52:18,119
 Hang on.
+Vydrž.
 
 00:52:18,120 --> 00:52:19,321
 Hey, Sven?
-Vydrž.
 Svene!
 
 00:52:19,400 --> 00:52:21,239
@@ -3739,8 +3678,7 @@ Nevím, jestli to vyřeší náš problém,
 
 00:52:21,240 --> 00:52:23,279
 but I found a staircase that leads exactly
-ale našel jsem schody,
-které vedou tam,
+ale našel jsem schody, které vedou tam,
 
 00:52:23,280 --> 00:52:24,479
 where you wanted to go.
@@ -3815,12 +3753,11 @@ Ty bys asi měl zůstat tady.
 
 00:53:34,520 --> 00:53:36,639
 What? - The last time I introduced her to a guy,
-Cože?
-Když jsem jí naposledy
-představila chlapa, všechno zmrazila.
+Cože? - Když jsem jí naposledy představila chlapa,
 
 00:53:36,640 --> 00:53:37,999
 she froze everything.
+všechno zmrazila.
 
 00:53:38,000 --> 00:53:39,919
 But, but... Oh, come on!
@@ -3832,16 +3769,15 @@ Je to zámek z ledu. A led je můj život.
 
 00:53:42,960 --> 00:53:43,999
 Bye, Sven.
+Pa, Svene.
 
 00:53:44,000 --> 00:53:45,770
 You, too, Olaf.
-Pa, Svene.
 Ty taky, Olafe.
 
 00:53:46,000 --> 00:53:47,929
 Me? - Just give us a minute.
-- Já?
-- Dejte nám minutku.
+Já? - Dejte nám minutku.
 
 00:53:48,200 --> 00:53:49,526
 Okay.
@@ -3849,11 +3785,10 @@ Tak jo.
 
 00:53:50,600 --> 00:53:52,290
 One, two, three...
-Jedna, dvě...
+Jedna, dvě... Tři.
 
 00:53:52,840 --> 00:53:54,724
 Four...
-Tři.
 Čtyři.
 
 00:54:00,000 --> 00:54:01,281
@@ -3893,23 +3828,19 @@ Děkuji.
 
 00:54:29,920 --> 00:54:32,282
 I never knew what I was capable of.
-Nikdy bych netušila,
-čeho všeho jsem schopná.
+Nikdy bych netušila, čeho všeho jsem schopná.
 
 00:54:32,720 --> 00:54:35,479
 I'm so sorry about what happened. If I'd have known...
-Moc mě mrzí,
-co se stalo.
+Moc mě mrzí, co se stalo. Kdybych věděla, že...
 
 00:54:35,480 --> 00:54:36,806
 No, no, no. It's okay.
-Kdybych věděla, že...
+To je v pořádku.
 
 00:54:36,840 --> 00:54:41,090
 You don't have to apologize, but you should probably go.
-To je v pořádku.
-Nemusíš se omlouvat.
-Ale měla bys odejít.
+Nemusíš se omlouvat. Ale měla bys odejít.
 
 00:54:41,760 --> 00:54:42,879
 Please.
@@ -3937,8 +3868,7 @@ Sama.
 
 00:54:52,600 --> 00:54:56,850
 Where I can be who I am without hurting anybody.
-Mohu tu být, čím jsem,
-aniž bych někomu ubližovala.
+Mohu tu být, čím jsem, aniž bych někomu ubližovala.
 
 00:54:56,960 --> 00:54:59,083
 Actually, about that...
@@ -3946,13 +3876,11 @@ Zrovna o tom chci mluvit.
 
 00:54:59,520 --> 00:55:01,370
 Sixty! - Wait. What is that?
-- Šedesát!
-- Co to je?
+Šedesát! - Co to je?
 
 00:55:01,880 --> 00:55:04,526
 Hi! I'm Olaf and I like warm hugs!
-Ahoj, já jsem Olaf.
-Mám rád vřelá objetí.
+Ahoj, já jsem Olaf. Mám rád vřelá objetí.
 
 00:55:05,120 --> 00:55:06,367
 Olaf?
@@ -3992,8 +3920,7 @@ Nemůžeme to vrátit?
 
 00:55:26,760 --> 00:55:28,480
 Catch me! Slow down!
-- Chyť mě!
-- Zpomal!
+Chyť mě! - Zpomal!
 
 00:55:31,880 --> 00:55:33,161
 Anna!
@@ -4001,18 +3928,18 @@ Anno.
 
 00:55:35,720 --> 00:55:36,759
 No.
+Ne.
 
 00:55:36,760 --> 00:55:39,440
 We can't. Goodbye, Anna.
-Ne.
 Nemůžeme. Sbohem, Anno.
 
 00:55:39,480 --> 00:55:40,559
 Elsa, wait.
+Elso, počkej.
 
 00:55:40,560 --> 00:55:42,759
 No, I'm just trying to protect you.
-Elso, počkej.
 Ne, jen se tě snažím ochránit.
 
 00:55:42,760 --> 00:55:45,611
@@ -4029,13 +3956,11 @@ Nezamykej se!
 
 00:55:50,520 --> 00:55:54,599
 You don't have to keep your distance anymore
-Když si přestáváme věřit,
-je to zlé.
+Když si přestáváme věřit, je to zlé.
 
 00:55:54,600 --> 00:55:57,610
 'Cause for the first time in forever
-Věř mi, že
-právě teď jak nikdy
+Věř mi, že právě teď jak nikdy
 
 00:55:57,800 --> 00:55:59,799
 I finally understand
@@ -4043,8 +3968,7 @@ tě dobře chápu snad,
 
 00:55:59,800 --> 00:56:02,159
 For the first time in forever
-věř mi,
-právě teď jak nikdy
+věř mi, právě teď jak nikdy
 
 00:56:02,160 --> 00:56:04,439
 We can fix this hand in hand
@@ -4060,8 +3984,7 @@ strach tě cestou opustí.
 
 00:56:09,640 --> 00:56:13,561
 'Cause for the first time in forever
-Vždyť přece
-právě teď tak šťastná
+Vždyť přece právě teď tak šťastná
 
 00:56:13,640 --> 00:56:16,919
 I will be right here
@@ -4081,8 +4004,7 @@ svůj život měj.
 
 00:56:22,760 --> 00:56:26,239
 <i>Go enjoy the sun, and open up the gates</i>
-Užívej si slunce,
-brány otvírej.
+Užívej si slunce, brány otvírej.
 
 00:56:26,240 --> 00:56:27,350
 Yeah, but...
@@ -4090,12 +4012,11 @@ Ano, ale...
 
 00:56:26,970 --> 00:56:27,719
 <i>I know.</i>
+Já vím...
 
 00:56:27,720 --> 00:56:32,050
 <i>You mean well, but leave me be</i>
-Já vím...
-...jak hodná jsi.
-Však musíš jít,
+Jak hodná jsi. Však musíš jít,
 
 00:56:32,120 --> 00:56:33,559
 <i>Yes, I'm alone</i>
@@ -4107,8 +4028,7 @@ a věčně volná být.
 
 00:56:36,520 --> 00:56:41,282
 <i>Just stay away and you'll be safe from me</i>
-Jen straň se mě
-a budeš v bezpečí.
+Jen straň se mě a budeš v bezpečí.
 
 00:56:42,320 --> 00:56:43,521
 Actually, we're not
@@ -4116,11 +4036,11 @@ Ne, to nejsme, ne!
 
 00:56:43,680 --> 00:56:44,950
 <i>What do you mean, you're not?</i>
-- Řekni mi, proč ne!
-- Podivné věci dějí se!
+Řekni mi, proč ne!
 
 00:56:44,760 --> 00:56:46,450
 I get the feeling you don't know
+Podivné věci dějí se!
 
 00:56:46,320 --> 00:56:47,681
 <i>What do I not know?</i>
@@ -4128,11 +4048,11 @@ Týkají se mě?
 
 00:56:48,000 --> 00:56:51,399
 Arendelle's in deep, deep, deep
-Arendelle nám
-přikryl sníh, sníh s tmou.
+Arendelle nám přikryl sníh,
 
 00:56:51,400 --> 00:56:53,682
 deep snow
+sníh s tmou.
 
 00:56:53,840 --> 00:56:55,041
 <i>What?</i>
@@ -4140,8 +4060,7 @@ Cože?
 
 00:56:55,320 --> 00:56:59,002
 You kind of set off an eternal winter everywhere.
-Tak nějak jsi rozpoutala
-nekonečnou zimu úplně všude.
+Tak nějak jsi rozpoutala nekonečnou zimu úplně všude.
 
 00:56:59,200 --> 00:57:00,359
 <i>Everywhere?</i>
@@ -4161,27 +4080,27 @@ Jasně že víš. Vím to, že víš.
 
 00:57:07,200 --> 00:57:12,401
 'Cause for the first time in forever
-- Protože právě teď jak nikdy...
-- Když volnost práh svůj překročí...
+Protože právě teď jak nikdy...
 
 00:57:09,450 --> 00:57:15,519
 <i>Oh, I'm such a fool! I can't be free!</i>
+Když volnost práh svůj překročí...
 
 00:57:12,650 --> 00:57:17,950
 You don't have to be afraid
-- ...je už zbytečné se bát!
-- ...bouře v mém nitru na svět útočí!
+je už zbytečné se bát!
 
 00:57:15,920 --> 00:57:18,839
 <i>No escape from the storm inside of me</i>
+bouře v mém nitru na svět útočí!
 
 00:57:18,040 --> 00:57:21,839
 We can work this out together
-- Útok nejprudší, ten zvládnem!
-- Jsem na dně s vůlí svou!
+Útok nejprudší, ten zvládnem!
 
 00:57:20,840 --> 00:57:22,819
 <i>I can't control the curse!</i>
+Jsem na dně s vůlí svou!
 
 00:57:22,720 --> 00:57:26,639
 We'll reverse the storm you've made
@@ -4189,40 +4108,39 @@ Utišíme bouři tvou.
 
 00:57:26,040 --> 00:57:29,219
 <i>Anna, please you'll only make it worse!</i>
-Anno, nech mě být,
-jen zhoršíš to!
+Anno, nech mě být, jen zhoršíš to!
 
 00:57:29,120 --> 00:57:31,019
 Don't panic!
+Proč křičíš?
 
 00:57:29,820 --> 00:57:31,319
 <i>There's so much fear!</i>
-- Proč křičíš?
-- Měj ze mě strach!
+Měj ze mě strach!
 
 00:57:31,020 --> 00:57:33,919
 We'll make the sun shine bright
-- Vzbuď slunce na střechách!
-- Běž rychle pryč!
+Vzbuď slunce na střechách!
 
 00:57:32,820 --> 00:57:35,319
 <i>You're not safe here!</i>
+Běž rychle pryč!
 
 00:57:34,320 --> 00:57:37,119
 We can face this thing together
-- Správný klíč najdeme spolu!
-- Ne...!
+Správný klíč najdeme spolu!
 
 00:57:35,840 --> 00:57:38,119
 <i>No!</i>
+Ne...!
 
 00:57:37,120 --> 00:57:39,279
 We can change this winter weather
 Zahnat můžem krutou zimu,
-když pomůžem si ty a já.
 
 00:57:39,280 --> 00:57:42,768
 And everything will be all right
+když pomůžem si ty a já.
 
 00:57:43,320 --> 00:57:45,761
 <i>I can't!</i>
@@ -4262,12 +4180,11 @@ Ne. Já vím, že společně to vyřešíme.
 
 00:58:06,000 --> 00:58:07,079
 How?
+Jak?
 
 00:58:07,080 --> 00:58:09,442
 What power do you have to stop this winter?
-Jak?
-Jakými kouzly vládneš,
-abys vše změnila?
+Jakými kouzly vládneš, abys vše změnila?
 
 00:58:09,720 --> 00:58:11,046
 To stop me?
@@ -4311,18 +4228,15 @@ Kroť se, jenom klid.
 
 00:58:42,200 --> 00:58:44,599
 Just calm down! Calm down! - Okay! All right!
-- Uklidni se!
-- Dobře!
+Uklidni se! - Dobře!
 
 00:58:44,600 --> 00:58:46,279
 I'm okay. - Just let the snowman be.
-- Už jsem v klidu.
-- Nech tu obludu být.
+Už jsem v klidu. - Nech tu obludu být.
 
 00:58:46,280 --> 00:58:47,599
 I'm calm.
-- Jsem klidná.
-- Prima.
+Jsem klidná. - Prima.
 
 00:58:47,600 --> 00:58:49,325
 Oh! Come on!
@@ -4373,8 +4287,7 @@ Ow!
 
 00:59:34,000 --> 00:59:36,199
 What's that for? - I'm digging a snow anchor.
-- Co to děláš?
-- Kopu sněhovou kotvu.
+Co to děláš? - Kopu sněhovou kotvu.
 
 00:59:36,200 --> 00:59:37,890
 Okay. What if we fall?
@@ -4398,16 +4311,15 @@ Drž se, Anno. Na tři.
 
 00:59:48,200 --> 00:59:49,559
 One...
+Raz.
 
 00:59:49,560 --> 00:59:50,639
 Okay. You tell me when. I'm ready to go.
-- Raz.
-- Stačí říct kdy, jsem připravená.
+Stačí říct kdy, jsem připravená.
 
 00:59:50,640 --> 00:59:52,279
 Two... - I was born ready! Yes!
-- Dva.
-- Od narození.
+Dva. - Od narození.
 
 00:59:52,280 --> 00:59:53,561
 Calm down.
@@ -4455,8 +4367,7 @@ Ne!
 
 01:00:27,280 --> 01:00:30,199
 This is not making much of a difference, is it?
-Nějak výrazně...
-...tě to nezpomaluje, že ne?
+Nějak výrazně tě to nezpomaluje, že ne?
 
 01:00:31,720 --> 01:00:32,799
 Olaf!
@@ -4589,15 +4500,14 @@ Vyhodila mě.
 
 01:01:51,840 --> 01:01:54,199
 I can't go back to Arendelle with the weather like this.
-S nepořízenou se nemůžu
-do Arendellu vrátit.
+S nepořízenou se nemůžu do Arendellu vrátit.
 
 01:01:54,200 --> 01:01:55,279
 And then there's your ice business.
+A co bude s tvým ledařstvím?
 
 01:01:55,280 --> 01:01:58,006
 Hey, hey. Don't worry about my ice business.
-A co bude s tvým ledařstvím?
 S mým ledařstvím si starost nedělej.
 
 01:01:58,920 --> 01:02:00,259
@@ -4606,8 +4516,7 @@ Spíš se svými vlasy.
 
 01:02:00,260 --> 01:02:02,639
 What? I just fell off a cliff. You should see your hair.
-Cože? Spadla jsem z útesu.
-Podívej se na svoje.
+Cože? Spadla jsem z útesu. Podívej se na svoje.
 
 01:02:02,640 --> 01:02:04,359
 No, yours is turning white.
@@ -4615,8 +4524,7 @@ Ne, tvoje vlasy bělají.
 
 01:02:04,360 --> 01:02:07,279
 White? It's... What?
-Bělají?
-Cože?
+Bělají? Cože?
 
 01:02:07,280 --> 01:02:09,482
 It's because she struck you, isn't it?
@@ -4628,8 +4536,7 @@ Vypadá to špatně?
 
 01:02:12,520 --> 01:02:14,039
 No. - You hesitated.
-- Ne.
-- Zaváhal jsi.
+Ne. - Zaváhal jsi.
 
 01:02:14,040 --> 01:02:15,287
 No, I didn't.
@@ -4653,8 +4560,7 @@ Za experty na lásku?
 
 01:02:21,680 --> 01:02:23,530
 Love experts?
-- Experti na lásku?
-- Jo.
+Experti na lásku?
 
 01:02:23,800 --> 01:02:26,159
 And don't worry, they'll be able to fix this.
@@ -4666,8 +4572,7 @@ Jak to víš?
 
 01:02:28,680 --> 01:02:30,723
 Because I've seen them do it before.
-Protože jsem viděl,
-jak to udělali kdysi.
+Protože jsem viděl, jak to udělali kdysi.
 
 01:02:31,760 --> 01:02:34,159
 I like to consider myself a love expert.
@@ -4699,8 +4604,7 @@ Hele, Svene. Obloha je vzhůru.
 
 01:03:08,480 --> 01:03:10,569
 Are you cold? - A little.
-Je ti zima?
-Trochu.
+Je ti zima? - Trochu.
 
 01:03:13,040 --> 01:03:14,959
 Uh... Wait. Come here.
@@ -4714,8 +4618,7 @@ Ooh.
 
 01:03:19,440 --> 01:03:22,919
 So, uh, about my friends. Well...
-Víš...
-K těm mým přátelům...
+Víš... K těm mým přátelům...
 
 01:03:22,920 --> 01:03:24,359
 I say "friends"...
@@ -4735,28 +4638,27 @@ a tak mě přijali mezi sebe.
 
 01:03:31,800 --> 01:03:33,365
 They did?
-- Opravdu?
-- Jo.
+Opravdu?
 
 01:03:33,560 --> 01:03:34,679
 Yeah. I don't want to scare you.
+Jo. Nerad bych tě vyděsil,
 
 01:03:34,680 --> 01:03:39,119
 They can be a little inappropriate and loud.
-Nerad bych tě vyděsil,
 ale někdy se chovají nevhodně a křičí.
 
 01:03:39,120 --> 01:03:40,685
 Very loud.
+Spíš řvou.
 
 01:03:40,720 --> 01:03:42,679
 They are also stubborn at times,
-Spíš řvou.
 Někdy jsou tvrdohlaví
-a někdy nesnesitelní.
 
 01:03:42,680 --> 01:03:43,959
 and a little overbearing.
+a někdy nesnesitelní.
 
 01:03:43,960 --> 01:03:46,759
 And heavy. Really, really, heavy.
@@ -4764,8 +4666,7 @@ A těžcí, hodně, hodně těžcí,
 
 01:03:46,760 --> 01:03:49,119
 But you'll get it. They mean well.
-což všechno uvidíš.
-Ale myslí to dobře.
+což všechno uvidíš. Ale myslí to dobře.
 
 01:03:49,120 --> 01:03:51,448
 Kristoff, they sound wonderful.
@@ -4814,20 +4715,18 @@ Zabavím ho a ty uteč.
 01:04:16,000 --> 01:04:18,123
 Hi, Sven's family!
 Ahoj, Svenova rodino.
-Moc rád vás poznávám.
 
 01:04:18,200 --> 01:04:20,801
 It's nice to meet you.
+Moc rád vás poznávám.
 
 01:04:20,960 --> 01:04:23,439
 Because I love you, Anna, I insist you run.
-Mám tě rád, Anno,
-a trvám na tom, abys utekla.
+Mám tě rád, Anno, a trvám na tom, abys utekla.
 
 01:04:23,440 --> 01:04:27,531
 I understand you're love experts. Ooh!
-Slyšel jsem,
-že jste experti na lásku.
+Slyšel jsem, že jste experti na lásku.
 
 01:04:27,800 --> 01:04:29,490
 Why aren't you running?
@@ -4862,10 +4761,11 @@ Kristoff je doma!
 01:04:46,720 --> 01:04:49,839
 Kristoff's here! Kristoff's home!
 Kristoff je tady!
-Kristoff je tady! Moment. Kristoff?
+Kristoff je tady!
 
 01:04:49,840 --> 01:04:52,319
 Wait, "Kristoff"?
+Moment. Kristoff?
 
 01:04:52,320 --> 01:04:53,799
 Ah, let me look at you.
@@ -4881,10 +4781,11 @@ Ne, já si šaty sundávat nebudu.
 
 01:04:57,400 --> 01:04:58,799
 Look, it's great to see you all,
-Moc rád vás vidím, ale kde je Pratroll?
+Moc rád vás vidím,
 
 01:04:58,800 --> 01:05:00,039
 but where's Granpabbie?
+ale kde je Pratroll?
 
 01:05:00,040 --> 01:05:01,159
 He's napping.
@@ -4904,11 +4805,11 @@ A já ledvinové kameny.
 
 01:05:06,040 --> 01:05:07,319
 Kristoff, pick me up.
-- Kristoffe, zvedni mě.
-- Ty jsi vyrostl!
+Kristoffe, zvedni mě.
 
 01:05:07,320 --> 01:05:08,599
 You're getting big.
+Ty jsi vyrostl!
 
 01:05:08,600 --> 01:05:09,881
 Good for you.
@@ -4943,8 +4844,7 @@ Zkus si toho nevšímat.
 
 01:05:25,320 --> 01:05:27,879
 Let me see. Bright eyes, working nose,
-Tak se ukaž.
-Jasný oči, čistej nos,
+Tak se ukaž. Jasný oči, čistej nos,
 
 01:05:27,880 --> 01:05:29,411
 strong teeth!
@@ -4961,10 +4861,10 @@ Počkat. Ne.
 01:05:33,520 --> 01:05:34,919
 You've got the wrong idea.
 Špatně si to vykládáte.
-Proto jsem ji nepřivedl.
 
 01:05:34,920 --> 01:05:36,079
 No. That's not why I brought her here.
+Proto jsem ji nepřivedl.
 
 01:05:36,080 --> 01:05:37,959
 Right. We're not... I'm not...
@@ -4984,16 +4884,15 @@ Snad proto, že tak divně jde?
 
 01:05:45,360 --> 01:05:47,679
 What? - Or the grumpy way he talks?
-Cože?
-Občas mluví ošklivě?
+Cože? - Občas mluví ošklivě?
 
 01:05:47,680 --> 01:05:49,479
 Or the pear-shaped, square-shaped
-Po kom nohy rostlé do "ó"
-může mít?
+Po kom nohy rostlé
 
 01:05:49,480 --> 01:05:51,039
 Weirdness of his feet?
+do "ó" může mít?
 
 01:05:51,040 --> 01:05:52,159
 Hey!
@@ -5002,30 +4901,30 @@ Hej!
 01:05:52,160 --> 01:05:54,119
 And though we know he washes well
 A přesto, že se umejvá,
-řek' bych, že smrádne, a ne vábně.
 
 01:05:54,120 --> 01:05:56,759
 He always ends up sort of smelly
+řek' bych, že smrádne, a ne vábně.
 
 01:05:56,760 --> 01:05:58,399
 But you'll never meet a fella
 Že má kouska citu v těle,
-může úsměv prozradit!
 
 01:05:58,400 --> 01:06:00,359
 Who's as sensitive and sweet
+může úsměv prozradit!
 
 01:06:00,360 --> 01:06:01,479
 That's nice, but...
+To je hezké, ale...
 
 01:06:01,480 --> 01:06:03,519
 So, he's a bit of a fixer-upper
-To je hezké, ale...
 l jako prima chlap má svý mouchy,
-něco zásadních vad!
 
 01:06:03,520 --> 01:06:05,599
 So, he's got a few flaws
+něco zásadních vad!
 
 01:06:05,600 --> 01:06:06,839
 Like his peculiar brain, dear
@@ -5033,23 +4932,23 @@ Dva stejný mozky pro oba,
 
 01:06:06,840 --> 01:06:07,999
 His thing with the reindeer
+pro přítele soba.
 
 01:06:08,000 --> 01:06:09,679
 That's a little outside of nature's laws
-pro přítele soba.
 Což je přírodní úkaz na kvadrát!
 
 01:06:09,680 --> 01:06:10,799
 This is not about me!
+Tady nejde o mě.
 
 01:06:10,800 --> 01:06:12,559
 So, he's a bit of a fixer-upper
-Tady nejde o mě.
 I jako prima chlap má svý mouchy,
-však přesto věříme,
 
 01:06:12,560 --> 01:06:14,759
 But this we're certain of
+však přesto věříme,
 
 01:06:14,760 --> 01:06:17,399
 You can fix this fixer-upper up
@@ -5081,43 +4980,39 @@ A lidi pro něj jsou jen věc!
 
 01:06:30,720 --> 01:06:33,879
 Or that he only likes to tinkle in the woods?
-A taky chodívá rád
-čurat do lesa!
+A taky chodívá rád čurat do lesa!
 
 01:06:33,880 --> 01:06:34,999
 I did not need to know that.
+To jsem vědět nemusela.
 
 01:06:35,000 --> 01:06:37,239
 Are you holding back your fondness
-To jsem vědět nemusela.
 Řekni, co tě trápí - no tak!
-Že je hezounek a blonďák?
 
 01:06:37,240 --> 01:06:38,719
 Due to his unmanly blondness?
+Že je hezounek a blonďák?
 
 01:06:40,120 --> 01:06:43,403
 Or the way he covers up that he's the honest goods?
-Nebo to, že dobrák je,
-a přesto žije sám?
+Nebo to, že dobrák je, a přesto žije sám?
 
 01:06:44,600 --> 01:06:46,519
 He's just a bit of a fixer-upper
 I jako prima chlap má svý mouchy,
-i v kaši několik much.
 
 01:06:46,520 --> 01:06:48,039
 He's got a couple of bugs
+i v kaši několik much.
 
 01:06:48,040 --> 01:06:50,919
 (No, I don't!) - His isolation is confirmation
-Ne, nemám!
-Že sám je věčně, je nebezpečné,
+(Ne, nemám!) - Že sám je věčně, je nebezpečné,
 
 01:06:50,920 --> 01:06:53,919
 Of his desperation for healing hugs
-v noci chladné chřadne,
-je pro svět vzduch!
+v noci chladné chřadne, je pro svět vzduch!
 
 01:06:53,920 --> 01:06:55,479
 So, he's a bit of a fixer-upper
@@ -5130,10 +5025,10 @@ tak poslyš nápad náš:
 01:06:58,240 --> 01:07:00,279
 The way to fix up this fixer-upper
 my mouchy tvé s jeho sezdáme,
-ať chlapa bez chybičky máš!
 
 01:07:00,280 --> 01:07:01,839
 Is to fix him up with you
+ať chlapa bez chybičky máš!
 
 01:07:01,840 --> 01:07:03,519
 Whoa!
@@ -5156,8 +5051,7 @@ Jasně, to bych řek'!
 
 01:07:16,120 --> 01:07:18,479
 Her quote "engagement" is a flex arrangement
-To zasnoubení
-přece nemoc není!
+To zasnoubení přece nemoc není!
 
 01:07:18,480 --> 01:07:20,839
 And by the way, I don't see no ring
@@ -5166,18 +5060,18 @@ Dyť heleďte - nemá prstýnek!
 01:07:20,840 --> 01:07:23,119
 So, she's a bit of a fixer-upper
 I prima slečinka má svý mouchy
-a váhá, koho chtít!
 
 01:07:23,120 --> 01:07:25,322
 Her brain's a bit betwixt
+a váhá, koho chtít!
 
 01:07:25,440 --> 01:07:27,799
 Get the fiance out of the way
 Zbav se rychle toho snoubence,
-ať je všechno, jak má být!
 
 01:07:27,800 --> 01:07:29,121
 And the whole thing will be fixed
+ať je všechno, jak má být!
 
 01:07:31,840 --> 01:07:33,959
 We're not saying you can change him
@@ -5190,26 +5084,26 @@ však nezmění duši svou.
 01:07:36,280 --> 01:07:38,679
 We're only saying that love's a force
 Jen láska změní tě nakonec,
-v ní mocná kouzla jsou!
 
 01:07:38,680 --> 01:07:41,039
 That's powerful and strange
+v ní mocná kouzla jsou!
 
 01:07:41,040 --> 01:07:43,279
 People make bad choices
 Lidi špatně rozhodnou se,
-když je žene spěch.
 
 01:07:43,280 --> 01:07:45,687
 If they're mad or scared or stressed
+když je žene spěch.
 
 01:07:46,040 --> 01:07:48,799
 But throw a little love their way
-- Však lásce pravé podlehnou.
-- Lásce pravé podlehnou.
+Však lásce pravé podlehnou.
 
 01:07:48,800 --> 01:07:51,159
 Throw a little love their way
+Lásce pravé podlehnou.
 
 01:07:51,160 --> 01:07:53,283
 And you'll bring out their best
@@ -5221,8 +5115,7 @@ Ten cit je lékem všech.
 
 01:07:55,960 --> 01:07:58,367
 Everyone's a bit of a fixer-upper
-Nikdo není génius,
-má svý mouchy,
+Nikdo není génius, má svý mouchy,
 
 01:07:58,600 --> 01:08:00,319
 That's what it's all about
@@ -5230,22 +5123,19 @@ o tom to vlastně je!
 
 01:08:00,320 --> 01:08:01,399
 Father! Sister! Brother!
+Táta! Sestra! Bráška!
 
 01:08:01,400 --> 01:08:04,199
 We need each other to raise us up
-- Táta.
-- Sestra.
-Bráška.
 Tak žijem spolu,
-než z kukly každý vylétne!
 
 01:08:04,200 --> 01:08:05,561
 And round us out
+než z kukly každý vylétne!
 
 01:08:06,000 --> 01:08:07,959
 Everyone's a bit of a fixer-upper
-Nikdo není génius,
-má svý mouchy,
+Nikdo není génius, má svý mouchy,
 
 01:08:07,960 --> 01:08:11,479
 But when push comes to shove
@@ -5254,15 +5144,14 @@ a když jde za láskou,
 01:08:11,480 --> 01:08:12,759
 The only fixer-upper fixer
 tak to pak muška mušku napravuje,
-napravuje, až tu je...
 
 01:08:12,760 --> 01:08:13,839
 That can fix a fixer-upper is...
+napravuje, až tu je...
 
 01:08:13,840 --> 01:08:17,279
 True, true
 Ta pravá,
-ta pravá...
 
 01:08:17,280 --> 01:08:18,399
 True
@@ -5286,13 +5175,11 @@ True
 
 01:08:24,000 --> 01:08:28,199
 Do you, Anna, take Kristoff to be your trollfully wedded...
-Bereš si, Anno, zde Kristoffa...
-- ...za svého právoplatného...
-- Cože?
+Bereš si, Anno, zde Kristoffa za svého právoplatného...
 
 01:08:28,200 --> 01:08:30,159
 Wait, what? - You're getting married.
-Oddáváme vás.
+Cože? - Oddáváme vás.
 
 01:08:30,160 --> 01:08:31,319
 Love!
@@ -5312,8 +5199,7 @@ To je tou prapodivnou magií.
 
 01:08:39,280 --> 01:08:42,563
 Granpabbie. - Come, come. Bring her here to me.
-- Pratrolle.
-- Honem, přiveď ji ke mně.
+Pratrolle. - Honem, přiveď ji ke mně.
 
 01:08:43,840 --> 01:08:46,725
 Anna, your life is in danger.
@@ -5321,13 +5207,11 @@ Anno, tvůj život je v nebezpečí.
 
 01:08:47,200 --> 01:08:50,324
 There is ice in your heart put there by your sister.
-Ve tvém srdci je mráz,
-jež zasela tvá sestra.
+Ve tvém srdci je mráz, jež zasela tvá sestra.
 
 01:08:50,840 --> 01:08:55,648
 If not removed, to solid ice will you freeze, forever.
-Pokud nebude odstraněn,
-pak se navždycky proměníš v kus ledu.
+Pokud nebude odstraněn, pak se navždycky proměníš v kus ledu.
 
 01:08:55,880 --> 01:08:57,239
 What? No.
@@ -5351,8 +5235,7 @@ Kdyby šlo o hlavu, bylo by to snadné.
 
 01:09:04,400 --> 01:09:09,401
 But only an act of true love can thaw a frozen heart.
-Ale ledové srdce může rozehřát
-jen projev pravé lásky.
+Ale ledové srdce může rozehřát jen projev pravé lásky.
 
 01:09:10,080 --> 01:09:11,679
 An act of true love?
@@ -5415,10 +5298,10 @@ Královna!
 01:10:23,400 --> 01:10:25,568
 Go, go! Come on!
 Honem!
-Rychle!
 
 01:10:28,640 --> 01:10:29,887
 There!
+Rychle!
 
 01:10:33,320 --> 01:10:34,567
 Up there!
@@ -5481,8 +5364,7 @@ Královno Elso!
 
 01:11:52,320 --> 01:11:54,761
 Don't be the monster they fear you are.
-Nebuďte monstrem,
-kterého se všichni bojí!
+Nebuďte monstrem, kterého se všichni bojí!
 
 01:12:42,520 --> 01:12:44,927
 Oh, no. What have... What have I done?
