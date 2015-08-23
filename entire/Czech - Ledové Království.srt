@@ -710,7 +710,9 @@ Ráda sněhuláky stavíš.
 [Glad you build snowmen.]
 
 00:11:40,092 --> 00:11:44,345
+.
 O tři roky později
+[Three years later]
 
 00:11:49,560 --> 00:11:51,279
 All ashore!
@@ -1077,38 +1079,38 @@ smím srdci šanci dát.
 
 00:15:43,960 --> 00:15:45,969
 <i>Don't let them in</i>
-Kdo přijde dnes,
-[Who arrives today]
+<i>Kdo přijde dnes,</i>
+<i>[Who arrives today]</i>
 
 00:15:46,200 --> 00:15:48,402
 <i>Don't let them see</i>
-má uvěřit,
-[He has to believe]
+<i>má uvěřit,</i>
+<i>[He has to believe]</i>
 
 00:15:48,680 --> 00:15:51,930
 <i>Be the good girl you always have to be</i>
-že jsem dívkou, jakou jsem měla být.
-[I'm a girl, I'd be.]
+<i>že jsem dívkou, jakou jsem měla být.</i>
+<i>[I'm a girl, I'd be.]</i>
 
 00:15:53,760 --> 00:15:57,251
 <i>Conceal, don't feel</i>
-Skrývej city,
-[Of hiding emotions,]
+<i>Skrývej city,</i>
+<i>[Of hiding emotions,]</i>
 
 00:15:57,400 --> 00:15:59,443
 <i>Put on a show</i>
-je to jen hra!
-[its only a game!]
+<i>je to jen hra!</i>
+<i>[its only a game!]</i>
 
 00:15:59,840 --> 00:16:03,891
 <i>Make one wrong move and everyone will know</i>
-Jen chybný krok a hra by propadla!
-[Only misstep, and the game would fail!]
+<i>Jen chybný krok a hra by propadla!</i>
+<i>[Only misstep, and the game would fail!]</i>
 
 00:16:05,080 --> 00:16:07,719
 <i>But it's only for today</i>
-Ale bude to jen dnes.
-[But it will be just today.]
+<i>Ale bude to jen dnes.</i>
+<i>[But it will be just today.]</i>
 
 00:16:06,680 --> 00:16:09,249
 It's only for today
@@ -1117,8 +1119,8 @@ A bude to jen dnes!
 
 00:16:07,720 --> 00:16:10,685
 <i>It's agony to wait</i>
-Kdo čekání má snést?
-[Who should bear the wait?]
+<i>Kdo čekání má snést?</i>
+<i>[Who should bear the wait?]</i>
 
 00:16:09,250 --> 00:16:10,685
 It's agony to wait
@@ -1127,13 +1129,13 @@ Kdo čekání má snést?
 
 00:16:10,840 --> 00:16:13,691
 <i>Tell the guards to open up</i>
-Stráže, brány otevřte!
-[Guards, gates open!]
+<i>Stráže, brány otevřte!</i>
+<i>[Guards, gates open!]</i>
 
 00:16:14,200 --> 00:16:18,928
 <i>The gate</i>
-Ať zvou!
-[Whether invite!]
+<i>Ať zvou!</i>
+<i>[Whether invite!]</i>
 
 00:16:16,680 --> 00:16:18,928
 The gate
@@ -1147,8 +1149,8 @@ Je tu právě teď ta chvíle...
 
 00:16:22,240 --> 00:16:27,409
 <i>Don't let them in, don't let them see</i>
-Kdo přijde dnes, má uvěřit...
-[Whoever comes today, has to believe...]
+<i>Kdo přijde dnes, má uvěřit...</i>
+<i>[Whoever comes today, has to believe...]</i>
 
 00:16:23,600 --> 00:16:27,439
 I'm getting what I'm dreaming of
@@ -1157,8 +1159,8 @@ kdy sny mé pravdou stanou se!
 
 00:16:27,440 --> 00:16:33,079
 <i>Be the good girl you always have to be</i>
-že jsem dívkou, jakou jsem měla být.
-[I'm a girl, I'd be.]
+<i>že jsem dívkou, jakou jsem měla být.</i>
+<i>[I'm a girl, I'd be.]</i>
 
 00:16:29,840 --> 00:16:34,399
 A chance to change my lonely world
@@ -1167,8 +1169,8 @@ Mám šanci s láskou měnit svět...
 
 00:16:33,080 --> 00:16:34,399
 <i>Conceal</i>
-Skrývej.
-[Of hiding.]
+<i>Skrývej.</i>
+<i>[Of hiding.]</i>
 
 00:16:34,400 --> 00:16:39,799
 A chance to find true love
@@ -1177,8 +1179,8 @@ A chance to find true love
 
 00:16:37,720 --> 00:16:41,959
 <i>Conceal, don't feel, don't let them know</i>
-Jen skrývej city, všichni lžou.
-[Only of hiding emotions, everybody lies.]
+<i>Jen skrývej city, všichni lžou.</i>
+<i>[Only of hiding emotions, everybody lies.]</i>
 
 00:16:39,800 --> 00:16:41,959
 I know it all ends tomorrow
@@ -1775,8 +1777,8 @@ Můžu říct něco bláznivého?
 
 00:23:47,440 --> 00:23:48,766
 <i>I love crazy.</i>
-Mám rád blázniviny.
-[I like crazy.]
+<i>Mám rád blázniviny.</i>
+<i>[I like crazy.]</i>
 
 00:23:49,080 --> 00:23:53,649
 All my life has been a series of doors in my face
@@ -1790,18 +1792,18 @@ a dnes najednou dveřmi vejdeš ty.
 
 00:23:56,600 --> 00:23:58,959
 <i>I was thinking the same thing, because, like...</i>
-Přesně to mě napadlo, protože...
-[That's exactly what I thought, because...]
+<i>Přesně to mě napadlo, protože...</i>
+<i>[That's exactly what I thought, because...]</i>
 
 00:23:58,960 --> 00:24:03,209
 <i>I've been searching my whole life to find my own place</i>
-Chci mít taky svoje místo, hledám svůj svět!
-[I want to take my place, too, seeking your world!]
+<i>Chci mít taky svoje místo, hledám svůj svět!</i>
+<i>[I want to take my place, too, seeking your world!]</i>
 
 00:24:03,360 --> 00:24:06,959
 <i>And maybe it's the party talking, or the chocolate fondue</i>
-A možná oslavou jsem zmámen, a tím sladkým fondue.
-[And maybe I was a celebration of stupor, and the sweet fondue.]
+<i>A možná oslavou jsem zmámen, a tím sladkým fondue.</i>
+<i>[And maybe I was a celebration of stupor, and the sweet fondue.]</i>
 
 00:24:08,040 --> 00:24:11,079
 But with you
@@ -1810,8 +1812,8 @@ S tebou já...
 
 00:24:09,080 --> 00:24:12,719
 <i>But with you I found my place</i>
-S tebou já už vím, kým jsem!
-[With you I already know who I am!]
+<i>S tebou já už vím, kým jsem!</i>
+<i>[With you I already know who I am!]</i>
 
 00:24:11,320 --> 00:24:13,039
 I see your face
@@ -1850,8 +1852,8 @@ Otevře láska má!
 
 00:24:41,880 --> 00:24:43,159
 <i>I mean, it's crazy</i>
-Ty dopovíš to...
-[They dopovíš it...]
+<i>Ty dopovíš to...</i>
+<i>[They dopovíš it...]</i>
 
 00:24:42,880 --> 00:24:43,459
 What?
@@ -1860,8 +1862,8 @@ Co?
 
 00:24:43,360 --> 00:24:45,522
 <i>We finish each other's</i>
-No to co jsem nakous'.
-[Well, what I nakous'.]
+<i>No to co jsem nakous'.</i>
+<i>[Well, what I nakous'.]</i>
 
 00:24:44,660 --> 00:24:46,022
 Sandwiches
@@ -1870,8 +1872,8 @@ Sendviče!
 
 00:24:45,560 --> 00:24:46,759
 <i>That's what I was gonna say!</i>
-Přesně to chci říct!
-[That's exactly what I mean!]
+<i>Přesně to chci říct!</i>
+<i>[That's exactly what I mean!]</i>
 
 00:24:46,760 --> 00:24:47,959
 I've never met someone
@@ -1950,13 +1952,13 @@ má!
 
 00:25:29,560 --> 00:25:31,649
 <i>Can I say something crazy?</i>
-Můžu říct něco bláznivého?
-[Can I say something crazy?]
+<i>Můžu říct něco bláznivého?</i>
+<i>[Can I say something crazy?]</i>
 
 00:25:31,840 --> 00:25:33,644
 <i>Will you marry me?</i>
-Vzala by sis mě?
-[Would you married me?]
+<i>Vzala by sis mě?</i>
+<i>[Would you married me?]</i>
 
 00:25:33,960 --> 00:25:35,844
 Can I say something even crazier?
@@ -4067,8 +4069,8 @@ však jen vlítnu do léta, je ze mě...
 
 00:48:43,520 --> 00:48:44,520
 <i>(puddle?)</i>
-(louže?)
-[(puddle?)]
+<i>(louže?)</i>
+<i>[(puddle?)]</i>
 
 00:48:44,840 --> 00:48:46,599
 Happy snowman!
@@ -4893,23 +4895,23 @@ budu tam, kde jsi.
 
 00:56:16,920 --> 00:56:18,199
 <i>Anna.</i>
-Anno.
-[Anno.]
+<i>Anno.</i>
+<i>[Anno.]</i>
 
 00:56:18,200 --> 00:56:20,119
 <i>Please go back home</i>
-Běž domů, běž,
-[Go home, go,]
+<i>Běž domů, běž,</i>
+<i>[Go home, go,]</i>
 
 00:56:20,120 --> 00:56:21,890
 <i>Your life awaits</i>
-svůj život měj.
-[Have your life.]
+<i>svůj život měj.</i>
+<i>[Have your life.]</i>
 
 00:56:22,760 --> 00:56:26,239
 <i>Go enjoy the sun, and open up the gates</i>
-Užívej si slunce, brány otvírej.
-[Enjoy the sun, open the gates.]
+<i>Užívej si slunce, brány otvírej.</i>
+<i>[Enjoy the sun, open the gates.]</i>
 
 00:56:26,240 --> 00:56:27,350
 Yeah, but...
@@ -4918,28 +4920,28 @@ Ano, ale...
 
 00:56:26,970 --> 00:56:27,719
 <i>I know.</i>
-Já vím...
-[I know...]
+<i>Já vím...</i>
+<i>[I know...]</i>
 
 00:56:27,720 --> 00:56:32,050
 <i>You mean well, but leave me be</i>
-Jak hodná jsi. Však musíš jít,
-[How good you are. But you gotta go,]
+<i>Jak hodná jsi. Však musíš jít,</i>
+<i>[How good you are. But you gotta go,]</i>
 
 00:56:32,120 --> 00:56:33,559
 <i>Yes, I'm alone</i>
-chci takhle žít
-[I want to live like this]
+<i>chci takhle žít</i>
+<i>[I want to live like this]</i>
 
 00:56:33,560 --> 00:56:36,519
 <i>But I'm alone and free</i>
-a věčně volná být.
-[and be forever free.]
+<i>a věčně volná být.</i>
+<i>[and be forever free.]</i>
 
 00:56:36,520 --> 00:56:41,282
 <i>Just stay away and you'll be safe from me</i>
-Jen straň se mě a budeš v bezpečí.
-[Just turn away from me and you'll be safe.]
+<i>Jen straň se mě a budeš v bezpečí.</i>
+<i>[Just turn away from me and you'll be safe.]</i>
 
 00:56:42,320 --> 00:56:43,521
 Actually, we're not
@@ -4948,8 +4950,8 @@ Ne, to nejsme, ne!
 
 00:56:43,680 --> 00:56:44,950
 <i>What do you mean, you're not?</i>
-Řekni mi, proč ne!
-[Tell me, why not!]
+<i>Řekni mi, proč ne!</i>
+<i>[Tell me, why not!]</i>
 
 00:56:44,760 --> 00:56:46,450
 I get the feeling you don't know
@@ -4958,8 +4960,8 @@ Podivné věci dějí se!
 
 00:56:46,320 --> 00:56:47,681
 <i>What do I not know?</i>
-Týkají se mě?
-[They relate to me?]
+<i>Týkají se mě?</i>
+<i>[They relate to me?]</i>
 
 00:56:48,000 --> 00:56:51,399
 Arendelle's in deep, deep, deep
@@ -4973,8 +4975,8 @@ sníh s tmou.
 
 00:56:53,840 --> 00:56:55,041
 <i>What?</i>
-Cože?
-[What?]
+<i>Cože?</i>
+<i>[What?]</i>
 
 00:56:55,320 --> 00:56:59,002
 You kind of set off an eternal winter everywhere.
@@ -4983,8 +4985,8 @@ Tak nějak jsi rozpoutala nekonečnou zimu úplně všude.
 
 00:56:59,200 --> 00:57:00,359
 <i>Everywhere?</i>
-Jak všude?
-[As everywhere?]
+<i>Jak všude?</i>
+<i>[As everywhere?]</i>
 
 00:57:00,360 --> 00:57:02,279
 Well, it's okay, you can just unfreeze it.
@@ -4993,8 +4995,8 @@ Ale to nic, stačí spustit tání.
 
 00:57:02,280 --> 00:57:04,528
 <i>No, I can't. I don't know how.</i>
-To nejde, já nevím jak.
-[You can not, I do not know how.]
+<i>To nejde, já nevím jak.</i>
+<i>[You can not, I do not know how.]</i>
 
 00:57:04,560 --> 00:57:07,081
 Sure you can. I know you can.
@@ -5008,8 +5010,8 @@ Protože právě teď jak nikdy...
 
 00:57:09,450 --> 00:57:15,519
 <i>Oh, I'm such a fool! I can't be free!</i>
-Když volnost práh svůj překročí...
-[When freedom exceeds its threshold...]
+<i>Když volnost práh svůj překročí...</i>
+<i>[When freedom exceeds its threshold...]</i>
 
 00:57:12,650 --> 00:57:17,950
 You don't have to be afraid
@@ -5018,8 +5020,8 @@ je už zbytečné se bát!
 
 00:57:15,920 --> 00:57:18,839
 <i>No escape from the storm inside of me</i>
-bouře v mém nitru na svět útočí!
-[storm inside of me attacking the world!]
+<i>bouře v mém nitru na svět útočí!</i>
+<i>[storm inside of me attacking the world!]</i>
 
 00:57:18,040 --> 00:57:21,839
 We can work this out together
@@ -5028,8 +5030,8 @@ We can work this out together
 
 00:57:20,840 --> 00:57:22,819
 <i>I can't control the curse!</i>
-Jsem na dně s vůlí svou!
-[I'm down to play her!]
+<i>Jsem na dně s vůlí svou!</i>
+<i>[I'm down to play her!]</i>
 
 00:57:22,720 --> 00:57:26,639
 We'll reverse the storm you've made
@@ -5038,8 +5040,8 @@ Utišíme bouři tvou.
 
 00:57:26,040 --> 00:57:29,219
 <i>Anna, please you'll only make it worse!</i>
-Anno, nech mě být, jen zhoršíš to!
-[Anna, let me be, just making things worse it!]
+<i>Anno, nech mě být, jen zhoršíš to!</i>
+<i>[Anna, let me be, just making things worse it!]</i>
 
 00:57:29,120 --> 00:57:31,019
 Don't panic!
@@ -5048,8 +5050,8 @@ Proč křičíš?
 
 00:57:29,820 --> 00:57:31,319
 <i>There's so much fear!</i>
-Měj ze mě strach!
-[Have afraid of me!]
+<i>Měj ze mě strach!</i>
+<i>[Have afraid of me!]</i>
 
 00:57:31,020 --> 00:57:33,919
 We'll make the sun shine bright
@@ -5058,8 +5060,8 @@ Vzbuď slunce na střechách!
 
 00:57:32,820 --> 00:57:35,319
 <i>You're not safe here!</i>
-Běž rychle pryč!
-[Go away quickly!]
+<i>Běž rychle pryč!</i>
+<i>[Go away quickly!]</i>
 
 00:57:34,320 --> 00:57:37,119
 We can face this thing together
@@ -5068,8 +5070,8 @@ Správný klíč najdeme spolu!
 
 00:57:35,840 --> 00:57:38,119
 <i>No!</i>
-Ne...!
-[No...!]
+<i>Ne...!</i>
+<i>[No...!]</i>
 
 00:57:37,120 --> 00:57:39,279
 We can change this winter weather
@@ -5083,8 +5085,8 @@ když pomůžem si ty a já.
 
 00:57:43,320 --> 00:57:45,761
 <i>I can't!</i>
-Já... já... ne...!
-[I... I... do not...!]
+<i>Já... já... ne...!</i>
+<i>[I... I... do not...!]</i>
 
 00:57:53,240 --> 00:57:54,441
 Anna!
