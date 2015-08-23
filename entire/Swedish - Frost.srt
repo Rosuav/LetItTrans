@@ -2392,7 +2392,7 @@ Vänta. Nej!
 [Wait. No!]
 
 00:29:48,200 --> 00:29:50,719
-You! ls there sorcery in you, too?
+You! Is there sorcery in you, too?
 Du! Är du också en häxa eller?
 [You! Are you a witch or something?]
 

@@ -2306,7 +2306,7 @@ Aspettate, no!
 [Wait, no!]
 
 00:29:48,200 --> 00:29:50,719
-You! ls there sorcery in you, too?
+You! Is there sorcery in you, too?
 Tu! Sei una strega anche tu?
 [You! You're a witch, too?]
 

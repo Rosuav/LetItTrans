@@ -1433,7 +1433,7 @@ She must be stopped! You have to go after her.
 Wait, no!
 
 00:29:48,200 --> 00:29:50,719
-You! ls there sorcery in you, too?
+You! Is there sorcery in you, too?
 
 00:29:50,720 --> 00:29:52,359
 Are you a monster, too?
