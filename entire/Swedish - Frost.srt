@@ -1092,39 +1092,39 @@ Så har jag en liten chans!
 I have a small chance!
 
 00:15:43,960 --> 00:15:45,969
-<i>Don't let them in</i>
-<i>Ingen får se</i>
-<i>Let no one see</i>
+{\an8}Don't let them in
+Ingen får se
+Let no one see
 
 00:15:46,200 --> 00:15:48,402
-<i>Don't let them see</i>
-<i>Djupt inom dig</i>
-<i>deep inside you</i>
+{\an8}Don't let them see
+Djupt inom dig
+deep inside you
 
 00:15:48,680 --> 00:15:51,930
-<i>Be the good girl you always have to be</i>
-<i>Låt dem inte genomskåda dig</i>
-<i>Don't let them see through you</i>
+{\an8}Be the good girl you always have to be
+Låt dem inte genomskåda dig
+Don't let them see through you
 
 00:15:53,760 --> 00:15:57,251
-<i>Conceal, don't feel</i>
-<i>Nej, visa ingenting</i>
-<i>No, don't show anything</i>
+{\an8}Conceal, don't feel
+Nej, visa ingenting
+No, don't show anything
 
 00:15:57,400 --> 00:15:59,443
-<i>Put on a show</i>
-<i>Ett skådespel</i>
-<i>A charade</i>
+{\an8}Put on a show
+Ett skådespel
+A charade
 
 00:15:59,840 --> 00:16:03,891
-<i>Make one wrong move and everyone will know</i>
-<i>Gör inga misstag, inget får gå fel</i>
-<i>Make no mistakes, nothing must go wrong</i>
+{\an8}Make one wrong move and everyone will know
+Gör inga misstag, inget får gå fel
+Make no mistakes, nothing must go wrong
 
 00:16:05,080 --> 00:16:07,719
-<i>But it's only for today</i>
-<i>Men det är bara för en dag</i>
-<i>It's only for a day</i>
+{\an8}But it's only for today
+Men det är bara för en dag
+It's only for a day
 
 00:16:06,680 --> 00:16:09,249
 It's only for today
@@ -1132,9 +1132,9 @@ Nu för en enda dag
 For a single day
 
 00:16:07,720 --> 00:16:10,685
-<i>It's agony to wait</i>
-<i>Käns som en evighet</i>
-<i>Feels like an eternity</i>
+{\an8}It's agony to wait
+Käns som en evighet
+Feels like an eternity
 
 00:16:09,250 --> 00:16:10,685
 It's agony to wait
@@ -1142,14 +1142,14 @@ Käns som en evighet!
 Feels like an eternity!
 
 00:16:10,840 --> 00:16:13,691
-<i>Tell the guards to open up</i>
-<i>Vakter, öppna porten nu</i>
-<i>Guards, open the gates now</i>
+{\an8}Tell the guards to open up
+Vakter, öppna porten nu
+Guards, open the gates now
 
 00:16:14,200 --> 00:16:18,928
-<i>The gate</i>
-<i>Det är dags!</i>
-<i>It's time!</i>
+{\an8}The gate
+Det är dags!
+It's time!
 
 00:16:16,680 --> 00:16:18,928
 The gate
@@ -1162,9 +1162,9 @@ Och för första gången nånsin
 And for the first time ever
 
 00:16:22,240 --> 00:16:27,409
-<i>Don't let them in, don't let them see</i>
-<i>Ingen får se djupt inom dig</i>
-<i>Let no one see deep inside you</i>
+{\an8}Don't let them in, don't let them see
+Ingen får se djupt inom dig
+Let no one see deep inside you
 
 00:16:23,600 --> 00:16:27,439
 I'm getting what I'm dreaming of
@@ -1172,9 +1172,9 @@ Så kommer drömmarna slå in!
 The dreams will come true
 
 00:16:27,440 --> 00:16:33,079
-<i>Be the good girl you always have to be</i>
-<i>Låt dem inte genomskåda dig</i>
-<i>Don't let them see through you</i>
+{\an8}Be the good girl you always have to be
+Låt dem inte genomskåda dig
+Don't let them see through you
 
 00:16:29,840 --> 00:16:34,399
 A chance to change my lonely world
@@ -1182,9 +1182,9 @@ En chans att fly min ensamhet
 A chance to escape my loneliness
 
 00:16:33,080 --> 00:16:34,399
-<i>Conceal</i>
-<i>Göm allt</i>
-<i>Hide everything</i>
+{\an8}Conceal
+Göm allt
+Hide everything
 
 00:16:34,400 --> 00:16:39,799
 A chance to find true love
@@ -1192,9 +1192,9 @@ Och finna kärleken
 And find love
 
 00:16:37,720 --> 00:16:41,959
-<i>Conceal, don't feel, don't let them know</i>
-<i>Göm allt, låt ingenting gå fel</i>
-<i>Hide everything, let nothing go wrong</i>
+{\an8}Conceal, don't feel, don't let them know
+Göm allt, låt ingenting gå fel
+Hide everything, let nothing go wrong
 
 00:16:39,800 --> 00:16:41,959
 I know it all ends tomorrow
@@ -1809,9 +1809,9 @@ Alltså, får jag bara säga nåt galet?
 So, can I just say something crazy?
 
 00:23:47,440 --> 00:23:48,766
-<i>I love crazy.</i>
-<i>Jag älskar galet.</i>
-<i>I love crazy.</i>
+{\an8}I love crazy.
+Jag älskar galet.
+I love crazy.
 
 00:23:49,080 --> 00:23:53,649
 All my life has been a series of doors in my face
@@ -1824,19 +1824,19 @@ Och nu plötsligt så möter jag dig
 And then suddenly I meet you
 
 00:23:56,600 --> 00:23:58,959
-<i>I was thinking the same thing, because, like...</i>
-<i>Jag tänkte precis samma sak, för...</i>
-<i>I'm thinking exactly the same thing, because...</i>
+{\an8}I was thinking the same thing, because, like...
+Jag tänkte precis samma sak, för...
+I'm thinking exactly the same thing, because...
 
 00:23:58,960 --> 00:24:03,209
-<i>I've been searching my whole life to find my own place</i>
-<i>Jag känner mig som hemma, som jag varit här förr</i>
-<i>I feel like home, like I've been here before</i>
+{\an8}I've been searching my whole life to find my own place
+Jag känner mig som hemma, som jag varit här förr
+I feel like home, like I've been here before
 
 00:24:03,360 --> 00:24:06,959
-<i>And maybe it's the party talking, or the chocolate fondue</i>
-<i>Eller kan det va' chokladen som förtrollat mig?</i>
-<i>Or could it be the chocolate that enchanted me?</i>
+{\an8}And maybe it's the party talking, or the chocolate fondue
+Eller kan det va' chokladen som förtrollat mig?
+Or could it be the chocolate that enchanted me?
 
 00:24:08,040 --> 00:24:11,079
 But with you
@@ -1844,9 +1844,9 @@ För med dig
 Because with you
 
 00:24:09,080 --> 00:24:12,719
-<i>But with you I found my place</i>
-<i>Här hos dig, här vill jag va'</i>
-<i>I want to be here with you</i>
+{\an8}But with you I found my place
+Här hos dig, här vill jag va'
+I want to be here with you
 
 00:24:11,320 --> 00:24:13,039
 I see your face
@@ -1884,9 +1884,9 @@ Hjärtat slår up sin dörr
 The heart opens its door
 
 00:24:41,880 --> 00:24:43,159
-<i>I mean, it's crazy</i>
-<i>Visst är det märkligt</i>
-<i>Isn't it strange</i>
+{\an8}I mean, it's crazy
+Visst är det märkligt
+Isn't it strange
 
 00:24:42,880 --> 00:24:43,459
 What?
@@ -1894,9 +1894,9 @@ Vad då?
 What?
 
 00:24:43,360 --> 00:24:45,522
-<i>We finish each other's</i>
-<i>Vi avslutar varandras</i>
-<i>We finish each other's</i>
+{\an8}We finish each other's
+Vi avslutar varandras
+We finish each other's
 
 00:24:44,660 --> 00:24:46,022
 Sandwiches
@@ -1904,9 +1904,9 @@ Sandwiches
 (INTERRUPTS) Sandwiches!
 
 00:24:45,560 --> 00:24:46,759
-<i>That's what I was gonna say!</i>
-<i>Det skulle ju jag säga!</i>
-<i>I was gonna say that!</i>
+{\an8}That's what I was gonna say!
+Det skulle ju jag säga!
+I was gonna say that!
 
 00:24:46,760 --> 00:24:47,959
 I've never met someone
@@ -1984,14 +1984,14 @@ Dörr
 Door
 
 00:25:29,560 --> 00:25:31,649
-<i>Can I say something crazy?</i>
-<i>Får jag säga nåt galet?</i>
-<i>Can I say something crazy?</i>
+{\an8}Can I say something crazy?
+Får jag säga nåt galet?
+Can I say something crazy?
 
 00:25:31,840 --> 00:25:33,644
-<i>Will you marry me?</i>
-<i>Vill du gifta dig med mig?</i>
-<i>Will you marry me?</i>
+{\an8}Will you marry me?
+Vill du gifta dig med mig?
+Will you marry me?
 
 00:25:33,960 --> 00:25:35,844
 Can I say something even crazier?
@@ -4175,9 +4175,9 @@ Men ge mig en sommar så blir jag...
 But give me summer and I'll be...
 
 00:48:43,520 --> 00:48:44,520
-<i>(puddle?)</i>
-<i>(vatten?)</i>
-<i>(water?)</i>
+{\an8}(puddle?)
+(vatten?)
+(water?)
 
 00:48:44,840 --> 00:48:46,599
 Happy snowman!
@@ -5002,24 +5002,24 @@ Finns jag för dig beredd
 I'm right here for you
 
 00:56:16,920 --> 00:56:18,199
-<i>Anna.</i>
-<i>Anna.</i>
-<i>Anna.</i>
+{\an8}Anna.
+Anna.
+Anna.
 
 00:56:18,200 --> 00:56:20,119
-<i>Please go back home</i>
-<i>snälla, gå hem</i>
-<i>please, go home</i>
+{\an8}Please go back home
+snälla, gå hem
+please, go home
 
 00:56:20,120 --> 00:56:21,890
-<i>Your life awaits</i>
-<i>Du har din man</i>
-<i>You have your man</i>
+{\an8}Your life awaits
+Du har din man
+You have your man
 
 00:56:22,760 --> 00:56:26,239
-<i>Go enjoy the sun, and open up the gates</i>
-<i>Gå och njut av solen och öppna portarna</i>
-<i>Go and enjoy the sun and open the gates</i>
+{\an8}Go enjoy the sun, and open up the gates
+Gå och njut av solen och öppna portarna
+Go and enjoy the sun and open the gates
 
 00:56:26,240 --> 00:56:27,350
 Yeah, but...
@@ -5027,29 +5027,29 @@ Ja, men...
 Yeah, but...
 
 00:56:26,970 --> 00:56:27,719
-<i>I know.</i>
-<i>Jag vet,</i>
-<i>I know,</i>
+{\an8}I know.
+Jag vet,
+I know,
 
 00:56:27,720 --> 00:56:32,050
-<i>You mean well, but leave me be</i>
-<i>du vill väl. Men jag har min magi</i>
-<i>you mean well. But I have my magic</i>
+{\an8}You mean well, but leave me be
+du vill väl. Men jag har min magi
+you mean well. But I have my magic
 
 00:56:32,120 --> 00:56:33,559
-<i>Yes, I'm alone</i>
-<i>Visst, jag är ensam</i>
-<i>Sure, I'm alone</i>
+{\an8}Yes, I'm alone
+Visst, jag är ensam
+Sure, I'm alone
 
 00:56:33,560 --> 00:56:36,519
-<i>But I'm alone and free</i>
-<i>men jag är också fri</i>
-<i>but I'm also free</i>
+{\an8}But I'm alone and free
+men jag är också fri
+but I'm also free
 
 00:56:36,520 --> 00:56:41,282
-<i>Just stay away and you'll be safe from me</i>
-<i>Så håll dig borta, undvik tragedi</i>
-<i>So stay away, avoid tragedy</i>
+{\an8}Just stay away and you'll be safe from me
+Så håll dig borta, undvik tragedi
+So stay away, avoid tragedy
 
 00:56:42,320 --> 00:56:43,521
 Actually, we're not
@@ -5057,9 +5057,9 @@ Det är nog försent
 It's probably too late
 
 00:56:43,680 --> 00:56:44,950
-<i>What do you mean, you're not?</i>
-<i>Vad menar du försent?</i>
-<i>What do you mean, too late?</i>
+{\an8}What do you mean, you're not?
+Vad menar du försent?
+What do you mean, too late?
 
 00:56:44,760 --> 00:56:46,450
 I get the feeling you don't know
@@ -5067,9 +5067,9 @@ Det verkar som du inte vet
 It seems like you don't know
 
 00:56:46,320 --> 00:56:47,681
-<i>What do I not know?</i>
-<i>Vad är det jag inte vet?</i>
-<i>What is it I don't know?</i>
+{\an8}What do I not know?
+Vad är det jag inte vet?
+What is it I don't know?
 
 00:56:48,000 --> 00:56:51,399
 Arendelle's in deep, deep, deep
@@ -5082,9 +5082,9 @@ djup... snö
 deep... snow
 
 00:56:53,840 --> 00:56:55,041
-<i>What?</i>
-<i>Va?</i>
-<i>What?</i>
+{\an8}What?
+Va?
+What?
 
 00:56:55,320 --> 00:56:59,002
 You kind of set off an eternal winter everywhere.
@@ -5092,9 +5092,9 @@ Du råkade liksom skapa en evig vinter... överallt.
 You accidentally created an eternal winter... everywhere.
 
 00:56:59,200 --> 00:57:00,359
-<i>Everywhere?</i>
-<i>Överallt?</i>
-<i>Everywhere?</i>
+{\an8}Everywhere?
+Överallt?
+Everywhere?
 
 00:57:00,360 --> 00:57:02,279
 Well, it's okay, you can just unfreeze it.
@@ -5102,9 +5102,9 @@ Det gör inget! Du kan väl bara värma upp allt.
 It doesn't matter! You can just warm everything up.
 
 00:57:02,280 --> 00:57:04,528
-<i>No, I can't. I don't know how.</i>
-<i>Nej! Jag tror inte att jag kan det.</i>
-<i>No! I don't think that I can.</i>
+{\an8}No, I can't. I don't know how.
+Nej! Jag tror inte att jag kan det.
+No! I don't think that I can.
 
 00:57:04,560 --> 00:57:07,081
 Sure you can. I know you can.
@@ -5117,9 +5117,9 @@ För nu, för första gången nånsin
 Because now, for the first time ever
 
 00:57:09,450 --> 00:57:15,519
-<i>Oh, I'm such a fool! I can't be free!</i>
-<i>Åh, så dum jag var! Blir aldrig fri!</i>
-<i>What a fool I was! Will never be free!</i>
+{\an8}Oh, I'm such a fool! I can't be free!
+Åh, så dum jag var! Blir aldrig fri!
+What a fool I was! Will never be free!
 
 00:57:12,650 --> 00:57:17,950
 You don't have to be afraid
@@ -5127,9 +5127,9 @@ Tillsammans blir det bra
 Together it will be okay
 
 00:57:15,920 --> 00:57:18,839
-<i>No escape from the storm inside of me</i>
-<i>Från den storm som rasar inuti</i>
-<i>From the storm that rages deep within</i>
+{\an8}No escape from the storm inside of me
+Från den storm som rasar inuti
+From the storm that rages deep within
 
 00:57:18,040 --> 00:57:21,839
 We can work this out together
@@ -5137,9 +5137,9 @@ Och för första gången nånsin
 And for the first time ever
 
 00:57:20,840 --> 00:57:22,819
-<i>I can't control the curse!</i>
-<i>Förlorat och förstört!</i>
-<i>Lost and ruined!</i>
+{\an8}I can't control the curse!
+Förlorat och förstört!
+Lost and ruined!
 
 00:57:22,720 --> 00:57:26,639
 We'll reverse the storm you've made
@@ -5147,9 +5147,9 @@ Kuvar vi stormen du och jag
 We'll suppress the storm, you and me
 
 00:57:26,040 --> 00:57:29,219
-<i>Anna, please you'll only make it worse!</i>
-<i>Anna, tror du inte jag försökt?</i>
-<i>Anna, don't you think I tried?</i>
+{\an8}Anna, please you'll only make it worse!
+Anna, tror du inte jag försökt?
+Anna, don't you think I tried?
 
 00:57:29,120 --> 00:57:31,019
 Don't panic!
@@ -5157,9 +5157,9 @@ Lugn bara
 Just calm down
 
 00:57:29,820 --> 00:57:31,319
-<i>There's so much fear!</i>
-<i>Det är allt jag begär</i>
-<i>That's all I ask</i>
+{\an8}There's so much fear!
+Det är allt jag begär
+That's all I ask
 
 00:57:31,020 --> 00:57:33,919
 We'll make the sun shine bright
@@ -5167,9 +5167,9 @@ Låt kärleken stråla ljus
 When love shines brightly
 
 00:57:32,820 --> 00:57:35,319
-<i>You're not safe here!</i>
-<i>Du är inte trygg här!</i>
-<i>You're not safe here</i>
+{\an8}You're not safe here!
+Du är inte trygg här!
+You're not safe here
 
 00:57:34,320 --> 00:57:37,119
 We can face this thing together
@@ -5177,9 +5177,9 @@ Låt oss lämna dessa trakter
 Let us leave these lands
 
 00:57:35,840 --> 00:57:38,119
-<i>No!</i>
-<i>(LÅNG TON)A-a-a-ah!</i>
-<i>[(long sound) A-a-a-ah]</i>
+{\an8}No!
+(LÅNG TON)A-a-a-ah!
+[(long sound) A-a-a-ah]
 
 00:57:37,120 --> 00:57:39,279
 We can change this winter weather
@@ -5192,9 +5192,9 @@ Och allting ska bli bra
 And everything will be alright
 
 00:57:43,320 --> 00:57:45,761
-<i>I can't!</i>
-<i>Låt mig va!</i>
-<i>Leave me alone!</i>
+{\an8}I can't!
+Låt mig va!
+Leave me alone!
 
 00:57:53,240 --> 00:57:54,441
 Anna!

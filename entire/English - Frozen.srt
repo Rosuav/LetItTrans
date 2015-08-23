@@ -653,40 +653,40 @@ But for the first time in forever
 At least I've got a chance!
 
 00:15:43,960 --> 00:15:45,969
-<i>Don't let them in</i>
+{\an8}Don't let them in
 
 00:15:46,200 --> 00:15:48,402
-<i>Don't let them see</i>
+{\an8}Don't let them see
 
 00:15:48,680 --> 00:15:51,930
-<i>Be the good girl you always have to be</i>
+{\an8}Be the good girl you always have to be
 
 00:15:53,760 --> 00:15:57,251
-<i>Conceal, don't feel</i>
+{\an8}Conceal, don't feel
 
 00:15:57,400 --> 00:15:59,443
-<i>Put on a show</i>
+{\an8}Put on a show
 
 00:15:59,840 --> 00:16:03,891
-<i>Make one wrong move and everyone will know</i>
+{\an8}Make one wrong move and everyone will know
 
 00:16:05,080 --> 00:16:07,719
-<i>But it's only for today</i>
+{\an8}But it's only for today
 
 00:16:06,680 --> 00:16:09,249
 It's only for today
 
 00:16:07,720 --> 00:16:10,685
-<i>It's agony to wait</i>
+{\an8}It's agony to wait
 
 00:16:09,250 --> 00:16:10,685
 It's agony to wait
 
 00:16:10,840 --> 00:16:13,691
-<i>Tell the guards to open up</i>
+{\an8}Tell the guards to open up
 
 00:16:14,200 --> 00:16:18,928
-<i>The gate</i>
+{\an8}The gate
 
 00:16:16,680 --> 00:16:18,928
 The gate
@@ -695,25 +695,25 @@ The gate
 For the first time in forever
 
 00:16:22,240 --> 00:16:27,409
-<i>Don't let them in, don't let them see</i>
+{\an8}Don't let them in, don't let them see
 
 00:16:23,600 --> 00:16:27,439
 I'm getting what I'm dreaming of
 
 00:16:27,440 --> 00:16:33,079
-<i>Be the good girl you always have to be</i>
+{\an8}Be the good girl you always have to be
 
 00:16:29,840 --> 00:16:34,399
 A chance to change my lonely world
 
 00:16:33,080 --> 00:16:34,399
-<i>Conceal</i>
+{\an8}Conceal
 
 00:16:34,400 --> 00:16:39,799
 A chance to find true love
 
 00:16:37,720 --> 00:16:41,959
-<i>Conceal, don't feel, don't let them know</i>
+{\an8}Conceal, don't feel, don't let them know
 
 00:16:39,800 --> 00:16:41,959
 I know it all ends tomorrow
@@ -1085,7 +1085,7 @@ I would never shut you out.
 Okay, can I just say something crazy?
 
 00:23:47,440 --> 00:23:48,766
-<i>I love crazy.</i>
+{\an8}I love crazy.
 
 00:23:49,080 --> 00:23:53,649
 All my life has been a series of doors in my face
@@ -1094,19 +1094,19 @@ All my life has been a series of doors in my face
 And then suddenly I bump into you
 
 00:23:56,600 --> 00:23:58,959
-<i>I was thinking the same thing, because, like...</i>
+{\an8}I was thinking the same thing, because, like...
 
 00:23:58,960 --> 00:24:03,209
-<i>I've been searching my whole life to find my own place</i>
+{\an8}I've been searching my whole life to find my own place
 
 00:24:03,360 --> 00:24:06,959
-<i>And maybe it's the party talking, or the chocolate fondue</i>
+{\an8}And maybe it's the party talking, or the chocolate fondue
 
 00:24:08,040 --> 00:24:11,079
 But with you
 
 00:24:09,080 --> 00:24:12,719
-<i>But with you I found my place</i>
+{\an8}But with you I found my place
 
 00:24:11,320 --> 00:24:13,039
 I see your face
@@ -1130,19 +1130,19 @@ With you
 Love is an open door
 
 00:24:41,880 --> 00:24:43,159
-<i>I mean, it's crazy</i>
+{\an8}I mean, it's crazy
 
 00:24:42,880 --> 00:24:43,459
 What?
 
 00:24:43,360 --> 00:24:45,522
-<i>We finish each other's</i>
+{\an8}We finish each other's
 
 00:24:44,660 --> 00:24:46,022
 Sandwiches
 
 00:24:45,560 --> 00:24:46,759
-<i>That's what I was gonna say!</i>
+{\an8}That's what I was gonna say!
 
 00:24:46,760 --> 00:24:47,959
 I've never met someone
@@ -1190,10 +1190,10 @@ Love is an open
 Door
 
 00:25:29,560 --> 00:25:31,649
-<i>Can I say something crazy?</i>
+{\an8}Can I say something crazy?
 
 00:25:31,840 --> 00:25:33,644
-<i>Will you marry me?</i>
+{\an8}Will you marry me?
 
 00:25:33,960 --> 00:25:35,844
 Can I say something even crazier?
@@ -2495,7 +2495,7 @@ Winter's a good time to stay in and cuddle
 But put me in summer and I'll be a...
 
 00:48:43,520 --> 00:48:44,520
-<i>(puddle?)</i>
+{\an8}(puddle?)
 
 00:48:44,840 --> 00:48:46,599
 Happy snowman!
@@ -2999,46 +2999,46 @@ You don't have to live in fear
 I will be right here
 
 00:56:16,920 --> 00:56:18,199
-<i>Anna.</i>
+{\an8}Anna.
 
 00:56:18,200 --> 00:56:20,119
-<i>Please go back home</i>
+{\an8}Please go back home
 
 00:56:20,120 --> 00:56:21,890
-<i>Your life awaits</i>
+{\an8}Your life awaits
 
 00:56:22,760 --> 00:56:26,239
-<i>Go enjoy the sun, and open up the gates</i>
+{\an8}Go enjoy the sun, and open up the gates
 
 00:56:26,240 --> 00:56:27,350
 Yeah, but...
 
 00:56:26,970 --> 00:56:27,719
-<i>I know.</i>
+{\an8}I know.
 
 00:56:27,720 --> 00:56:32,050
-<i>You mean well, but leave me be</i>
+{\an8}You mean well, but leave me be
 
 00:56:32,120 --> 00:56:33,559
-<i>Yes, I'm alone</i>
+{\an8}Yes, I'm alone
 
 00:56:33,560 --> 00:56:36,519
-<i>But I'm alone and free</i>
+{\an8}But I'm alone and free
 
 00:56:36,520 --> 00:56:41,282
-<i>Just stay away and you'll be safe from me</i>
+{\an8}Just stay away and you'll be safe from me
 
 00:56:42,320 --> 00:56:43,521
 Actually, we're not
 
 00:56:43,680 --> 00:56:44,950
-<i>What do you mean, you're not?</i>
+{\an8}What do you mean, you're not?
 
 00:56:44,760 --> 00:56:46,450
 I get the feeling you don't know
 
 00:56:46,320 --> 00:56:47,681
-<i>What do I not know?</i>
+{\an8}What do I not know?
 
 00:56:48,000 --> 00:56:51,399
 Arendelle's in deep, deep, deep
@@ -3047,19 +3047,19 @@ Arendelle's in deep, deep, deep
 deep snow
 
 00:56:53,840 --> 00:56:55,041
-<i>What?</i>
+{\an8}What?
 
 00:56:55,320 --> 00:56:59,002
 You kind of set off an eternal winter everywhere.
 
 00:56:59,200 --> 00:57:00,359
-<i>Everywhere?</i>
+{\an8}Everywhere?
 
 00:57:00,360 --> 00:57:02,279
 Well, it's okay, you can just unfreeze it.
 
 00:57:02,280 --> 00:57:04,528
-<i>No, I can't. I don't know how.</i>
+{\an8}No, I can't. I don't know how.
 
 00:57:04,560 --> 00:57:07,081
 Sure you can. I know you can.
@@ -3068,43 +3068,43 @@ Sure you can. I know you can.
 'Cause for the first time in forever
 
 00:57:09,450 --> 00:57:15,519
-<i>Oh, I'm such a fool! I can't be free!</i>
+{\an8}Oh, I'm such a fool! I can't be free!
 
 00:57:12,650 --> 00:57:17,950
 You don't have to be afraid
 
 00:57:15,920 --> 00:57:18,839
-<i>No escape from the storm inside of me</i>
+{\an8}No escape from the storm inside of me
 
 00:57:18,040 --> 00:57:21,839
 We can work this out together
 
 00:57:20,840 --> 00:57:22,819
-<i>I can't control the curse!</i>
+{\an8}I can't control the curse!
 
 00:57:22,720 --> 00:57:26,639
 We'll reverse the storm you've made
 
 00:57:26,040 --> 00:57:29,219
-<i>Anna, please you'll only make it worse!</i>
+{\an8}Anna, please you'll only make it worse!
 
 00:57:29,120 --> 00:57:31,019
 Don't panic!
 
 00:57:29,820 --> 00:57:31,319
-<i>There's so much fear!</i>
+{\an8}There's so much fear!
 
 00:57:31,020 --> 00:57:33,919
 We'll make the sun shine bright
 
 00:57:32,820 --> 00:57:35,319
-<i>You're not safe here!</i>
+{\an8}You're not safe here!
 
 00:57:34,320 --> 00:57:37,119
 We can face this thing together
 
 00:57:35,840 --> 00:57:38,119
-<i>No!</i>
+{\an8}No!
 
 00:57:37,120 --> 00:57:39,279
 We can change this winter weather
@@ -3113,7 +3113,7 @@ We can change this winter weather
 And everything will be all right
 
 00:57:43,320 --> 00:57:45,761
-<i>I can't!</i>
+{\an8}I can't!
 
 00:57:53,240 --> 00:57:54,441
 Anna!

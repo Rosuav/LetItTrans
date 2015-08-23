@@ -1056,39 +1056,39 @@ Está tudo a meu favor.
 Everything is in my favor
 
 00:15:43,960 --> 00:15:45,969
-<i>Don't let them in</i>
-<i>Não vão entrar,</i>
-<i>They will not enter,</i>
+{\an8}Don't let them in
+Não vão entrar,
+They will not enter,
 
 00:15:46,200 --> 00:15:48,402
-<i>Don't let them see</i>
-<i>Não podem ver</i>
-<i>They cannot see</i>
+{\an8}Don't let them see
+Não podem ver
+They cannot see
 
 00:15:48,680 --> 00:15:51,930
-<i>Be the good girl you always have to be</i>
-<i>Sê a menina que tu tens de ser</i>
-<i>Be the girl you have to be</i>
+{\an8}Be the good girl you always have to be
+Sê a menina que tu tens de ser
+Be the girl you have to be
 
 00:15:53,760 --> 00:15:57,251
-<i>Conceal, don't feel</i>
-<i>Esconder, conter</i>
-<i>Hide, contain</i>
+{\an8}Conceal, don't feel
+Esconder, conter
+Hide, contain
 
 00:15:57,400 --> 00:15:59,443
-<i>Put on a show</i>
-<i>Ouve a razão</i>
-<i>Listen to the reason</i>
+{\an8}Put on a show
+Ouve a razão
+Listen to the reason
 
 00:15:59,840 --> 00:16:03,891
-<i>Make one wrong move and everyone will know</i>
-<i>Um passo errado e todos saberão</i>
-<i>A wrong step and everyone will know</i>
+{\an8}Make one wrong move and everyone will know
+Um passo errado e todos saberão
+A wrong step and everyone will know
 
 00:16:05,080 --> 00:16:07,719
-<i>But it's only for today</i>
-<i>Hoje tenho de aguentar</i>
-<i>Today I have to endure</i>
+{\an8}But it's only for today
+Hoje tenho de aguentar
+Today I have to endure
 
 00:16:06,680 --> 00:16:09,249
 It's only for today
@@ -1096,9 +1096,9 @@ Eu tenho de aguentar!
 I have to endure!
 
 00:16:07,720 --> 00:16:10,685
-<i>It's agony to wait</i>
-<i>Tenho que esperar</i>
-<i>I have to wait</i>
+{\an8}It's agony to wait
+Tenho que esperar
+I have to wait
 
 00:16:09,250 --> 00:16:10,685
 It's agony to wait
@@ -1106,14 +1106,14 @@ Tenho que esperar
 Have to wait
 
 00:16:10,840 --> 00:16:13,691
-<i>Tell the guards to open up</i>
-<i>Abram os portões</i>
-<i>Open the gates...</i>
+{\an8}Tell the guards to open up
+Abram os portões
+Open the gates...
 
 00:16:14,200 --> 00:16:18,928
-<i>The gate</i>
-<i>de par em par!</i>
-<i>... wide!</i>
+{\an8}The gate
+de par em par!
+... wide!
 
 00:16:16,680 --> 00:16:18,928
 The gate
@@ -1126,9 +1126,9 @@ Pela primeira vez para sempre
 For the first time in forever
 
 00:16:22,240 --> 00:16:27,409
-<i>Don't let them in, don't let them see</i>
-<i>Não vão entrar, não podem ver</i>
-<i>They will not enter, they cannot see</i>
+{\an8}Don't let them in, don't let them see
+Não vão entrar, não podem ver
+They will not enter, they cannot see
 
 00:16:23,600 --> 00:16:27,439
 I'm getting what I'm dreaming of
@@ -1136,9 +1136,9 @@ Eu tenho tudo o que eu sonhei
 I have everything I've dreamed
 
 00:16:27,440 --> 00:16:33,079
-<i>Be the good girl you always have to be</i>
-<i>A menina que esperam tu vais ser</i>
-<i>You will be the girl they expect you to be</i>
+{\an8}Be the good girl you always have to be
+A menina que esperam tu vais ser
+You will be the girl they expect you to be
 
 00:16:29,840 --> 00:16:34,399
 A chance to change my lonely world
@@ -1146,9 +1146,9 @@ Num mundo novo viverei
 I will live in a new world
 
 00:16:33,080 --> 00:16:34,399
-<i>Conceal</i>
-<i>Esconder</i>
-<i>Hide</i>
+{\an8}Conceal
+Esconder
+Hide
 
 00:16:34,400 --> 00:16:39,799
 A chance to find true love
@@ -1156,9 +1156,9 @@ O amor encontrarei
 I will find love
 
 00:16:37,720 --> 00:16:41,959
-<i>Conceal, don't feel, don't let them know</i>
-<i>Tens de esconder, ou saberão</i>
-<i>You have to hide, or they will know</i>
+{\an8}Conceal, don't feel, don't let them know
+Tens de esconder, ou saberão
+You have to hide, or they will know
 
 00:16:39,800 --> 00:16:41,959
 I know it all ends tomorrow
@@ -1746,9 +1746,9 @@ Deixas-me dizer uma parvoíce?
 [Will you let me tell you silly?]
 
 00:23:47,440 --> 00:23:48,766
-<i>I love crazy.</i>
-<i>Eu adoro parvoíces.</i>
-<i>[I love nonsense.]</i>
+{\an8}I love crazy.
+Eu adoro parvoíces.
+[I love nonsense.]
 
 00:23:49,080 --> 00:23:53,649
 All my life has been a series of doors in my face
@@ -1761,19 +1761,19 @@ E então de repente apareces tu.
 [And then suddenly you show up.]
 
 00:23:56,600 --> 00:23:58,959
-<i>I was thinking the same thing, because, like...</i>
-<i>Estava a pensar a mesma coisa porque...</i>
-<i>[I was thinking the same thing because...]</i>
+{\an8}I was thinking the same thing, because, like...
+Estava a pensar a mesma coisa porque...
+[I was thinking the same thing because...]
 
 00:23:58,960 --> 00:24:03,209
-<i>I've been searching my whole life to find my own place</i>
-<i>Eu procuro um lugar onde o mundo pare</i>
-<i>[I look for a place where the world stops]</i>
+{\an8}I've been searching my whole life to find my own place
+Eu procuro um lugar onde o mundo pare
+[I look for a place where the world stops]
 
 00:24:03,360 --> 00:24:06,959
-<i>And maybe it's the party talking, or the chocolate fondue</i>
-<i>Será o efeito dessa festa, ou será o fondue?</i>
-<i>[It will be the effect of this party, or will the fondue?]</i>
+{\an8}And maybe it's the party talking, or the chocolate fondue
+Será o efeito dessa festa, ou será o fondue?
+[It will be the effect of this party, or will the fondue?]
 
 00:24:08,040 --> 00:24:11,079
 But with you
@@ -1781,9 +1781,9 @@ Mas és tu
 [But thou,]
 
 00:24:09,080 --> 00:24:12,719
-<i>But with you I found my place</i>
-<i>Mas és tu que o mundo paras</i>
-<i>[But it is you that the world paras]</i>
+{\an8}But with you I found my place
+Mas és tu que o mundo paras
+[But it is you that the world paras]
 
 00:24:11,320 --> 00:24:13,039
 I see your face
@@ -1821,9 +1821,9 @@ A porta é o amor.
 [The door is love.]
 
 00:24:41,880 --> 00:24:43,159
-<i>I mean, it's crazy</i>
-<i>É muito estranho.</i>
-<i>[It's very weird.]</i>
+{\an8}I mean, it's crazy
+É muito estranho.
+[It's very weird.]
 
 00:24:42,880 --> 00:24:43,459
 What?
@@ -1831,9 +1831,9 @@ O quê?
 [What?]
 
 00:24:43,360 --> 00:24:45,522
-<i>We finish each other's</i>
-<i>Gostamos das mesmas...</i>
-<i>[We like the same...]</i>
+{\an8}We finish each other's
+Gostamos das mesmas...
+[We like the same...]
 
 00:24:44,660 --> 00:24:46,022
 Sandwiches
@@ -1841,9 +1841,9 @@ Sanduíches.
 [Sandwiches.]
 
 00:24:45,560 --> 00:24:46,759
-<i>That's what I was gonna say!</i>
-<i>Era o que eu ia dizer!</i>
-<i>[That's what I was going to say!]</i>
+{\an8}That's what I was gonna say!
+Era o que eu ia dizer!
+[That's what I was going to say!]
 
 00:24:46,760 --> 00:24:47,959
 I've never met someone
@@ -1919,14 +1919,14 @@ Amor.
 [Love.]
 
 00:25:29,560 --> 00:25:31,649
-<i>Can I say something crazy?</i>
-<i>Posso dizer algo estúpido?</i>
-<i>[Can I say something stupid?]</i>
+{\an8}Can I say something crazy?
+Posso dizer algo estúpido?
+[Can I say something stupid?]
 
 00:25:31,840 --> 00:25:33,644
-<i>Will you marry me?</i>
-<i>Casas comigo?</i>
-<i>[Marry me?]</i>
+{\an8}Will you marry me?
+Casas comigo?
+[Marry me?]
 
 00:25:33,960 --> 00:25:35,844
 Can I say something even crazier?
@@ -4010,7 +4010,7 @@ Mas venha o Verão para ser um feliz...
 [But come the summer to be a happy...]
 
 00:48:43,520 --> 00:48:44,520
-<i>(puddle?)</i>
+{\an8}(puddle?)
 
 00:48:44,840 --> 00:48:46,599
 Happy snowman!
@@ -4822,22 +4822,22 @@ Eu estou mesmo aqui.
 I am right here.
 
 00:56:16,920 --> 00:56:18,199
-<i>Anna.</i>
+{\an8}Anna.
 
 00:56:18,200 --> 00:56:20,119
-<i>Please go back home</i>
-<i>Vai por favor.</i>
-<i>Please go.</i>
+{\an8}Please go back home
+Vai por favor.
+Please go.
 
 00:56:20,120 --> 00:56:21,890
-<i>Your life awaits</i>
-<i>Tens uma vida.</i>
-<i>You have a life to live.</i>
+{\an8}Your life awaits
+Tens uma vida.
+You have a life to live.
 
 00:56:22,760 --> 00:56:26,239
-<i>Go enjoy the sun, and open up the gates</i>
-<i>Vai sentir o sol e abre os portões.</i>
-<i>Go, feel the sun and open up the gates.</i>
+{\an8}Go enjoy the sun, and open up the gates
+Vai sentir o sol e abre os portões.
+Go, feel the sun and open up the gates.
 
 00:56:26,240 --> 00:56:27,350
 Yeah, but...
@@ -4845,29 +4845,29 @@ Sim, mas...
 Yes, but...
 
 00:56:26,970 --> 00:56:27,719
-<i>I know.</i>
-<i>Deixa-me.</i>
-<i>Leave me.</i>
+{\an8}I know.
+Deixa-me.
+Leave me.
 
 00:56:27,720 --> 00:56:32,050
-<i>You mean well, but leave me be</i>
-<i>Eu bem sei... Deixa-me aqui...</i>
-<i>I know best... Leave me here...</i>
+{\an8}You mean well, but leave me be
+Eu bem sei... Deixa-me aqui...
+I know best... Leave me here...
 
 00:56:32,120 --> 00:56:33,559
-<i>Yes, I'm alone</i>
-<i>Sim eu estou só,</i>
-<i>Yes, I am alone,</i>
+{\an8}Yes, I'm alone
+Sim eu estou só,
+Yes, I am alone,
 
 00:56:33,560 --> 00:56:36,519
-<i>But I'm alone and free</i>
-<i>mas estou tão bem enfim!</i>
-<i>but I'm fine at last!</i>
+{\an8}But I'm alone and free
+mas estou tão bem enfim!
+but I'm fine at last!
 
 00:56:36,520 --> 00:56:41,282
-<i>Just stay away and you'll be safe from me</i>
-<i>Só a distância os salvará de mim.</i>
-<i>Only distance will keep them safe from me.</i>
+{\an8}Just stay away and you'll be safe from me
+Só a distância os salvará de mim.
+Only distance will keep them safe from me.
 
 00:56:42,320 --> 00:56:43,521
 Actually, we're not
@@ -4875,9 +4875,9 @@ Não é bem assim.
 That is not strictly true.
 
 00:56:43,680 --> 00:56:44,950
-<i>What do you mean, you're not?</i>
-<i>O que é que queres dizer?</i>
-<i>What do you mean?</i>
+{\an8}What do you mean, you're not?
+O que é que queres dizer?
+What do you mean?
 
 00:56:44,760 --> 00:56:46,450
 I get the feeling you don't know
@@ -4885,9 +4885,9 @@ Não sabes o que acounteceu?
 You don't know what happened?
 
 00:56:46,320 --> 00:56:47,681
-<i>What do I not know?</i>
-<i>O que aconteceu?</i>
-<i>What has happened?</i>
+{\an8}What do I not know?
+O que aconteceu?
+What has happened?
 
 00:56:48,000 --> 00:56:51,399
 Arendelle's in deep, deep, deep
@@ -4898,9 +4898,9 @@ Arendelle is buried in snow.
 deep snow
 
 00:56:53,840 --> 00:56:55,041
-<i>What?</i>
-<i>O quê?</i>
-<i>What?</i>
+{\an8}What?
+O quê?
+What?
 
 00:56:55,320 --> 00:56:59,002
 You kind of set off an eternal winter everywhere.
@@ -4908,9 +4908,9 @@ You kind of set off an eternal winter everywhere.
 You cast an eternal winter, everywhere.
 
 00:56:59,200 --> 00:57:00,359
-<i>Everywhere?</i>
-<i>Em todo o lado?</i>
-<i>Everywhere?</i>
+{\an8}Everywhere?
+Em todo o lado?
+Everywhere?
 
 00:57:00,360 --> 00:57:02,279
 Well, it's okay, you can just unfreeze it.
@@ -4918,9 +4918,9 @@ Tudo bem. Só tens de desfazê-lo.
 It's okay, you just have to undo it.
 
 00:57:02,280 --> 00:57:04,528
-<i>No, I can't. I don't know how.</i>
-<i>Não posso nada! Eu não sei como!</i>
-<i>No, I can't! I don't know how!</i>
+{\an8}No, I can't. I don't know how.
+Não posso nada! Eu não sei como!
+No, I can't! I don't know how!
 
 00:57:04,560 --> 00:57:07,081
 Sure you can. I know you can.
@@ -4933,9 +4933,9 @@ Pois pela primeira vez para sempre
 Because for the first time in forever
 
 00:57:09,450 --> 00:57:15,519
-<i>Oh, I'm such a fool! I can't be free!</i>
-<i>Não quero mais viver assim!</i>
-<i>Oh, I don't want to live like this any more!</i>
+{\an8}Oh, I'm such a fool! I can't be free!
+Não quero mais viver assim!
+Oh, I don't want to live like this any more!
 
 00:57:12,650 --> 00:57:17,950
 You don't have to be afraid
@@ -4943,9 +4943,9 @@ Não lamento a verdade!
 I do not regret the truth!
 
 00:57:15,920 --> 00:57:18,839
-<i>No escape from the storm inside of me</i>
-<i>Não me livro da dor que há em mim!</i>
-<i>I can't get rid of the hurt inside!</i>
+{\an8}No escape from the storm inside of me
+Não me livro da dor que há em mim!
+I can't get rid of the hurt inside!
 
 00:57:18,040 --> 00:57:21,839
 We can work this out together
@@ -4953,9 +4953,9 @@ E quando o amor se sente,
 And with love, at last,
 
 00:57:20,840 --> 00:57:22,819
-<i>I can't control the curse!</i>
-<i>Desta maldição!</i>
-<i>This curse!</i>
+{\an8}I can't control the curse!
+Desta maldição!
+This curse!
 
 00:57:22,720 --> 00:57:26,639
 We'll reverse the storm you've made
@@ -4963,9 +4963,9 @@ Pomos fim à tempestade!
 We'll bring an end to the storm!
 
 00:57:26,040 --> 00:57:29,219
-<i>Anna, please you'll only make it worse!</i>
-<i>Anna isto é só uma ilusão!</i>
-<i>Anna, this is but an illusion!</i>
+{\an8}Anna, please you'll only make it worse!
+Anna isto é só uma ilusão!
+Anna, this is but an illusion!
 
 00:57:29,120 --> 00:57:31,019
 Don't panic!
@@ -4973,9 +4973,9 @@ Nós vamos
 Together we'll
 
 00:57:29,820 --> 00:57:31,319
-<i>There's so much fear!</i>
-<i>Ouve o que eu digo</i>
-<i>Listen to me</i>
+{\an8}There's so much fear!
+Ouve o que eu digo
+Listen to me
 
 00:57:31,020 --> 00:57:33,919
 We'll make the sun shine bright
@@ -4983,9 +4983,9 @@ fazer o sol brilhar!
 make the sun shine!
 
 00:57:32,820 --> 00:57:35,319
-<i>You're not safe here!</i>
-<i>estás em perigo!</i>
-<i>you're in danger!</i>
+{\an8}You're not safe here!
+estás em perigo!
+you're in danger!
 
 00:57:34,320 --> 00:57:37,119
 We can face this thing together
@@ -4993,7 +4993,7 @@ Tudo em frente, porque juntas
 Let's forge ahead together
 
 00:57:35,840 --> 00:57:38,119
-<i>No!</i>
+{\an8}No!
 
 00:57:37,120 --> 00:57:39,279
 We can change this winter weather
@@ -5004,9 +5004,9 @@ we can do it!
 And everything will be all right
 
 00:57:43,320 --> 00:57:45,761
-<i>I can't!</i>
-<i>Não posso!</i>
-<i>I can't!</i>
+{\an8}I can't!
+Não posso!
+I can't!
 
 00:57:53,240 --> 00:57:54,441
 Anna!

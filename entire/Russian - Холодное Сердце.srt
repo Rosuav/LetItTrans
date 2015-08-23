@@ -1286,46 +1286,46 @@ Dolžno mne povezti!
 [Should I get lucky!]
 
 00:15:43,960 --> 00:15:45,969
-<i>Don't let them in</i>
-<i>Не открывай,</i>
-<i>Ne otkryvaj,</i>
-<i>[Do not open,]</i>
+{\an8}Don't let them in
+Не открывай,
+Ne otkryvaj,
+[Do not open,]
 
 00:15:46,200 --> 00:15:48,402
-<i>Don't let them see</i>
-<i>Храни секрет.</i>
-<i>Khrani sekret.</i>
-<i>[Kept secrets.]</i>
+{\an8}Don't let them see
+Храни секрет.
+Khrani sekret.
+[Kept secrets.]
 
 00:15:48,680 --> 00:15:51,930
-<i>Be the good girl you always have to be</i>
-<i>Будь хорошей девочкой для всех.</i>
-<i>Bud’ khorošej devočkoj dlâ vsekh.</i>
-<i>[Be a good girl for all.]</i>
+{\an8}Be the good girl you always have to be
+Будь хорошей девочкой для всех.
+Bud’ khorošej devočkoj dlâ vsekh.
+[Be a good girl for all.]
 
 00:15:53,760 --> 00:15:57,251
-<i>Conceal, don't feel</i>
-<i>Молчи, терпи</i>
-<i>Molči, terpi</i>
-<i>[Be still, be patient]</i>
+{\an8}Conceal, don't feel
+Молчи, терпи
+Molči, terpi
+[Be still, be patient]
 
 00:15:57,400 --> 00:15:59,443
-<i>Put on a show</i>
-<i>Не дай узнать.</i>
-<i>Ne daj uznat’.</i>
-<i>[Do not give to know.]</i>
+{\an8}Put on a show
+Не дай узнать.
+Ne daj uznat’.
+[Do not give to know.]
 
 00:15:59,840 --> 00:16:03,891
-<i>Make one wrong move and everyone will know</i>
-<i>Одна ошибка может всё сломать.</i>
-<i>Odna ošibka možet vsё slomat’.</i>
-<i>[One mistake can still break.]</i>
+{\an8}Make one wrong move and everyone will know
+Одна ошибка может всё сломать.
+Odna ošibka možet vsё slomat’.
+[One mistake can still break.]
 
 00:16:05,080 --> 00:16:07,719
-<i>But it's only for today</i>
-<i>Это только один день.</i>
-<i>Èto tol’ko odin den’.</i>
-<i>[It's only one day.]</i>
+{\an8}But it's only for today
+Это только один день.
+Èto tol’ko odin den’.
+[It's only one day.]
 
 00:16:06,680 --> 00:16:09,249
 It's only for today
@@ -1334,10 +1334,10 @@ Moj samyj lučšij den’
 [My best day]
 
 00:16:07,720 --> 00:16:10,685
-<i>It's agony to wait</i>
-<i>Когда я буду ждать </i>
-<i>Kogda â budu ždat’ </i>
-<i>[When I'll be waiting]</i>
+{\an8}It's agony to wait
+Когда я буду ждать 
+Kogda â budu ždat’ 
+[When I'll be waiting]
 
 00:16:09,250 --> 00:16:10,685
 It's agony to wait
@@ -1346,16 +1346,16 @@ Kogda â budu ždat’.
 [When I'll be waiting.]
 
 00:16:10,840 --> 00:16:13,691
-<i>Tell the guards to open up</i>
-<i>Нам уже пора гостей</i>
-<i>Nam uže pora gostej</i>
-<i>[We have time to guests]</i>
+{\an8}Tell the guards to open up
+Нам уже пора гостей
+Nam uže pora gostej
+[We have time to guests]
 
 00:16:14,200 --> 00:16:18,928
-<i>The gate</i>
-<i>Принять!</i>
-<i>Prinât’!</i>
-<i>[Take!]</i>
+{\an8}The gate
+Принять!
+Prinât’!
+[Take!]
 
 00:16:16,680 --> 00:16:18,928
 The gate
@@ -1370,10 +1370,10 @@ Pust’ vpervye v èto večer
 [Let the first time this evening]
 
 00:16:22,240 --> 00:16:27,409
-<i>Don't let them in, don't let them see</i>
-<i>Не открывай, храни секрет</i>
-<i>Ne otkryvaj, khrani sekret</i>
-<i>[Do not open, keep secrets]</i>
+{\an8}Don't let them in, don't let them see
+Не открывай, храни секрет
+Ne otkryvaj, khrani sekret
+[Do not open, keep secrets]
 
 00:16:23,600 --> 00:16:27,439
 I'm getting what I'm dreaming of
@@ -1382,10 +1382,10 @@ Menâ ne stanet v mire snov
 [I will not be in a world of dreams]
 
 00:16:27,440 --> 00:16:33,079
-<i>Be the good girl you always have to be</i>
-<i>Будь хорошей девочкой для всех.</i>
-<i>Bud’ khorošej devočkoj dlâ vsekh.</i>
-<i>[Be a good girl for all.]</i>
+{\an8}Be the good girl you always have to be
+Будь хорошей девочкой для всех.
+Bud’ khorošej devočkoj dlâ vsekh.
+[Be a good girl for all.]
 
 00:16:29,840 --> 00:16:34,399
 A chance to change my lonely world
@@ -1394,10 +1394,10 @@ Mne razrešat najti druzej
 [I'm allowed to make friends]
 
 00:16:33,080 --> 00:16:34,399
-<i>Conceal</i>
-<i>Молчи</i>
-<i>Molči</i>
-<i>[Shut]</i>
+{\an8}Conceal
+Молчи
+Molči
+[Shut]
 
 00:16:34,400 --> 00:16:39,799
 A chance to find true love
@@ -1406,10 +1406,10 @@ I šans najti lûbov’
 [And a chance to find love]
 
 00:16:37,720 --> 00:16:41,959
-<i>Conceal, don't feel, don't let them know</i>
-<i>Молчи, терпи, не дай узнать!</i>
-<i>Molči, terpi, ne daj uznat’!</i>
-<i>[Be still, be patient, do not let know!]</i>
+{\an8}Conceal, don't feel, don't let them know
+Молчи, терпи, не дай узнать!
+Molči, terpi, ne daj uznat’!
+[Be still, be patient, do not let know!]
 
 00:16:39,800 --> 00:16:41,959
 I know it all ends tomorrow
@@ -2114,10 +2114,10 @@ Slušaj, â mogu skazat’ glupost’?
 [Listen, I say stupid?]
 
 00:23:47,440 --> 00:23:48,766
-<i>I love crazy.</i>
-<i>Я обожаю глупости</i>
-<i>Â obožaû gluposti</i>
-<i>[I love silliness]</i>
+{\an8}I love crazy.
+Я обожаю глупости
+Â obožaû gluposti
+[I love silliness]
 
 00:23:49,080 --> 00:23:53,649
 All my life has been a series of doors in my face
@@ -2132,22 +2132,22 @@ No udača vdrug svela s toboj!
 [But luck suddenly brought to you!]
 
 00:23:56,600 --> 00:23:58,959
-<i>I was thinking the same thing, because, like...</i>
-<i>Я думал о том же потому что...</i>
-<i>Â dumal o tom že potomu čto...</i>
-<i>[I thought the same thing because...]</i>
+{\an8}I was thinking the same thing, because, like...
+Я думал о том же потому что...
+Â dumal o tom že potomu čto...
+[I thought the same thing because...]
 
 00:23:58,960 --> 00:24:03,209
-<i>I've been searching my whole life to find my own place</i>
-<i>С юных лет мечтал я своё место найти.</i>
-<i>S ûnykh let mečtal â svoё mesto najti.</i>
-<i>[From a young age I wanted to find my place.]</i>
+{\an8}I've been searching my whole life to find my own place
+С юных лет мечтал я своё место найти.
+S ûnykh let mečtal â svoё mesto najti.
+[From a young age I wanted to find my place.]
 
 00:24:03,360 --> 00:24:06,959
-<i>And maybe it's the party talking, or the chocolate fondue</i>
-<i>Я примерял на себя маски Как шут цирковой.</i>
-<i>Â primerâl na sebâ maski Kak šut cirkovoj.</i>
-<i>[I try on a mask like a buffoon circus.]</i>
+{\an8}And maybe it's the party talking, or the chocolate fondue
+Я примерял на себя маски Как шут цирковой.
+Â primerâl na sebâ maski Kak šut cirkovoj.
+[I try on a mask like a buffoon circus.]
 
 00:24:08,040 --> 00:24:11,079
 But with you
@@ -2156,10 +2156,10 @@ No so mnoj...
 [But with me...]
 
 00:24:09,080 --> 00:24:12,719
-<i>But with you I found my place</i>
-<i>Но с тобой. Я с собой был...</i>
-<i>No s toboj. Â s soboj byl...</i>
-<i>[But with you. I was with him...]</i>
+{\an8}But with you I found my place
+Но с тобой. Я с собой был...
+No s toboj. Â s soboj byl...
+[But with you. I was with him...]
 
 00:24:11,320 --> 00:24:13,039
 I see your face
@@ -2204,10 +2204,10 @@ Love is an open door
 [This is my love...]
 
 00:24:41,880 --> 00:24:43,159
-<i>I mean, it's crazy</i>
-<i>Невероятно!</i>
-<i>Neveroâtno!</i>
-<i>[Incredible!]</i>
+{\an8}I mean, it's crazy
+Невероятно!
+Neveroâtno!
+[Incredible!]
 
 00:24:42,880 --> 00:24:43,459
 What?
@@ -2216,10 +2216,10 @@ What?
 [What?]
 
 00:24:43,360 --> 00:24:45,522
-<i>We finish each other's</i>
-<i>Мы словно кусочки...</i>
-<i>My slovno kusočki...</i>
-<i>[We are like pieces of...]</i>
+{\an8}We finish each other's
+Мы словно кусочки...
+My slovno kusočki...
+[We are like pieces of...]
 
 00:24:44,660 --> 00:24:46,022
 Sandwiches
@@ -2228,10 +2228,10 @@ Sèndviča!
 [Sandwich!]
 
 00:24:45,560 --> 00:24:46,759
-<i>That's what I was gonna say!</i>
-<i>Ты читаешь мои мысли!</i>
-<i>Ty čitaeš’ moi mysli!</i>
-<i>[You are reading my mind!]</i>
+{\an8}That's what I was gonna say!
+Ты читаешь мои мысли!
+Ty čitaeš’ moi mysli!
+[You are reading my mind!]
 
 00:24:46,760 --> 00:24:47,959
 I've never met someone
@@ -2321,16 +2321,16 @@ Love is an open
 Door
 
 00:25:29,560 --> 00:25:31,649
-<i>Can I say something crazy?</i>
-<i>А можно я скажу глупость?</i>
-<i>A možno â skažu glupost’?</i>
-<i>[And can I say stupid?]</i>
+{\an8}Can I say something crazy?
+А можно я скажу глупость?
+A možno â skažu glupost’?
+[And can I say stupid?]
 
 00:25:31,840 --> 00:25:33,644
-<i>Will you marry me?</i>
-<i>Ты выйдешь за меня?</i>
-<i>Ty vyjdeš’ za menâ?</i>
-<i>[Will you marry me?]</i>
+{\an8}Will you marry me?
+Ты выйдешь за меня?
+Ty vyjdeš’ za menâ?
+[Will you marry me?]
 
 00:25:33,960 --> 00:25:35,844
 Can I say something even crazier?
@@ -4841,7 +4841,7 @@ A v letnij znoj â vmig stanu...
 [And in the summer heat, I suddenly become...]
 
 00:48:43,520 --> 00:48:44,520
-<i>(puddle?)</i>
+{\an8}(puddle?)
 
 00:48:44,840 --> 00:48:46,599
 Happy snowman!
@@ -5828,28 +5828,28 @@ I will be right here
 [I can help.]
 
 00:56:16,920 --> 00:56:18,199
-<i>Anna.</i>
-<i>Анна</i>
-<i>Anna</i>
-<i>[Anna]</i>
+{\an8}Anna.
+Анна
+Anna
+[Anna]
 
 00:56:18,200 --> 00:56:20,119
-<i>Please go back home</i>
-<i>Иди домой.</i>
-<i>Idi domoj.</i>
-<i>[Go home.]</i>
+{\an8}Please go back home
+Иди домой.
+Idi domoj.
+[Go home.]
 
 00:56:20,120 --> 00:56:21,890
-<i>Your life awaits</i>
-<i>Встречай рассвет.</i>
-<i>Vstrečaj rassvet.</i>
-<i>[Greet the dawn.]</i>
+{\an8}Your life awaits
+Встречай рассвет.
+Vstrečaj rassvet.
+[Greet the dawn.]
 
 00:56:22,760 --> 00:56:26,239
-<i>Go enjoy the sun, and open up the gates</i>
-<i>Дверь открой тебя ждёт солнца яркий свет.</i>
-<i>Dver’ otkroj tebâ ždёt solnca ârkij svet.</i>
-<i>[Door open waiting for you the sun glare.]</i>
+{\an8}Go enjoy the sun, and open up the gates
+Дверь открой тебя ждёт солнца яркий свет.
+Dver’ otkroj tebâ ždёt solnca ârkij svet.
+[Door open waiting for you the sun glare.]
 
 00:56:26,240 --> 00:56:27,350
 Yeah, but...
@@ -5858,34 +5858,34 @@ Da, no...
 [Yes, but...]
 
 00:56:26,970 --> 00:56:27,719
-<i>I know.</i>
-<i>Постой!</i>
-<i>Postoj!</i>
-<i>[Wait a minute!]</i>
+{\an8}I know.
+Постой!
+Postoj!
+[Wait a minute!]
 
 00:56:27,720 --> 00:56:32,050
-<i>You mean well, but leave me be</i>
-<i>Ты добра не умоляй.</i>
-<i>Ty dobra ne umolâj.</i>
-<i>[You do not beg the good.]</i>
+{\an8}You mean well, but leave me be
+Ты добра не умоляй.
+Ty dobra ne umolâj.
+[You do not beg the good.]
 
 00:56:32,120 --> 00:56:33,559
-<i>Yes, I'm alone</i>
-<i>Я одинока</i>
-<i>Â odinoka</i>
-<i>[I'm alone]</i>
+{\an8}Yes, I'm alone
+Я одинока
+Â odinoka
+[I'm alone]
 
 00:56:33,560 --> 00:56:36,519
-<i>But I'm alone and free</i>
-<i>в этом мире.</i>
-<i>v ètom mire.</i>
-<i>[in this world.]</i>
+{\an8}But I'm alone and free
+в этом мире.
+v ètom mire.
+[in this world.]
 
 00:56:36,520 --> 00:56:41,282
-<i>Just stay away and you'll be safe from me</i>
-<i>Ты от меня подальше убегай.</i>
-<i>Ty ot menâ podal’še ubegaj.</i>
-<i>[You're away from me flee.]</i>
+{\an8}Just stay away and you'll be safe from me
+Ты от меня подальше убегай.
+Ty ot menâ podal’še ubegaj.
+[You're away from me flee.]
 
 00:56:42,320 --> 00:56:43,521
 Actually, we're not
@@ -5894,10 +5894,10 @@ Vsё sovsem ne tak.
 [Everything is not so.]
 
 00:56:43,680 --> 00:56:44,950
-<i>What do you mean, you're not?</i>
-<i>Как это всё не так?</i>
-<i>Kak èto vsё ne tak?</i>
-<i>[How it all wrong?]</i>
+{\an8}What do you mean, you're not?
+Как это всё не так?
+Kak èto vsё ne tak?
+[How it all wrong?]
 
 00:56:44,760 --> 00:56:46,450
 I get the feeling you don't know
@@ -5906,10 +5906,10 @@ Ty vsё neverno ponâla!
 [You misunderstood everything!]
 
 00:56:46,320 --> 00:56:47,681
-<i>What do I not know?</i>
-<i>Что не поняла?!</i>
-<i>Čto ne ponâla?!</i>
-<i>[What's not to understand?!]</i>
+{\an8}What do I not know?
+Что не поняла?!
+Čto ne ponâla?!
+[What's not to understand?!]
 
 00:56:48,000 --> 00:56:53,682
 Arendelle's in deep, deep, deep, deep snow
@@ -5918,10 +5918,10 @@ Ves’ naš gorod v’ûga zamerla
 [Our whole city froze blizzard]
 
 00:56:53,840 --> 00:56:55,041
-<i>What?</i>
-<i>Что?</i>
-<i>Čto?</i>
-<i>[What?]</i>
+{\an8}What?
+Что?
+Čto?
+[What?]
 
 00:56:55,320 --> 00:56:59,002
 You kind of set off an eternal winter everywhere.
@@ -5930,10 +5930,10 @@ Ty, pokhože, ustroila večnuû zimu. Povsûdu!
 [You seem to be arranged eternal winter. Everywhere!]
 
 00:56:59,200 --> 00:57:00,359
-<i>Everywhere?</i>
-<i>Повсюду?</i>
-<i>Povsûdu?</i>
-<i>[Everywhere?]</i>
+{\an8}Everywhere?
+Повсюду?
+Povsûdu?
+[Everywhere?]
 
 00:57:00,360 --> 00:57:02,279
 Well, it's okay, you can just unfreeze it.
@@ -5942,10 +5942,10 @@ No ty možeš’ vse razmorozit’.
 [But you can unfreeze all.]
 
 00:57:02,280 --> 00:57:04,528
-<i>No, I can't. I don't know how.</i>
-<i>Не смогу! Я не знаю, как!</i>
-<i>Ne smogu! Â ne znaû, kak!</i>
-<i>[I can not! I do not know how!]</i>
+{\an8}No, I can't. I don't know how.
+Не смогу! Я не знаю, как!
+Ne smogu! Â ne znaû, kak!
+[I can not! I do not know how!]
 
 00:57:04,560 --> 00:57:07,081
 Sure you can. I know you can.
@@ -5960,10 +5960,10 @@ My pervyj raz za ètu večnost’!
 [We are the first time in the eternity!]
 
 00:57:09,450 --> 00:57:15,519
-<i>Oh, I'm such a fool! I can't be free!</i>
-<i>О-о-о! Я так глупа! Мне тяжело!</i>
-<i>O-o-o! Â tak glupa! Mne tâželo!</i>
-<i>[Ltd! I'm so stupid! I find it hard!]</i>
+{\an8}Oh, I'm such a fool! I can't be free!
+О-о-о! Я так глупа! Мне тяжело!
+O-o-o! Â tak glupa! Mne tâželo!
+[Ltd! I'm so stupid! I find it hard!]
 
 00:57:12,650 --> 00:57:17,950
 You don't have to be afraid
@@ -5972,10 +5972,10 @@ Strakh kovarnyj pobedim!
 [Fear is an insidious win!]
 
 00:57:15,920 --> 00:57:18,839
-<i>No escape from the storm inside of me</i>
-<i>Душу снегом холодным замело!</i>
-<i>Dušu snegom kholodnym zamelo!</i>
-<i>[Soul cold snow covered with snow!]</i>
+{\an8}No escape from the storm inside of me
+Душу снегом холодным замело!
+Dušu snegom kholodnym zamelo!
+[Soul cold snow covered with snow!]
 
 00:57:18,040 --> 00:57:21,839
 We can work this out together
@@ -5984,10 +5984,10 @@ Vmeste my s toboj navečno!
 [Together, we are with you forever!]
 
 00:57:20,840 --> 00:57:22,819
-<i>I can't control the curse!</i>
-<i>Проклятья мне не снять!</i>
-<i>Proklât’â mne ne snât’!</i>
-<i>[I did not remove the curse!]</i>
+{\an8}I can't control the curse!
+Проклятья мне не снять!
+Proklât’â mne ne snât’!
+[I did not remove the curse!]
 
 00:57:22,720 --> 00:57:26,639
 We'll reverse the storm you've made
@@ -5996,10 +5996,10 @@ Zluû burû ukrotim!
 [Wicked storm tame!]
 
 00:57:26,040 --> 00:57:29,219
-<i>Anna, please you'll only make it worse!</i>
-<i>Анна! Ты испортишь все опять!</i>
-<i>Anna! Ty isportiš’ vse opât’!</i>
-<i>[Anna! You spoil everything again!]</i>
+{\an8}Anna, please you'll only make it worse!
+Анна! Ты испортишь все опять!
+Anna! Ty isportiš’ vse opât’!
+[Anna! You spoil everything again!]
 
 00:57:29,120 --> 00:57:31,019
 Don't panic!
@@ -6008,10 +6008,10 @@ Ne bojsâ!
 [Do not be afraid!]
 
 00:57:29,820 --> 00:57:31,319
-<i>There's so much fear!</i>
-<i>Ты должна уйти!.</i>
-<i>Ty dolžna ujti!.</i>
-<i>[You have to go!.]</i>
+{\an8}There's so much fear!
+Ты должна уйти!.
+Ty dolžna ujti!.
+[You have to go!.]
 
 00:57:31,020 --> 00:57:33,919
 We'll make the sun shine bright
@@ -6020,10 +6020,10 @@ Vsё možno pomenât’!..
 [Everything can be changed!..]
 
 00:57:32,820 --> 00:57:35,319
-<i>You're not safe here!</i>
-<i>Себя спасти!</i>
-<i>Sebâ spasti!</i>
-<i>[Save yourself!]</i>
+{\an8}You're not safe here!
+Себя спасти!
+Sebâ spasti!
+[Save yourself!]
 
 00:57:34,320 --> 00:57:37,119
 We can face this thing together
@@ -6032,10 +6032,10 @@ Vmeste spravimsâ s pogodoj!..
 [At cope with the weather!..]
 
 00:57:35,840 --> 00:57:38,119
-<i>No!</i>
-<i>Нет!</i>
-<i>Net!</i>
-<i>[No!]</i>
+{\an8}No!
+Нет!
+Net!
+[No!]
 
 00:57:37,120 --> 00:57:39,279
 We can change this winter weather
@@ -6050,10 +6050,10 @@ I solnce budet nam siât’!
 [And the sun will shine with us!]
 
 00:57:43,320 --> 00:57:45,761
-<i>I can't!</i>
-<i>Анна!</i>
-<i>Anna!</i>
-<i>[Anna!]</i>
+{\an8}I can't!
+Анна!
+Anna!
+[Anna!]
 
 00:57:53,240 --> 00:57:54,441
 Anna!

@@ -1064,39 +1064,39 @@ Un'opportunità.
 ... a chance.
 
 00:15:43,960 --> 00:15:45,969
-<i>Don't let them in</i>
-<i>Non dire mai</i>
-<i>Never tell...</i>
+{\an8}Don't let them in
+Non dire mai
+Never tell...
 
 00:15:46,200 --> 00:15:48,402
-<i>Don't let them see</i>
-<i>La verità.</i>
-<i>... the truth.</i>
+{\an8}Don't let them see
+La verità.
+... the truth.
 
 00:15:48,680 --> 00:15:51,930
-<i>Be the good girl you always have to be</i>
-<i>Se sei brava, nessuno lo saprà.</i>
-<i>If you're a good girl, nobody will know.</i>
+{\an8}Be the good girl you always have to be
+Se sei brava, nessuno lo saprà.
+If you're a good girl, nobody will know.
 
 00:15:53,760 --> 00:15:57,251
-<i>Conceal, don't feel</i>
-<i>Celare, domare</i>
-<i>Conceal, quell</i>
+{\an8}Conceal, don't feel
+Celare, domare
+Conceal, quell
 
 00:15:57,400 --> 00:15:59,443
-<i>Put on a show</i>
-<i>Perché io so</i>
-<i>Because I know...</i>
+{\an8}Put on a show
+Perché io so
+Because I know...
 
 00:15:59,840 --> 00:16:03,891
-<i>Make one wrong move and everyone will know</i>
-<i>Che è un segreto e lo proteggerò.</i>
-<i>... it's a secret and I'll protect it.</i>
+{\an8}Make one wrong move and everyone will know
+Che è un segreto e lo proteggerò.
+... it's a secret and I'll protect it.
 
 00:16:05,080 --> 00:16:07,719
-<i>But it's only for today</i>
-<i>Proprio oggi, tuttavia</i>
-<i>Just today, though,</i>
+{\an8}But it's only for today
+Proprio oggi, tuttavia
+Just today, though,
 
 00:16:06,680 --> 00:16:09,249
 It's only for today
@@ -1104,9 +1104,9 @@ Quest'oggi, tuttavia,
 Today, however,
 
 00:16:07,720 --> 00:16:10,685
-<i>It's agony to wait</i>
-<i>L'attesa è un'agonia.</i>
-<i>Waiting is agony.</i>
+{\an8}It's agony to wait
+L'attesa è un'agonia.
+Waiting is agony.
 
 00:16:09,250 --> 00:16:10,685
 It's agony to wait
@@ -1114,14 +1114,14 @@ L'attesa è un'agonia!
 Waiting is agony!
 
 00:16:10,840 --> 00:16:13,691
-<i>Tell the guards to open up</i>
-<i>Ma ormai lo show avrà</i>
-<i>But now the show will</i>
+{\an8}Tell the guards to open up
+Ma ormai lo show avrà
+But now the show will
 
 00:16:14,200 --> 00:16:18,928
-<i>The gate</i>
-<i>Il via!</i>
-<i>Start!</i>
+{\an8}The gate
+Il via!
+Start!
 
 00:16:16,680 --> 00:16:18,928
 The gate
@@ -1134,9 +1134,9 @@ Oggi per la prima volta
 Today, for the first time
 
 00:16:22,240 --> 00:16:27,409
-<i>Don't let them in, don't let them see</i>
-<i>Non dire mai la verità.</i>
-<i>Never tell the truth.</i>
+{\an8}Don't let them in, don't let them see
+Non dire mai la verità.
+Never tell the truth.
 
 00:16:23,600 --> 00:16:27,439
 I'm getting what I'm dreaming of
@@ -1144,9 +1144,9 @@ La vita, forse, cambierà.
 Life might change
 
 00:16:27,440 --> 00:16:33,079
-<i>Be the good girl you always have to be</i>
-<i>Se sei brava, nessuno lo saprà.</i>
-<i>If you're a good girl, nobody will know.</i>
+{\an8}Be the good girl you always have to be
+Se sei brava, nessuno lo saprà.
+If you're a good girl, nobody will know.
 
 00:16:29,840 --> 00:16:34,399
 A chance to change my lonely world
@@ -1154,9 +1154,9 @@ Finora ero sola, ma...
 Till now I've been alone, but...
 
 00:16:33,080 --> 00:16:34,399
-<i>Conceal</i>
-<i>Celare</i>
-<i>Conceal</i>
+{\an8}Conceal
+Celare
+Conceal
 
 00:16:34,400 --> 00:16:39,799
 A chance to find true love
@@ -1164,9 +1164,9 @@ Da oggi, chi lo sa.
 ... from now on, who knows.
 
 00:16:37,720 --> 00:16:41,959
-<i>Conceal, don't feel, don't let them know</i>
-<i>Dovrai soffrire, ancora un po'.</i>
-<i>You'll have to suffer a little</i>
+{\an8}Conceal, don't feel, don't let them know
+Dovrai soffrire, ancora un po'.
+You'll have to suffer a little
 
 00:16:39,800 --> 00:16:41,959
 I know it all ends tomorrow
@@ -1752,9 +1752,9 @@ Ecco, vorrei... Posso dire una follia?
 Well, I'd wish... Can I say a crazy thing?
 
 00:23:47,440 --> 00:23:48,766
-<i>I love crazy.</i>
-<i>Amo le follie.</i>
-<i>I love crazy things.</i>
+{\an8}I love crazy.
+Amo le follie.
+I love crazy things.
 
 00:23:49,080 --> 00:23:53,649
 All my life has been a series of doors in my face
@@ -1767,19 +1767,19 @@ Come un fulmine sei comparso tu.
 Then you appeared like lightning.
 
 00:23:56,600 --> 00:23:58,959
-<i>I was thinking the same thing, because, like...</i>
-<i>È la stessa cosa che penso io, perché...</i>
-<i>I think the same, because...</i>
+{\an8}I was thinking the same thing, because, like...
+È la stessa cosa che penso io, perché...
+I think the same, because...
 
 00:23:58,960 --> 00:24:03,209
-<i>I've been searching my whole life to find my own place</i>
-<i>Non avevo mai trovato un posto, finché,</i>
-<i>I had never found a place, until,</i>
+{\an8}I've been searching my whole life to find my own place
+Non avevo mai trovato un posto, finché,
+I had never found a place, until,
 
 00:24:03,360 --> 00:24:06,959
-<i>And maybe it's the party talking, or the chocolate fondue</i>
-<i>All’improvviso una speranza o qualcosa di più.</i>
-<i>Suddenly a hope, or something more.</i>
+{\an8}And maybe it's the party talking, or the chocolate fondue
+All’improvviso una speranza o qualcosa di più.
+Suddenly a hope, or something more.
 
 00:24:08,040 --> 00:24:11,079
 But with you
@@ -1787,9 +1787,9 @@ Ma se noi...
 But if we...
 
 00:24:09,080 --> 00:24:12,719
-<i>But with you I found my place</i>
-<i>Ma se noi stiamo insieme</i>
-<i>But if we are together</i>
+{\an8}But with you I found my place
+Ma se noi stiamo insieme
+But if we are together
 
 00:24:11,320 --> 00:24:13,039
 I see your face
@@ -1827,9 +1827,9 @@ Che occasione ho
 of the chance I've got!
 
 00:24:41,880 --> 00:24:43,159
-<i>I mean, it's crazy</i>
-<i>Non trovi strano...</i>
-<i>Don't you think it's odd...</i>
+{\an8}I mean, it's crazy
+Non trovi strano...
+Don't you think it's odd...
 
 00:24:42,880 --> 00:24:43,459
 What?
@@ -1837,9 +1837,9 @@ Cosa?
 What?
 
 00:24:43,360 --> 00:24:45,522
-<i>We finish each other's</i>
-<i>Sentirsi davvero...</i>
-<i>Feeling so...</i>
+{\an8}We finish each other's
+Sentirsi davvero...
+Feeling so...
 
 00:24:44,660 --> 00:24:46,022
 Sandwiches
@@ -1847,9 +1847,9 @@ Simili!
 alike!
 
 00:24:45,560 --> 00:24:46,759
-<i>That's what I was gonna say!</i>
-<i>Stavo per dirlo io!</i>
-<i>I was going to say that!</i>
+{\an8}That's what I was gonna say!
+Stavo per dirlo io!
+I was going to say that!
 
 00:24:46,760 --> 00:24:47,959
 I've never met someone
@@ -1927,14 +1927,14 @@ Ho.
 I've got. 
 
 00:25:29,560 --> 00:25:31,649
-<i>Can I say something crazy?</i>
-<i>Posso dire una follia?</i>
-<i>Can I say a crazy thing?</i>
+{\an8}Can I say something crazy?
+Posso dire una follia?
+Can I say a crazy thing?
 
 00:25:31,840 --> 00:25:33,644
-<i>Will you marry me?</i>
-<i>Vuoi sposarmi?</i>
-<i>Will you marry me?</i>
+{\an8}Will you marry me?
+Vuoi sposarmi?
+Will you marry me?
 
 00:25:33,960 --> 00:25:35,844
 Can I say something even crazier?
@@ -4009,9 +4009,9 @@ la gioia che provo pensandoci
 but I'd be merrily thinking of
 
 00:48:43,520 --> 00:48:44,520
-<i>(puddle?)</i>
-<i>(cadulda?)</i>
-<i>(melted ice?)</i>
+{\an8}(puddle?)
+(cadulda?)
+(melted ice?)
 
 00:48:44,840 --> 00:48:46,599
 Happy snowman!
@@ -4817,24 +4817,24 @@ Hai un'amica qui.
 You've got a friend here.
 
 00:56:16,920 --> 00:56:18,199
-<i>Anna.</i>
-<i>Anna...</i>
-<i>Anna...</i>
+{\an8}Anna.
+Anna...
+Anna...
 
 00:56:18,200 --> 00:56:20,119
-<i>Please go back home</i>
-<i>Mi domandi troppo,</i>
-<i>You're asking too much of me,</i>
+{\an8}Please go back home
+Mi domandi troppo,
+You're asking too much of me,
 
 00:56:20,120 --> 00:56:21,890
-<i>Your life awaits</i>
-<i>dai retta a me</i>
-<i>listen to me</i>
+{\an8}Your life awaits
+dai retta a me
+listen to me
 
 00:56:22,760 --> 00:56:26,239
-<i>Go enjoy the sun, and open up the gates</i>
-<i>Non c'è nulla qua per una coma te</i>
-<i>There's nothing here for someone like you</i>
+{\an8}Go enjoy the sun, and open up the gates
+Non c'è nulla qua per una coma te
+There's nothing here for someone like you
 
 00:56:26,240 --> 00:56:27,350
 Yeah, but...
@@ -4842,29 +4842,29 @@ Sì, ma...
 Yes, but...
 
 00:56:26,970 --> 00:56:27,719
-<i>I know.</i>
-<i>Lo so</i>
-<i>I know</i>
+{\an8}I know.
+Lo so
+I know
 
 00:56:27,720 --> 00:56:32,050
-<i>You mean well, but leave me be</i>
-<i>Tu pensi che mi aiuterai</i>
-<i>You think you're going to help me</i>
+{\an8}You mean well, but leave me be
+Tu pensi che mi aiuterai
+You think you're going to help me
 
 00:56:32,120 --> 00:56:33,559
-<i>Yes, I'm alone</i>
-<i>Ma senza me...</i>
-<i>But without me...</i>
+{\an8}Yes, I'm alone
+Ma senza me...
+But without me...
 
 00:56:33,560 --> 00:56:36,519
-<i>But I'm alone and free</i>
-<i>... problemi non ne avrai</i>
-<i>... you'll have no problems</i>
+{\an8}But I'm alone and free
+... problemi non ne avrai
+... you'll have no problems
 
 00:56:36,520 --> 00:56:41,282
-<i>Just stay away and you'll be safe from me</i>
-<i>E non dovrai più preoccuparti ormai</i>
-<i>And you won't need to worry any more</i>
+{\an8}Just stay away and you'll be safe from me
+E non dovrai più preoccuparti ormai
+And you won't need to worry any more
 
 00:56:42,320 --> 00:56:43,521
 Actually, we're not
@@ -4872,9 +4872,9 @@ Sai, non è così
 Well, this isn't the way it is
 
 00:56:43,680 --> 00:56:44,950
-<i>What do you mean, you're not?</i>
-<i>Come non è così?</i>
-<i>What do you mean, this isn't the way it is?</i>
+{\an8}What do you mean, you're not?
+Come non è così?
+What do you mean, this isn't the way it is?
 
 00:56:44,760 --> 00:56:46,450
 I get the feeling you don't know
@@ -4882,9 +4882,9 @@ Non puoi saperlo neanche tu
 Not even you can know it
 
 00:56:46,320 --> 00:56:47,681
-<i>What do I not know?</i>
-<i>Parla, forza, su!</i>
-<i>Speak out, come on!</i>
+{\an8}What do I not know?
+Parla, forza, su!
+Speak out, come on!
 
 00:56:48,000 --> 00:56:51,399
 Arendelle's in deep, deep, deep
@@ -4897,9 +4897,9 @@ deep snow
 ... more
 
 00:56:53,840 --> 00:56:55,041
-<i>What?</i>
-<i>Cosa?</i>
-<i>What?</i>
+{\an8}What?
+Cosa?
+What?
 
 00:56:55,320 --> 00:56:59,002
 You kind of set off an eternal winter everywhere.
@@ -4907,9 +4907,9 @@ Hai portato un inverno perenne... ovunque
 You've brought a perpetual winter... everywhere
 
 00:56:59,200 --> 00:57:00,359
-<i>Everywhere?</i>
-<i>Ovunque?</i>
-<i>Everywhere?</i>
+{\an8}Everywhere?
+Ovunque?
+Everywhere?
 
 00:57:00,360 --> 00:57:02,279
 Well, it's okay, you can just unfreeze it.
@@ -4917,9 +4917,9 @@ Ma non fa niente, puoi sciogliere tutto
 But it doesn't matter, you can thaw everything out
 
 00:57:02,280 --> 00:57:04,528
-<i>No, I can't. I don't know how.</i>
-<i>No, non posso. Non so come fare!</i>
-<i>No, I can't. I don't know how!</i>
+{\an8}No, I can't. I don't know how.
+No, non posso. Non so come fare!
+No, I can't. I don't know how!
 
 00:57:04,560 --> 00:57:07,081
 Sure you can. I know you can.
@@ -4932,9 +4932,9 @@ Avrò la forza per restare
 I'll have the strength to stay
 
 00:57:09,450 --> 00:57:15,519
-<i>Oh, I'm such a fool! I can't be free!</i>
-<i>Non avrò mai la libertà!</i>
-<i>I'll never have my freedom!</i>
+{\an8}Oh, I'm such a fool! I can't be free!
+Non avrò mai la libertà!
+I'll never have my freedom!
 
 00:57:12,650 --> 00:57:17,950
 You don't have to be afraid
@@ -4942,9 +4942,9 @@ Non dovrai scappare, sai
 You won't have to run away, you know
 
 00:57:15,920 --> 00:57:18,839
-<i>No escape from the storm inside of me</i>
-<i>Sono in trappola e nulla cambierà</i>
-<i>I'm trapped and nothing will change</i>
+{\an8}No escape from the storm inside of me
+Sono in trappola e nulla cambierà
+I'm trapped and nothing will change
 
 00:57:18,040 --> 00:57:21,839
 We can work this out together
@@ -4952,9 +4952,9 @@ Sul mio aiuto puoi contare
 You can rely on my help
 
 00:57:20,840 --> 00:57:22,819
-<i>I can't control the curse!</i>
-<i>Che faccio d'ora io poi?</i>
-<i>What shall I do from now on?</i>
+{\an8}I can't control the curse!
+Che faccio d'ora io poi?
+What shall I do from now on?
 
 00:57:22,720 --> 00:57:26,639
 We'll reverse the storm you've made
@@ -4962,9 +4962,9 @@ Non sei più da sola ormai
 You're no longer alone
 
 00:57:26,040 --> 00:57:29,219
-<i>Anna, please you'll only make it worse!</i>
-<i>Anna, vuoi salvarmi ma non puoi!</i>
-<i>Anna, you want to save me but you can't!</i>
+{\an8}Anna, please you'll only make it worse!
+Anna, vuoi salvarmi ma non puoi!
+Anna, you want to save me but you can't!
 
 00:57:29,120 --> 00:57:31,019
 Don't panic!
@@ -4972,9 +4972,9 @@ Tranquilla
 Don't worry
 
 00:57:29,820 --> 00:57:31,319
-<i>There's so much fear!</i>
-<i>È colpa mia!</i>
-<i>It's my fault!</i>
+{\an8}There's so much fear!
+È colpa mia!
+It's my fault!
 
 00:57:31,020 --> 00:57:33,919
 We'll make the sun shine bright
@@ -4982,9 +4982,9 @@ Vedrai, funzionerà
 You'll see, it's going to work
 
 00:57:32,820 --> 00:57:35,319
-<i>You're not safe here!</i>
-<i>Non c'è altra via!</i>
-<i>There's no other way!</i>
+{\an8}You're not safe here!
+Non c'è altra via!
+There's no other way!
 
 00:57:34,320 --> 00:57:37,119
 We can face this thing together
@@ -4992,9 +4992,9 @@ Se le forze uniremo
 If we join our forces
 
 00:57:35,840 --> 00:57:38,119
-<i>No!</i>
-<i>No!</i>
-<i>No!</i>
+{\an8}No!
+No!
+No!
 
 00:57:37,120 --> 00:57:39,279
 We can change this winter weather
@@ -5007,9 +5007,9 @@ E la bufera passerà
 And the storm will blow over
 
 00:57:43,320 --> 00:57:45,761
-<i>I can't!</i>
-<i>Vai via!</i>
-<i>Begone!</i>
+{\an8}I can't!
+Vai via!
+Begone!
 
 00:57:53,240 --> 00:57:54,441
 Anna!

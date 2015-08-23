@@ -1078,39 +1078,39 @@ smím srdci šanci dát.
 [I may give the heart a chance.]
 
 00:15:43,960 --> 00:15:45,969
-<i>Don't let them in</i>
-<i>Kdo přijde dnes,</i>
-<i>[Who arrives today]</i>
+{\an8}Don't let them in
+Kdo přijde dnes,
+[Who arrives today]
 
 00:15:46,200 --> 00:15:48,402
-<i>Don't let them see</i>
-<i>má uvěřit,</i>
-<i>[He has to believe]</i>
+{\an8}Don't let them see
+má uvěřit,
+[He has to believe]
 
 00:15:48,680 --> 00:15:51,930
-<i>Be the good girl you always have to be</i>
-<i>že jsem dívkou, jakou jsem měla být.</i>
-<i>[I'm a girl, I'd be.]</i>
+{\an8}Be the good girl you always have to be
+že jsem dívkou, jakou jsem měla být.
+[I'm a girl, I'd be.]
 
 00:15:53,760 --> 00:15:57,251
-<i>Conceal, don't feel</i>
-<i>Skrývej city,</i>
-<i>[Of hiding emotions,]</i>
+{\an8}Conceal, don't feel
+Skrývej city,
+[Of hiding emotions,]
 
 00:15:57,400 --> 00:15:59,443
-<i>Put on a show</i>
-<i>je to jen hra!</i>
-<i>[its only a game!]</i>
+{\an8}Put on a show
+je to jen hra!
+[its only a game!]
 
 00:15:59,840 --> 00:16:03,891
-<i>Make one wrong move and everyone will know</i>
-<i>Jen chybný krok a hra by propadla!</i>
-<i>[Only misstep, and the game would fail!]</i>
+{\an8}Make one wrong move and everyone will know
+Jen chybný krok a hra by propadla!
+[Only misstep, and the game would fail!]
 
 00:16:05,080 --> 00:16:07,719
-<i>But it's only for today</i>
-<i>Ale bude to jen dnes.</i>
-<i>[But it will be just today.]</i>
+{\an8}But it's only for today
+Ale bude to jen dnes.
+[But it will be just today.]
 
 00:16:06,680 --> 00:16:09,249
 It's only for today
@@ -1118,9 +1118,9 @@ A bude to jen dnes!
 [And it's just today!]
 
 00:16:07,720 --> 00:16:10,685
-<i>It's agony to wait</i>
-<i>Kdo čekání má snést?</i>
-<i>[Who should bear the wait?]</i>
+{\an8}It's agony to wait
+Kdo čekání má snést?
+[Who should bear the wait?]
 
 00:16:09,250 --> 00:16:10,685
 It's agony to wait
@@ -1128,14 +1128,14 @@ Kdo čekání má snést?
 [Who should bear the wait?]
 
 00:16:10,840 --> 00:16:13,691
-<i>Tell the guards to open up</i>
-<i>Stráže, brány otevřte!</i>
-<i>[Guards, gates open!]</i>
+{\an8}Tell the guards to open up
+Stráže, brány otevřte!
+[Guards, gates open!]
 
 00:16:14,200 --> 00:16:18,928
-<i>The gate</i>
-<i>Ať zvou!</i>
-<i>[Whether invite!]</i>
+{\an8}The gate
+Ať zvou!
+[Whether invite!]
 
 00:16:16,680 --> 00:16:18,928
 The gate
@@ -1148,9 +1148,9 @@ Je tu právě teď ta chvíle...
 [It's now the moment...]
 
 00:16:22,240 --> 00:16:27,409
-<i>Don't let them in, don't let them see</i>
-<i>Kdo přijde dnes, má uvěřit...</i>
-<i>[Whoever comes today, has to believe...]</i>
+{\an8}Don't let them in, don't let them see
+Kdo přijde dnes, má uvěřit...
+[Whoever comes today, has to believe...]
 
 00:16:23,600 --> 00:16:27,439
 I'm getting what I'm dreaming of
@@ -1158,9 +1158,9 @@ kdy sny mé pravdou stanou se!
 [where my dreams become true!]
 
 00:16:27,440 --> 00:16:33,079
-<i>Be the good girl you always have to be</i>
-<i>že jsem dívkou, jakou jsem měla být.</i>
-<i>[I'm a girl, I'd be.]</i>
+{\an8}Be the good girl you always have to be
+že jsem dívkou, jakou jsem měla být.
+[I'm a girl, I'd be.]
 
 00:16:29,840 --> 00:16:34,399
 A chance to change my lonely world
@@ -1168,9 +1168,9 @@ Mám šanci s láskou měnit svět...
 [I have the chance to change the world with love...]
 
 00:16:33,080 --> 00:16:34,399
-<i>Conceal</i>
-<i>Skrývej.</i>
-<i>[Of hiding.]</i>
+{\an8}Conceal
+Skrývej.
+[Of hiding.]
 
 00:16:34,400 --> 00:16:39,799
 A chance to find true love
@@ -1178,9 +1178,9 @@ A chance to find true love
 [... with the true love of mine.]
 
 00:16:37,720 --> 00:16:41,959
-<i>Conceal, don't feel, don't let them know</i>
-<i>Jen skrývej city, všichni lžou.</i>
-<i>[Only of hiding emotions, everybody lies.]</i>
+{\an8}Conceal, don't feel, don't let them know
+Jen skrývej city, všichni lžou.
+[Only of hiding emotions, everybody lies.]
 
 00:16:39,800 --> 00:16:41,959
 I know it all ends tomorrow
@@ -1776,9 +1776,9 @@ Můžu říct něco bláznivého?
 [Can I say something crazy?]
 
 00:23:47,440 --> 00:23:48,766
-<i>I love crazy.</i>
-<i>Mám rád blázniviny.</i>
-<i>[I like crazy.]</i>
+{\an8}I love crazy.
+Mám rád blázniviny.
+[I like crazy.]
 
 00:23:49,080 --> 00:23:53,649
 All my life has been a series of doors in my face
@@ -1791,19 +1791,19 @@ a dnes najednou dveřmi vejdeš ty.
 [and now all of a sudden you walk through the door you are.]
 
 00:23:56,600 --> 00:23:58,959
-<i>I was thinking the same thing, because, like...</i>
-<i>Přesně to mě napadlo, protože...</i>
-<i>[That's exactly what I thought, because...]</i>
+{\an8}I was thinking the same thing, because, like...
+Přesně to mě napadlo, protože...
+[That's exactly what I thought, because...]
 
 00:23:58,960 --> 00:24:03,209
-<i>I've been searching my whole life to find my own place</i>
-<i>Chci mít taky svoje místo, hledám svůj svět!</i>
-<i>[I want to take my place, too, seeking your world!]</i>
+{\an8}I've been searching my whole life to find my own place
+Chci mít taky svoje místo, hledám svůj svět!
+[I want to take my place, too, seeking your world!]
 
 00:24:03,360 --> 00:24:06,959
-<i>And maybe it's the party talking, or the chocolate fondue</i>
-<i>A možná oslavou jsem zmámen, a tím sladkým fondue.</i>
-<i>[And maybe I was a celebration of stupor, and the sweet fondue.]</i>
+{\an8}And maybe it's the party talking, or the chocolate fondue
+A možná oslavou jsem zmámen, a tím sladkým fondue.
+[And maybe I was a celebration of stupor, and the sweet fondue.]
 
 00:24:08,040 --> 00:24:11,079
 But with you
@@ -1811,9 +1811,9 @@ S tebou já...
 [With you I...]
 
 00:24:09,080 --> 00:24:12,719
-<i>But with you I found my place</i>
-<i>S tebou já už vím, kým jsem!</i>
-<i>[With you I already know who I am!]</i>
+{\an8}But with you I found my place
+S tebou já už vím, kým jsem!
+[With you I already know who I am!]
 
 00:24:11,320 --> 00:24:13,039
 I see your face
@@ -1851,9 +1851,9 @@ Otevře láska má!
 [Love has opened!]
 
 00:24:41,880 --> 00:24:43,159
-<i>I mean, it's crazy</i>
-<i>Ty dopovíš to...</i>
-<i>[They dopovíš it...]</i>
+{\an8}I mean, it's crazy
+Ty dopovíš to...
+[They dopovíš it...]
 
 00:24:42,880 --> 00:24:43,459
 What?
@@ -1861,9 +1861,9 @@ Co?
 [What?]
 
 00:24:43,360 --> 00:24:45,522
-<i>We finish each other's</i>
-<i>No to co jsem nakous'.</i>
-<i>[Well, what I nakous'.]</i>
+{\an8}We finish each other's
+No to co jsem nakous'.
+[Well, what I nakous'.]
 
 00:24:44,660 --> 00:24:46,022
 Sandwiches
@@ -1871,9 +1871,9 @@ Sendviče!
 [Sandwiches!]
 
 00:24:45,560 --> 00:24:46,759
-<i>That's what I was gonna say!</i>
-<i>Přesně to chci říct!</i>
-<i>[That's exactly what I mean!]</i>
+{\an8}That's what I was gonna say!
+Přesně to chci říct!
+[That's exactly what I mean!]
 
 00:24:46,760 --> 00:24:47,959
 I've never met someone
@@ -1951,14 +1951,14 @@ má!
 [It has!]
 
 00:25:29,560 --> 00:25:31,649
-<i>Can I say something crazy?</i>
-<i>Můžu říct něco bláznivého?</i>
-<i>[Can I say something crazy?]</i>
+{\an8}Can I say something crazy?
+Můžu říct něco bláznivého?
+[Can I say something crazy?]
 
 00:25:31,840 --> 00:25:33,644
-<i>Will you marry me?</i>
-<i>Vzala by sis mě?</i>
-<i>[Would you married me?]</i>
+{\an8}Will you marry me?
+Vzala by sis mě?
+[Would you married me?]
 
 00:25:33,960 --> 00:25:35,844
 Can I say something even crazier?
@@ -4068,9 +4068,9 @@ však jen vlítnu do léta, je ze mě...
 [But just vlítnu the summer, it is me...]
 
 00:48:43,520 --> 00:48:44,520
-<i>(puddle?)</i>
-<i>(louže?)</i>
-<i>[(puddle?)]</i>
+{\an8}(puddle?)
+(louže?)
+[(puddle?)]
 
 00:48:44,840 --> 00:48:46,599
 Happy snowman!
@@ -4894,24 +4894,24 @@ budu tam, kde jsi.
 [I'll be right where you are.]
 
 00:56:16,920 --> 00:56:18,199
-<i>Anna.</i>
-<i>Anno.</i>
-<i>[Anno.]</i>
+{\an8}Anna.
+Anno.
+[Anno.]
 
 00:56:18,200 --> 00:56:20,119
-<i>Please go back home</i>
-<i>Běž domů, běž,</i>
-<i>[Go home, go,]</i>
+{\an8}Please go back home
+Běž domů, běž,
+[Go home, go,]
 
 00:56:20,120 --> 00:56:21,890
-<i>Your life awaits</i>
-<i>svůj život měj.</i>
-<i>[Have your life.]</i>
+{\an8}Your life awaits
+svůj život měj.
+[Have your life.]
 
 00:56:22,760 --> 00:56:26,239
-<i>Go enjoy the sun, and open up the gates</i>
-<i>Užívej si slunce, brány otvírej.</i>
-<i>[Enjoy the sun, open the gates.]</i>
+{\an8}Go enjoy the sun, and open up the gates
+Užívej si slunce, brány otvírej.
+[Enjoy the sun, open the gates.]
 
 00:56:26,240 --> 00:56:27,350
 Yeah, but...
@@ -4919,29 +4919,29 @@ Ano, ale...
 [Yes but...]
 
 00:56:26,970 --> 00:56:27,719
-<i>I know.</i>
-<i>Já vím...</i>
-<i>[I know...]</i>
+{\an8}I know.
+Já vím...
+[I know...]
 
 00:56:27,720 --> 00:56:32,050
-<i>You mean well, but leave me be</i>
-<i>Jak hodná jsi. Však musíš jít,</i>
-<i>[How good you are. But you gotta go,]</i>
+{\an8}You mean well, but leave me be
+Jak hodná jsi. Však musíš jít,
+[How good you are. But you gotta go,]
 
 00:56:32,120 --> 00:56:33,559
-<i>Yes, I'm alone</i>
-<i>chci takhle žít</i>
-<i>[I want to live like this]</i>
+{\an8}Yes, I'm alone
+chci takhle žít
+[I want to live like this]
 
 00:56:33,560 --> 00:56:36,519
-<i>But I'm alone and free</i>
-<i>a věčně volná být.</i>
-<i>[and be forever free.]</i>
+{\an8}But I'm alone and free
+a věčně volná být.
+[and be forever free.]
 
 00:56:36,520 --> 00:56:41,282
-<i>Just stay away and you'll be safe from me</i>
-<i>Jen straň se mě a budeš v bezpečí.</i>
-<i>[Just turn away from me and you'll be safe.]</i>
+{\an8}Just stay away and you'll be safe from me
+Jen straň se mě a budeš v bezpečí.
+[Just turn away from me and you'll be safe.]
 
 00:56:42,320 --> 00:56:43,521
 Actually, we're not
@@ -4949,9 +4949,9 @@ Ne, to nejsme, ne!
 [No, we're not, do not!]
 
 00:56:43,680 --> 00:56:44,950
-<i>What do you mean, you're not?</i>
-<i>Řekni mi, proč ne!</i>
-<i>[Tell me, why not!]</i>
+{\an8}What do you mean, you're not?
+Řekni mi, proč ne!
+[Tell me, why not!]
 
 00:56:44,760 --> 00:56:46,450
 I get the feeling you don't know
@@ -4959,9 +4959,9 @@ Podivné věci dějí se!
 [Strange things are happening!]
 
 00:56:46,320 --> 00:56:47,681
-<i>What do I not know?</i>
-<i>Týkají se mě?</i>
-<i>[They relate to me?]</i>
+{\an8}What do I not know?
+Týkají se mě?
+[They relate to me?]
 
 00:56:48,000 --> 00:56:51,399
 Arendelle's in deep, deep, deep
@@ -4974,9 +4974,9 @@ sníh s tmou.
 [snow and darkness.]
 
 00:56:53,840 --> 00:56:55,041
-<i>What?</i>
-<i>Cože?</i>
-<i>[What?]</i>
+{\an8}What?
+Cože?
+[What?]
 
 00:56:55,320 --> 00:56:59,002
 You kind of set off an eternal winter everywhere.
@@ -4984,9 +4984,9 @@ Tak nějak jsi rozpoutala nekonečnou zimu úplně všude.
 [So somehow you unleash an endless winter everywhere.]
 
 00:56:59,200 --> 00:57:00,359
-<i>Everywhere?</i>
-<i>Jak všude?</i>
-<i>[As everywhere?]</i>
+{\an8}Everywhere?
+Jak všude?
+[As everywhere?]
 
 00:57:00,360 --> 00:57:02,279
 Well, it's okay, you can just unfreeze it.
@@ -4994,9 +4994,9 @@ Ale to nic, stačí spustit tání.
 [But it's nothing, just start melting.]
 
 00:57:02,280 --> 00:57:04,528
-<i>No, I can't. I don't know how.</i>
-<i>To nejde, já nevím jak.</i>
-<i>[You can not, I do not know how.]</i>
+{\an8}No, I can't. I don't know how.
+To nejde, já nevím jak.
+[You can not, I do not know how.]
 
 00:57:04,560 --> 00:57:07,081
 Sure you can. I know you can.
@@ -5009,9 +5009,9 @@ Protože právě teď jak nikdy...
 [Because right now as ever...]
 
 00:57:09,450 --> 00:57:15,519
-<i>Oh, I'm such a fool! I can't be free!</i>
-<i>Když volnost práh svůj překročí...</i>
-<i>[When freedom exceeds its threshold...]</i>
+{\an8}Oh, I'm such a fool! I can't be free!
+Když volnost práh svůj překročí...
+[When freedom exceeds its threshold...]
 
 00:57:12,650 --> 00:57:17,950
 You don't have to be afraid
@@ -5019,9 +5019,9 @@ je už zbytečné se bát!
 [it is unnecessary to worry!]
 
 00:57:15,920 --> 00:57:18,839
-<i>No escape from the storm inside of me</i>
-<i>bouře v mém nitru na svět útočí!</i>
-<i>[storm inside of me attacking the world!]</i>
+{\an8}No escape from the storm inside of me
+bouře v mém nitru na svět útočí!
+[storm inside of me attacking the world!]
 
 00:57:18,040 --> 00:57:21,839
 We can work this out together
@@ -5029,9 +5029,9 @@ We can work this out together
 [Sharpest attack, he'll manage!]
 
 00:57:20,840 --> 00:57:22,819
-<i>I can't control the curse!</i>
-<i>Jsem na dně s vůlí svou!</i>
-<i>[I'm down to play her!]</i>
+{\an8}I can't control the curse!
+Jsem na dně s vůlí svou!
+[I'm down to play her!]
 
 00:57:22,720 --> 00:57:26,639
 We'll reverse the storm you've made
@@ -5039,9 +5039,9 @@ Utišíme bouři tvou.
 [Beating your storm.]
 
 00:57:26,040 --> 00:57:29,219
-<i>Anna, please you'll only make it worse!</i>
-<i>Anno, nech mě být, jen zhoršíš to!</i>
-<i>[Anna, let me be, just making things worse it!]</i>
+{\an8}Anna, please you'll only make it worse!
+Anno, nech mě být, jen zhoršíš to!
+[Anna, let me be, just making things worse it!]
 
 00:57:29,120 --> 00:57:31,019
 Don't panic!
@@ -5049,9 +5049,9 @@ Proč křičíš?
 [Why are you screaming?]
 
 00:57:29,820 --> 00:57:31,319
-<i>There's so much fear!</i>
-<i>Měj ze mě strach!</i>
-<i>[Have afraid of me!]</i>
+{\an8}There's so much fear!
+Měj ze mě strach!
+[Have afraid of me!]
 
 00:57:31,020 --> 00:57:33,919
 We'll make the sun shine bright
@@ -5059,9 +5059,9 @@ Vzbuď slunce na střechách!
 [Wake up the sun on the roof!]
 
 00:57:32,820 --> 00:57:35,319
-<i>You're not safe here!</i>
-<i>Běž rychle pryč!</i>
-<i>[Go away quickly!]</i>
+{\an8}You're not safe here!
+Běž rychle pryč!
+[Go away quickly!]
 
 00:57:34,320 --> 00:57:37,119
 We can face this thing together
@@ -5069,9 +5069,9 @@ Správný klíč najdeme spolu!
 [Together we can find the right key!]
 
 00:57:35,840 --> 00:57:38,119
-<i>No!</i>
-<i>Ne...!</i>
-<i>[No...!]</i>
+{\an8}No!
+Ne...!
+[No...!]
 
 00:57:37,120 --> 00:57:39,279
 We can change this winter weather
@@ -5084,9 +5084,9 @@ když pomůžem si ty a já.
 [Helping you and me.]
 
 00:57:43,320 --> 00:57:45,761
-<i>I can't!</i>
-<i>Já... já... ne...!</i>
-<i>[I... I... do not...!]</i>
+{\an8}I can't!
+Já... já... ne...!
+[I... I... do not...!]
 
 00:57:53,240 --> 00:57:54,441
 Anna!
