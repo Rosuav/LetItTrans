@@ -5767,7 +5767,7 @@ Moc rád vás zase vidím.
 [Very glad to see you again.]
 
 01:04:03,800 --> 01:04:06,731
-He's crazy. - Hey look, ???'s back from vacation!
+He's crazy. - Hey look, Magma's back from vacation!
 On se zbláznil.
 [He was crazy.]
 
@@ -5787,7 +5787,7 @@ Hodně jsi shodil.
 [You dropped a lot.]
 
 01:04:13,040 --> 01:04:15,999
-I'll distract him while you run.
+I'll distract him while you run. - Didn't realize how much I missed you guys.
 Zabavím ho a ty uteč.
 [I confiscate it and you run.]
 
@@ -5802,12 +5802,12 @@ Moc rád vás poznávám.
 [Very glad to meet you.]
 
 01:04:20,960 --> 01:04:23,439
-Because I love you, Anna, I insist you run.
+Because I love you, Anna, I insist you run. - Guys, I've got so much to tell you.
 Mám tě rád, Anno, a trvám na tom, abys utekla.
 [I love you, Anna, and I insist that you ran.]
 
 01:04:23,440 --> 01:04:27,531
-I understand you're love experts. Ooh!
+I understand you're love experts. Ooh! - Stop kissing Crystal and find Grandpabbie!
 Slyšel jsem, že jste experti na lásku.
 [I heard you're an expert on love.]
 

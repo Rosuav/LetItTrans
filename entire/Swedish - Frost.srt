@@ -5879,7 +5879,7 @@ Vad härligt att se er!
 [How wonderful to see you!]
 
 01:04:03,800 --> 01:04:06,731
-He's crazy. - Hey look, ???'s back from vacation!
+He's crazy. - Hey look, Magma's back from vacation!
 Han är galen.
 [He is crazy.]
 
@@ -5899,7 +5899,7 @@ Du har blivit så små.
 [You have become so small.]
 
 01:04:13,040 --> 01:04:15,999
-I'll distract him while you run.
+I'll distract him while you run. - Didn't realize how much I missed you guys.
 Jag distraherar honom, så springer du.
 [I distract him, so you running.]
 
@@ -5914,12 +5914,12 @@ It's nice to meet you.
 [(Evoking) So nice to meet you!]
 
 01:04:20,960 --> 01:04:23,439
-Because I love you, Anna, I insist you run.
+Because I love you, Anna, I insist you run. - Guys, I've got so much to tell you.
 Jag älskar dig, Anna, så snälla spring nu.
 [I love you, Anna, so please run now.]
 
 01:04:23,440 --> 01:04:27,531
-I understand you're love experts. Ooh!
+I understand you're love experts. Ooh! - Stop kissing Crystal and find Grandpabbie!
 (ÖVERTYDLIGT) Jag hörde att ni är kärleksexperter. Ooh!
 [(Too obvious) I heard you love experts. Ooh!]
 
