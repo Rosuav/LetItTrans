@@ -9,6 +9,7 @@ int main(int argc,array(string) argv)
 		int engonly=0,trans=0,gtrans=0;
 		int changed=0,ital=0;
 		int notrans=0; signal(2,lambda() {notrans=1;});
+		int tot_english,tot_other,tot_trans;
 		foreach (input;int i;array(string) para) switch (sizeof(para)-has_translit)
 		{
 			case 1: //English text only, when we're looking for a transliteration.
@@ -51,11 +52,18 @@ int main(int argc,array(string) argv)
 				{
 					for (int i=2;i<sizeof(para);++i) if (!has_prefix(para[i],"<i>")) {para[i]="<i>"+para[i]+"</i>"; ital++;}
 				}
+				tot_english += sizeof(para[1]-"<i>"-"</i>");
+				tot_other += sizeof(para[-2]-"<i>"-"</i>");
+				tot_trans += sizeof(para[-1]-"<i>"-"</i>"-"["-"]");
 				break;
 			}
 			default: write("Unknown para len %d on para %d\n",sizeof(para),i); //Probably broken input
 		}
 		write("English-only: %d\nWith subs and GTrans: %d\nWith subs and proper trans: %d\n",engonly,gtrans,trans);
+		write("Total English characters in translated sections: %d\nTranslated characters: %d [%d%%]\nTranslation back: %d [%d%% of above, %d%% of English]\n",tot_english,
+			tot_other,100*tot_other/tot_english,
+			tot_trans,100*tot_trans/tot_other,100*tot_trans/tot_english,
+		);
 		if (changed || ital)
 		{
 			if (changed) write("%d new GTranslations made.\n",changed);
