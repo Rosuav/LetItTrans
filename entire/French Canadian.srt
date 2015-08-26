@@ -5349,8 +5349,7 @@ Ne devenez pas le monstre qu'ils prétendent que vous êtes.
 
 01:12:42,520 --> 01:12:44,927
 Oh, no. What have... What have I done?
-Non, mais...
-Qu'est-ce que j'ai fait?
+Non, mais... Qu'est-ce que j'ai fait?
 
 01:12:51,880 --> 01:12:53,491
 Why did you bring me here?
@@ -5362,8 +5361,7 @@ Je ne voulais pas qu'ils vous tuent.
 
 01:12:55,440 --> 01:12:58,769
 But I'm a danger to Arendelle. Get Anna.
-Mais je suis un danger pour Arendelle.
-Je veux voir Anna.
+Mais je suis un danger pour Arendelle. Je veux voir Anna.
 
 01:12:59,120 --> 01:13:01,199
 Anna has not returned.
@@ -5419,17 +5417,15 @@ C'est promis!
 
 01:14:01,560 --> 01:14:04,161
 Hello! - It's alive!
-- Coucou!
-- Il est vivant!
-C'est la princess Anna.
+Coucou! - Il est vivant!
 
 01:14:13,160 --> 01:14:14,725
 It's Princess Anna!
+C'est la princess Anna.
 
 01:14:22,880 --> 01:14:24,969
 Are you gonna be okay?
-Vous êtes sûr
-que vous allez vous en sortir?
+Vous êtes sûr que vous allez vous en sortir?
 
 01:14:26,880 --> 01:14:28,679
 Don't worry about me.
@@ -5437,17 +5433,14 @@ Ne vous en faites pas pour moi.
 
 01:14:28,680 --> 01:14:30,519
 Anna!
-Anna!
 
 01:14:30,520 --> 01:14:32,439
 You had us worried sick. My Lady.
-- Nous étions morts d'inquiètude.
-- Majesté.
+Nous étions morts d'inquiètude. Majesté.
 
 01:14:32,440 --> 01:14:35,439
 Get her warm. And find Prince Hans, immediately.
-Amenez-la au chaud, et allez chercher
-le prince Hans immediatement.
+Amenez-la au chaud, et allez chercher le prince Hans immediatement.
 
 01:14:35,440 --> 01:14:37,051
 We will. Thank you.
@@ -5465,13 +5458,11 @@ Oh, let's get you inside now and get you warm.
 
 01:14:57,480 --> 01:14:59,399
 I'm going back out to look for Princess Anna.
-Je vais repartir
-chercher la princesse Anna.
+Je vais repartir chercher la princesse Anna.
 
 01:14:59,400 --> 01:15:01,250
 You cannot risk going out there again.
-Vous ne pouvez pas prendre
-à nouveau ce risque.
+Vous ne pouvez pas prendre à nouveau ce risque.
 
 01:15:01,440 --> 01:15:02,599
 If anything happens to her...
@@ -5483,8 +5474,7 @@ Si quelque chose arrivait à la princesse
 
 01:15:04,720 --> 01:15:07,127
 you are all Arendelle has left.
-vous seriez le seul
-à pouvoir régner sur Arendelle.
+vous seriez le seul à pouvoir régner sur Arendelle.
 
 01:15:08,720 --> 01:15:10,519
 He's in here.
@@ -5492,11 +5482,9 @@ Il est ici.
 
 01:15:10,520 --> 01:15:11,639
 Prince Hans.
-Prince Hans.
 
 01:15:11,640 --> 01:15:13,079
 Anna.
-Anna!
 
 01:15:13,080 --> 01:15:14,199
 You're so cold.
@@ -5507,12 +5495,11 @@ Hans, vous devez m'embrasser.
 
 01:15:15,440 --> 01:15:17,159
 Now! Now! - Slow down.
-- Tout de suite. Tout de suite!
-- Calmez-vous.
-Laissons-leur un peu d'intimité.
+Tout de suite. Tout de suite! - Calmez-vous.
 
 01:15:17,160 --> 01:15:19,089
 We'll give you two some privacy.
+Laissons-leur un peu d'intimité.
 
 01:15:19,760 --> 01:15:21,039
 What happened out there?
@@ -5521,11 +5508,10 @@ Que s'est-il passé là-bas?
 01:15:21,040 --> 01:15:23,129
 Elsa struck me with her powers.
 Elsa m'a blessée avec ses pouvoirs.
-Mais, vous disiez
-qu'elle ne vous ferait jamais de mal.
 
 01:15:23,160 --> 01:15:24,679
 You said she'd never hurt you.
+Mais, vous disiez qu'elle ne vous ferait jamais de mal.
 
 01:15:24,680 --> 01:15:25,759
 I was wrong.
@@ -5540,8 +5526,7 @@ Elle a gelé mon cœur et...
 
 01:15:31,720 --> 01:15:34,366
 and only an act of true love can save me.
-seule une véritable preuve d'amour
-peut me sauver.
+seule une véritable preuve d'amour peut me sauver.
 
 01:15:35,920 --> 01:15:37,804
 A true love's kiss.
@@ -5549,55 +5534,46 @@ Un baiser d'amour.
 
 01:15:47,720 --> 01:15:49,160
 Oh, Anna.
-Oh, Anna.
 
 01:15:50,480 --> 01:15:53,559
 If only there was someone out there who loved you.
-Si seulement quelqu'un
-était amoureux de vous.
+Si seulement quelqu'un était amoureux de vous.
 
 01:15:53,560 --> 01:15:55,000
 What?
 Quoi?
-Mais... vous disiez que vous m'aimiez.
 
 01:15:58,480 --> 01:16:00,284
 You said you did.
+Mais... vous disiez que vous m'aimiez.
 
 01:16:01,440 --> 01:16:04,199
 As thirteenth in line in my own kingdom,
-Étant le treizième de ma lignée
-dans mon royaume
+Étant le treizième de ma lignée dans mon royaume
 
 01:16:04,200 --> 01:16:05,479
 I didn't stand a chance.
-je n'avais aucune chance
-d'accéder au throne.
+je n'avais aucune chance d'accéder au throne.
 
 01:16:05,480 --> 01:16:09,239
 I knew I would have to marry into the throne somewhere.
-Ce n'est que par le mariage
-que je pouvais espérer régner un jour.
+Ce n'est que par le mariage que je pouvais espérer régner un jour.
 
 01:16:09,240 --> 01:16:10,805
 What... What are you talking about?
-Mais... mais de quoi
-est-ce que vous parlez?
+Mais... mais de quoi est-ce que vous parlez?
 
 01:16:11,280 --> 01:16:13,767
 As heir, Elsa was preferable, of course.
-En tant qu'heritière,
-Elsa était mon premier choix, bien sûr.
+En tant qu'heritière, Elsa était mon premier choix, bien sûr.
 
 01:16:14,000 --> 01:16:15,839
 But no one was getting anywhere with her.
-Mais beaucoup d'autres
-avaient échoué avant moi.
+Mais beaucoup d'autres avaient échoué avant moi.
 
 01:16:15,840 --> 01:16:16,919
 But you...
-- Alors que vous...
-- Hans!
+Alors que vous...
 
 01:16:16,920 --> 01:16:18,439
 You were so desperate for love,
@@ -5605,13 +5581,11 @@ Vous étiez si désespérée
 
 01:16:18,440 --> 01:16:21,371
 you were willing to marry me just like that.
-vous étiez prête à m'épouser comme ça.
-Sans même me connaître.
+vous étiez prête à m'épouser comme ça. Sans même me connaître.
 
 01:16:22,800 --> 01:16:24,639
 I figured after we married,
-J'avais prévu
-après notre mariage
+J'avais prévu après notre mariage
 
 01:16:24,640 --> 01:16:26,799
 I would have to stage a little accident for Elsa.
@@ -5624,20 +5598,18 @@ Hans! Non, arrêtez.
 01:16:29,120 --> 01:16:31,159
 But then, she doomed herself,
 Mais elle s'est elle-même condamnée
-et vous avez été assez idiote
-pour aller la rechercher.
 
 01:16:31,160 --> 01:16:33,119
 and you were dumb enough to go after her.
-Je vous en prie.
+et vous avez été assez idiote pour aller la rechercher.
 
 01:16:33,120 --> 01:16:34,239
 Please.
+Je vous en prie.
 
 01:16:34,240 --> 01:16:36,920
 All that's left now is to kill Elsa,
-Tout ce qui me reste à faire maintenant,
-c'est de tuer Elsa.
+Tout ce qui me reste à faire maintenant, c'est de tuer Elsa.
 
 01:16:37,440 --> 01:16:38,971
 and bring back summer.
@@ -5657,15 +5629,13 @@ Moi, en revanche...
 
 01:16:46,240 --> 01:16:50,729
 am the hero who is going to save Arendelle from destruction.
-Je suis le héros qui s'apprête
-à sauver Arendelle de la déstruction.
+Je suis le héros qui s'apprête à sauver Arendelle de la déstruction.
 
 01:16:51,400 --> 01:16:53,011
 You won't get away with this.
 Vous ne vous en tirerez pas comme ça.
 
 01:16:53,360 --> 01:16:54,607
-Oh...
 Oh...
 
 01:16:55,200 --> 01:16:56,811
@@ -5678,7 +5648,7 @@ Pitié, aidez-moi. Au secours.
 
 01:17:08,080 --> 01:17:10,123
 Please. Please.
-Pitié.
+Pitié. Pitié.
 
 01:17:13,040 --> 01:17:14,999
 It's getting colder by the minute.
@@ -5686,11 +5656,9 @@ Il fait de plus en plus froid.
 
 01:17:15,000 --> 01:17:18,719
 If we don't do something soon, we'll all freeze to death.
-Si nous ne faisons rien,
-nous allons tous mourir gelés.
+Si nous ne faisons rien, nous allons tous mourir gelés.
 
 01:17:18,720 --> 01:17:20,331
-Prince Hans.
 Prince Hans.
 
 01:17:20,400 --> 01:17:22,443
@@ -5747,7 +5715,6 @@ et nous sommes tous encore en danger.
 
 01:17:52,560 --> 01:17:53,921
 Prince Hans,
-Prince Hans
 
 01:17:54,440 --> 01:17:56,483
 Arendelle looks to you.
@@ -5764,10 +5731,10 @@ que j'accuse la reine Elsa d'Arendelle de trahison
 01:18:04,720 --> 01:18:06,968
 And sentence her to death.
 et ordonne son éxecution.
-Venez, allons la chercher.
 
 01:18:19,120 --> 01:18:20,481
 Hurry up!
+Venez, allons la chercher.
 
 01:18:20,560 --> 01:18:21,639
 She's dangerous.
@@ -5802,8 +5769,7 @@ Mais qu'est-ce qui te prend?
 
 01:19:03,000 --> 01:19:05,282
 I don't understand you when you talk like that.
-Je ne comprends rien
-quand tu parles comme ça.
+Je ne comprends rien quand tu parles comme ça.
 
 01:19:05,640 --> 01:19:08,079
 Stop it! Put me down!
@@ -5827,7 +5793,6 @@ Qu'est-ce qui se passe?
 
 01:19:25,640 --> 01:19:26,841
 Anna!
-Anna.
 
 01:19:32,960 --> 01:19:34,685
 Come on! Come on, boy.
@@ -5839,15 +5804,12 @@ Au secours.
 
 01:19:58,880 --> 01:20:00,525
 Anna!
-Ah, Anna!
-Olaf.
 
 01:20:01,240 --> 01:20:02,680
 Oh, no.
 Oh, non.
 
 01:20:14,720 --> 01:20:16,081
-Olaf?
 Olaf?
 
 01:20:16,280 --> 01:20:18,482
@@ -5872,13 +5834,11 @@ Ooh! Mais faut pas y toucher.
 
 01:20:34,320 --> 01:20:37,444
 So, where's Hans? What happened to your kiss?
-Alors, où est Hans?
-Vous vous êtes embrassés?
+Alors, où est Hans? Vous vous êtes embrassés?
 
 01:20:37,760 --> 01:20:41,806
 I was wrong about him. It wasn't true love.
-Je me suis trompée sur lui.
-Ce n'était pas le grand amour.
+Je me suis trompée sur lui. Ce n'était pas le grand amour.
 
 01:20:42,080 --> 01:20:43,725
 But we ran all the way here.
@@ -5886,8 +5846,7 @@ Mais on est revenus ici pour lui.
 
 01:20:43,760 --> 01:20:47,239
 Please, Olaf, you can't stay here. You'll melt.
-Va-t'en Olaf, tu ne peux pas rester ici.
-Tu vas fondre.
+Va-t'en Olaf, tu ne peux pas rester ici. Tu vas fondre.
 
 01:20:47,240 --> 01:20:48,359
 I am not leaving here until
@@ -5895,8 +5854,7 @@ Je ne partirai pas
 
 01:20:48,360 --> 01:20:51,131
 we find some other act of true love to save you.
-tant que nous n'aurons pas trouver
-une autre preuve d'amour pour te sauver.
+tant que nous n'aurons pas trouver une autre preuve d'amour pour te sauver.
 
 01:20:51,360 --> 01:20:53,369
 Do you happen to have any ideas?
@@ -5908,8 +5866,7 @@ Je ne sais même pas ce qu'est l'amour.
 
 01:20:55,600 --> 01:20:57,484
 That's okay, I do.
-C'est pas grave.
-Moi, je sais!
+C'est pas grave. Moi, je sais!
 
 01:20:57,720 --> 01:20:59,285
 Love is
@@ -5917,13 +5874,11 @@ L'amour, c'est...
 
 01:21:00,080 --> 01:21:02,647
 putting someone else's needs before yours.
-faire passer les besoins de l'autre
-avant les siens. Comme...
+faire passer les besoins de l'autre avant les siens.
 
 01:21:03,120 --> 01:21:07,211
 Like, you know, how Kristoff brought you back here to Hans and left you forever.
-Tu sais comme quand Kristoff t'as ramenée ici
-auprès de Hans et t'as quittée pour toujours.
+Comme... tu sais comme quand Kristoff t'as ramenée ici auprès de Hans et t'as quittée pour toujours.
 
 01:21:09,280 --> 01:21:12,529
 Kristoff loves me?
@@ -5931,22 +5886,19 @@ Kristoff... est amoureux de moi?
 
 01:21:13,880 --> 01:21:17,607
 Wow, you really don't know anything about love, do you?
-Waouh, tu ne connais vraiment rien
-à l'amour, toi, on dirait.
-Olaf, tu commences à fondre.
+Waouh, tu ne connais vraiment rien à l'amour, toi, on dirait.
 
 01:21:18,120 --> 01:21:19,924
 Olaf, you're melting.
+Olaf, tu commences à fondre.
 
 01:21:20,040 --> 01:21:22,402
 Some people are worth melting for.
-Certaines personnes ont le don
-de vous faire fondre.
+Certaines personnes ont le don de vous faire fondre.
 
 01:21:27,440 --> 01:21:29,642
 Just maybe not right this second.
-Mais moins vite,
-ça m'arrangerait.
+Mais moins vite, ça m'arrangerait.
 
 01:21:31,800 --> 01:21:33,286
 Don't worry, I've got it.
@@ -5954,21 +5906,19 @@ T'inquiète, je m'en occupe.
 
 01:21:35,800 --> 01:21:37,923
 We're gonna get through... Oh, wait.
-On va trouver une solution.
-Tu— Attends...
+On va trouver une solution. Tu— Attends...
 
 01:21:38,000 --> 01:21:39,690
 Hang on, I'm getting something.
-Une minute,
-je vois quelque chose.
+Une minute, je vois quelque chose.
 
 01:21:40,600 --> 01:21:43,159
 It's Kristoff and Sven!
 C'est Kristoff et Sven!
-Ils reviennent par ici.
 
 01:21:43,160 --> 01:21:44,566
 They're coming back this way.
+Ils reviennent par ici.
 
 01:21:45,000 --> 01:21:46,361
 They... They are?
@@ -5984,8 +5934,7 @@ Je pense que j'avais tort.
 
 01:21:50,640 --> 01:21:53,207
 I guess Kristoff doesn't love you enough to leave you behind.
-Kristoff ne t'aime pas assez
-pour faire une croise sur toi.
+Kristoff ne t'aime pas assez pour faire une croise sur toi.
 
 01:21:53,840 --> 01:21:55,839
 Help me up, Olaf. Please.
@@ -5993,8 +5942,7 @@ Viens m'aider. Olaf, s'il te plaît.
 
 01:21:55,840 --> 01:21:58,999
 No, no, no! You need to stay by the fire and keep warm.
-Non, non, non, non, non!
-Tu dois rester près du feu pour te réchauffer.
+Non, non, non, non, non! Tu dois rester près du feu pour te réchauffer.
 
 01:21:59,000 --> 01:22:00,759
 I need to get to Kristoff.
@@ -6011,15 +5959,14 @@ Oh, je sais pourquoi!
 01:22:04,960 --> 01:22:07,159
 There's your act of true love right there!
 Ta véritable preuve d'amour est juste là!
-En train de chevaucher à travers les fjords
-tel le roi des rennes qui sent un peu fort.
 
 01:22:07,160 --> 01:22:11,159
 Riding across the fjords like a valiant, pungent reindeer king!
-Suis-moi!
+En train de chevaucher à travers les fjords tel le roi des rennes qui sent un peu fort.
 
 01:22:11,160 --> 01:22:12,646
 Come on!
+Suis-moi!
 
 01:22:14,920 --> 01:22:16,519
 Look out!
@@ -6060,14 +6007,12 @@ Allez, mon vieux. Plus vite!
 
 01:23:22,800 --> 01:23:24,411
 Kristoff!
-Kristoff!
 
 01:23:30,080 --> 01:23:31,645
 Keep going!
 Continue sans moi!
 
 01:23:33,920 --> 01:23:35,485
-Kristoff!
 Kristoff!
 
 01:23:46,920 --> 01:23:48,167
@@ -6088,7 +6033,6 @@ Woah!
 
 01:24:30,240 --> 01:24:32,010
 Sven!
-Sven... Sven!
 
 01:24:42,320 --> 01:24:43,965
 Good boy.
@@ -6096,14 +6040,11 @@ T'es le meilleur.
 
 01:24:55,240 --> 01:24:56,771
 Kristoff.
-Kristoff.
 
 01:24:57,680 --> 01:24:59,609
 Kristoff...
-Anna.
 
 01:25:00,320 --> 01:25:01,601
-Anna!
 Anna!
 
 01:25:04,960 --> 01:25:08,369
@@ -6133,13 +6074,11 @@ Non.
 
 01:25:20,400 --> 01:25:22,648
 I tried to save her, but it was too late.
-J'ai essayé de la sauver,
-mais il était trop tard.
+J'ai essayé de la sauver, mais il était trop tard.
 
 01:25:23,840 --> 01:25:26,441
 Her skin was ice. Her hair turned white.
-Sa peau était gelée
-et ses cheveux tout blancs.
+Sa peau était gelée et ses cheveux tout blancs.
 
 01:25:27,800 --> 01:25:29,570
 Your sister is dead.
@@ -6155,14 +6094,11 @@ Non.
 
 01:25:55,320 --> 01:25:56,521
 Kristoff.
-Kristoff.
 
 01:25:57,760 --> 01:25:59,450
 Anna!
-Anna!
 
 01:26:11,840 --> 01:26:13,405
-Elsa?
 Elsa?
 
 01:26:21,560 --> 01:26:22,807
@@ -6173,7 +6109,6 @@ Non!
 Anna!
 
 01:26:37,000 --> 01:26:38,850
-Oh. Anna!
 Oh. Anna!
 
 01:26:39,520 --> 01:26:41,802
@@ -6186,12 +6121,9 @@ Pitié, non.
 
 01:26:51,920 --> 01:26:53,201
 Anna?
-Anna?
 
 01:27:33,440 --> 01:27:35,210
 Anna?
-Anna?
-Oh, Elsa.
 
 01:27:38,440 --> 01:27:39,880
 Oh, Elsa.
@@ -6206,8 +6138,7 @@ Parce que je t'aime.
 
 01:27:45,520 --> 01:27:50,442
 "An act of true love will thaw a frozen heart."
-"Une véritable preuve d'amour
-peut faire fondre un cœur gelé."
+"Une véritable preuve d'amour peut faire fondre un cœur gelé."
 
 01:27:51,840 --> 01:27:53,690
 "Love will thaw."
@@ -6219,20 +6150,18 @@ L'amour, bien sûr!
 
 01:27:57,440 --> 01:27:58,721
 Elsa?
-Elsa?
 
 01:27:59,160 --> 01:28:00,441
 Love!
 L'amour!
-Je savais que tu pouvais y arriver.
 
 01:28:47,080 --> 01:28:48,691
 I knew you could do it.
+Je savais que tu pouvais y arriver.
 
 01:28:48,920 --> 01:28:52,442
 Hands down, this is the best day of my life.
-Je suis sûr d'une chose,
-c'est le plus beau jour de ma vie.
+Je suis sûr d'une chose, c'est le plus beau jour de ma vie.
 
 01:28:52,800 --> 01:28:54,759
 And, quite possibly, the last.
@@ -6244,18 +6173,15 @@ Oh, Olaf! Accroche-toi, mon ami.
 
 01:28:57,560 --> 01:28:59,250
 Oh, Oh, Oh!
-Oh, Oh, Oh!
-Ma tempête de neige personelle!
 
 01:29:01,160 --> 01:29:04,443
 My own personal flurry!
+Ma tempête de neige personnelle!
 
 01:29:08,920 --> 01:29:10,770
 Uh-uh-uh-uh.
-Uh-uh-uh.
 
 01:29:13,640 --> 01:29:14,841
-Anna?
 Anna?
 
 01:29:14,960 --> 01:29:16,844
@@ -6264,13 +6190,11 @@ Mais, elle avait gelé votre cœur.
 
 01:29:16,920 --> 01:29:19,771
 The only frozen heart around here is yours.
-Le seul cœur de glace ici,
-c'est le vôtre.
+Le seul cœur de glace ici, c'est le vôtre.
 
 01:29:24,760 --> 01:29:26,724
 Wonderful!
--C'est merveilleux.
-- Fantastique.
+C'est merveilleux.
 
 01:29:39,640 --> 01:29:41,205
 Setting course, sir.
@@ -6282,8 +6206,7 @@ Je vais renvoyer cette crapule dans son pays.
 
 01:29:46,840 --> 01:29:50,761
 We shall see what his twelve big brothers think of his behavior.
-Nous verrons ce que ses douze frères ainés
-pensent de son comportement.
+Nous verrons ce que ses douze frères ainés pensent de son comportement.
 
 01:29:50,880 --> 01:29:52,479
 Arendelle thanks you, milord.
@@ -6295,8 +6218,7 @@ C'est absolument inacceptable.
 
 01:29:54,320 --> 01:29:57,479
 I am a victim of fear. I've been traumatized.
-Je suis une victime.
-J'ai été traumatisé.
+Je suis une victime. J'ai été traumatisé.
 
 01:29:57,480 --> 01:29:59,364
 Ah! My neck hurts.
@@ -6304,8 +6226,7 @@ Ah! J'ai mal au cou.
 
 01:29:59,640 --> 01:30:03,039
 Is there a doctor that I could see?
-Pourrais-je voir un médicin je vous prie?
-C'est... non.
+Pourrais-je voir un médecin je vous prie?
 
 01:30:03,040 --> 01:30:05,439
 And I demand to see the queen!
@@ -6321,32 +6242,26 @@ Oh. J'ai justement un message de la reine.
 
 01:30:09,920 --> 01:30:14,045
 "no longer do business of any sort with Weaseltown."
-"à ses échanges commerciaux
-avec le duc de Vicieux Thon."
+"à ses échanges commerciaux avec le duc de Vicieux Thon."
 
 01:30:14,080 --> 01:30:15,239
 "Weselton."
-"Weselton."
-- C'est Weselton!
-- Allons-y.
 
 01:30:15,240 --> 01:30:16,799
 It's Weselton!
+C'est Weselton!
 
 01:30:16,800 --> 01:30:17,919
 Come on, come on, come on!
-- Non.
 Venez, venez, venez!
-- Dépêchez-vous, dépêchez-vous.
-- D'accord, je me dépêche.
 
 01:30:19,000 --> 01:30:20,399
 Okay, okay, here I come.
+Dépêchez-vous, dépêchez-vous. D'accord, je me dépêche.
 
 01:30:20,400 --> 01:30:22,489
 Pole! - Whoops! Sorry.
-- Pôteau!
-- Oups! Désolée.
+Pôteau! - Oups! Désolée.
 
 01:30:22,680 --> 01:30:24,211
 Okay, Okay.
@@ -6362,8 +6277,7 @@ Je vous avais promis un traineau.
 
 01:30:33,320 --> 01:30:35,204
 Are you serious? - Yes!
-- Vous êtes sérieuse?
-- Oui!
+Vous êtes sérieuse? - Oui!
 
 01:30:35,360 --> 01:30:36,999
 And it's the latest model.
@@ -6375,23 +6289,19 @@ Non, je ne peux pas accepter.
 
 01:30:38,600 --> 01:30:41,565
 You have to. No returns. No exchanges. Queen's orders.
-Bien sûr que oui. Ce ne sera ni repris
-ni échangé, ordre de la reine.
+Bien sûr que oui. Ce ne sera ni repris ni échangé, ordre de la reine.
 
 01:30:41,680 --> 01:30:45,521
 She's named you the Official Arendelle Ice Master and Deliverer.
-Elle vient d'ailleurs de vous nommer
-livreur de glaçons officiel d'Arendelle.
+Elle vient d'ailleurs de vous nommer livreur de glaçons officiel d'Arendelle.
 
 01:30:45,640 --> 01:30:47,519
 What? That's not a thing. - Oh, sure it is.
-- Quoi? Ça n'existe pas.
-- Bien sûr que ça existe.
+Quoi? Ça n'existe pas. - Bien sûr que ça existe.
 
 01:30:47,520 --> 01:30:51,039
 And it even has a cup holder. Do you like it?
-Et, il y a même un porte-gobelet.
-Il vous plaît?
+Et, il y a même un porte-gobelet. Il vous plaît?
 
 01:30:51,040 --> 01:30:53,359
 Like it? I love it!
@@ -6411,16 +6321,15 @@ Enfin, je veux dire, j'en ai envie.
 
 01:30:58,880 --> 01:31:01,079
 May I? We me. I mean, may we?
-Mais... je peux? Nouvons-pous?
-Je veux dire, pouvons-nous?
+Mais... je peux? Nouvons-pous? Je veux dire, pouvons-nous?
 
 01:31:01,080 --> 01:31:02,327
 Wait, what?
 Qu'est-ce que je dis?
-Avec plaisir.
 
 01:31:03,160 --> 01:31:04,566
 We may.
+Avec plaisir.
 
 01:31:08,440 --> 01:31:09,926
 Summer!
@@ -6457,8 +6366,7 @@ Nous ne refermerons plus jamais ces portes.
 
 01:32:04,640 --> 01:32:07,127
 Oh, Elsa, they're beautiful, but you know I don't skate.
-Oh, Elsa. Ils sont magnifiques.
-Mais je ne sais pas patiner.
+Oh, Elsa. Ils sont magnifiques. Mais je ne sais pas patiner.
 
 01:32:07,200 --> 01:32:08,731
 Come on! You can do it!
@@ -6466,17 +6374,15 @@ Lance-toi, tu vas y arriver.
 
 01:32:08,960 --> 01:32:11,359
 Look out. Reindeer coming through.
-Attention.
-Renne droit devant.
+Attention. Renne droit devant.
 
 01:32:11,360 --> 01:32:13,119
 I got it, I got it. I don't got it, I don't got it.
-J'y arrive. J'y arrive.
-Non! J'y arrive pas. J'y arrive pas.
-Coucou les filles!
+J'y arrive. J'y arrive. Non! J'y arrive pas. J'y arrive pas.
 
 01:32:13,120 --> 01:32:14,199
 Hey, guys!
+Coucou les filles!
 
 01:32:14,200 --> 01:32:15,519
 That's it, Olaf.
@@ -6484,5 +6390,4 @@ Vas-y Olaf, pousse-la.
 
 01:32:15,520 --> 01:32:18,839
 Glide and pivot. And glide and pivot.
-Glisse et pivote.
-Glisse et pivote.
+Glisse et pivote. Glisse et pivote.
