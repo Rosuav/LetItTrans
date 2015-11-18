@@ -26,6 +26,7 @@ int main(int argc,array(string) argv)
 		foreach (dir,string f) if (has_value(lower_case(f),lang))
 		{
 			write("Creating: %O\n",lang);
+			string out=fn-".srt"+".mkv";
 			Process.create_process(({"avconv",
 				//"-itsoffset","0.250",
 				"-i","LetItGo.mkv",
@@ -34,6 +35,12 @@ int main(int argc,array(string) argv)
 				"-map","0:v","-map","1:a:0","-map","2:s",
 				copy,"copy",fn-".srt"+".mkv"
 			}))->wait();
+			//Flag the subtitles track as active-by-default
+			//Requires mkvtoolnix package.
+			//TODO: Is there a way to do this inside avconv?
+			catch {Process.create_process(({"mkvpropedit",out,
+				"--edit","track:s1","--set","flag-default=1"}))->wait();
+			};
 			continue nextarg;
 		}
 		//TODO: Possibly search for the title too - though this can have false positives
