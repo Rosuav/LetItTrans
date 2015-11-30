@@ -17,11 +17,11 @@ array(string) allfiles(string path)
 int main(int argc,array(string) argv)
 {
 	if (argc==1) exit(0,"USAGE: pike [-c:s] %s *.srt\nor some subset of srt files\n",argv[0]);
-	string copy="-c";
+	string copy="-c:s";
 	array(string) dir=utf8_to_string(allfiles(audio_sources)[*]);
 	nextarg: foreach (argv[1..],string fn)
 	{
-		if (has_prefix(fn,"-c")) {copy=fn; continue;} //Change the copy effect used by passing -c:s or similar.
+		if (has_prefix(fn,"-c")) {copy=fn; continue;} //Change the copy effect used by passing -c:v or similar (or just "-c" to copy all).
 		sscanf(lower_case(utf8_to_string(fn)),"%s - %s.srt",string lang,string tit);
 		foreach (dir,string f) if (has_value(lower_case(f),lang))
 		{
