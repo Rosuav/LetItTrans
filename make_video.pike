@@ -43,7 +43,6 @@ int main(int argc,array(string) argv)
 			};
 			continue nextarg;
 		}
-		//TODO: Possibly search for the title too - though this can have false positives
 		write("Not found: %s\n",fn);
 	}
 }
