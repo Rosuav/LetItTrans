@@ -234,9 +234,9 @@ Poigraj bez menâ
 
 00:04:09,200 --> 00:04:11,448
 Do you want to build a snowman?
-Cлепим снеговика?
-Clepim snegovika?
-[Clepim snowman?]
+Слепим снеговика?
+Slepim snegovika?
+[Making a snowman?]
 
 00:04:12,880 --> 00:04:14,039
 Come on, come on, come on!
