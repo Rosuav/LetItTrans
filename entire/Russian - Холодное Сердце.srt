@@ -8558,7 +8558,7 @@ No my tak mčalis’ sûda?
 Please, Olaf, you can't stay here. You'll melt.
 Я прошу тебя Олаф, уходи оттсюда, ты растаешь!
 Â prošu tebâ Olaf, ukhodi ottsûda, ty rastaeš’!
-[I ask you to Olaf ottsyuda go, you melt away!]
+[I ask you, Olaf, get out of here, you will melt!]
 
 01:20:47,240 --> 01:20:48,359
 I am not leaving here until
