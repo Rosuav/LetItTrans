@@ -8237,7 +8237,7 @@ Kotoryj spaset Èrendell ot neminuemoj gibeli.
 You won't get away with this.
 Тебе это с рук не соидет.
 Tebe èto s ruk ne soidet.
-[You do this with no hands soidet.]
+[You is not get away with.]
 
 01:16:53,360 --> 01:16:54,607
 Oh...
