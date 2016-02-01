@@ -61,7 +61,7 @@ Though I hid it thoroughly...
 
 00:00:55,000 --> 00:00:58,000
 Well, now they know!
-들켜 버려ᄊ​어
+들켜 버렸​어
 deulkyeo beoryeoss​eo
 ... it was bound to be discovered!
 
@@ -73,7 +73,7 @@ Forget it all, forget it all!
 
 00:01:02,000 --> 00:01:06,000
 Can't hold it back any more!
-잊엔 참지 안흘 거야
+이젠 참지 않을 거야
 ijen chamji anheul geoya
 Now I'm done holding back
 
@@ -91,7 +91,7 @@ I'll open the door and go
 
 00:01:13,500 --> 00:01:19,500
 I don't care what they're going to say
-괜찬하 누가 뭬라해도
+괜찮아 누가 뭐라해도
 gwaenchanha nuga mwerahaedo
 It's alright, no matter what anyone says
 
@@ -103,19 +103,19 @@ Though the storm rages on
 
 00:01:24,000 --> 00:01:27,000
 The cold never bothered me anyway.
-추위 따윈 두렵지 안다​네
+추위 따윈 두렵지 않다​네
 chuwi ttawin duryeopji anda​ne
 I'm not afraid of the cold.
 
 00:01:31,000 --> 00:01:33,500
 It's funny how some distance
-거리를 두고 봄연
+거리를 두고 보면
 georireul dugo bomyeon
 If you look from a distance,
 
 00:01:33,500 --> 00:01:37,000
 Makes everything seem small
-모듰에 자가 보여
+모든게 작아 보여
 modeunge jaga boyeo
 everything seems small
 
@@ -127,7 +127,7 @@ Now I'm not afraid of ...
 
 00:01:41,000 --> 00:01:45,000
 Can't get to me at all!
-잊엔 겁나​지 안하
+이젠 겁나​지 안하
 ijen geopna​ji anha
 ... the things I used to fear
 
@@ -151,7 +151,7 @@ I'll live the way I want
 
 00:01:56,500 --> 00:01:59,500
 I'm free!
-살l애
+살래
 sallae
 Freely!
 
@@ -181,7 +181,7 @@ Now, I'll never cry again
 
 00:02:15,000 --> 00:02:21,500
 Here I stand, and here I'll stay,
-닸닸히 사라갈l애
+당당히 사라갈l애
 dangdanghi saragallae
 I'll live proudly
 
@@ -247,7 +247,7 @@ That girl who was nice
 
 00:03:16,000 --> 00:03:24,500
 Here I stand in the light of day
-닸닸히 살아가리라
+당당히 살아가리라
 dangdanghi salagarira
 I'll live proudly
 
@@ -259,6 +259,6 @@ Though the storm rages on...
 
 00:03:30,000 --> 00:03:33,500
 The cold never bothered me anyway.
-추위 따윈 두렵지 안다​네
+추위 따윈 두렵지 않다​네
 chuwi ttawin duryeopji anda​ne
 I'm not afraid of the cold.
