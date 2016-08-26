@@ -34,6 +34,7 @@ int main(int argc,array(string) argv)
 		array(array(string)) input=(String.trim_all_whites(utf8_to_string(Stdio.read_file(fn)))/"\n\n")[*]/"\n";
 		int engonly=0,trans=0,gtrans=0;
 		int changed=0,ital=0;
+		mixed ex = catch {
 		int notrans=0; signal(2,lambda() {notrans=1;});
 		int tot_english,tot_other,tot_trans;
 		foreach (input;int i;array(string) para) switch (sizeof(para)-has_translit)
@@ -91,11 +92,13 @@ int main(int argc,array(string) argv)
 			tot_other,100*tot_other/tot_english,
 			tot_trans,100*tot_trans/tot_other,100*tot_trans/tot_english,
 		);
+		};
 		if (changed || ital)
 		{
 			if (changed) write("%d new GTranslations made.\n",changed);
 			if (ital) write("%d italicizations made.\n",ital);
 			Stdio.write_file(fn,string_to_utf8(input[*]*"\n"*"\n\n"+"\n"));
 		}
+		if (ex) throw(ex);
 	}
 }
