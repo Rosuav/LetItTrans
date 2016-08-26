@@ -1,3 +1,29 @@
+//"What one man can invent another can discover," said Holmes, regarding the Dancing Men.
+string gtrans_hash(string input)
+{
+	mixed d = ({408934, 2955748344}); //Some sort of magic key.
+	mixed a = d[0];
+	mixed e = (array)string_to_utf8(input);
+	foreach (e, int f)
+	{
+		a += f;
+		//"+-a"
+		a = (a + (a << 10)) & 4294967295;
+		//"^+6"
+		a = a ^ ((a&4294967295) >> 6);
+	}
+	//"+-3"
+	a = (a + (a<<3)) & 4294967295;
+	//"^+b"
+	a = a ^ ((a&4294967295) >> 11);
+	//"+-f";
+	a = (a + (a<<15)) & 4294967295;
+	a ^= (int)d[1];
+	if (a < 0) a = (a & 2147483647) + 2147483648;
+	a %= 1000000;
+	return sprintf("%d.%d", a, a^d[0]);
+}
+
 int main(int argc,array(string) argv)
 {
 	foreach (argv[1..],string fn)
@@ -17,16 +43,17 @@ int main(int argc,array(string) argv)
 			case 3: //This is the interesting case - we have three lines: the header, the English, and the other.
 			{
 				if (notrans) break; //Hit Ctrl-C to abort translation (but keep checking for italicization, just in case)
-				string result=Protocols.HTTP.get_url_data(
+				object result=Protocols.HTTP.get_url(
 					//Base URL - I have no idea what all this means, but it does seem to work
-					"http://translate.google.com/translate_a/single?client=t&sl="+language+"&tl=en&hl=en&dt=bd&dt=ex&dt=ld&dt=md&dt=qc&dt=rw&dt=rm&dt=ss&dt=t&dt=at&ie=UTF-8&oe=UTF-8&ssel=3&tsel=3&otf=1&kc=11&tk=519600|625420",
-					//Text that we want to translate (gets properly encoded)
-					(["q":para[2]]),
+					"http://translate.google.com/translate_a/single?client=t&sl="+language+"&tl=en&hl=en&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&pc=1&otf=1&srcrom=1&ssel=0&tsel=0&kc=1",
+					//Text that we want to translate (gets properly encoded), and its error-detection hash
+					(["q":para[2], "tk": gtrans_hash(para[2])]),
 					//And set a UA.
-					(["User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36"])
+					(["User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"])
 				);
+				if (result->status != 200) return 1;
 				//Hacky means of parsing it out. VERY hacky.
-				sscanf(utf8_to_string(result),"[[[%s]]",string parseme); if (!parseme) parseme="";
+				sscanf(utf8_to_string(result->data()),"[[[%s]]",string parseme); if (!parseme) parseme="";
 				//If you now examine "[["+parseme+"]]", it should be a JSON array of two-element arrays
 				//where the first is the English backtranslation and the second is the original text,
 				//for each section. We just want the first part. Note that in some cases, the first part
@@ -60,7 +87,7 @@ int main(int argc,array(string) argv)
 			default: write("Unknown para len %d on para %d\n",sizeof(para),i); //Probably broken input
 		}
 		write("English-only: %d\nWith subs and GTrans: %d\nWith subs and proper trans: %d\n",engonly,gtrans,trans);
-		write("Total English characters in translated sections: %d\nTranslated characters: %d [%d%%]\nTranslation back: %d [%d%% of above, %d%% of English]\n",tot_english,
+		if (tot_english) write("Total English characters in translated sections: %d\nTranslated characters: %d [%d%%]\nTranslation back: %d [%d%% of above, %d%% of English]\n",tot_english,
 			tot_other,100*tot_other/tot_english,
 			tot_trans,100*tot_trans/tot_other,100*tot_trans/tot_english,
 		);
