@@ -28,7 +28,7 @@ int main(int argc,array(string) argv)
 {
 	foreach (argv[1..],string fn)
 	{
-		string language=(["Swedish":"sv","Portuguese":"pt","Czech":"cs"])[(fn/" ")[0]] || lower_case(fn[..1]); //Hack: If the language code is the first two letters, figure it out without the mapping.
+		string language=(["Swedish":"sv","Portuguese":"pt","Czech":"cs","German":"de"])[(fn/" ")[0]] || lower_case(fn[..1]); //Hack: If the language code is the first two letters, figure it out without the mapping.
 		int has_translit=(<"ru">)[language]; //Those which use transliterations have extra text lines.
 		//language="auto"; //Or use "Detect Language" mode. Probably not a good idea for short clips.
 		array(array(string)) input=(String.trim_all_whites(utf8_to_string(Stdio.read_file(fn)))/"\n\n")[*]/"\n";
@@ -44,11 +44,12 @@ int main(int argc,array(string) argv)
 			case 3: //This is the interesting case - we have three lines: the header, the English, and the other.
 			{
 				if (notrans) break; //Hit Ctrl-C to abort translation (but keep checking for italicization, just in case)
+				string txt = replace(para[2], "\"", "'"); //Seems to be a weird problem with quotes. Maybe an escaping issue??
 				object result=Protocols.HTTP.get_url(
 					//Base URL - I have no idea what all this means, but it does seem to work
 					"http://translate.google.com/translate_a/single?client=t&sl="+language+"&tl=en&hl=en&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&pc=1&otf=1&srcrom=1&ssel=0&tsel=0&kc=1",
 					//Text that we want to translate (gets properly encoded), and its error-detection hash
-					(["q":para[2], "tk": gtrans_hash(para[2])]),
+					(["q": txt, "tk": gtrans_hash(txt)]),
 					//And set a UA.
 					(["User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"])
 				);
