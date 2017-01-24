@@ -740,192 +740,318 @@ It's Coronation Day!
 
 00:13:30,200 --> 00:13:31,399
 The window is open!
+Pencere açık!
+The windows are open!
 
 00:13:31,400 --> 00:13:32,559
 So's that door!
+Kapılar da!
+So are the doors!
 
 00:13:32,560 --> 00:13:34,879
 I didn't know they did that any more
+Böyle hiç olmamıştı geçmişte
+That never happened before
 
 00:13:34,880 --> 00:13:39,130
 Who knew we owned 8,000 salad plates?
+Salata tabağı bolmuş burada
+A lot of salad plates here
 
 00:13:39,680 --> 00:13:41,962
 For years I've roamed these empty halls
+Yıllarca koridorlarda
+I've spent years in the corridors
 
 00:13:42,200 --> 00:13:44,562
 Why have a ballroom with no balls?
+Eğlencesiz salonlarda
+No fun hanging out in the salons(??)
 
 00:13:44,760 --> 00:13:48,965
 Finally, they're opening up the gates!
+Artık kapılar açılıyor!
+The doors are now open!
 
 00:13:49,120 --> 00:13:51,799
 There'll be actual, real, live people
+Gercek insanlar geliyor
+Actual humans are coming
 
 00:13:51,800 --> 00:13:53,799
 It'll be totally strange
+Acayip bir his bu
+It's a weird feeling
 
 00:13:53,800 --> 00:13:58,050
 But wow! Am I so ready for this change!
+Hazırım sanki bütün bunlara!
+But I think I'm ready for it!
 
 00:13:58,080 --> 00:14:02,649
 'Cause for the first time in forever
+Çünkü ilk defa hayatımda
+Because for the first time in my life
 
 00:14:02,840 --> 00:14:07,359
 There'll be music, there'll be light
+Müzik, ışık olacak
+There'll be music and light
 
 00:14:07,360 --> 00:14:11,802
 For the first time in forever
+Çünkü ilk defa burada
+Because for the first time here
 
 00:14:11,960 --> 00:14:16,848
 I'll be dancing through the night
+Dans edeceğim sonra
+I'll be dancing, later on
 
 00:14:16,960 --> 00:14:18,999
 Don't know if I'm elated or gassy
+Mutlu muyum, yoksa telaşlı mı?
+Am I happy, or am I frustrated?
 
 00:14:19,000 --> 00:14:21,965
 But I'm somewhere in that zone
+Sanki biraz ortada!
+Maybe a bit of both!
 
 00:14:22,240 --> 00:14:27,002
 'Cause for the first time in forever
+Çünkü ilk defa hayatımda
+Because for the first time in my life
 
 00:14:28,760 --> 00:14:30,799
+I won't be alone
+Yalnız olmayacağım
 I won't be alone
 
 00:14:30,800 --> 00:14:33,810
 I can't wait to meet everyone!
+Herkesi görmek için sabırsızlanıyorum
+I can't wait to see everyone!
 
 00:14:33,960 --> 00:14:36,139
 What if I meet The One?
+Olamaz! Ya "onu" da görürsem?
+No way! What if I see "him"?
 
 00:14:36,760 --> 00:14:39,319
 Tonight, imagine me gown and all
+Kostüm giyiyorum baloda
+I'll be wearing a costume at the ball
 
 00:14:39,320 --> 00:14:41,639
 Fetchingly draped against the wall
+Göz alıcı kumaşlarla
+With eye-catching fabrics
 
 00:14:41,640 --> 00:14:46,164
 The picture of sophisticated grace
+İnce zerafetin bir simgesi
+A symbol of delicate elegance
 
 00:14:46,280 --> 00:14:48,639
 I suddenly see him standing there
+Birden gördüm onu orada
+Suddenly I see him there
 
 00:14:48,640 --> 00:14:50,959
 A beautiful stranger, tall and fair
+Sarışın bir genç, uzun, ince
+A young, tall, thin blonde
 
 00:14:50,960 --> 00:14:55,639
 I wanna stuff some chocolate in my face!
+Dayanamayacağım çikolataya!
+I can't resist the chocolate!
 
 00:14:55,640 --> 00:14:58,359
 But then we laugh and talk all evening
+Sohbet ettik gece boyunca
+We chatted all night
 
 00:14:58,360 --> 00:15:00,639
 Which is totally bizarre
+Bu ne duygu? Bambaşka!
+What is this feeling? So different!
 
 00:15:00,640 --> 00:15:04,845
 Nothing like the life I've led so far
+Yaşamamıştım bunu asla!
+I never lived like this!
 
 00:15:05,000 --> 00:15:09,205
 For the first time in forever
+Çünkü ilk defa burada
+Because for the first time here
 
 00:15:09,280 --> 00:15:13,883
 There'll be magic, there'll be fun
+Güzellikler olacak
+Something beautiful will happen
 
 00:15:13,920 --> 00:15:18,364
 For the first time in forever
+Çünkü ilk defa burada
+Because for the first time here
 
 00:15:18,400 --> 00:15:23,083
 I could be noticed by someone
+Görüneceğim baloda
+I'll be seen at the ball
 
 00:15:23,280 --> 00:15:25,767
 And I know it is totally crazy
+Farkındayım çok çılgın bir düş bu
+I know this is a crazy dream
 
 00:15:25,880 --> 00:15:28,401
 To dream I'd find romance
+Burada aşk aramak
+To look for love here
 
 00:15:28,760 --> 00:15:33,409
 But for the first time in forever
+Ama ilk defa hayatımda
+But for the first time in my life
 
 00:15:35,000 --> 00:15:37,487
 At least I've got a chance!
+Bir şansım olacak.
+I'll have a chance.
 
 00:15:43,960 --> 00:15:45,969
 {\an8}Don't let them in
+Aman, sakla!
+Oh, hide it!
 
 00:15:46,200 --> 00:15:48,402
 {\an8}Don't let them see
+Görmesinler
+So they won't see
 
 00:15:48,680 --> 00:15:51,930
 {\an8}Be the good girl you always have to be
+Seni iyi birisi sansınlar
+Make them think you're a nice person
 
 00:15:53,760 --> 00:15:57,251
 {\an8}Conceal, don't feel
+Sessiz, hissiz,
+Quiet, emotionless,
 
 00:15:57,400 --> 00:15:59,443
 {\an8}Put on a show
+Bir gösteri
+A façade
 
 00:15:59,840 --> 00:16:03,891
 {\an8}Make one wrong move and everyone will know
+Yanlış bir adım atarsan kötü
+Just one false move will be a disaster
 
 00:16:05,080 --> 00:16:07,719
 {\an8}But it's only for today
+Yalnız bir gün için
+It's only for one day
 
 00:16:06,680 --> 00:16:09,249
 It's only for today
+Yalnız bir gün için
+It's only for one day
 
 00:16:07,720 --> 00:16:10,685
 {\an8}It's agony to wait
+Beklemek çok acı
+It hurts to wait
 
 00:16:09,250 --> 00:16:10,685
 It's agony to wait
+Beklemek çok acı
+It hurts to wait
 
 00:16:10,840 --> 00:16:13,691
 {\an8}Tell the guards to open up
+Muhafızalar, kapıyı...
+Guards, the door...
 
 00:16:14,200 --> 00:16:18,928
 {\an8}The gate
+...açın!
+...open it!
 
 00:16:16,680 --> 00:16:18,928
 The gate
+Kapı
+The door!
 
 00:16:18,960 --> 00:16:23,599
 For the first time in forever
+İlk defa bugün burada
+For the first time here today
 
 00:16:22,240 --> 00:16:27,409
 {\an8}Don't let them in, don't let them see
+Aman, sakla, görmesinler
+Oh, hide it, so they won't see!
 
 00:16:23,600 --> 00:16:27,439
 I'm getting what I'm dreaming of
+Hayallerim gerçekleşir
+My dreams are coming true
 
 00:16:27,440 --> 00:16:33,079
 {\an8}Be the good girl you always have to be
+Seni iyi birisi sansınlar
+Make them think you're a nice person
 
 00:16:29,840 --> 00:16:34,399
 A chance to change my lonely world
+Değişmek için bir şansım
+It's my chance for a change
 
 00:16:33,080 --> 00:16:34,399
 {\an8}Conceal
+Sessiz
+Quiet
 
 00:16:34,400 --> 00:16:39,799
 A chance to find true love
+Bulmak için aşkı
+And to find love
 
 00:16:37,720 --> 00:16:41,959
 {\an8}Conceal, don't feel, don't let them know
+Ört hisleri, bilmesinler!
+Hide your feelings so they won't know!
 
 00:16:39,800 --> 00:16:41,959
 I know it all ends tomorrow
+Yarın herşey sonlanacak
+Tomorrow, everything will end
 
 00:16:41,960 --> 00:16:44,970
 So it has to be today!
+Bugün çok önemli
+So today is very important!
 
 00:16:45,160 --> 00:16:49,968
 'Cause for the first time in forever
+Çünkü ilk defa hayatımda
+Because for the first time in my life
 
 00:16:50,440 --> 00:16:56,362
 For the first time in forever
+Çünkü ilk defa burada
+Because for the first time here
 
 00:16:57,200 --> 00:17:01,325
 Nothing's in my way!
+Engel kalmayacak!
+No obstacles can remain!
 
 00:17:07,040 --> 00:17:08,119
 Hey!
