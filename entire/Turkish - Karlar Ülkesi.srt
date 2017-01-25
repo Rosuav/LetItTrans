@@ -3726,156 +3726,255 @@ No, I'm just trying to protect you.
 
 00:55:42,760 --> 00:55:45,611
 You don't have to protect me. I'm not afraid.
+Korkmuyorum.
+I'm not afraid.
 
 00:55:46,160 --> 00:55:48,283
 Please don't shut me out again.
+Lütfen beni yeniden dışlama
+Please don't exclude me again.
 
 00:55:48,440 --> 00:55:50,519
 Please don't slam the door
+Kapıyı kapatma
+Nor close the door
 
 00:55:50,520 --> 00:55:54,599
 You don't have to keep your distance anymore
+Gerek yok aramızda uzaklığa
+No need for distance between us
 
 00:55:54,600 --> 00:55:57,610
 'Cause for the first time in forever
+Çünkü ilk defa hayatımda
+Because for the first time in my life
 
 00:55:57,800 --> 00:55:59,799
 I finally understand
+Sonunda kavradım
+I figured it out
 
 00:55:59,800 --> 00:56:02,159
 For the first time in forever
+İlk defa şu hayatımda
+For the first time in my life
 
 00:56:02,160 --> 00:56:04,439
 We can fix this hand in hand
+çözüm var anladım
+I understand that there's a solution
 
 00:56:04,440 --> 00:56:06,608
 We can head down this mountain together.
+Bu dağdan birlikte inebiliriz
+We can descend from this mountain
 
 00:56:06,680 --> 00:56:09,639
 You don't have to live in fear
+Gerek yok hiç korkmana
+No need for you to be scared
 
 00:56:09,640 --> 00:56:13,561
 'Cause for the first time in forever
+Çünkü ilk defa hayatımda
+Because for the first time in my life
 
 00:56:13,640 --> 00:56:16,919
 I will be right here
+Senle kalıcam.
+I'm staying with you.
 
 00:56:16,920 --> 00:56:18,199
 {\an8}Anna.
 
 00:56:18,200 --> 00:56:20,119
 {\an8}Please go back home
+Sen eve git
+You go home
 
 00:56:20,120 --> 00:56:21,890
 {\an8}Your life awaits
+Hayat senin
+You have a life
 
 00:56:22,760 --> 00:56:26,239
 {\an8}Go enjoy the sun, and open up the gates
+Aç kapıları, güneşi kucakla
+Open the doors, embrace the sun
 
 00:56:26,240 --> 00:56:27,350
+Yeah, but...
+Evet, ama...
 Yeah, but...
 
 00:56:26,970 --> 00:56:27,719
 {\an8}I know.
+Biliyorum.
+I know.
 
 00:56:27,720 --> 00:56:32,050
 {\an8}You mean well, but leave me be
+İçtensin, bırak beni
+You're sincere, but let me go
 
 00:56:32,120 --> 00:56:33,559
 {\an8}Yes, I'm alone
+Evet, yalnız
+Yes, I'm alone
 
 00:56:33,560 --> 00:56:36,519
 {\an8}But I'm alone and free
+Ama bak özgürüm
+But look at my freedom
 
 00:56:36,520 --> 00:56:41,282
 {\an8}Just stay away and you'll be safe from me
+Uzak dur benden kendini kolla
+Just stay away and watch yourself
 
 00:56:42,320 --> 00:56:43,521
 Actually, we're not
+Özgür değiliz
+We're not free
 
 00:56:43,680 --> 00:56:44,950
 {\an8}What do you mean, you're not?
+Ne demek şimdi bu?
+What do you mean?
 
 00:56:44,760 --> 00:56:46,450
 I get the feeling you don't know
+Sanırım bilmiyorsun
+I guess you don't know
 
 00:56:46,320 --> 00:56:47,681
 {\an8}What do I not know?
+Ne bilmiyorum?
+What do I not know?
 
 00:56:48,000 --> 00:56:51,399
 Arendelle's in deep, deep, deep
+Arendelle şimdi kar...
+Arendelle is now snowed...
 
 00:56:51,400 --> 00:56:53,682
 deep snow
+altında
+under
 
 00:56:53,840 --> 00:56:55,041
 {\an8}What?
+Ne?
+What?
 
 00:56:55,320 --> 00:56:59,002
 You kind of set off an eternal winter everywhere.
+Bir şekilde sonsuz kışı başlattın, her yerde.
+Somehow you started an eternal winter everywhere.
 
 00:56:59,200 --> 00:57:00,359
 {\an8}Everywhere?
+Her yerde mi?
+Everywhere?
 
 00:57:00,360 --> 00:57:02,279
 Well, it's okay, you can just unfreeze it.
+Önemli değil sen buzu çöz yeter.
+It's okay, you just have to defrost it.
 
 00:57:02,280 --> 00:57:04,528
 {\an8}No, I can't. I don't know how.
+Yapamam, ben bilmiyorum, Anna.
+I can't. I don't know how, Anna.
 
 00:57:04,560 --> 00:57:07,081
 Sure you can. I know you can.
+Elbette biliyorsun yabilirsin, Elsa.
 
 00:57:07,200 --> 00:57:12,401
 'Cause for the first time in forever
+Çünkü ilk defa hayatımda
+Because for the first time in my life
 
 00:57:09,450 --> 00:57:15,519
 {\an8}Oh, I'm such a fool! I can't be free!
+Ben bir aptalım, özgür olamam!
+I'm an idiot, I can't be free!
 
 00:57:12,650 --> 00:57:17,950
+You don't have to be afraid
+Korkmana hiç gerek yok
 You don't have to be afraid
 
 00:57:15,920 --> 00:57:18,839
 {\an8}No escape from the storm inside of me
+İçimde bir fırtına var benim
+There's a storm inside me
 
 00:57:18,040 --> 00:57:21,839
 We can work this out together
+Birlikte cözeriz bunu
+We'll solve this together
 
 00:57:20,840 --> 00:57:22,819
 {\an8}I can't control the curse!
+Bir bedua etkisindeyim!
+I am a curse!
 
 00:57:22,720 --> 00:57:26,639
 We'll reverse the storm you've made
+Diner birden fırtına
+The storm will subside
 
 00:57:26,040 --> 00:57:29,219
 {\an8}Anna, please you'll only make it worse!
+Anna, herşeyi zorlaştırma
+Anna, don't make everything difficult
 
 00:57:29,120 --> 00:57:31,019
 Don't panic!
+Hiç korkma!
+Don't be afraid!
 
 00:57:29,820 --> 00:57:31,319
 {\an8}There's so much fear!
+Korkuyorum!
+I'm afraid!
 
 00:57:31,020 --> 00:57:33,919
 We'll make the sun shine bright
+Güneş parlayacak
+The sun will shine
 
 00:57:32,820 --> 00:57:35,319
 {\an8}You're not safe here!
+Tehlikeliyim!
+I'm dangerous!
 
 00:57:34,320 --> 00:57:37,119
 We can face this thing together
+Birlikte yaparız bunu,
+We'll do it together,
 
 00:57:35,840 --> 00:57:38,119
 {\an8}No!
+Hayır!
+No!
 
 00:57:37,120 --> 00:57:39,279
 We can change this winter weather
+düzeltiriz şu umudunu
+we'll restore your hope
 
 00:57:39,280 --> 00:57:42,768
 And everything will be all right
+Seninle birlikte yeneceğiz
+We'll go with you - together
 
 00:57:43,320 --> 00:57:45,761
 {\an8}I can't!
+Anna!
+Anna!
 
 00:57:53,240 --> 00:57:54,441
 Anna!
