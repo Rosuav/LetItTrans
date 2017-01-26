@@ -5754,12 +5754,17 @@ I love you.
 
 01:27:45,520 --> 01:27:50,442
 "An act of true love will thaw a frozen heart."
+"Gerçek sevgiyle yapılmış birşey donmuş bir kalbi bile eritebilir."
+"Something born of true love can melt a frozen heart."
 
 01:27:51,840 --> 01:27:53,690
 "Love will thaw."
+"Sevgi eritir buzu."
+"Love thaws the ice."
 
 01:27:54,880 --> 01:27:57,439
 Love. Of course.
+Sevgi. Elbette!
 
 01:27:57,440 --> 01:27:58,721
 Elsa?
