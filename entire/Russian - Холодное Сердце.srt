@@ -4842,6 +4842,8 @@ A v letnij znoj â vmig stanu...
 
 00:48:43,520 --> 00:48:44,520
 {\an8}(puddle?)
+(лужей?)
+(puddles?)
 
 00:48:44,840 --> 00:48:46,599
 Happy snowman!
