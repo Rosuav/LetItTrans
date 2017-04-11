@@ -1787,7 +1787,7 @@ Vaše Veličestvo
 The Duke of Weaseltown.
 герцог Воровский.
 gercog Vorovskij.
-[Duke Vorovskii.]
+[The Duke of Thievestown.]
 
 00:21:07,240 --> 00:21:10,044
 "Weselton"! Duke of Weselton, Your Majesty.
@@ -9152,7 +9152,7 @@ A â, kak raz s prikazom ot Korolevy.
 "no longer do business of any sort with Weaseltown."
 Все торговые отношения С Воровскими.
 Vse torgovye otnošeniâ S Vorovskimi.
-[All trade relations with thieving.]
+[All trade relations with Thievestown.]
 
 01:30:14,080 --> 01:30:15,239
 "Weselton."
