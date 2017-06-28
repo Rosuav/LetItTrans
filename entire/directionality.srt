@@ -1612,6 +1612,10 @@ Turn away and slam the door!
 00:32:23,480 --> 00:32:29,480
 I don't care what they're going to say
 
+00:32:29,500 --> 00:33:20,000
+{\an4}⇐ mountaintop ⇐
+Elsa
+
 00:32:29,480 --> 00:32:33,980
 Let the storm rage on
 
@@ -1680,6 +1684,10 @@ Let it go, let it go!
 
 00:34:14,480 --> 00:34:18,480
 And I'll rise like the break of dawn
+
+00:34:20,000 --> 00:34:36,000
+{\an6}⇒ new life ⇒
+Elsa
 
 00:34:18,480 --> 00:34:21,980
 Let it go, let it go!
