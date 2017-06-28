@@ -4194,6 +4194,10 @@ Queen Elsa!
 01:11:52,320 --> 01:11:54,761
 Don't be the monster they fear you are.
 
+01:12:32,000 --> 01:12:36,000
+{\an4}⇐ view of mountain ⇐
+Elsa
+
 01:12:42,520 --> 01:12:44,927
 Oh, no. What have... What have I done?
 
@@ -4226,6 +4230,10 @@ You have to tell them to let me go.
 
 01:13:19,880 --> 01:13:21,889
 I will do what I can.
+
+01:13:34,000 --> 01:14:16,000
+{\an6}⇒ palace ⇒
+Kristoff/Anna/Sven/Olaf
 
 01:13:45,680 --> 01:13:46,999
 Just hang in there.
@@ -4509,6 +4517,10 @@ Put your back into it!
 01:18:27,720 --> 01:18:29,279
 Come on! Push!
 
+01:18:39,000 --> 01:18:54,000
+{\an4}⇐ mountain home ⇐
+Kristoff/Sven
+
 01:18:55,480 --> 01:18:56,559
 What is it, buddy?
 
@@ -4520,6 +4532,10 @@ What's wrong with you?
 
 01:19:03,000 --> 01:19:05,282
 I don't understand you when you talk like that.
+
+01:19:26,000 --> 01:19:36,000
+{\an6}⇒ palace ⇒
+Kristoff/Sven
 
 01:19:05,640 --> 01:19:08,079
 Stop it! Put me down!
@@ -4677,11 +4693,23 @@ Look out!
 01:22:16,520 --> 01:22:17,960
 Oh!
 
+01:22:18,000 --> 01:22:26,000
+{\an4}⇐ Kristoff ⇐
+Anna/Olaf
+
 01:22:24,680 --> 01:22:26,370
 Uh... Back this way.
 
 01:22:27,560 --> 01:22:29,250
 We're trapped.
+
+01:22:34,000 --> 01:25:03,000
+{\an4}⇐ escape/Kristoff ⇐
+Elsa/Anna
+
+01:22:34,000 --> 01:25:03,000
+{\an6}⇒ Anna ⇒
+Kristoff/Sven
 
 01:22:41,440 --> 01:22:42,880
 Oh...
@@ -4770,6 +4798,18 @@ Because of you.
 01:25:32,000 --> 01:25:33,247
 No.
 
+01:25:55,320 --> 01:26:21,560
+{\an4}Anna ⇒
+Kristoff
+
+01:25:55,320 --> 01:26:14,900
+{\an5}⇐ Kristoff
+Anna
+
+01:25:55,320 --> 01:26:21,560
+{\an6}⇍ escape ⇍
+Elsa
+
 01:25:55,320 --> 01:25:56,521
 Kristoff.
 
@@ -4778,6 +4818,10 @@ Anna!
 
 01:26:11,840 --> 01:26:13,405
 Elsa?
+
+01:26:15,000 --> 01:26:21,560
+{\an5}Elsa ⇒
+Anna
 
 01:26:21,560 --> 01:26:22,807
 No!
@@ -4898,6 +4942,10 @@ Oh. I have a message from the queen.
 
 01:30:15,240 --> 01:30:16,799
 It's Weselton!
+
+01:30:17,000 --> 01:30:28,000
+{\an4}⇐ sled (away from palace) ⇐
+Kristoff/Anna
 
 01:30:16,800 --> 01:30:17,919
 Come on, come on, come on!
