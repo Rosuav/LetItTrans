@@ -1704,6 +1704,10 @@ Let the storm rage on!
 00:34:39,980 --> 00:34:43,480
 The cold never bothered me anyway.
 
+00:34:47,000 --> 00:35:14,000
+{\an4}⇐ chasing Elsa ⇐
+Anna/horse
+
 00:34:49,040 --> 00:34:50,651
 Elsa!
 
@@ -1731,6 +1735,10 @@ She's a stinker.
 00:35:12,680 --> 00:35:14,405
 Whoa!
 
+00:35:16,500 --> 00:35:18,880
+{\an6}⇒ home ⇒
+horse
+
 00:35:17,440 --> 00:35:18,846
 Oh, no. No, no, no! Come back!
 
@@ -1739,6 +1747,10 @@ No, no, no!
 
 00:35:21,040 --> 00:35:22,651
 Okay.
+
+00:35:27,000 --> 00:35:48,000
+{\an4}⇐ chasing Elsa ⇐
+Anna
 
 00:35:29,040 --> 00:35:31,368
 Snow. It had to be snow.
@@ -1751,6 +1763,10 @@ that covered the fjords in white sand and warm...
 
 00:35:39,640 --> 00:35:41,279
 Fire!
+
+00:35:48,000 --> 00:36:02,000
+{\an4}⇐ Oaken's ⇐
+Anna
 
 00:35:48,880 --> 00:35:50,730
 Cold, cold, cold, cold, cold.
@@ -2016,6 +2032,10 @@ We leave now. Right now.
 00:40:10,160 --> 00:40:11,486
 Whew!
 
+00:40:14,000 --> 00:40:35,000
+{\an4}⇐ North Mountain ⇐
+Kristoff/Anna/Sven
+
 00:40:19,240 --> 00:40:21,399
 Hang on! We like to go fast.
 
@@ -2223,6 +2243,10 @@ I do!
 00:43:01,760 --> 00:43:02,879
 Jump, Sven!
 
+00:43:03,000 --> 00:43:11,000
+{\an4}⇐ North Mountain ⇐
+Kristoff/Anna/Sven
+
 00:43:12,840 --> 00:43:14,121
 Phew!
 
@@ -2286,6 +2310,10 @@ You are?
 00:44:15,400 --> 00:44:18,559
 I mean, sure. I'll let you tag along.
 
+00:44:20,500 --> 00:44:28,500
+{\an4}⇐ North Mountain ⇐
+Kristoff/Anna/Sven
+
 00:44:29,640 --> 00:44:31,205
 Arendelle.
 
@@ -2306,6 +2334,10 @@ This way to the North Mountain?
 
 00:44:44,240 --> 00:44:45,599
 More like this way.
+
+00:44:58,000 --> 00:45:18,000
+{\an4}⇐ North Mountain ⇐
+Kristoff/Anna/Sven
 
 00:45:18,560 --> 00:45:22,162
 I never knew winter could be so beautiful.
