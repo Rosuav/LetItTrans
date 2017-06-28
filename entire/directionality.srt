@@ -1,3 +1,7 @@
+00:01:38,000 --> 00:01:45,000
+{\an4}⇐ ice field ⇐
+chorus
+
 00:01:53,680 --> 00:01:56,639
 Born of cold and winter air
 
@@ -12,6 +16,10 @@ Has a frozen heart worth mining
 
 00:02:08,680 --> 00:02:10,559
 So cut through the heart
+
+00:02:09,000 --> 00:02:15,159
+{\an6}⇒ sales wagon ⇒
+cut ice
 
 00:02:10,560 --> 00:02:12,039
 Cold and clear
