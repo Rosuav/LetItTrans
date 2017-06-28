@@ -2708,6 +2708,10 @@ to protect Arendelle from treason.
 00:50:15,640 --> 00:50:17,279
 Treason?
 
+00:50:18,000 --> 00:50:22,000
+{\an6}⇒ home from mountain ⇒
+horse
+
 00:50:22,600 --> 00:50:23,719
 Whoa! Whoa!
 
@@ -2749,6 +2753,10 @@ you are to put an end to this winter.
 
 00:50:48,480 --> 00:50:50,091
 Do you understand?
+
+00:50:52,000 --> 00:51:23,000
+{\an4}⇐ Elsa ⇐
+Kristoff/Anna/Sven/Olaf
 
 00:50:54,320 --> 00:50:57,205
 So, how exactly are you planning to stop this weather?
@@ -2893,6 +2901,10 @@ I got you.
 
 00:53:03,920 --> 00:53:06,327
 Okay. You stay right here, buddy.
+
+00:53:07,500 --> 00:53:14,500
+{\an4}⇐ Elsa ⇐
+Kristoff/Anna/Olaf
 
 00:53:08,120 --> 00:53:09,606
 Flawless.
@@ -3056,6 +3068,10 @@ No.
 00:55:36,760 --> 00:55:39,440
 We can't. Goodbye, Anna.
 
+00:55:39,500 --> 00:56:09,500
+{\an4}⇐ Elsa/escape ⇐
+Anna/Elsa
+
 00:55:39,480 --> 00:55:40,559
 Elsa, wait.
 
@@ -3118,6 +3134,10 @@ Yeah, but...
 
 00:56:27,720 --> 00:56:32,050
 {\an8}You mean well, but leave me be
+
+00:56:30,000 --> 00:56:43,500
+{\an4}⇐ Elsa/escape ⇐
+Anna/Elsa
 
 00:56:32,120 --> 00:56:33,559
 {\an8}Yes, I'm alone
@@ -3257,6 +3277,10 @@ No, I'm not leaving without you, Elsa.
 00:58:14,560 --> 00:58:16,444
 Yes, you are.
 
+00:58:25,000 --> 00:58:34,000
+{\an6}⇒ away from ice palace ⇒
+Kristoff/Anna/Olaf/Marsh
+
 00:58:25,080 --> 00:58:26,799
 Stop! Put us down!
 
@@ -3301,6 +3325,10 @@ This just got a whole lot harder.
 
 00:59:05,120 --> 00:59:06,321
 Look out!
+
+00:59:07,000 --> 00:59:29,000
+{\an4}⇐ WRONG WAY ⇐
+Kristoff/Anna
 
 00:59:20,720 --> 00:59:22,763
 What are you doing?
@@ -3515,6 +3543,10 @@ No. - You hesitated.
 01:02:14,040 --> 01:02:15,287
 No, I didn't.
 
+01:02:14,500 --> 01:02:36,000
+{\an4}⇐ Trolls ⇐
+Kristoff/Anna/Sven/Olaf
+
 01:02:15,440 --> 01:02:17,559
 Anna, you need help, okay? Come on.
 
@@ -3556,6 +3588,10 @@ Don't feel.
 
 01:02:46,520 --> 01:02:48,324
 Don't feel!
+
+01:03:01,500 --> 01:03:43,000
+{\an4}⇐ Trolls ⇐
+Kristoff/Anna/Sven/Olaf
 
 01:03:02,840 --> 01:03:05,407
 Look, Sven, the sky's awake.
@@ -3664,6 +3700,10 @@ Uh...
 
 01:04:30,800 --> 01:04:33,287
 Okay. Well, I'm gonna go.
+
+01:04:32,000 --> 01:04:35,000
+{\an6}⇒ away from trolls ⇒
+Anna
 
 01:04:33,480 --> 01:04:35,444
 No, no, no. Anna, wait.
@@ -4058,6 +4098,10 @@ Hans.
 01:09:24,000 --> 01:09:25,201
 Pull us out, Sven.
 
+01:09:26,000 --> 01:09:36,000
+{\an6}⇒ palace ⇒
+Kristoff/Anna/Sven/Olaf
+
 01:09:27,960 --> 01:09:29,359
 Olaf, come on!
 
@@ -4069,6 +4113,10 @@ Let's go kiss Hans!
 
 01:09:33,680 --> 01:09:35,484
 Who is this Hans?
+
+01:09:36,000 --> 01:09:58,000
+{\an4}⇐ Ice Palace ⇐
+Hans et al
 
 01:09:45,560 --> 01:09:47,489
 We are here to find Princess Anna.
@@ -4084,6 +4132,10 @@ Yes, Your Grace.
 
 01:10:16,960 --> 01:10:18,491
 The queen.
+
+01:10:23,000 --> 01:10:39,000
+{\an4}⇐ Elsa/escape ⇐
+Goons/Elsa
 
 01:10:23,400 --> 01:10:25,568
 Go, go! Come on!
