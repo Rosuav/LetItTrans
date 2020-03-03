@@ -27,7 +27,7 @@ int main(int argc,array(string) argv)
 		{
 			write("Creating: %O\n",lang);
 			string out=fn-".srt"+".mkv";
-			Process.create_process(({"avconv",
+			Process.create_process(({"ffmpeg",
 				//"-itsoffset","0.250",
 				"-i","LetItGo.mkv",
 				"-i",string_to_utf8(f),
@@ -37,7 +37,7 @@ int main(int argc,array(string) argv)
 			}))->wait();
 			//Flag the subtitles track as active-by-default
 			//Requires mkvtoolnix package.
-			//TODO: Is there a way to do this inside avconv?
+			//TODO: Is there a way to do this inside avconv/ffmpeg?
 			catch {Process.create_process(({"mkvpropedit",out,
 				"--edit","track:s1","--set","flag-default=1"}))->wait();
 			};
