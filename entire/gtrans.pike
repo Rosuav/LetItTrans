@@ -39,7 +39,7 @@ int main(int argc,array(string) argv)
 		mixed ex = catch {
 		int notrans=0; signal(2,lambda() {notrans=1;});
 		int tot_english,tot_other,tot_trans;
-		foreach (input;int i;array(string) para) switch (sizeof(para)-has_translit)
+		moretrans: foreach (input;int i;array(string) para) switch (sizeof(para)-has_translit)
 		{
 			case 1: //English text only, when we're looking for a transliteration.
 			case 2: engonly++; break; //English text only - nothing to do (but keep stats)
@@ -57,7 +57,7 @@ int main(int argc,array(string) argv)
 					//And set a UA.
 					(["User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"])
 				);
-				if (result->status != 200) return 1;
+				if (result->status != 200) {werror("Got HTTP %d response\n", result->status); break moretrans;}
 				mixed data = Standards.JSON.decode_utf8(result->data());
 				if (!arrayp(data) || sizeof(data) < 1) data = ({ ({ }) });
 				string trans = data[0][*][0] * "";
