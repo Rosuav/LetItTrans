@@ -24,6 +24,8 @@ string gtrans_hash(string input)
 	return sprintf("%d.%d", a, a^d[0]);
 }
 
+object external_whites = Regexp.PCRE("^(\\s*).*?(\\s*)$");
+
 int main(int argc,array(string) argv)
 {
 	foreach (argv[1..],string fn)
@@ -47,26 +49,25 @@ int main(int argc,array(string) argv)
 				string txt = replace(para[2], "\"", "'"); //Seems to be a weird problem with quotes. Maybe an escaping issue??
 				object result=Protocols.HTTP.get_url(
 					//Base URL - I have no idea what all this means, but it does seem to work
-					"http://translate.google.com/translate_a/single?client=t&sl="+language+"&tl=en&hl=en&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&pc=1&otf=1&srcrom=1&ssel=0&tsel=0&kc=1",
+					//"http://translate.google.com/translate_a/single?client=webapp&sl="+language+"&tl=en&hl=en&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&pc=1&otf=1&srcrom=1&ssel=0&tsel=0&kc=1",
+					//Or just use this simplified version.
+					"https://translate.googleapis.com/translate_a/single?client=gtx&sl=fr&tl=en&dt=t",
 					//Text that we want to translate (gets properly encoded), and its error-detection hash
-					(["q": txt, "tk": gtrans_hash(txt)]),
+					(["q": txt, /*"tk": gtrans_hash(txt)*/]),
 					//And set a UA.
 					(["User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"])
 				);
 				if (result->status != 200) return 1;
-				//Hacky means of parsing it out. VERY hacky.
-				sscanf(utf8_to_string(result->data()),"[[[%s]]",string parseme); if (!parseme) parseme="";
-				//If you now examine "[["+parseme+"]]", it should be a JSON array of two-element arrays
-				//where the first is the English backtranslation and the second is the original text,
-				//for each section. We just want the first part. Note that in some cases, the first part
-				//does not begin with a quote. "%O,%*O" misparses this (skipping over empty commas), so
-				//we explicitly filter down to the ones that start with quotes.
-				array parts=array_sscanf(filter(parseme/"],[",has_prefix,"\"")[*],"%O,%*O")[*][0];
+				mixed data = Standards.JSON.decode_utf8(result->data());
+				if (!arrayp(data) || sizeof(data) < 1) data = ({ ({ }) });
+				string trans = data[0][*][0] * "";
+				/* Is this still needed? Might depend on the language.
 				//GTrans sometimes returns final punctuation after a space. Trim out the space.
 				mapping punct=([]); foreach (",.!:?'\""/1,string ch) punct[" "+ch]=ch;
 				parts=replace(parts[*],punct);
 				foreach (parts;int i;string p) if (sizeof(p)>2 && p[-2]==' ' && (<',','.','!',':',')'>)[p[-1]]) parts[i]=p[..<2]+p[<0..];
 				string trans=replace(parts*"",(["( ":"("," )":")"])); //Clean up spaces inside parens
+				*/
 				input[i]+=({"["+trans+"]"}); //Note that this is done even if the translation fails, and will prevent it being redone.
 				write("Translated:\n%{%s\n%}\n",string_to_utf8(input[i][*]));
 				sleep(1); //Voluntarily rate-limit our usage
