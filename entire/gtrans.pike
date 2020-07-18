@@ -51,7 +51,7 @@ int main(int argc,array(string) argv)
 					//Base URL - I have no idea what all this means, but it does seem to work
 					//"http://translate.google.com/translate_a/single?client=webapp&sl="+language+"&tl=en&hl=en&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&pc=1&otf=1&srcrom=1&ssel=0&tsel=0&kc=1",
 					//Or just use this simplified version.
-					"https://translate.googleapis.com/translate_a/single?client=gtx&sl=fr&tl=en&dt=t",
+					"https://translate.googleapis.com/translate_a/single?client=gtx&sl="+language+"&tl=en&dt=t",
 					//Text that we want to translate (gets properly encoded), and its error-detection hash
 					(["q": txt, /*"tk": gtrans_hash(txt)*/]),
 					//And set a UA.
