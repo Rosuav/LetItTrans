@@ -28,9 +28,13 @@ object external_whites = Regexp.PCRE("^(\\s*).*?(\\s*)$");
 
 int main(int argc,array(string) argv)
 {
+	string lang_override = "";
 	foreach (argv[1..],string fn)
 	{
+		if (fn == "--lang") {lang_override = "--lang"; continue;}
+		if (lang_override == "--lang") {lang_override = fn; continue;}
 		string language=(["Swedish":"sv","Portuguese":"pt","Czech":"cs","German":"de"])[(fn/" ")[0]] || lower_case(fn[..1]); //Hack: If the language code is the first two letters, figure it out without the mapping.
+		if (lang_override != "") language = lang_override;
 		int has_translit=(<"ru">)[language]; //Those which use transliterations have extra text lines.
 		//language="auto"; //Or use "Detect Language" mode. Probably not a good idea for short clips.
 		array(array(string)) input=(String.trim_all_whites(utf8_to_string(Stdio.read_file(fn)))/"\n\n")[*]/"\n";
@@ -39,7 +43,7 @@ int main(int argc,array(string) argv)
 		mixed ex = catch {
 		int notrans=0; signal(2,lambda() {notrans=1;});
 		int tot_english,tot_other,tot_trans;
-		moretrans: foreach (input;int i;array(string) para) switch (sizeof(para)-has_translit)
+		moretrans: foreach (input;int i;array(string) para) switch (sizeof(para - ({""})) - has_translit)
 		{
 			case 1: //English text only, when we're looking for a transliteration.
 			case 2: engonly++; break; //English text only - nothing to do (but keep stats)
